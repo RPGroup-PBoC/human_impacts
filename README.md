@@ -1,74 +1,203 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# The Great Human Experiment by the Numbers
 
-## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
+Welcome! This respository collects and annotates data sets pertaining to the
+impacts humans have on the earth writ large. This is a living, breathing
+research repository and is subject to change at any point in time. 
 
-## How to Use
-To use this template for your research, fork this repository, change the name
-to something descriptive for your project, and adjust the licensing as you
-see fit.
+## Using The Repository
+Being able to use Git and GitHub is vital to keep track of the data. There are 
+many tutorials showing how to use both of these efficiently. If you are not
+familiar with Git and GitHub, please review the following tutorials:
 
-To use this repository for your own research, simply clone the repo using the following:
+* [Version Control with
+  Git](http://justinbois.github.io/bootcamp/2019/lessons/l12_version_control_with_git.html)
+  by [Justin Bois](http://bois.caltech.edu) at Caltech.
+* [Tips and Traps with Git and GitHub](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/content/recitations/recitation_02/index.html) by Muir Morrison at Caltech.
+
+Note that in using this repository, it is imperative that you give coherent and
+meaningful commit messages. 
+
+## Repository Structure
+
+> :warning: An example data file has been added to `flora_fauna/` if you want to
+> learn by example how to manage this repository.
+
+The bare bones of the repository is already in place. Within each folder, you
+will find a `README.md` file explaining the purpose of the folder and other
+information that will help you manage the repository. The structure of this
+repository is very much in its infancy and may change! Keep track of this
+`README.md` file to see if things are changing. 
+
+If you are confused with the layout of the repository or have comments on how
+things could be changed to improve it, please [open an
+issue](https://github.com/rpgroup-pboc/human_impacts/issues) on this
+repository.
+
+This repository houses all *raw* data sets collected from the internet. This
+repository is broken down into four separate subdirectories. Of course, some
+data sets will fall into multiple categories. When adding your data to the
+repository, choose what you think is the best match. 
++ **`food`**: All data sets related to food generation and consumption. + **`water`**: All
+data sets related to water consumption and usage. 
++ **`air`**: All data sets related to atmospheric impacts. 
++ **`earth`**: All data sets related to land usage. This may include data
+  relating to anthropomass, farmland, city sizes, etc. 
++ **`flora_fauna`**: All data sets pertaining to humans impact on the biosphere. 
++ **`other`**: All data sets which do not fit into any of the above categories.
+
+Within each of these subdirectories, there will be yet *another* directory
+for a given data set. The naming of this subdirectory is much less clear cut
+and will depend on the nature of the data set. That being said, you should
+name the folder of your deposited data set in a clear manner. For example,
+say you collect a data set which tabulates the global population by country
+for the years 1820 - 2020. You would deposit this data set under
+`flora_fauna` in another directory titled `world_population_1820-2020`.
+Within this folder, you would deposit the data along with a `README.md` file,
+as is described in the next section.
+
+## Data Types
+Data can be added to these folders in a variety of formats, but they must be
+text-based. This means that spreadsheets (`.xslx` or `.numbers`) should be
+converted to plain-text data formats (`.txt` or `.csv`) whenever possible.
+Large data sets (≥ 100 MB) will need to be added using the [GitHub Large File
+Storage](https://git-lfs.github.com/) system. *Email Griffin
+(`gchure@caltech.edu`) for guidance on how to deal with this.* Some of the
+data you collect in this data set may be a single number or statistic. Even if
+this is the case, it should be added to this folder as a text-based file. 
+
+In general, data should be stored in a [longform, tidy
+format](https://www.jstatsoft.org/article/view/v059i10). In this format, each
+measurement will get one row. Unfortunately, the raw data you get from the
+internet will rarely be in this very convenient format meaning that you will
+have to reformat your data to be "tidy". 
+
+For example, Consider the world population in our fictional data set described
+above. The raw data set may look something like the following:
+
+| country | 1820 | 1821 | 1822 | ...|
+|:--|:--|:--|:--|:--|
+| Afghanistan | 3290000 | 3300000| 3310000| ... |
+| Albania | 437000| 439000 | 441000| ... |
+| ... | ...| ... |... |...| 
+
+
+This is **not** in tidy format. Rather than having each year as a column, each
+year would be a row. Transforming the data into tidy format would make it look
+like the following:
+
+| country | year | population |
+|:--|:--|:--|
+|Afghanistan| 1820 | 32900000|
+|Afghanistan| 1821 | 3300000 |
+|Afghanistan| 1822 | 3310000 |
+| ... | ... | ... |
+|Albania | 1820 | 437000 |
+|Albania | 1821 | 439000 | 
+|Albania | 1822 | 441000 |
+| ... | ... |...| 
+
+To ensure that things are properly transformed, you should include the raw data
+and the tidy data in the repository.  The original data for our hypothetical
+example would be saved as 
 
 ```
-git clone https://github.com/gchure/reproducible_research your_repo_title
+world_population_1820-2020_raw.csv
 ```
 
-> :warning: :warning: :warning: I wouldn't advise forking this repository. As you can only fork a given repository once, there is little utility in forking this repo if you hope to use it again in your future projects :warning: :warning: :warning:
+with the tidy format being renamed to 
 
-## Layout
+```
+world_population_1820-2020_tidy.csv
+```
 
-The repository is split into seven main directories, many of which have subdirectories. This structure has been designed to be easily navigable by humans and computers alike, allowing for rapid location of specific files and instructions. Within each directory is a `README.md` file which summarizes the purpose of that directory as well as some examples where necessary. This structure may not be perfect for your intended us and may need to be modified. Each section is briefly described below. 
+For large data sets, this is impossible to do manually and this may require some
+computational cleaning of data. 
 
-### **`code`** 
-Where all of the *executed* code lives. This includes pipelines, scripts, and figure files. 
- * **`processing`**: Any code used to *transform* the data into another type should live here. This can include everything from parsing of text data, image segmentation/filtering, or simulations.
- * **`analysis`**: Any code to to *draw conclusions* from an experiment or data set. This may include regression, dimensionality reduction, or calculation of various quantities.
- * **`exploratory`**: A sandbox where you keep a record of your different approaches to transformation, interpretation, cleaning, or generation of data.
- * **`figures`**: Any code used to generate figures for your finished work, presentations, or for any other use.
+## Annotation
+Every data set you add to this repository *MUST* be accompanied by `README.md`
+file describing several features of the data set. This is not optional and
+*MUST* follow a particular structure outlined in `README_TEMPLATE.md`. 
 
-### **`data`** 
-All raw data collected from your experiments as well as copies of the transformed data from your processing code. 
+The data set readme file has several fields which you will need to populate when
+you add your data set. This will make curating the data sets much more manageable
+and human readable. Please see the `README_TEMPLATE.md` file for more
+information about what to include. 
 
-### **`miscellaneous`** 
-Files that may not be code, but are important for reproducibility of your findings.
-* **`protocols`**: A well annotated and general description of your experiments. These protocols should be descriptive enough for someone to follow your experiments independently 
-* **`materials`**: Information regarding the materials used in your experiments or data generation. This could include manufacturer information, records of purity, and/or lot and catalog numbers.
-* **`software details`**: Information about your computational environment that are necessary for others to execute your code. This includes details about your operating system, software version and required packages.
+## Software
+During the course, you may want to computationally explore some of the data sets
+and make visualizations. Great! We want you to do this and have fun with it.
+There is no expectation of a specific programming language and you are free to
+use what you see fit. However, you must have your code properly commented and
+annotated such that other members of the repository can reproduce your work in
+another programming language. 
 
-### **`tests`** 
-All test suites for your code. *Any custom code you've written should be thoroughly and adequately tested to make sure you know how it is working.*
+Any code you write to analyze a data set must be housed within a `code`
+subdirectory in your deposited data folder. Consider our example of a
+hypothetical data set containing the global population from the years
+1820-2020 by country. Say that you wanted to generate a plot of the
+population of Brazil over these years using python. The script you use to
+generate the plot (`brazil_population.py`)  and the generated plot itself 
+(`brazil_population.pdf`) would be housed in the associated folders as
+follows. 
 
-### **`software_module`** 
-Custom code you've written that is *not* executed directly, but is called from files in the `code` directory. If you've written your code in Python, for example, this can be the root folder for your custom software module or simply house a file with all of your functions. 
+```
+flora_fauna /
+|
+|--> world_population_1820-2020/
+     |
+     | --> world_population_1820-2020_raw.csv
+     | --> world_population_1820-2020_tidy.csv
+     | --> code/
+           |
+           |--> brazil_population.py
+     | --> media/
+           |
+           |--> brazil_population.pdf
+```
 
-### **`templates`** 
-Files that serve as blank templates that document the procedures taken for each experiment, simulation, or analysis routine. 
+Please see the  data set already present in this directory for a complete example.
 
-### Required Files
-There are some files which I consider to be mandatory for any project.
+## `anthro` software module
+This project comes with a custom Python software package titled `anthro` which
+will be used repeatedly to clean, annotate, collate, and present the data
+contained in this repository.
 
-1. **`LICENSE`**: A legal protection of your work. *It is important to think deeply about the licensing of your work, and is not a decision to be made lightly. See [this useful site](https://choosealicense.com/) for more information about licensing and choosing the correct license for your project.*
+To run many of the scripts involved in cleaning and presentation of data within
+this repository, you will need to have the `anthro` package locally installed.
+Assuming you have cloned this repository, you can install the package using the
+following command,
 
-2. **`README.md`**: A descriptive yet succinct description of your research project and information regarding the structure outlined below.
+> pip install -e anthro
 
+assuming you are in the root directory. 
 
-# License Information
+## License
+All software within this repository that originates from the class should be
+licensed under the standard MIT license as is given below. All creative work
+originating from this course (e.g. writing and graphics) is similarly
+licensed under a [Creative Commons CC-BY
+4.0](https://creativecommons.org/licenses/by/4.0/) permissive license. All
+data, creative works, and software *not* originating from this course carry
+the original license and copyright as is present in the source material.
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="github.com/gchure/reproducible_research">
-    <span property="dct:title">Griffin Chure</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">A template for using git as a platform for reproducible scientific research</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="github.com/gchure/reproducible_research">
-  United States</span>.
-</p>
+```
+Copyright 2020 The Authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
