@@ -1,0 +1,792 @@
+﻿survey_year,country,country_code,mass_Mt
+2012,China,CHN,191.34
+2012,United States,USA,179.11
+2012,Brazil,BRA,66.285
+2012,Mexico,MEX,28.536
+2012,Spain,ESP,28.231
+2012,India,IND,26.837
+2012,Japan,JPN,25.22
+2012,Russia,RUS,23.35
+2012,Germany,DEU,22.252
+2012,France,FRA,21.613
+2012,Canada,CAN,19.642
+2012,Thailand,THA,14.95
+2012,Netherlands,NLD,14.762
+2012,Korea,KOR,14.637
+2012,Italy,ITA,14.633
+2012,Indonesia,IDN,13.801
+2012,United Kingdom,GBR,13.551
+2012,Turkey,TUR,12.995
+2012,Iran,IRN,12
+2012,Vietnam,VNM,12
+2012,Philippines,PHL,11.917
+2012,South Africa,ZAF,11.027
+2012,Argentina,ARG,10.115
+2012,Australia,AUS,9.728
+2012,Poland,POL,8.255
+2012,Taiwan,TWN,7.893
+2012,Pakistan,PAK,7.41
+2012,Ireland,IRL,6.728
+2012,Belgium,BEL,6.281
+2012,Colombia,COL,5.5
+2012,Venezuela,VEN,5.315
+2012,Ukraine,UKR,5.16
+2012,Egypt,EGY,5
+2012,Saudi Arabia,SAU,4.53
+2012,Chile,CHL,4.523
+2012,Malaysia,MYS,4.4
+2012,Denmark,DNK,4.2
+2012,Algeria,DZA,4
+2012,Belarus,BLR,4
+2012,Hungary,HUN,3.832
+2012,Peru,PER,3.391
+2012,Serbia,SRB,3.391
+2012,Greece ,GRC,3.221
+2012,Portugal,PRT,3.085
+2012,Morocco,MAR,2.995
+2012,Norway,NOR,2.94
+2012,Bangladesh,BGD,2.73
+2012,Israel,ISR,2.5
+2012,Romania,ROU,2.295
+2012,Ecuador,ECU,2.245
+2012,Czech Republic,CZE,1.986
+2012,Bosnia,BIH,1.962
+2012,Sweden,SWE,1.925
+2012,Nigeria,NGA,1.9
+2012,Uruguay,URY,1.419
+2012,Finland,FIN,1.395
+2012,Paraguay,PRY,1.345
+2012,Bolivia,BOL,1.313
+2012,Kazakhstan,KAZ,1.28
+2012,Switzerland,CHE,1.265
+2012,Dominica,DMA,1.162
+2012,Guatemala,GTM,1.137
+2012,Jordan,JOR,1.1
+2012,Libya,LBY,1.06
+2012,Albania,ALB,1
+2012,Tunisia,TUN,1
+2012,Austria,AUT,0.965
+2012,Kenya,KEN,0.955
+2012,New Zealand,NZL,0.899
+2012,Bulgaria,BGR,0.887
+2012,Costa Rica,CRI,0.821
+2012,United Arab Emirates,ARE,0.767
+2012,Croatia,HRV,0.75
+2012,Cuba,CUB,0.75
+2012,El Salvador,SLV,0.744
+2012,Nepal,NPL,0.739
+2012,Honduras,HND,0.703
+2012,Iraq,IRQ,0.7
+2012,Stri Lanka,LKA,0.615
+2012,Myanmar,MMR,0.6
+2012,Slovakia,SVK,0.6
+2012,Panama,PAN,0.658
+2012,Lebanon,LBN,0.5
+2012,North Macedonia,MKD,0.5
+2012,Moldova,MDA,0.5
+2012,Uzbekistan,UZB,0.5
+2012,Armenia,ARM,0.5
+2012,Estonia,EST,0.48
+2012,Uganda,UGA,0.467
+2012,Lithuania,LTU,0.462
+2012,Oman,OMN,0.464
+2012,Slovenia,SVN,0.45
+2012,Jamaica,JAM,0.32
+2012,Azerbaijan,AZE,0.32
+2012,Nicaragua,NIC,0.318
+2012,Puerto Rico,PRI,0.276
+2012,Tanzania,TZA,0.258
+2012,Zambia,ZMB,0.24
+2012,Latvia,LVA,0.234
+2012,Réunion,REU,0.23
+2012,Kuwait,KWT,0.23
+2012,Georgia,GEO,0.2
+2012,Kyrgyzstan,KGZ,0.2
+2012,Turkish Cyprus,None,0.2
+2012,Cote D'ivoire,CIV,0.16
+2012,Bahrain,BHR,0.15
+2012,Caribbean,BES,0.146
+2012,Senegal,SEN,0.125
+2012,Ghana,GHA,0.1
+2012,Kosovo,KOS,0.1
+2012,Sudan,SDN,0.1
+2012,Turkmenistan,TKM,0.1
+2012,Trinidad & Tobago,TTO,0.094
+2012,Iceland,ISL,0.09
+2012,Mauritius,MUS,0.9
+2012,Haiti,HTI,0.09
+2012,Luxembourg,LUX,0.9
+2012,Malta,MLT,0.08
+2012,Botswana,BWA,0.057
+2012,Namibia,NAM,0.052
+2012,Zimbabwe,ZWE,0.04
+2012,Barbados,BRB,0.039
+2012,Mozambique,MOZ,0.03
+2012,Guyana,GUY,0.022
+2012,Seychelles,SYC,0.015
+2012,Suriname,SUR,0.012
+2012,Bahamas,BHS,0.008
+2013,China,CHN,189.13
+2013,United States,USA,168.68
+2013,Brazil,BRA,66.99
+2013,Mexico,MEX,29.12
+2013,Spain,ESP,28.9
+2013,India,IND,26.42
+2013,Japan,JPN,24.17
+2013,Russia,RUS,24.51
+2013,Germany,DEU,23.08
+2013,France,FRA,20.98
+2013,Canada,CAN,20.35
+2013,Thailand,THA,16
+2013,Netherlands,NLD,13
+2013,Korea,KOR,18.94
+2013,Italy,ITA,14.27
+2013,Indonesia,IDN,15.1
+2013,United Kingdom,GBR,10.99
+2013,Turkey,TUR,13.85
+2013,Iran,IRN,11.7
+2013,Vietnam,VNM,12.03
+2013,Philippines,PHL,12.38
+2013,South Africa,ZAF,11.16
+2013,Argentina,ARG,11
+2013,Australia,AUS,9.84
+2013,Poland,POL,8.1
+2013,Taiwan,TWN,6.94
+2013,Pakistan,PAK,7
+2013,Ireland,IRL,6.89
+2013,Belgium,BEL,6.13
+2013,Colombia,COL,6
+2013,Venezuela,VEN,4.61
+2013,Ukraine,UKR,5.74
+2013,Egypt,EGY,5.32
+2013,Saudi Arabia,SAU,4.63
+2013,Chile,CHL,6.15
+2013,Malaysia,MYS,4.48
+2013,Denmark,DNK,4
+2013,Algeria,DZA,4
+2013,Belarus,BLR,6.3
+2013,Hungary,HUN,4.17
+2013,Peru,PER,4.33
+2013,Serbia,SRB,3.39
+2013,Greece ,GRC,3.03
+2013,Portugal,PRT,3.23
+2013,Morocco,MAR,2.7
+2013,Norway,NOR,3.2
+2013,Bangladesh,BGD,2.9
+2013,Israel,ISR,3.5
+2013,Romania,ROU,3.54
+2013,Ecuador,ECU,2.25
+2013,Czech Republic,CZE,2.3
+2013,Bosnia,BIH,1.96
+2013,Sweden,SWE,1.9
+2013,Nigeria,NGA,2.1
+2013,Uruguay,URY,1.42
+2013,Finland,FIN,1.4
+2013,Paraguay,PRY,0.46
+2013,Bolivia,BOL,1.56
+2013,Kazakhstan,KAZ,0.9
+2013,Switzerland,CHE,1.67
+2013,Dominica,DMA,1.19
+2013,Guatemala,GTM,1.22
+2013,Jordan,JOR,1.3
+2013,Libya,LBY,1.06
+2013,Albania,ALB,0.85
+2013,Tunisia,TUN,1.7
+2013,Austria,AUT,1.46
+2013,Kenya,KEN,0.89
+2013,New Zealand,NZL,0.95
+2013,Bulgaria,BGR,0.87
+2013,Costa Rica,CRI,0.91
+2013,United Arab Emirates,ARE,0.8
+2013,Croatia,HRV,0.8
+2013,Cuba,CUB,0.77
+2013,El Salvador,SLV,0.6
+2013,Nepal,NPL,0.53
+2013,Honduras,HND,0.91
+2013,Iraq,IRQ,0.75
+2013,Stri Lanka,LKA,0.62
+2013,Myanmar,MMR,0.8
+2013,Slovakia,SVK,0.7
+2013,Panama,PAN,0.79
+2013,Lebanon,LBN,0.6
+2013,North Macedonia,MKD,0.35
+2013,Moldova,MDA,1
+2013,Uzbekistan,UZB,0.4
+2013,Armenia,ARM,0.25
+2013,Estonia,EST,0.23
+2013,Uganda,UGA,0.38
+2013,Lithuania,LTU,0.45
+2013,Oman,OMN,0.46
+2013,Slovenia,SVN,0.41
+2013,Jamaica,JAM,0.31
+2013,Azerbaijan,AZE,0.28
+2013,Nicaragua,NIC,0.41
+2013,Puerto Rico,PRI,0.29
+2013,Tanzania,TZA,0.31
+2013,Zambia,ZMB,0.24
+2013,Latvia,LVA,0.15
+2013,Kuwait,KWT,0.23
+2013,Georgia,GEO,0.22
+2013,Kyrgyzstan,KGZ,0.2
+2013,Turkish Cyprus,None,0.2
+2013,Cote D'ivoire,CIV,0.25
+2013,Bahrain,BHR,0.15
+2013,Caribbean,BES,0.04
+2013,Senegal,SEN,0.24
+2013,Ghana,GHA,0.12
+2013,Kosovo,KOS,0.08
+2013,Sudan,SDN,0.5
+2013,Turkmenistan,TKM,0.1
+2013,Trinidad & Tobago,TTO,0.09
+2013,Iceland,ISL,0.09
+2013,Mauritius,MUS,0.18
+2013,Haiti,HTI,0.1
+2013,Luxembourg,LUX,0.3
+2013,Malta,MLT,0.08
+2013,Botswana,BWA,0.06
+2013,Namibia,NAM,0.08
+2013,Zimbabwe,ZWE,0.04
+2013,Barbados,BRB,0.04
+2013,Mozambique,MOZ,0.03
+2013,Guyana,GUY,0.03
+2013,Seychelles,SYC,0.02
+2013,Suriname,SUR,0.01
+2013,Bahamas,BHS,0.01
+2014,China,CHN,182.69
+2014,United States,USA,172.45
+2014,Brazil,BRA,66.15
+2014,Mexico,MEX,30.7
+2014,Spain,ESP,29.18
+2014,India,IND,29.43
+2014,Japan,JPN,24.31
+2014,Russia,RUS,25.66
+2014,Germany,DEU,23.58
+2014,France,FRA,22.16
+2014,Canada,CAN,20.35
+2014,Thailand,THA,16.91
+2014,Netherlands,NLD,14.33
+2014,Korea,KOR,18.58
+2014,Italy,ITA,14.04
+2014,Indonesia,IDN,19.98
+2014,United Kingdom,GBR,13.49
+2014,Turkey,TUR,15.42
+2014,Iran,IRN,11.8
+2014,Vietnam,VNM,14.1
+2014,Philippines,PHL,12.38
+2014,South Africa,ZAF,11.38
+2014,Argentina,ARG,11.8
+2014,Australia,AUS,8.34
+2014,Poland,POL,9.3
+2014,Taiwan,TWN,6.5
+2014,Pakistan,PAK,6.2
+2014,Ireland,IRL,6.22
+2014,Belgium,BEL,6.71
+2014,Colombia,COL,6.3
+2014,Venezuela,VEN,5.04
+2014,Ukraine,UKR,4.71
+2014,Egypt,EGY,6
+2014,Saudi Arabia,SAU,4.96
+2014,Chile,CHL,6.19
+2014,Malaysia,MYS,4.4
+2014,Denmark,DNK,3.8
+2014,Algeria,DZA,4
+2014,Belarus,BLR,6.1
+2014,Hungary,HUN,4.05
+2014,Peru,PER,4.55
+2014,Serbia,SRB,2.21
+2014,Greece ,GRC,3.2
+2014,Portugal,PRT,3.15
+2014,Morocco,MAR,3.1
+2014,Norway,NOR,3.36
+2014,Bangladesh,BGD,3.05
+2014,Israel,ISR,3.5
+2014,Romania,ROU,4
+2014,Ecuador,ECU,2.4
+2014,Czech Republic,CZE,2.48
+2014,Bosnia,BIH,0.55
+2014,Sweden,SWE,2.13
+2014,Nigeria,NGA,2.28
+2014,Uruguay,URY,1.42
+2014,Finland,FIN,1.39
+2014,Paraguay,PRY,0.48
+2014,Bolivia,BOL,1.86
+2014,Kazakhstan,KAZ,1.28
+2014,Switzerland,CHE,1.48
+2014,Dominica,DMA,1.24
+2014,Guatemala,GTM,1.27
+2014,Jordan,JOR,1.17
+2014,Libya,LBY,0.34
+2014,Albania,ALB,0.11
+2014,Tunisia,TUN,2.1
+2014,Austria,AUT,1.46
+2014,Kenya,KEN,0.8
+2014,New Zealand,NZL,1.06
+2014,Bulgaria,BGR,0.99
+2014,Costa Rica,CRI,0.96
+2014,United Arab Emirates,ARE,0.82
+2014,Croatia,HRV,0.62
+2014,Cuba,CUB,0.8
+2014,El Salvador,SLV,0.64
+2014,Nepal,NPL,0.75
+2014,Honduras,HND,0.92
+2014,Iraq,IRQ,0.75
+2014,Stri Lanka,LKA,0.77
+2014,Myanmar,MMR,1
+2014,Slovakia,SVK,0.7
+2014,Panama,PAN,0.82
+2014,Lebanon,LBN,0.6
+2014,North Macedonia,MKD,0.18
+2014,Moldova,MDA,1
+2014,Uzbekistan,UZB,0.5
+2014,Armenia,ARM,0.24
+2014,Estonia,EST,0.21
+2014,Uganda,UGA,0.45
+2014,Lithuania,LTU,0.46
+2014,Oman,OMN,4
+2014,Slovenia,SVN,0.38
+2014,Jamaica,JAM,0.32
+2014,Azerbaijan,AZE,0.28
+2014,Nicaragua,NIC,0.44
+2014,Puerto Rico,PRI,0.29
+2014,Tanzania,TZA,0.34
+2014,Zambia,ZMB,0.29
+2014,Latvia,LVA,0.4
+2014,Kuwait,KWT,0.27
+2014,Georgia,GEO,0.22
+2014,Kyrgyzstan,KGZ,0.2
+2014,Turkish Cyprus,None,0.2
+2014,Cote D'ivoire,CIV,0.27
+2014,Bahrain,BHR,0.13
+2014,Caribbean,BES,0.04
+2014,Senegal,SEN,0.25
+2014,Ghana,GHA,0.24
+2014,Kosovo,KOS,0.08
+2014,Sudan,SDN,0.7
+2014,Turkmenistan,TKM,0.1
+2014,Trinidad & Tobago,TTO,0.1
+2014,Iceland,ISL,0.09
+2014,Mauritius,MUS,0.18
+2014,Haiti,HTI,0.09
+2014,Luxembourg,LUX,0.09
+2014,Malta,MLT,0.08
+2014,Botswana,BWA,0.13
+2014,Namibia,NAM,0.13
+2014,Zimbabwe,ZWE,0.43
+2014,Barbados,BRB,0.04
+2014,Mozambique,MOZ,0.04
+2014,Guyana,GUY,0.03
+2014,Seychelles,SYC,0.02
+2014,Suriname,SUR,0.01
+2014,Bahamas,BHS,0.01
+2015,China,CHN,179.93
+2015,United States,USA,173.73
+2015,Brazil,BRA,68.7
+2015,Mexico,MEX,31.11
+2015,Spain,ESP,29.38
+2015,India,IND,31.54
+2015,Japan,JPN,23.38
+2015,Russia,RUS,29.09
+2015,Germany,DEU,23.86
+2015,France,FRA,21.2
+2015,Canada,CAN,20.35
+2015,Thailand,THA,17.92
+2015,Netherlands,NLD,14.01
+2015,Korea,KOR,18.95
+2015,Italy,ITA,14.15
+2015,Indonesia,IDN,17.33
+2015,United Kingdom,GBR,15.59
+2015,Turkey,TUR,18.22
+2015,Iran,IRN,9.15
+2015,Vietnam,VNM,14.75
+2015,Philippines,PHL,12.78
+2015,South Africa,ZAF,11.66
+2015,Argentina,ARG,15.5
+2015,Australia,AUS,8.59
+2015,Poland,POL,9.68
+2015,Taiwan,TWN,7.3
+2015,Pakistan,PAK,6.5
+2015,Ireland,IRL,3.7
+2015,Belgium,BEL,6.7
+2015,Colombia,COL,6.78
+2015,Venezuela,VEN,4.88
+2015,Ukraine,UKR,5.18
+2015,Egypt,EGY,6
+2015,Saudi Arabia,SAU,5.2
+2015,Chile,CHL,5.89
+2015,Malaysia,MYS,4.35
+2015,Denmark,DNK,3.75
+2015,Algeria,DZA,3.5
+2015,Belarus,BLR,6.45
+2015,Hungary,HUN,3.95
+2015,Peru,PER,4.68
+2015,Serbia,SRB,2.89
+2015,Greece ,GRC,4.13
+2015,Portugal,PRT,2.98
+2015,Morocco,MAR,2.8
+2015,Norway,NOR,3.36
+2015,Bangladesh,BGD,3.42
+2015,Israel,ISR,2.5
+2015,Romania,ROU,2.53
+2015,Ecuador,ECU,2.5
+2015,Czech Republic,CZE,2.63
+2015,Bosnia,BIH,0.6
+2015,Sweden,SWE,2.1
+2015,Nigeria,NGA,3.8
+2015,Uruguay,URY,1.42
+2015,Finland,FIN,1.39
+2015,Paraguay,PRY,1.38
+2015,Bolivia,BOL,1.48
+2015,Kazakhstan,KAZ,0.76
+2015,Switzerland,CHE,1.54
+2015,Dominica,DMA,1.29
+2015,Guatemala,GTM,1.1
+2015,Jordan,JOR,1.1
+2015,Libya,LBY,1
+2015,Albania,ALB,0.5
+2015,Tunisia,TUN,1.9
+2015,Austria,AUT,1.58
+2015,Kenya,KEN,0.7
+2015,New Zealand,NZL,0.9
+2015,Bulgaria,BGR,0.95
+2015,Costa Rica,CRI,0.94
+2015,United Arab Emirates,ARE,0.83
+2015,Croatia,HRV,0.65
+2015,Cuba,CUB,0.81
+2015,El Salvador,SLV,0.69
+2015,Nepal,NPL,0.75
+2015,Honduras,HND,0.92
+2015,Iraq,IRQ,0.75
+2015,Stri Lanka,LKA,0.84
+2015,Myanmar,MMR,1
+2015,Slovakia,SVK,0.7
+2015,Panama,PAN,0.83
+2015,Lebanon,LBN,0.6
+2015,North Macedonia,MKD,0.17
+2015,Moldova,MDA,1
+2015,Uzbekistan,UZB,1.21
+2015,Armenia,ARM,0.25
+2015,Estonia,EST,0.23
+2015,Uganda,UGA,0.47
+2015,Lithuania,LTU,0.43
+2015,Oman,OMN,0.62
+2015,Slovenia,SVN,0.46
+2015,Jamaica,JAM,0.32
+2015,Azerbaijan,AZE,0.28
+2015,Nicaragua,NIC,0.45
+2015,Puerto Rico,PRI,0.29
+2015,Tanzania,TZA,0.35
+2015,Zambia,ZMB,0.34
+2015,Latvia,LVA,0.33
+2015,Kuwait,KWT,0.27
+2015,Georgia,GEO,0.26
+2015,Kyrgyzstan,KGZ,0.2
+2015,Turkish Cyprus,None,0.75
+2015,Cote D'ivoire,CIV,0.27
+2015,Bahrain,BHR,0.14
+2015,Caribbean,BES,0.04
+2015,Senegal,SEN,0.3
+2015,Ghana,GHA,0.3
+2015,Kosovo,KOS,0.1
+2015,Sudan,SDN,0.5
+2015,Turkmenistan,TKM,0.35
+2015,Trinidad & Tobago,TTO,0.1
+2015,Iceland,ISL,0.09
+2015,Mauritius,MUS,0.85
+2015,Haiti,HTI,0.09
+2015,Luxembourg,LUX,0.09
+2015,Malta,MLT,0.08
+2015,Botswana,BWA,0.14
+2015,Namibia,NAM,0.25
+2015,Zimbabwe,ZWE,0.42
+2015,Barbados,BRB,0.04
+2015,Mozambique,MOZ,0.18
+2015,Guyana,GUY,0.03
+2015,Seychelles,SYC,0.004
+2015,Suriname,SUR,0.01
+2015,Bahamas,BHS,0.01
+2015,Mongolia,MNG,0.04
+2017,China,CHN,186.86
+2017,United States,USA,173.015
+2017,Brazil,BRA,69.906
+2017,Mexico,MEX,34.429
+2017,Spain,ESP,33.029
+2017,India,IND,34.243
+2017,Japan,JPN,24.2
+2017,Russia,RUS,37.597
+2017,Germany,DEU,24.46
+2017,France,FRA,24.42
+2017,Canada,CAN,21.59
+2017,Thailand,THA,20.136
+2017,Netherlands,NLD,14.125
+2017,Korea,KOR,19
+2017,Italy,ITA,14.221
+2017,Indonesia,IDN,19.085
+2017,United Kingdom,GBR,17.258
+2017,Turkey,TUR,19.192
+2017,Iran,IRN,10.2
+2017,Vietnam,VNM,19.43
+2017,Philippines,PHL,17.35
+2017,South Africa,ZAF,11.136
+2017,Argentina,ARG,15.22
+2017,Australia,AUS,9.224
+2017,Poland,POL,10.068
+2017,Taiwan,TWN,6.558
+2017,Pakistan,PAK,6.5
+2017,Ireland,IRL,4.865
+2017,Belgium,BEL,7.6
+2017,Colombia,COL,7.64
+2017,Venezuela,VEN,2.733
+2017,Ukraine,UKR,6.6
+2017,Egypt,EGY,7
+2017,Saudi Arabia,SAU,7.2
+2017,Chile,CHL,5.14
+2017,Malaysia,MYS,4.39
+2017,Denmark,DNK,3.75
+2017,Algeria,DZA,4.172
+2017,Belarus,BLR,8.605
+2017,Hungary,HUN,3.703
+2017,Peru,PER,5.534
+2017,Serbia,SRB,2.95
+2017,Greece ,GRC,4.031
+2017,Portugal,PRT,3.2
+2017,Morocco,MAR,3.57
+2017,Norway,NOR,3.991
+2017,Bangladesh,BGD,5.61
+2017,Israel,ISR,1.95
+2017,Romania,ROU,2.929
+2017,Ecuador,ECU,2.843
+2017,Czech Republic,CZE,1.796
+2017,Bosnia,BIH,0.7
+2017,Sweden,SWE,2
+2017,Nigeria,NGA,5.512
+2017,Uruguay,URY,1.688
+2017,Finland,FIN,1.9
+2017,Paraguay,PRY,2.947
+2017,Bolivia,BOL,2.053
+2017,Kazakhstan,KAZ,1.523
+2017,Switzerland,CHE,1.7
+2017,Dominica,DMA,1.496
+2017,Guatemala,GTM,1.506
+2017,Jordan,JOR,1.251
+2017,Libya,LBY,1.06
+2017,Albania,ALB,0.135
+2017,Tunisia,TUN,2.778
+2017,Austria,AUT,1.72
+2017,Kenya,KEN,0.929
+2017,New Zealand,NZL,1.08
+2017,Bulgaria,BGR,1.201
+2017,Costa Rica,CRI,1.18
+2017,United Arab Emirates,ARE,1.1
+2017,Croatia,HRV,0.665
+2017,Cuba,CUB,0.805
+2017,El Salvador,SLV,0.767
+2017,Nepal,NPL,0.8881
+2017,Honduras,HND,0.93
+2017,Iraq,IRQ,0.75
+2017,Stri Lanka,LKA,0.884
+2017,Myanmar,MMR,3.059
+2017,Slovakia,SVK,0.692
+2017,Panama,PAN,0.876
+2017,Lebanon,LBN,0.7
+2017,North Macedonia,MKD,0.156
+2017,Moldova,MDA,0.141
+2017,Uzbekistan,UZB,1.36
+2017,Armenia,ARM,0.25
+2017,Estonia,EST,0.26
+2017,Uganda,UGA,0.171
+2017,Lithuania,LTU,0.914
+2017,Oman,OMN,0.73
+2017,Slovenia,SVN,0.513
+2017,Jamaica,JAM,0.374
+2017,Azerbaijan,AZE,0.36
+2017,Nicaragua,NIC,0.494
+2017,Puerto Rico,PRI,0.291
+2017,Tanzania,TZA,0.29
+2017,Zambia,ZMB,0.289
+2017,Latvia,LVA,0.326
+2017,Kuwait,KWT,0.249
+2017,Georgia,GEO,0.25
+2017,Kyrgyzstan,KGZ,0.2
+2017,Cote D'ivoire,CIV,0.284
+2017,Bahrain,BHR,0.113
+2017,Caribbean,BES,0.041
+2017,Senegal,SEN,0.35
+2017,Ghana,GHA,0.448
+2017,Kosovo,KOS,0.082
+2017,Sudan,SDN,0.62
+2017,Turkmenistan,TKM,0.42
+2017,Trinidad & Tobago,TTO,0.1
+2017,Iceland,ISL,0.09
+2017,Mauritius,MUS,0.085
+2017,Haiti,HTI,1.531
+2017,Luxembourg,LUX,0.093
+2017,Malta,MLT,0.08
+2017,Botswana,BWA,0.162
+2017,Namibia,NAM,0.208
+2017,Zimbabwe,ZWE,0.27
+2017,Barbados,BRB,0.04
+2017,Mozambique,MOZ,0.192
+2017,Guyana,GUY,0.031
+2017,Seychelles,SYC,0.016
+2017,Suriname,SUR,0.012
+2017,Bahamas,BHS,0.01
+2017,Mongolia,MNG,0.914
+2017,Belize,BLZ,0.04
+2017,Brunei,BRN,0.07
+2017,Cambodia,KHM,1.4
+2017,Cameroon,CMR,0.62
+2017,Comoros,COM,0.006
+2017,Faroe Islands,FRO,0.12
+2017,Laos,LAO,0.132
+2017,Mauritiana,MRT,0.028
+2017,Montenegro,MNE,0.016
+2017,Palestine,PSE,0.299
+2017,Qatar,QAT,0.411
+2017,Syria,SYR,0.344
+2017,Yemen,YEM,0.6
+2017,Fiji,FJI,0.05
+2017,Samoa,WSM,0.001
+2019,Albania,ALB,0.15
+2019,Algeria,DZA,4.3
+2019,Argentina,ARG,21
+2019,Armenia,ARM,0.26
+2019,Australia,AUS,9.3
+2019,Austria,AUT,1.61
+2019,Azerbaijan,AZE,0.43
+2019,Bahamas,BHS,0.021
+2019,Bahrain,BHR,0.113
+2019,Bangladesh,BGD,5.7
+2019,Barbados,BRB,0.04
+2019,Belarus,BLR,8.8
+2019,Belgium,BEL,6.8
+2019,Belize,BLZ,0.054
+2019,Bolivia,BOL,1.68
+2019,Bosnia,BIH,0.53
+2019,Botswana,BWA,0.179
+2019,Brazil,BRA,70
+2019,Brunei,BRN,0.09
+2019,Bulgaria,BGR,1.2
+2019,Cambodia,KHM,1.4
+2019,Cameroon,CMR,0.65
+2019,Canada,CAN,21.6
+2019,Caribbean,BES,0.041
+2019,Chile,CHL,5.1
+2019,China,CHN,168
+2019,Colombia,COL,8.6
+2019,Comoros,COM,0.0061
+2019,Costa Rica,CRI,1.13
+2019,Cote D'ivoire,CIV,0.298
+2019,Croatia,HRV,0.68
+2019,Cuba,CUB,0.81
+2019,Czech Republic,CZE,1.7
+2019,Denmark,DNK,3.84
+2019,Dominica,DMA,1.6
+2019,Ecuador,ECU,2.8
+2019,Egypt,EGY,7.36
+2019,El Salvador,SLV,0.64
+2019,Estonia,EST,0.23
+2019,Faroe Islands,FRO,0.12
+2019,Fiji,FJI,0.12
+2019,Finland,FIN,1.89
+2019,France,FRA,22.1
+2019,Georgia,GEO,0.27
+2019,Germany,DEU,25
+2019,Ghana,GHA,0.47
+2019,Greece ,GRC,4
+2019,Guatemala,GTM,1.58
+2019,Guyana,GUY,0.003
+2019,Haiti,HTI,2.45
+2019,Honduras,HND,0.93
+2019,Hungary,HUN,4
+2019,Iceland,ISL,0.09
+2019,India,IND,39
+2019,Indonesia,IDN,20.01
+2019,Iran,IRN,9.5
+2019,Iraq,IRQ,0.61
+2019,Ireland,IRL,4.7
+2019,Israel,ISR,1.92
+2019,Italy,ITA,14.5
+2019,Jamaica,JAM,0.371
+2019,Japan,JPN,25.3
+2019,Jordan,JOR,1.19
+2019,Kazakhstan,KAZ,1.97
+2019,Kenya,KEN,1.8
+2019,Korea,KOR,20.2
+2019,Kosovo,KOS,0.095
+2019,Kuwait,KWT,0.249
+2019,Kyrgyzstan,KGZ,0.201
+2019,Laos,LAO,0.15
+2019,Latvia,LVA,0.33
+2019,Lebanon,LBN,0.7
+2019,Libya,LBY,1.06
+2019,Lithuania,LTU,0.83
+2019,Luxembourg,LUX,0.094
+2019,Malaysia,MYS,4.99
+2019,Malta,MLT,0.08
+2019,Mauritiana,MRT,0.03
+2019,Mauritius,MUS,0.15
+2019,Mexico,MEX,36.2
+2019,Moldova,MDA,0.13
+2019,Mongolia,MNG,1.125
+2019,Montenegro,MNE,0.024
+2019,Morocco,MAR,4.31
+2019,Mozambique,MOZ,0.283
+2019,Myanmar,MMR,3.69
+2019,Namibia,NAM,0.223
+2019,Nepal,NPL,0.96
+2019,Netherlands,NLD,13.2
+2019,New Zealand,NZL,1.11
+2019,Nicaragua,NIC,0.4
+2019,Nigeria,NGA,5.8
+2019,North Macedonia,MKD,0.327
+2019,Norway,NOR,3.79
+2019,Oman,OMN,0.73
+2019,Pakistan,PAK,7.5
+2019,Palestine,PSE,0.3
+2019,Panama,PAN,0.68
+2019,Paraguay,PRY,1.41
+2019,Peru,PER,115
+2019,Philippines,PHL,18.2
+2019,Poland,POL,11.4
+2019,Portugal,PRT,3.4
+2019,Puerto Rico,PRI,0.291
+2019,Qatar,QAT,0.49
+2019,Romania,ROU,2.8
+2019,Russia,RUS,40.5
+2019,Samoa,WSM,0.001
+2019,Saudi Arabia,SAU,7.2
+2019,Senegal,SEN,0.37
+2019,Serbia,SRB,3.36
+2019,Seychelles,SYC,0.016
+2019,Slovakia,SVK,1.44
+2019,Slovenia,SVN,0.54
+2019,South Africa,ZAF,11.7
+2019,Spain,ESP,35
+2019,Stri Lanka,LKA,0.93
+2019,Sudan,SDN,0.65
+2019,Suriname,SUR,0.012
+2019,Sweden,SWE,2.06
+2019,Switzerland,CHE,1.7
+2019,Syria,SYR,0.335
+2019,Taiwan,TWN,7.4
+2019,Tanzania,TZA,0.72
+2019,Thailand,THA,20.2
+2019,Trinidad & Tobago,TTO,0.095
+2019,Tunisia,TUN,2.8
+2019,Turkey,TUR,24.1
+2019,Turkmenistan,TKM,0.92
+2019,Uganda,UGA,0.34
+2019,Ukraine,UKR,6
+2019,United Arab Emirates,ARE,1.1
+2019,United Kingdom,GBR,19.3
+2019,United States,USA,214
+2019,Uruguay,URY,1.84
+2019,Uzbekistan,UZB,2.31
+2019,Venezuela,VEN,1.87
+2019,Vietnam,VNM,18.3
+2019,Yemen,YEM,0.492
+2019,Zambia,ZMB,0.699
+2019,Zimbabwe,ZWE,0.47
+2019,Singapore,SGP,0.052
+2019,Tajikistan,TJK,0.15
+2019,Rwanda,RWA,0.048

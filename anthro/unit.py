@@ -181,27 +181,36 @@ class DimensionalUnit(object):
         dims = {}
         for u in unit_split:
             if '^' in u:
-                exponent = int(u.split('^')[1])
-                unit = u[0] 
-                _unit = u.split('^')[0]
+                base, exponent = u.split('^')
+                exponent = int(exponent)
+                if (len(base) >= 2) & (base != 'yr'):
+                    unit = base
+                    _unit = base[1:]
+                else:
+                    unit = base
+                    _unit = base
             else: 
-                unit = u
-                _unit = u
+                if (len(u) >= 2) & (u != 'yr'):
+                    unit = u
+                    _unit = u[1:]
+                else:
+                    unit = u
+                    _unit = u
                 exponent = 1
 
             if (_unit == 'm'):
-                _unit_info = self.length_units[_unit] 
-                dims['L'] = {'shortform':_unit,
+                _unit_info = self.length_units[unit] 
+                dims['L'] = {'shortform':unit,
                              'longform':_unit_info['longform'],
                              'exponent': exponent}
             if (_unit == 'g') | (_unit == 't'):
-                _unit_info = self.length_units[_unit]
-                dims['M'] = {'shortform':_unit,
+                _unit_info = self.length_units[unit]
+                dims['M'] = {'shortform':unit,
                              'longform': _unit_info['longform'],
                              'exponent': exponent}
             if (_unit == 's') | (_unit == 'yr'):
-                _unit_info = self.time_units[_unit]
-                dims['T'] = {'shortform':_unit,
+                _unit_info = self.time_units[unit]
+                dims['T'] = {'shortform':unit,
                              'longform':_unit_info['longform'],
                              'exponent': exponent}
         self.dims = dims
@@ -265,5 +274,83 @@ class DimensionalUnit(object):
         return times
 
 
+
+class UnitConversion(object):
+    """
+    Base class for performing unit conversions.
+    """
+
+    def __init__(self, value=None, unit=None, target=None):
+        """
+        Given a quantity and the corresponsing unit, return the 
+        rescaled value in the user-provided target units. 
+
+        Parameter
+        ---------
+        value: float, int, or numpy array
+            Either an array or single numeric value of the quantity in question.
+        unit: str
+            The short-hand unit representation of the quantity. For example,
+            m*s^-1 would be a velocity. 
+            The units you want to convert to, provided in shorthand notation.
+        """
+        self.value = value
+        self.unit = DimensionalUnit(unit)
+        # self.target = DimensionalUnit(target).summary
+
+        if (type(value) != str) & (type(value) != int):
+            raise TypeError(f'`value` must be float, int, or array/list. type {type(value)} was provided.')
+
+        # Ensure that the conversion maintains the same physical quantity
+
+        def _define_target(self, target):
+            _target = DimensionalUnit(target).summary
+            if self.unit.summary['quantity'] != _target['quantity']:
+                raise RuntimeError(f"Units incompatible! Provided unit `{unit}` is  a/an {self.unit['quantity']} and target unit `{target}` is a/an {_target['quantity']}.")
+            else:
+                self.target = DimensionalUnit(_target)
+
+        def to(self, target):
+            """
+            Converts the supplied value and unit to a user provided target.
+
+            Parameters
+            ----------
+            target: str
+                The units you want to convert to, provided in shorthand notation.
+
+            Returns
+            -------
+            conversion: dictionary
+                A dictionary with the converted value and information aobut the 
+                quantity.
+            """
+            if type(target) is not str:
+                raise TypeError("Provided target must be a str.")
+
+            # Assign the target unit.
+            _define_target(target)
+
+            # Get the dimensionality of each unit.\ 
+            unit_dim = self.unit.summary['dimensional_representation']
+            target_dim = self.target.summary['dimensional_representation']
+            
+            #  Generate a dictionary of the key dimensions
+            dims = {'L': unit_dim._units_length(),
+                    'M': unit_dim._units_mass(),
+                    'T': unit_dim._units_time()}
+
+            # Iterate through each dimension of the quantity and compute
+            # the conversion factors
+            for unit_k, unit_v in unit_dim.items():
+                target_k = unit_k
+                target_v = target_dim[target_k]
+
+
+
+
+            
+
+        
 
 
