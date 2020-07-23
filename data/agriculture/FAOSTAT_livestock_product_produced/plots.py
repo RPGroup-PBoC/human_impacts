@@ -20,7 +20,7 @@ quantity_curves.opts(width=600, height=400,
 hv.save(quantity_curves, 'output/production_quantity.png')
 
 population_curves = hv.Curve(data=data,
-                      vdims=['producing_head_M'], 
+                      vdims=['producing_population_Mhd'], 
                       kdims=['year', 'subcategory']).groupby(['subcategory']).overlay()
 population_curves.opts(width=600, height=400,
                     xlabel='year',
