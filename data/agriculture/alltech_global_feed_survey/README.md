@@ -50,10 +50,10 @@ few of the years, meaning that data is somewhat incomplete.
 
 
 ## Key Figures
-![](country_breakdown.png)
+![](../output/country_breakdown.png)
 
 
-![](species_breakdown.png)
+![](../output/species_breakdown.png)
 
 
 

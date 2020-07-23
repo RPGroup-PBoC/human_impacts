@@ -11,7 +11,7 @@ colors = anthro.viz.bokeh_theme()
 
 # %%
 # Load the two data sets. 
-global_data = pd.read_csv('./alltech_feed_country_breakdown.csv')
+global_data = pd.read_csv('../processed/alltech_feed_country_breakdown.csv')
 
 # Restrict to countries with more than 10 mt per year of feed produced. 
 global_data = global_data[global_data['mass_Mt'] >= 30]
@@ -26,8 +26,17 @@ bars.opts(stacked=True, width=600, height=400,
           ylabel='feed production [million tonnes]',
           title='Feed Production Above 30 Mt Annually',
           legend_position='left')
-hv.save(bars, './country_breakdown.png')
+hv.save(bars, 'output/country_breakdown.png')
 #%%
 species_data = pd.read_csv('./alltech_feed_species_breakdown.csv')
 bars = hv.Bars(data=species_data,
-               vdims=['mass_Mt'])
+               vdims=['mass_Mt'],
+               kdims=['survey_year', 'subcategory'])
+bars.opts(stacked=True, width=600, height=400,
+          xlabel='Alltech survey year',
+          ylabel='feed production [million tonnes]',
+          title='Feed Production Breakdown by Species Demand',
+          legend_position='left')
+bars.sort()
+hv.save(bars, 'output/species_breakdown.png')
+# %%
