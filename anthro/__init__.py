@@ -4,6 +4,7 @@
 
 from . import unit
 from . import viz 
+from . import stats
 
 __author__ = """Griffin Chure"""
 __email__ = """gchure@caltech.edu"""
