@@ -1,0 +1,352 @@
+﻿animal_category,animal_subcategory,feed_category,feed_subcategory,quantity,units,value
+cattle,beef,alfalfa,fresh,digestible energy,Mcal/kg,2.73
+cattle,beef,alfalfa,fresh,metabolizable energy,Mcal/kg,2.24
+cattle,beef,alfalfa,fresh,net energy (maintenance),Mcal/kg,1.38
+cattle,beef,alfalfa,fresh,net energy (gain),Mcal/kg,0.8
+cattle,beef,alfalfa,fresh,total digestible nutrients,percent,62
+cattle,beef,alfalfa,fresh,crude protein,percent,18.9
+cattle,beef,alfalfa,fresh,crude fiber,percent,26.5
+cattle,beef,alfalfa,fresh,ash,percent,10.5
+cattle,beef,alfalfa,fresh,neutral detergent fiber,percent,47.1
+cattle ,beef ,alfalfa,fresh,acid detergent fiber,percent,36.8
+cattle,beef ,alfalfa,fresh,calcium,percent,1.29
+cattle,beef,alfalfa,fresh,phosphorus,percent,0.26
+cattle ,beef,alfalfa,fresh,dry matter,percent,23.4
+cattle,beef,alfalfa,fresh (late vegetative),digestible energy,Mcal/kg,2.91
+cattle,beef,alfalfa,fresh (late vegetative),metabolizable energy,Mcal/kg,2.39
+cattle,beef,alfalfa,fresh (late vegetative),net energy (maintenance),Mcal/kg,1.51
+cattle,beef,alfalfa,fresh (late vegetative),net energy (gain),Mcal/kg,0.92
+cattle,beef,alfalfa,fresh (late vegetative),total digestible nutrients,percent,66
+cattle,beef,alfalfa,fresh (late vegetative),crude protein,percent,22.2
+cattle,beef,alfalfa,fresh (late vegetative),crude fiber,percent,24.2
+cattle,beef,alfalfa,fresh (late vegetative),ash,percent,10.2
+cattle,beef,alfalfa,fresh (late vegetative),neutral detergent fiber,percent,30.9
+cattle,beef,alfalfa,fresh (late vegetative),acid detergent fiber,percent,24
+cattle,beef,alfalfa,fresh (late vegetative),calcium,percent,1.71
+cattle,beef,alfalfa,fresh (late vegetative),phosphorus,percent,0.3
+cattle,beef,alfalfa,fresh (late vegetative),dry matter,percent,23.2
+cattle,beef,alfalfa,fresh (full bloom),digestible energy,Mcal/kg,2.22
+cattle,beef,alfalfa,fresh (full bloom),metabolizable energy,Mcal/kg,1.81
+cattle,beef,alfalfa,fresh (full bloom),net energy (maintenance),Mcal/kg,0.97
+cattle,beef,alfalfa,fresh (full bloom),net energy (gain),Mcal/kg,0.42
+cattle,beef,alfalfa,fresh (full bloom),total digestible nutrients,percent,50
+cattle,beef,alfalfa,fresh (full bloom),crude protein,percent,19.3
+cattle,beef,alfalfa,fresh (full bloom),crude fiber,percent,30.4
+cattle,beef,alfalfa,fresh (full bloom),ash,percent,10.9
+cattle,beef,alfalfa,fresh (full bloom),neutral detergent fiber,percent,4.79
+cattle,beef,alfalfa,fresh (full bloom),acid detergent fiber,percent,3.7
+cattle,beef,alfalfa,fresh (full bloom),calcium,percent,1.19
+cattle,beef,alfalfa,fresh (full bloom),phosphorus,percent,0.26
+cattle,beef,alfalfa,fresh (full bloom),dry matter,percent,23.8
+cattle,beef,alfalfa,hay,digestible energy,Mcal/kg,2.65
+cattle,beef,alfalfa,hay,metabolizable energy,Mcal/kg,2.17
+cattle,beef,alfalfa,hay,net energy (maintenance),Mcal/kg,1.31
+cattle,beef,alfalfa,hay,net energy (gain),Mcal/kg,0.74
+cattle,beef,alfalfa,hay,total digestible nutrients,percent,60
+cattle,beef,alfalfa,hay,crude protein,percent,18.6
+cattle,beef,alfalfa,hay,crude fiber,percent,26.1
+cattle,beef,alfalfa,hay,ash,percent,8.6
+cattle,beef,alfalfa,hay,neutral detergent fiber,percent,43.9
+cattle,beef,alfalfa,hay,acid detergent fiber,percent,33.8
+cattle,beef,alfalfa,hay,calcium,percent,1.4
+cattle,beef,alfalfa,hay,phosphorus,percent,0.28
+cattle,beef,alfalfa,hay,dry matter,percent,90.6
+cattle,beef,alfalfa,hay (sun-cured early bloom),digestible energy,Mcal/kg,2.64
+cattle,beef,alfalfa,hay (sun-cured early bloom),metabolizable energy,Mcal/kg,2.17
+cattle,beef,alfalfa,hay (sun-cured early bloom),net energy (maintenance),Mcal/kg,1.31
+cattle,beef,alfalfa,hay (sun-cured early bloom),net energy (gain),Mcal/kg,0.74
+cattle,beef,alfalfa,hay (sun-cured early bloom),total digestible nutrients,percent,60
+cattle,beef,alfalfa,hay (sun-cured early bloom),crude protein,percent,19.9
+cattle,beef,alfalfa,hay (sun-cured early bloom),crude fiber,percent,28.5
+cattle,beef,alfalfa,hay (sun-cured early bloom),ash,percent,9.2
+cattle,beef,alfalfa,hay (sun-cured early bloom),neutral detergent fiber,percent,39.3
+cattle,beef,alfalfa,hay (sun-cured early bloom),acid detergent fiber,percent,31.9
+cattle,beef,alfalfa,hay (sun-cured early bloom),calcium,percent,1.63
+cattle,beef,alfalfa,hay (sun-cured early bloom),phosphorus,percent,0.21
+cattle,beef,alfalfa,hay (sun-cured early bloom),dry matter,percent,90.5
+cattle,beef,alfalfa,hay (sun-cured full bloom),digestible energy,Mcal/kg,2.43
+cattle,beef,alfalfa,hay (sun-cured full bloom),metabolizable energy,Mcal/kg,1.99
+cattle,beef,alfalfa,hay (sun-cured full bloom),net energy (maintenance),Mcal/kg,1.14
+cattle,beef,alfalfa,hay (sun-cured full bloom),net energy (gain),Mcal/kg,0.58
+cattle,beef,alfalfa,hay (sun-cured full bloom),total digestible nutrients,percent,55
+cattle,beef,alfalfa,hay (sun-cured full bloom),crude protein,percent,177
+cattle,beef,alfalfa,hay (sun-cured full bloom),crude fiber,percent,30.1
+cattle,beef,alfalfa,hay (sun-cured full bloom),ash,percent,7.8
+cattle,beef,alfalfa,hay (sun-cured full bloom),neutral detergent fiber,percent,48.8
+cattle,beef,alfalfa,hay (sun-cured full bloom),acid detergent fiber,percent,38.7
+cattle,beef,alfalfa,hay (sun-cured full bloom),calcium,percent,1.19
+cattle,beef,alfalfa,hay (sun-cured full bloom),phosphorus,percent,0.24
+cattle,beef,alfalfa,hay (sun-cured full bloom),dry matter,percent,90.9
+cattle,beef,alfalfa,silage,digestible energy,Mcal/kg,2.78
+cattle,beef,alfalfa,silage,metabolizable energy,Mcal/kg,2.28
+cattle,beef,alfalfa,silage,net energy (maintenance),Mcal/kg,1.41
+cattle,beef,alfalfa,silage,net energy (gain),Mcal/kg,0.83
+cattle,beef,alfalfa,silage,total digestible nutrients,percent,63
+cattle,beef,alfalfa,silage,crude protein,percent,19.5
+cattle,beef,alfalfa,silage,crude fiber,percent,25.4
+cattle,beef,alfalfa,silage,ash,percent,9.5
+cattle,beef,alfalfa,silage,neutral detergent fiber,percent,47.5
+cattle,beef,alfalfa,silage,acid detergent fiber,percent,37.5
+cattle,beef,alfalfa,silage,calcium,percent,1.32
+cattle,beef,alfalfa,silage,phosphorus,percent,0.31
+cattle,beef,alfalfa,silage,dry matter,percent,44.2
+cattle,beef,barley,grain,digestible energy,Mcal/kg,3.84
+cattle,beef,barley,grain,metabolizable energy,Mcal/kg,3.03
+cattle,beef,barley,grain,net energy (maintenance),Mcal/kg,2.06
+cattle,beef,barley,grain,net energy (gain),Mcal/kg,1.4
+cattle,beef,barley,grain,total digestible nutrients,percent,88
+cattle,beef,barley,grain,crude protein,percent,13.2
+cattle,beef,barley,grain,crude fiber,percent,3.37
+cattle,beef,barley,grain,ash,percent,2.4
+cattle,beef,barley,grain,neutral detergent fiber,percent,18.1
+cattle,beef,barley,grain,acid detergent fiber,percent,5.8
+cattle,beef,barley,grain,calcium,percent,0.05
+cattle,beef,barley,grain,phosphorus,percent,0.35
+cattle,beef,barley,grain,dry matter,percent,88.1
+cattle,beef,barely,silage,digestible energy,Mcal/kg,2.65
+cattle,beef,barely,silage,metabolizable energy,Mcal/kg,2.17
+cattle,beef,barely,silage,net energy (maintenance),Mcal/kg,1.31
+cattle,beef,barely,silage,net energy (gain),Mcal/kg,0.74
+cattle,beef,barely,silage,total digestible nutrients,percent,60
+cattle,beef,barely,silage,crude protein,percent,11.9
+cattle,beef,barely,silage,crude fiber,percent,2.92
+cattle,beef,barely,silage,ash,percent,8.3
+cattle,beef,barely,silage,neutral detergent fiber,percent,56.8
+cattle,beef,barely,silage,acid detergent fiber,percent,33.9
+cattle,beef,barely,silage,calcium,percent,0.52
+cattle,beef,barely,silage,phosphorus,percent,0.29
+cattle,beef,barely,silage,dry matter,percent,37.1
+cattle,beef,barely,beet pulp (dried),digestible energy,Mcal/kg,3.26
+cattle,beef,barely,beet pulp (dried),metabolizable energy,Mcal/kg,2.68
+cattle,beef,barely,beet pulp (dried),net energy (maintenance),Mcal/kg,1.76
+cattle,beef,barely,beet pulp (dried),net energy (gain),Mcal/kg,1.14
+cattle,beef,barely,beet pulp (dried),total digestible nutrients,percent,74
+cattle,beef,barely,beet pulp (dried),crude protein,percent,9.8
+cattle,beef,barely,beet pulp (dried),crude fiber,percent,20
+cattle,beef,barely,beet pulp (dried),ash,percent,5.3
+cattle,beef,barely,beet pulp (dried),neutral detergent fiber,percent,44.6
+cattle,beef,barely,beet pulp (dried),acid detergent fiber,percent,27.5
+cattle,beef,barely,beet pulp (dried),calcium,percent,0.68
+cattle,beef,barely,beet pulp (dried),phosphorus,percent,0.1
+cattle,beef,barely,beet pulp (dried),dry matter,percent,91
+cattle,beef,bermuda grass,fresh ,digestible energy,Mcal/kg,2.82
+cattle,beef,bermuda grass,fresh ,metabolizable energy,Mcal/kg,2.31
+cattle,beef,bermuda grass,fresh ,net energy (maintenance),Mcal/kg,1.44
+cattle,beef,bermuda grass,fresh ,net energy (gain),Mcal/kg,0.86
+cattle,beef,bermuda grass,fresh ,total digestible nutrients,percent,64
+cattle,beef,bermuda grass,fresh ,crude protein,percent,12.6
+cattle,beef,bermuda grass,fresh ,crude fiber,percent,28.4
+cattle,beef,bermuda grass,fresh ,ash,percent,8.1
+cattle,beef,bermuda grass,fresh ,neutral detergent fiber,percent,73.3
+cattle,beef,bermuda grass,fresh ,acid detergent fiber,percent,36.8
+cattle,beef,bermuda grass,fresh ,calcium,percent,0.49
+cattle,beef,bermuda grass,fresh ,phosphorus,percent,0.27
+cattle,beef,bermuda grass,fresh ,dry matter,percent,30.3
+cattle,beef,bermuda grass,hay (sun cured),digestible energy,Mcal/kg,2.16
+cattle,beef,bermuda grass,hay (sun cured),metabolizable energy,Mcal/kg,1.77
+cattle,beef,bermuda grass,hay (sun cured),net energy (maintenance),Mcal/kg,0.93
+cattle,beef,bermuda grass,hay (sun cured),net energy (gain),Mcal/kg,0.39
+cattle,beef,bermuda grass,hay (sun cured),total digestible nutrients,percent,49
+cattle,beef,bermuda grass,hay (sun cured),crude protein,percent,7.8
+cattle,beef,bermuda grass,hay (sun cured),crude fiber,percent,2.7
+cattle,beef,bermuda grass,hay (sun cured),ash,percent,76.6
+cattle,beef,bermuda grass,hay (sun cured),calcium,percent,38.3
+cattle,beef,bermuda grass,hay (sun cured),phosphorus,percent,8
+cattle,beef,bermuda grass,hay (sun cured),dry matter,percent,93
+cattle,beef,bermuda grass,brewers grains (dried),digestible energy,Mcal/kg,2.39
+cattle,beef,bermuda grass,brewers grains (dried),metabolizable energy,Mcal/kg,2.39
+cattle,beef,bermuda grass,brewers grains (dried),net energy (maintenance),Mcal/kg,1.51
+cattle,beef,bermuda grass,brewers grains (dried),net energy (gain),Mcal/kg,0.91
+cattle,beef,bermuda grass,brewers grains (dried),total digestible nutrients,percent,66
+cattle,beef,bermuda grass,brewers grains (dried),crude protein,percent,29.2
+cattle,beef,bermuda grass,brewers grains (dried),crude fiber,percent,7.899
+cattle,beef,bermuda grass,brewers grains (dried),ash,percent,4.18
+cattle,beef,bermuda grass,brewers grains (dried),neutral detergent fiber,percent,48.7
+cattle,beef,bermuda grass,brewers grains (dried),acid detergent fiber,percent,31.2
+cattle,beef,bermuda grass,brewers grains (dried),calcium,percent,0.29
+cattle,beef,bermuda grass,brewers grains (dried),phosphorus,percent,0.7
+cattle,beef,bermuda grass,brewers grains (dried),dry matter,percent,90.2
+cattle,beef,bermuda grass,citrus pulp (dried),digestible energy,Mcal/kg,3.62
+cattle,beef,bermuda grass,citrus pulp (dried),metabolizable energy,Mcal/kg,2.96
+cattle,beef,bermuda grass,citrus pulp (dried),net energy (maintenance),Mcal/kg,2
+cattle,beef,bermuda grass,citrus pulp (dried),net energy (gain),Mcal/kg,1.35
+cattle,beef,bermuda grass,citrus pulp (dried),total digestible nutrients,percent,82
+cattle,beef,bermuda grass,citrus pulp (dried),crude protein,percent,6.7
+cattle,beef,bermuda grass,citrus pulp (dried),crude fiber,percent,12.8
+cattle,beef,bermuda grass,citrus pulp (dried),ash,percent,6.6
+cattle,beef,bermuda grass,citrus pulp (dried),neutral detergent fiber,percent,23
+cattle,beef,bermuda grass,citrus pulp (dried),acid detergent fiber,percent,23
+cattle,beef,bermuda grass,citrus pulp (dried),calcium,percent,1.88
+cattle,beef,bermuda grass,citrus pulp (dried),phosphorus,percent,0.18
+cattle,beef,bermuda grass,citrus pulp (dried),dry matter,percent,91.1
+cattle,beef,corn,distillers grains (dried),digestible energy,Mcal/kg,3.88
+cattle,beef,corn,distillers grains (dried),metabolizable energy,Mcal/kg,3.18
+cattle,beef,corn,distillers grains (dried),net energy (maintenance),Mcal/kg,2.18
+cattle,beef,corn,distillers grains (dried),net energy (gain),Mcal/kg,1.5
+cattle,beef,corn,distillers grains (dried),total digestible nutrients,percent,90
+cattle,beef,corn,distillers grains (dried),crude protein,percent,30.4
+cattle,beef,corn,distillers grains (dried),crude fiber,percent,6.9
+cattle,beef,corn,distillers grains (dried),ash,percent,4.6
+cattle,beef,corn,distillers grains (dried),neutral detergent fiber,percent,46
+cattle,beef,corn,distillers grains (dried),acid detergent fiber,percent,21.3
+cattle,beef,corn,distillers grains (dried),calcium,percent,0.26
+cattle,beef,corn,distillers grains (dried),phosphorus,percent,0.83
+cattle,beef,corn,distillers grains (dried),dry matter,percent,90.3
+cattle,beef,corn,gluten feed,digestible energy,Mcal/kg,3.53
+cattle,beef,corn,gluten feed,metabolizable energy,Mcal/kg,2.89
+cattle,beef,corn,gluten feed,net energy (maintenance),Mcal/kg,1.94
+cattle,beef,corn,gluten feed,net energy (gain),Mcal/kg,1.3
+cattle,beef,corn,gluten feed,total digestible nutrients,percent,80
+cattle,beef,corn,gluten feed,crude protein,percent,23.8
+cattle,beef,corn,gluten feed,crude fiber,percent,7.5
+cattle,beef,corn,gluten feed,ash,percent,6.9
+cattle,beef,corn,gluten feed,neutral detergent fiber,percent,36.2
+cattle,beef,corn,gluten feed,acid detergent fiber,percent,12.7
+cattle,beef,corn,gluten feed,calcium,percent,0.07
+cattle,beef,corn,gluten feed,phosphorus,percent,0.95
+cattle,beef,corn,gluten feed,dry matter,percent,90
+cattle,beef,corn,grain (cracked),digestible energy,Mcal/kg,3.92
+cattle,beef,corn,grain (cracked),metabolizable energy,Mcal/kg,3.25
+cattle,beef,corn,grain (cracked),net energy (maintenance),Mcal/kg,2.24
+cattle,beef,corn,grain (cracked),net energy (gain),Mcal/kg,1.55
+cattle,beef,corn,grain (cracked),total digestible nutrients,percent,90
+cattle,beef,corn,grain (cracked),crude protein,percent,9.8
+cattle,beef,corn,grain (cracked),crude fiber,percent,2.3
+cattle,beef,corn,grain (cracked),ash,percent,1.5
+cattle,beef,corn,grain (cracked),neutral detergent fiber,percent,10.8
+cattle,beef,corn,grain (cracked),acid detergent fiber,percent,3.3
+cattle,beef,corn,grain (cracked),calcium,percent,0.03
+cattle,beef,corn,grain (cracked),phosphorus,percent,0.32
+cattle,beef,corn,grain (cracked),dry matter,percent,90
+cattle,beef,corn,"silage, well eared",digestible energy,Mcal/kg,3.17
+cattle,beef,corn,"silage, well eared",metabolizable energy,Mcal/kg,2.6
+cattle,beef,corn,"silage, well eared",net energy (maintenance),Mcal/kg,1.69
+cattle,beef,corn,"silage, well eared",net energy (gain),Mcal/kg,1.08
+cattle,beef,corn,"silage, well eared",total digestible nutrients,percent,72
+cattle,beef,corn,"silage, well eared",crude protein,percent,8.7
+cattle,beef,corn,"silage, well eared",crude fiber,percent,19.5
+cattle,beef,corn,"silage, well eared",ash,percent,3.6
+cattle,beef,corn,"silage, well eared",neutral detergent fiber,percent,46
+cattle,beef,corn,"silage, well eared",acid detergent fiber,percent,26.6
+cattle,beef,corn,"silage, well eared",calcium,percent,0.25
+cattle,beef,corn,"silage, well eared",phosphorus,percent,0.22
+cattle,beef,corn,"silage, well eared",dry matter,percent,34.6
+cattle,beef,cotton,seed,digestible energy,Mcal/kg,3.97
+cattle,beef,cotton,seed,metabolizable energy,Mcal/kg,3.25
+cattle,beef,cotton,seed,net energy (maintenance),Mcal/kg,2.24
+cattle,beef,cotton,seed,net energy (gain),Mcal/kg,1.55
+cattle,beef,cotton,seed,total digestible nutrients,percent,90
+cattle,beef,cotton,seed,crude protein,percent,24.4
+cattle,beef,cotton,seed,crude fiber,percent,25.6
+cattle,beef,cotton,seed,ash,percent,4.2
+cattle,beef,cotton,seed,neutral detergent fiber,percent,51.6
+cattle,beef,cotton,seed,acid detergent fiber,percent,41.8
+cattle,beef,cotton,seed,calcium,percent,0.17
+cattle,beef,cotton,seed,phosphorus,percent,0.52
+cattle,beef,cotton,seed,dry matter,percent,89.4
+cattle,beef,cotton,meal,digestible energy,Mcal/kg,3.31
+cattle,beef,cotton,meal,metabolizable energy,Mcal/kg,2.71
+cattle,beef,cotton,meal,net energy (maintenance),Mcal/kg,1.79
+cattle,beef,cotton,meal,net energy (gain),Mcal/kg,1.16
+cattle,beef,cotton,meal,total digestible nutrients,percent,75
+cattle,beef,cotton,meal,crude protein,percent,46.1
+cattle,beef,cotton,meal,crude fiber,percent,13.2
+cattle,beef,cotton,meal,ash,percent,7
+cattle,beef,cotton,meal,neutral detergent fiber,percent,28.9
+cattle,beef,cotton,meal,acid detergent fiber,percent,17.9
+cattle,beef,cotton,meal,calcium,percent,0.2
+cattle,beef,cotton,meal,phosphorus,percent,1.16
+cattle,beef,cotton,meal,dry matter,percent,90.2
+cattle,beef,cotton,molasses (cane),digestible energy,Mcal/kg,3.17
+cattle,beef,cotton,molasses (cane),metabolizable energy,Mcal/kg,2.6
+cattle,beef,cotton,molasses (cane),net energy (maintenance),Mcal/kg,1.7
+cattle,beef,cotton,molasses (cane),net energy (gain),Mcal/kg,1.08
+cattle,beef,cotton,molasses (cane),total digestible nutrients,percent,72
+cattle,beef,cotton,molasses (cane),crude protein,percent,5.8
+cattle,beef,cotton,molasses (cane),crude fiber,percent,0.5
+cattle,beef,cotton,molasses (cane),ash,percent,13.3
+cattle,beef,cotton,molasses (cane),acid detergent fiber,percent,0.4
+cattle,beef,cotton,molasses (cane),calcium,percent,1
+cattle,beef,cotton,molasses (cane),phosphorus,percent,0.1
+cattle,beef,cotton,molasses (cane),dry matter,percent,74.3
+cattle,beef,cotton,oats,digestible energy,Mcal/kg,3.4
+cattle,beef,cotton,oats,metabolizable energy,Mcal/kg,2.78
+cattle,beef,cotton,oats,net energy (maintenance),Mcal/kg,1.85
+cattle,beef,cotton,oats,net energy (gain),Mcal/kg,1.22
+cattle,beef,cotton,oats,total digestible nutrients,percent,77
+cattle,beef,cotton,oats,crude protein,percent,13.6
+cattle,beef,cotton,oats,crude fiber,percent,12
+cattle,beef,cotton,oats,ash,percent,3.3
+cattle,beef,cotton,oats,neutral detergent fiber,percent,29.3
+cattle,beef,cotton,oats,acid detergent fiber,percent,14
+cattle,beef,cotton,oats,calcium,percent,0.01
+cattle,beef,cotton,oats,phosphorus,percent,0.41
+cattle,beef,cotton,oats,dry matter,percent,89.2
+cattle,beef,sorghum,grain,digestible energy,Mcal/kg,3.62
+cattle,beef,sorghum,grain,metabolizable energy,Mcal/kg,2.96
+cattle,beef,sorghum,grain,net energy (maintenance),Mcal/kg,2
+cattle,beef,sorghum,grain,net energy (gain),Mcal/kg,1.35
+cattle,beef,sorghum,grain,total digestible nutrients,percent,82
+cattle,beef,sorghum,grain,crude protein,percent,12.6
+cattle,beef,sorghum,grain,crude fiber,percent,2.76
+cattle,beef,sorghum,grain,ash,percent,1.9
+cattle,beef,sorghum,grain,neutral detergent fiber,percent,16.1
+cattle,beef,sorghum,grain,acid detergent fiber,percent,6.4
+cattle,beef,sorghum,grain,calcium,percent,0.04
+cattle,beef,sorghum,grain,phosphorus,percent,0.34
+cattle,beef,sorghum,grain,dry matter,percent,90
+cattle,beef,soybeans,meal,digestible energy,Mcal/kg,3.7
+cattle,beef,soybeans,meal,metabolizable energy,Mcal/kg,3.04
+cattle,beef,soybeans,meal,net energy (maintenance),Mcal/kg,2.06
+cattle,beef,soybeans,meal,net energy (gain),Mcal/kg,1.4
+cattle,beef,soybeans,meal,total digestible nutrients,percent,84
+cattle,beef,soybeans,meal,crude protein,percent,51.8
+cattle,beef,soybeans,meal,crude fiber,percent,5.4
+cattle,beef,soybeans,meal,ash,percent,6.9
+cattle,beef,soybeans,meal,neutral detergent fiber,percent,10.3
+cattle,beef,soybeans,meal,acid detergent fiber,percent,7
+cattle,beef,soybeans,meal,calcium,percent,0.46
+cattle,beef,soybeans,meal,phosphorus,percent,0.73
+cattle,beef,soybeans,meal,dry matter,percent,90.9
+cattle,beef,wheat,bran,digestible energy,Mcal/kg,3.09
+cattle,beef,wheat,bran,metabolizable energy,Mcal/kg,2.53
+cattle,beef,wheat,bran,net energy (maintenance),Mcal/kg,1.63
+cattle,beef,wheat,bran,net energy (gain),Mcal/kg,1.03
+cattle,beef,wheat,bran,total digestible nutrients,percent,70
+cattle,beef,wheat,bran,crude protein,percent,17.4
+cattle,beef,wheat,bran,crude fiber,percent,11.3
+cattle,beef,wheat,bran,ash,percent,6.6
+cattle,beef,wheat,bran,neutral detergent fiber,percent,42.8
+cattle,beef,wheat,bran,acid detergent fiber,percent,14
+cattle,beef,wheat,bran,calcium,percent,0.14
+cattle,beef,wheat,bran,phosphorus,percent,1.27
+cattle,beef,wheat,bran,dry matter,percent,89
+cattle,beef,wheat,fresh (early vegetative),digestible energy,Mcal/kg,3.22
+cattle,beef,wheat,fresh (early vegetative),metabolizable energy,Mcal/kg,2.64
+cattle,beef,wheat,fresh (early vegetative),net energy (maintenance),Mcal/kg,1.73
+cattle,beef,wheat,fresh (early vegetative),net energy (gain),Mcal/kg,1.11
+cattle,beef,wheat,fresh (early vegetative),total digestible nutrients,percent,73
+cattle,beef,wheat,fresh (early vegetative),crude protein,percent,27.4
+cattle,beef,wheat,fresh (early vegetative),crude fiber,percent,17.4
+cattle,beef,wheat,fresh (early vegetative),ash,percent,13.3
+cattle,beef,wheat,fresh (early vegetative),neutral detergent fiber,percent,46.2
+cattle,beef,wheat,fresh (early vegetative),acid detergent fiber,percent,28.4
+cattle,beef,wheat,fresh (early vegetative),calcium,percent,0.42
+cattle,beef,wheat,fresh (early vegetative),phosphorus,percent,0.4
+cattle,beef,wheat,fresh (early vegetative),dry matter,percent,22.2
+cattle,dairy,corn,ground shell,dry matter,percent,88
+cattle,dairy,corn,ground shell,metabolizable energy,Mcal/kg,3.12
+cattle,dairy,corn,ground shell,net energy (lactation),Mcal/kg,2.01
+cattle,dairy,corn,ground shell,net energy (maintenance),Mcal/kg,2.16
+cattle,dairy,corn,ground shell,net energy (gain),Mcal/kg,1.48
+cattle,dairy,corn,ground shell,neutral detergent fiber,percent,9.5
+cattle,dairy,corn,ground shell,non-fiber carbohydrate,percent,75.47
+cattle,dairy,corn,ground shell,crude protein,percent,9.4
+cattle,dairy,corn,silage,dry matter,percent,35
+cattle,dairy,corn,silage,metabolizable energy,Mcal/kg,2.33
+cattle,dairy,corn,silage,net energy (lactation),Mcal/kg,1.45
+cattle,dairy,corn,silage,net energy (maintenance),Mcal/kg,1.57
+cattle,dairy,corn,silage,net energy (gain),Mcal/kg,0.97
+cattle,dairy,corn,silage,neutral detergent fiber,percent,45
+cattle,dairy,corn,silage,non-fiber carbohydrate,percent,40
+cattle,dairy,corn,silage,crude protein,percent,8.8
