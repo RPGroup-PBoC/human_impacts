@@ -1,5 +1,6 @@
 import pandas as pd
 import squarify as sq
+import numpy as np
 from bokeh.themes import Theme
 from bokeh.models import *
 import matplotlib.pyplot as plt
@@ -7,11 +8,13 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 from matplotlib.path import Path
 from matplotlib.patches import BoxStyle
 from matplotlib.offsetbox import AnchoredText
+import geopandas as gpd
 import seaborn as sns
 import altair as alt
 import bokeh.io
+from . import geom
 
-
+# Style and useful function definitions.
 def titlebox(
     ax, text, color, bgcolor=None, size=8, boxsize=0.1, pad=0.05, loc=10, **kwargs
 ):
@@ -268,3 +271,18 @@ def plotting_style(grid=False):
     plt.rc('mathtext', fontset='stixsans', sf='sans')
     sns.set_style('darkgrid', rc=rc)
     return color_palette()
+
+def compute_voronoi_treemap(cell_names, cell_weights, imax=1000, error=0.001):
+    """
+    Computes a Voronoi treemap with a *single* layer.
+    """
+    vcell = geom.optimize_voronoi(cell_weights, imax=imax, error=0.001)
+    gdf = pd.concat([gpd.GeoSeries(cell) for cell in vcell]).pipe(gpd.GeoDataFrame)
+    gdf = gdf.rename(columns={0:'geometry'})
+    gdf['cell'] = np.arange(len(cell_names))
+    _df = pd.DataFrame([])
+    _df['name'] = cell_names
+    _df['weights'] = cell_weights
+    _df['cell'] = np.arange(len(cell_names))
+    result = gdf.merge(_df, on=['cell'])
+    return [result, vcell]

@@ -4,7 +4,7 @@ from os import path
 __version__ = '0.0.01'
 
 setup(
-    name='mwc',
+    name='anthro',
     version=__version__,
     description='Various python utilities used for the human impacts project',
     license='BSD',
