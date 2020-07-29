@@ -12,3 +12,4 @@ The index is computed by summing the squares of the maximum sustained wind speed
 **Notes**
 
 Plotting the ten-year rolling average of the data indicates a cycle of varying intensity of Atlantic hurricane seasons with a period of roughly 70 years.
+This is conjectured to be due to the Atlantic Multidecadal Oscillation (AMO), which affects sea surface temperatures in the North Atlantic.
