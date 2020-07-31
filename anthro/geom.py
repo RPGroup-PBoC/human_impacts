@@ -186,7 +186,7 @@ def compute_power_voronoi_map(S, W, border, eps):
 
         # get the lines associated with all the Voronoi cells
         edge_map = { }
-        for segment_list in voronoi_cell_map.values():
+        for segment_list in tqdm.tqdm(voronoi_cell_map.values(), desc='computing power diagram'):
             for edge, (A, U, tmin, tmax) in segment_list:
                 edge = tuple(sorted(edge))
                 if edge not in edge_map:
@@ -197,13 +197,12 @@ def compute_power_voronoi_map(S, W, border, eps):
 
                     edge_map[edge] = (A + tmin * U, A + tmax * U)
 
-        V_map = MultiLineString(list(edge_map.values())).buffer(eps)
+        V_cell = MultiLineString(list(edge_map.values())).buffer(eps)
 
-        V_cell = border.difference(V_map)
+        # V_cell = border.difference(V_map)
 
-        while len(S) != len(V_cell):
-            V_cell = VoronoiMap_fix(S, V_cell)
-
+        # while len(S) != len(V_cell):
+        #     V_cell = VoronoiMap_fix(S, V_cell)
 
 
     elif S.shape[0] <= 3:
@@ -236,7 +235,7 @@ def VoronoiMap_fix(S, V_cell):
     V_cell_ = MultiPolygon([cell for cell in V_cell if ((cell.intersection(S_points)).type  != 'MultiPoint')])
     V_ = MultiPolygon([cell for cell in V_cell if ((cell.intersection(S_points)).type  == 'MultiPoint')])
 
-    while (len(V_) >=1):
+    while len(V_) >=1:
         for cell in V_:
             V_ = MultiPolygon([P for P in V_ if P != cell])
             # identify the multipe voronoi points in cell
@@ -347,26 +346,29 @@ def adapt_weights(V_cell, S, bound, W, w_desired, err=0.001):
 def optimize_voronoi(weights, imax=100, err=0.001):
     # Random initialization of positions and weights
     N = len(weights)
-    S = 5 * disc_uniform_pick(N)
+    S = 10 * disc_uniform_pick(N)
     W = 0.8 * numpy.random.random(N) + 0.2
 
     # Define the bounding boox
-    b_s = 10
+    b_s = 15
     border = box(-b_s, -b_s, b_s, b_s)
 
     # Compute the initial power diagram. 
-    V_s = compute_power_voronoi_map(S, W, border, 1E-9)
+    V_s = compute_power_voronoi_map(S, W, border, 0)
 
     # Instantiate the iterator and error calculation.
     err_calc = numpy.inf
+    iteration = 0 
+    print('Beginning loop')
     for _ in range(imax):
+
         # Update the weights
         print('Updating positions weights')
         S, W = adapt_positions_weights(S, V_s, W)
 
         # Recompute the power diagram
         print('computing the power diagram')
-        V_s = compute_power_voronoi_map(S, W, border, 1E-9)
+        V_s = compute_power_voronoi_map(S, W, border, 0)
 
         # Adapt the weights
         print('Adapting the weights')
@@ -374,7 +376,7 @@ def optimize_voronoi(weights, imax=100, err=0.001):
 
         # Recompute the power diagram with updated weights. 
         print('Recomputing the power diagram')
-        V_s = compute_power_voronoi_map(S, W, border, 1E-9)
+        V_s = compute_power_voronoi_map(S, W, border, 0)
 
         # Perform the error calculation
         print('Evaluating error function')
@@ -388,14 +390,12 @@ def optimize_voronoi(weights, imax=100, err=0.001):
             area_difference += abs(cell.area - border.area * weights[i])
 
         # update the error calculation and the iteration number
-        err_calc = area_difference / (2 * border.area)**-1
-        if err_calc <= err:
-           return V_s
-           
+        print(f'Iteration {iteration} out of {imax}, error is {err_calc}, threshold is {err}')
+        err_calc = area_difference * (2 * border.area)**-1
+        iteration += 1
 
-    # Return the voronoi cells
-    print(f'Maximum number of iterations exceeded. Error calculation is {err_calc}, greater than threshold of {err}')
-    return V_s 
+
+    return V_s
 
 # --- Plot all the things -----------------------------------------------------
 
