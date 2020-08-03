@@ -151,8 +151,8 @@ the standing population by a factor of $\approx$ 4. We can remedy this apparent
 disagreement by realizing that with a lifespan of $\approx \frac{1}{8}$ year,
 the standing population can be computed as 
 $$
-N_\text{chicken}^\text{(standing pop) \approx \frac{70\cdot 10^9
-\text{chicken}}{\text{year}}\cdot\frac{1}{8}\text{year} \approx 10 \cdot 10^9 \text{chickens},
+N_\text{chicken}^\text{(standing pop)} \approx \frac{70\cdot 10^9
+\text{chicken}}{\text{year}}\cdot\frac{1}{8}\text{year} \approx 10^{10} \text{chickens},
 $${#eq:chicken_standing_pop}
 which is comparable to the $\approx 20 \cdot 10^9$ individuals reported by the
 FAO and shown in @Fig:standing_pop.
@@ -177,7 +177,7 @@ daily calories or $\approx$ 200 kcal. As everything begins as milk, we will atte
 total mass of cow milk produced annually. 
 
 Full-fat milk has a relatively low caloric density of $\approx$ 0.5
-kcal$\cdot$g^{-1}$ ( @muehlhoff2013, pp. 107). Thus, with $\approx$ 200
+kcal$\cdot$g$^{-1}$ ( @muehlhoff2013, pp. 107). Thus, with $\approx$ 200
 kcal$\cdot$day$^{-1}$, around $\approx$ 200 g of milk need to be consumed per
 person per day. It therefore follows that $\approx 10^{12}$ kg of milk are
 consumed globally per year. Similarly to our estimates for chicken product, our
@@ -187,13 +187,14 @@ yearly production of $\approx 6\cdot10^11$ kg$\cdot$year$^{-1}$
 
 Beef, like milk, also constitutes $\approx$ 10\% of daily calories in our
 archetypal diet. However, beef is significantly more calorie dense than milk
-with caloric density of $\approx$ 3 kcal$\cdot$g$^{-1}$. Thus, to intake
+with caloric density of $\approx$ 2 kcal$\cdot$g$^{-1}$ (GC note: according to
+[http://calories.info](https://www.calories.info/), want to get this data from
+USDA directly). Thus, to intake
 $\approx$ 200 kcal$\cdot$day$^{-1}$, our typical human has to consume on the
-order of 65 g of beef. As outlined in @Fig:cattle_estimate (A), expanding this
+order of 100 g of beef. As outlined in @Fig:cattle_estimate (A), expanding this
 to the $\approx 7 \cdot 10^{9}$ people on the planet results in $\sim 10^11$
 kg or $\sim$ 100 Mt a year. This estimate is within a factor of a few of the FAO
 measurement of $\approx$ 60 Mt$\cdot$year$^{-1}$. 
-
 
 How many cattle does it take to yield this amount of milk and beef? Like
 chicken, cattle come in two varieties with dairy cattle producing milk and beef
@@ -252,6 +253,36 @@ standard deviation of the 2010-2018 measurements.](figures/cattle_production_est
 
 
 #### Swine
+The final category of livestock animals we will explore via estimation here is
+the population of swine. Unlike chicken and cattle, swine are primarily used for
+a singular product, pork. To estimate the amount of pork consumed each year, we
+again note that in our typical diet, pork makes up $\approx$ 5\% of daily
+calories or $\approx$ 100 kcal. Like beef, pork is particularly calorie dense
+with $\approx$ 2 kcal$\cdot$g$^{-1}$ (GC Note: again from calorie.info, need to
+parse USDA data). As outlined in @Fig:pig_estimate (A), we arrive at an estimate
+on the order of $\sim 10^8$ kg or $\approx$ 100 Mt of pork product per year.
+This is in agreement with the FAO measurement of an average of $\approx 115$ Mt$\cdot$year$^{-1}$.
+
+Typical pork swine will weigh close to around $\approx$ 100 kg at slaughter,
+yielding a total of $\approx$ 70 kg of edible mass [@okaffa]. Using our estimate of
+$\approx$ 100 Mt of pork per year, we arrive at an estimate [@Fig:pig_estimate
+(B)] that $\approx 2\cdot 10^9$ hogs are slaughtered each year, in line with the
+average culling of $\approx 1.5 \cdot 10^9$ swine $\cdot$ year$^{-1}$ reported
+by the FAO. 
+
+Swine represent another category of livestock in which more are processed per
+year than exist in a standing population. Market pigs live approximately
+$\approx$ 6 months during which time they accumulate on the order of 5 kg per
+week from concentrate feeding []. With this relatively short residence time, there
+can be a somewhat rapid turnover in the pork population. Using this lifespan, we
+an compute the approximate swine standing population as 
+$$
+N_\text{swine}^\text{(standing pop.)} \approx \frac{1.5\cdot
+10^9\,\text{swine}}{\text{year}} \cdot \frac{1}{2}\text{year} \approx 10^9\,\text{swine}
+$${#eq:pork_standing_pop}
+which is inline with the data reported by the FAO and presented in @Fig:standing_pop.
+
+
 
 ![**Sizing up global mass of consumed pork product and processed population.**
 (A) Estimate for the mass of pork product produced. The daily caloric intake of
