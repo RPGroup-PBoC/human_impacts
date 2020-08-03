@@ -19,7 +19,7 @@ dates back to $\approx$ 11,000 BCE, with many of the staple animal protein sourc
 It is not hyperbolic to state that the pursuit of food security is the
 primary driving force of human society.
 
-With approximately $\approx 7\cdot10^9$ people on the planet today, each
+With approximately $\approx$ 7 $\cdot 10^9$ people on the planet today, each
 consuming $\approx$ 2000 kcal per day, our agricultural output must be on the order
 of $\sim 10^{14}$ consumable kJ per day. How have humans transformed the Earth to
 reliably meet this threshold? In this series of vignettes, we will explore
@@ -30,8 +30,7 @@ Our first category, the physical footprint of agriculture, will consider the
 numbers and biomass of food sources on the planet under agricultural
 maintenance as well as the space on which they are grown and harvested. In
 doing so, we will rely on a series of data sets collected over the past
-$\approx$ 50
-years from the Food and Agriculture Organization of the United Nations
+$\approx$ 50 years from the Food and Agriculture Organization of the United Nations
 Statistical Resources (FAOSTAT) as well as myriad industry data sets
 capturing the nutritional requirements of livestock and annual feed
 production. We will conclude our summary of the physical footprint by

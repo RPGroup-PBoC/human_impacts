@@ -2,7 +2,7 @@
 Any drive through the countryside, flight over the heartland of the central
 United States, or stroll through your local grocer will lead you to the same
 conclusion -- a large amount of resources are dedicated to the rearing of
-animals as a protein source. In general, $\approx$ 30% of the typical American
+animals as a protein source. In general, $\approx$ 30\% of the typical American
 diet is derived from animal products [@eshel2014] with the remainder coming from
 various crops which we will consider in depth later in this vignette. 
 
@@ -14,7 +14,7 @@ approximately the same time per year per reporting country, these data,
 portrayed graphically in @Fig:standing_pop_distribution (A), reflects a
 snapshot of how many animals livestock are under human agricultural maintenance.
 Chicken, both egg-laying and meat-producing varieties, are far and away the most
-abundance type of livestock on the planet with $\approx$ 20 billion individuals
+abundant type of livestock on the planet with $\approx$ 20 billion individuals
 under human care. Second to chicken are cattle, comprising approximately one
 tenth that of the chicken population at $\approx$ 2 billion individuals.
 Following cattle are swine at $\approx$ 1 billion individuals and then all other
@@ -73,19 +73,19 @@ will consume $\approx$ 1\% of their daily caloric intake from from
 chicken-derived eggs. To put this number in context, let's assume that the
 typical person consumes $\approx$ one-half dozen eggs per week. With $\approx$
 50 kcal per egg, this comes to a total of $\approx$ 300 kcal per week, which is
-$\approx$ 2% of a weekly caloric requirement of 14,000 kcal. Given that on
+$\approx$ 2\% of a weekly caloric requirement of 14,000 kcal. Given that on
 one-half dozen eggs per week may be a bit of an over estimate by a factor of
 $\approx$ a few, we can feel moderately confident that an estimate of 1\% is
 fair for the typical caloric contribution of eggs. 
 
 With a mass of $\approx$ 50 grams per egg and our previous assertion of
 $\approx$ 50 kcal per egg, we arrive at a caloric density of $\approx$ 1
-kcal$\cdot$g$^{-1}$ of egg consumed. Given this number we can quickly arrive at
+kcal $\cdot$ g$^{-1}$ of egg consumed. Given this number we can quickly arrive at
 an estimate that the typical human has to eat around one egg every other day or so.
-Coupled with a global population of $\approx$ 7$\cdot$10$^{9}$ people on the
+Coupled with a global population of $\approx 7 \cdot 10^{9}$ people on the
 planet, and 365 days per year, we can compute an estimated yearly mass of
-consumed eggs to be $\approx$ 5$\cdot$10$^{10}$ kg  or $\approx$ 50
-Mt$\cdot$year$^{-1}$.  This estimate, schematized in the top-panel of
+consumed eggs to be $\approx 5 \cdot$10$^{10}$ kg  or $\approx$ 50
+Mt $\cdot$ year$^{-1}$.  This estimate, schematized in the top-panel of
 @Fig:chicken_estimate (A) is well within a factor of two of the actual mass
 produced per year. Over the 2010-2018 year period of data collected by the FAO,
 there were on average $\approx$ 65 Mt of eggs produced per year. This, for
@@ -97,7 +97,7 @@ relying on the work of @eshel2014, poultry is responsible for $\approx$ 5\% of
 the typical caloric input or $\approx$ 100 kcal per day. The caloric density of
 poultry meat depends on the type of cut (dark meat or light meat), but for
 purposes we will make the approximation that it is similar to that of eggs or
-$\approx$1 kcal$\cdot$g$^{-1}$. This means that per day, our typical person must
+$\approx$ 1 kcal $\cdot$ g$^{-1}$. This means that per day, our typical person must
 consume $\approx$ 100 g or poultry per day. Following the procedure shown in the
 bottom panel of @Fig:chicken_estimate (A), we arrive at an estimate of $\sim$
 3$\sim$ 10$^{11}$ kg or $\sim$ 300 Mt per year. This number is within a factor
@@ -119,13 +119,13 @@ are the same. Typically, the breeds of chicken used to produce eggs have
 little-to-no overlap with the chicken breasts that decorate our grocery's
 coolers. Egg-producing chickens, colloquially termed "layer" chickens, typically
 live around 18 months and are able to begin laying eggs as early as four months
-of age. With a laying rate of $\approx$ 1 egg$\cdot$day$^{-1}$, the high-yield
-layer chicken can produce $\approx$ 350 eggs$\cdot$year$^{-1}$ [@zaheer2015]. We
+of age. With a laying rate of $\approx$ 1 egg $\cdot$ day$^{-1}$, the high-yield
+layer chicken can produce $\approx$ 350 eggs $\cdot$ year$^{-1}$ [@zaheer2015]. We
 will, for the sake of convenience, that all chickens globally operate at this
 high-yield. Again assuming a typical egg mass of $\approx$ 50 g, we arrive at an
-estimate of $\approx$ 3 $\times$10$^9$ layer chickens needed to produce the
+estimate of $\approx 3 \times 10^9$ layer chickens needed to produce the
 estimated annual mass of eggs produced globally. This estimate is very close to
-the FAO observed average of $\approx$ 7$\times$10$^9$ layer chickens per year.
+the FAO observed average of $\approx 7 \times 10^9$ layer chickens per year.
 Given that our approximation of all chickens as high-yield, 300 egg per year
 producing varieties, we expect our value to be a mild underestimate of the
 measured value. 
