@@ -1,0 +1,17 @@
+---
+geometry: margin=1in, footskip=0.85in
+fignos-cleveref: true
+reference-section-title: References 
+bibliography: library.bib
+date: \today
+link-citations: true
+header-includes:
+    \usepackage{microtype}
+    \usepackage{sectsty}
+    \usepackage{caption}
+    \usepackage{mathpazo}
+    \usepackage{setspace}
+    \onehalfspacing
+    \captionsetup[figure]{name={\bfseries\sffamily\selectfont Fig.}}
+    \captionsetup[figure]{labelsep=colon}
+---

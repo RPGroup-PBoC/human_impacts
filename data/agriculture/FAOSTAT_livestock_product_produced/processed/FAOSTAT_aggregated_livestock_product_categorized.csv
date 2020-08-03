@@ -1,0 +1,344 @@
+product,year,producing_population_Mhd,category
+Beef and Buffalo Meat,1961,180.70043,meat
+Beef and Buffalo Meat,1962,192.295024,meat
+Beef and Buffalo Meat,1963,202.010951,meat
+Beef and Buffalo Meat,1964,200.192259,meat
+Beef and Buffalo Meat,1965,200.184152,meat
+Beef and Buffalo Meat,1966,205.419077,meat
+Beef and Buffalo Meat,1967,213.560186,meat
+Beef and Buffalo Meat,1968,220.304388,meat
+Beef and Buffalo Meat,1969,221.105998,meat
+Beef and Buffalo Meat,1970,220.137951,meat
+Beef and Buffalo Meat,1971,214.284166,meat
+Beef and Buffalo Meat,1972,214.056236,meat
+Beef and Buffalo Meat,1973,214.322428,meat
+Beef and Buffalo Meat,1974,227.655042,meat
+Beef and Buffalo Meat,1975,243.71782,meat
+Beef and Buffalo Meat,1976,254.297067,meat
+Beef and Buffalo Meat,1977,255.057076,meat
+Beef and Buffalo Meat,1978,256.651008,meat
+Beef and Buffalo Meat,1979,248.774573,meat
+Beef and Buffalo Meat,1980,246.927394,meat
+Beef and Buffalo Meat,1981,249.424593,meat
+Beef and Buffalo Meat,1982,251.614525,meat
+Beef and Buffalo Meat,1983,253.863101,meat
+Beef and Buffalo Meat,1984,260.031899,meat
+Beef and Buffalo Meat,1985,261.093073,meat
+Beef and Buffalo Meat,1986,268.335635,meat
+Beef and Buffalo Meat,1987,265.482647,meat
+Beef and Buffalo Meat,1988,265.711761,meat
+Beef and Buffalo Meat,1989,265.845578,meat
+Beef and Buffalo Meat,1990,270.581774,meat
+Beef and Buffalo Meat,1991,272.853733,meat
+Beef and Buffalo Meat,1992,271.246619,meat
+Beef and Buffalo Meat,1993,272.507387,meat
+Beef and Buffalo Meat,1994,276.42767,meat
+Beef and Buffalo Meat,1995,278.724565,meat
+Beef and Buffalo Meat,1996,279.181186,meat
+Beef and Buffalo Meat,1997,287.624259,meat
+Beef and Buffalo Meat,1998,289.240603,meat
+Beef and Buffalo Meat,1999,291.544521,meat
+Beef and Buffalo Meat,2000,292.455281,meat
+Beef and Buffalo Meat,2001,287.451361,meat
+Beef and Buffalo Meat,2002,293.094265,meat
+Beef and Buffalo Meat,2003,296.969831,meat
+Beef and Buffalo Meat,2004,301.892071,meat
+Beef and Buffalo Meat,2005,304.685661,meat
+Beef and Buffalo Meat,2006,310.798241,meat
+Beef and Buffalo Meat,2007,316.720701,meat
+Beef and Buffalo Meat,2008,317.291863,meat
+Beef and Buffalo Meat,2009,316.563077,meat
+Beef and Buffalo Meat,2010,317.187693,meat
+Beef and Buffalo Meat,2011,316.289009,meat
+Beef and Buffalo Meat,2012,319.563211,meat
+Beef and Buffalo Meat,2013,323.704165,meat
+Beef and Buffalo Meat,2014,322.909898,meat
+Beef and Buffalo Meat,2015,320.438732,meat
+Beef and Buffalo Meat,2016,321.409942,meat
+Beef and Buffalo Meat,2017,325.060295,meat
+Beef and Buffalo Meat,2018,329.927148,meat
+Eggs Primary,1961,1949.397,eggs
+Eggs Primary,1962,2004.993,eggs
+Eggs Primary,1963,2003.272,eggs
+Eggs Primary,1964,2050.02,eggs
+Eggs Primary,1965,2119.629,eggs
+Eggs Primary,1966,2202.565,eggs
+Eggs Primary,1967,2293.091,eggs
+Eggs Primary,1968,2355.965,eggs
+Eggs Primary,1969,2437.523,eggs
+Eggs Primary,1970,2532.614,eggs
+Eggs Primary,1971,2619.837,eggs
+Eggs Primary,1972,2646.042,eggs
+Eggs Primary,1973,2739.856,eggs
+Eggs Primary,1974,2794.553,eggs
+Eggs Primary,1975,2843.062,eggs
+Eggs Primary,1976,2911.399,eggs
+Eggs Primary,1977,2973.657,eggs
+Eggs Primary,1978,2917.111,eggs
+Eggs Primary,1979,2983.204,eggs
+Eggs Primary,1980,3004.576,eggs
+Eggs Primary,1981,2997.676,eggs
+Eggs Primary,1982,3051.419,eggs
+Eggs Primary,1983,3106.749,eggs
+Eggs Primary,1984,3210.422,eggs
+Eggs Primary,1985,3330.725,eggs
+Eggs Primary,1986,3402.162,eggs
+Eggs Primary,1987,3481.378,eggs
+Eggs Primary,1988,3528.342,eggs
+Eggs Primary,1989,3564.872,eggs
+Eggs Primary,1990,3672.976,eggs
+Eggs Primary,1991,3772.652,eggs
+Eggs Primary,1992,3767.773,eggs
+Eggs Primary,1993,3810.296,eggs
+Eggs Primary,1994,4154.991,eggs
+Eggs Primary,1995,4299.356,eggs
+Eggs Primary,1996,4468.215,eggs
+Eggs Primary,1997,4608.049,eggs
+Eggs Primary,1998,4737.547,eggs
+Eggs Primary,1999,4889.429,eggs
+Eggs Primary,2000,5081.759,eggs
+Eggs Primary,2001,5218.192,eggs
+Eggs Primary,2002,5386.983,eggs
+Eggs Primary,2003,5484.753,eggs
+Eggs Primary,2004,5681.289,eggs
+Eggs Primary,2005,5857.51,eggs
+Eggs Primary,2006,6056.861,eggs
+Eggs Primary,2007,6221.495,eggs
+Eggs Primary,2008,6406.817,eggs
+Eggs Primary,2009,6510.613,eggs
+Eggs Primary,2010,6690.253,eggs
+Eggs Primary,2011,6786.69,eggs
+Eggs Primary,2012,7000.024,eggs
+Eggs Primary,2013,7168.703,eggs
+Eggs Primary,2014,7323.974,eggs
+Eggs Primary,2015,7440.246,eggs
+Eggs Primary,2016,7600.818,eggs
+Eggs Primary,2017,7712.277,eggs
+Eggs Primary,2018,7702.126,eggs
+"Meat indigenous, poultry",1961,7051.038,meat
+"Meat indigenous, poultry",1962,7310.379,meat
+"Meat indigenous, poultry",1963,7701.256,meat
+"Meat indigenous, poultry",1964,7987.544,meat
+"Meat indigenous, poultry",1965,8662.95,meat
+"Meat indigenous, poultry",1966,8838.936,meat
+"Meat indigenous, poultry",1967,9744.161,meat
+"Meat indigenous, poultry",1968,10065.954,meat
+"Meat indigenous, poultry",1969,10751.124,meat
+"Meat indigenous, poultry",1970,11669.957,meat
+"Meat indigenous, poultry",1971,12079.523,meat
+"Meat indigenous, poultry",1972,12874.827,meat
+"Meat indigenous, poultry",1973,13449.382,meat
+"Meat indigenous, poultry",1974,13961.235,meat
+"Meat indigenous, poultry",1975,14133.033,meat
+"Meat indigenous, poultry",1976,15077.771,meat
+"Meat indigenous, poultry",1977,16013.833,meat
+"Meat indigenous, poultry",1978,17089.716,meat
+"Meat indigenous, poultry",1979,18393.526,meat
+"Meat indigenous, poultry",1980,19369.157,meat
+"Meat indigenous, poultry",1981,20403.765,meat
+"Meat indigenous, poultry",1982,21095.347,meat
+"Meat indigenous, poultry",1983,21583.062,meat
+"Meat indigenous, poultry",1984,21958.292,meat
+"Meat indigenous, poultry",1985,22922.321,meat
+"Meat indigenous, poultry",1986,24119.541,meat
+"Meat indigenous, poultry",1987,25889.865,meat
+"Meat indigenous, poultry",1988,26910.388,meat
+"Meat indigenous, poultry",1989,27338.051,meat
+"Meat indigenous, poultry",1990,28806.412,meat
+"Meat indigenous, poultry",1991,30058.743,meat
+"Meat indigenous, poultry",1992,31132.815,meat
+"Meat indigenous, poultry",1993,32783.63,meat
+"Meat indigenous, poultry",1994,34235.992,meat
+"Meat indigenous, poultry",1995,36770.788,meat
+"Meat indigenous, poultry",1996,37782.707,meat
+"Meat indigenous, poultry",1997,39170.632,meat
+"Meat indigenous, poultry",1998,40063.326,meat
+"Meat indigenous, poultry",1999,42245.344,meat
+"Meat indigenous, poultry",2000,43798.446,meat
+"Meat indigenous, poultry",2001,45392.259,meat
+"Meat indigenous, poultry",2002,46914.756,meat
+"Meat indigenous, poultry",2003,47748.218,meat
+"Meat indigenous, poultry",2004,48623.775,meat
+"Meat indigenous, poultry",2005,50970.007,meat
+"Meat indigenous, poultry",2006,51699.601,meat
+"Meat indigenous, poultry",2007,54832.348,meat
+"Meat indigenous, poultry",2008,57564.86,meat
+"Meat indigenous, poultry",2009,59533.124,meat
+"Meat indigenous, poultry",2010,60721.781,meat
+"Meat indigenous, poultry",2011,62547.754,meat
+"Meat indigenous, poultry",2012,64248.203,meat
+"Meat indigenous, poultry",2013,65505.474,meat
+"Meat, Poultry",1961,7014.581,meat
+"Meat, Poultry",1962,7288.363,meat
+"Meat, Poultry",1963,7675.218,meat
+"Meat, Poultry",1964,7970.113,meat
+"Meat, Poultry",1965,8622.712,meat
+"Meat, Poultry",1966,8809.759,meat
+"Meat, Poultry",1967,9716.567,meat
+"Meat, Poultry",1968,10033.865,meat
+"Meat, Poultry",1969,10730.34,meat
+"Meat, Poultry",1970,11652.661,meat
+"Meat, Poultry",1971,12048.35,meat
+"Meat, Poultry",1972,12845.199,meat
+"Meat, Poultry",1973,13417.913,meat
+"Meat, Poultry",1974,13927.267,meat
+"Meat, Poultry",1975,14105.575,meat
+"Meat, Poultry",1976,15048.726,meat
+"Meat, Poultry",1977,15985.44,meat
+"Meat, Poultry",1978,17045.404,meat
+"Meat, Poultry",1979,18353.271,meat
+"Meat, Poultry",1980,19319.099,meat
+"Meat, Poultry",1981,20318.51,meat
+"Meat, Poultry",1982,21023.38,meat
+"Meat, Poultry",1983,21534.133,meat
+"Meat, Poultry",1984,21931.693,meat
+"Meat, Poultry",1985,22887.475,meat
+"Meat, Poultry",1986,24075.977,meat
+"Meat, Poultry",1987,25874.221,meat
+"Meat, Poultry",1988,26903.914,meat
+"Meat, Poultry",1989,27330.603,meat
+"Meat, Poultry",1990,28786.886,meat
+"Meat, Poultry",1991,29964.014,meat
+"Meat, Poultry",1992,31225.795,meat
+"Meat, Poultry",1993,32919.757,meat
+"Meat, Poultry",1994,34301.819,meat
+"Meat, Poultry",1995,36599.498,meat
+"Meat, Poultry",1996,37590.321,meat
+"Meat, Poultry",1997,39120.015,meat
+"Meat, Poultry",1998,40002.985,meat
+"Meat, Poultry",1999,42164.841,meat
+"Meat, Poultry",2000,43718.937,meat
+"Meat, Poultry",2001,45230.408,meat
+"Meat, Poultry",2002,46846.383,meat
+"Meat, Poultry",2003,47614.056,meat
+"Meat, Poultry",2004,48564.403,meat
+"Meat, Poultry",2005,50955.957,meat
+"Meat, Poultry",2006,51721.385,meat
+"Meat, Poultry",2007,54895.499,meat
+"Meat, Poultry",2008,57465.999,meat
+"Meat, Poultry",2009,59310.085,meat
+"Meat, Poultry",2010,60655.38,meat
+"Meat, Poultry",2011,62397.342,meat
+"Meat, Poultry",2012,63803.675,meat
+"Meat, Poultry",2013,64675.178,meat
+"Meat, Poultry",2014,66051.01,meat
+"Meat, Poultry",2015,68080.243,meat
+"Meat, Poultry",2016,69685.732,meat
+"Meat, Poultry",2017,71062.299,meat
+"Meat, Poultry",2018,73174.28,meat
+"Milk, Total",1961,389.107444,dairy
+"Milk, Total",1962,387.477385,dairy
+"Milk, Total",1963,389.216298,dairy
+"Milk, Total",1964,390.546558,dairy
+"Milk, Total",1965,394.236113,dairy
+"Milk, Total",1966,402.654807,dairy
+"Milk, Total",1967,405.495217,dairy
+"Milk, Total",1968,412.271039,dairy
+"Milk, Total",1969,413.211033,dairy
+"Milk, Total",1970,411.965756,dairy
+"Milk, Total",1971,414.378359,dairy
+"Milk, Total",1972,416.751254,dairy
+"Milk, Total",1973,418.416541,dairy
+"Milk, Total",1974,425.760001,dairy
+"Milk, Total",1975,435.301023,dairy
+"Milk, Total",1976,444.71454,dairy
+"Milk, Total",1977,456.312766,dairy
+"Milk, Total",1978,465.316035,dairy
+"Milk, Total",1979,475.854108,dairy
+"Milk, Total",1980,485.777002,dairy
+"Milk, Total",1981,494.730444,dairy
+"Milk, Total",1982,499.879007,dairy
+"Milk, Total",1983,508.607747,dairy
+"Milk, Total",1984,505.614365,dairy
+"Milk, Total",1985,511.068217,dairy
+"Milk, Total",1986,519.013726,dairy
+"Milk, Total",1987,523.532136,dairy
+"Milk, Total",1988,531.635056,dairy
+"Milk, Total",1989,541.618178,dairy
+"Milk, Total",1990,560.297728,dairy
+"Milk, Total",1991,575.934565,dairy
+"Milk, Total",1992,581.668433,dairy
+"Milk, Total",1993,585.761162,dairy
+"Milk, Total",1994,602.586304,dairy
+"Milk, Total",1995,609.877022,dairy
+"Milk, Total",1996,610.967027,dairy
+"Milk, Total",1997,615.855388,dairy
+"Milk, Total",1998,621.197886,dairy
+"Milk, Total",1999,632.900931,dairy
+"Milk, Total",2000,632.445663,dairy
+"Milk, Total",2001,634.626548,dairy
+"Milk, Total",2002,643.571035,dairy
+"Milk, Total",2003,650.295161,dairy
+"Milk, Total",2004,658.539076,dairy
+"Milk, Total",2005,677.280846,dairy
+"Milk, Total",2006,685.307194,dairy
+"Milk, Total",2007,705.480215,dairy
+"Milk, Total",2008,705.562434,dairy
+"Milk, Total",2009,729.074398,dairy
+"Milk, Total",2010,746.710728,dairy
+"Milk, Total",2011,758.920896,dairy
+"Milk, Total",2012,776.787671,dairy
+"Milk, Total",2013,772.904633,dairy
+"Milk, Total",2014,774.288802,dairy
+"Milk, Total",2015,795.366616,dairy
+"Milk, Total",2016,806.649957,dairy
+"Milk, Total",2017,813.295116,dairy
+"Milk, Total",2018,809.812895,dairy
+Sheep and Goat Meat,1961,433.822495,meat
+Sheep and Goat Meat,1962,446.155169,meat
+Sheep and Goat Meat,1963,449.587478,meat
+Sheep and Goat Meat,1964,452.576461,meat
+Sheep and Goat Meat,1965,450.974385,meat
+Sheep and Goat Meat,1966,464.640347,meat
+Sheep and Goat Meat,1967,467.187839,meat
+Sheep and Goat Meat,1968,476.668478,meat
+Sheep and Goat Meat,1969,476.46991,meat
+Sheep and Goat Meat,1970,486.355703,meat
+Sheep and Goat Meat,1971,494.288866,meat
+Sheep and Goat Meat,1972,497.476074,meat
+Sheep and Goat Meat,1973,489.800052,meat
+Sheep and Goat Meat,1974,478.581655,meat
+Sheep and Goat Meat,1975,499.371434,meat
+Sheep and Goat Meat,1976,495.134695,meat
+Sheep and Goat Meat,1977,501.697373,meat
+Sheep and Goat Meat,1978,515.001976,meat
+Sheep and Goat Meat,1979,514.739926,meat
+Sheep and Goat Meat,1980,540.80324,meat
+Sheep and Goat Meat,1981,563.788793,meat
+Sheep and Goat Meat,1982,567.594373,meat
+Sheep and Goat Meat,1983,584.677541,meat
+Sheep and Goat Meat,1984,589.252265,meat
+Sheep and Goat Meat,1985,603.475588,meat
+Sheep and Goat Meat,1986,606.217819,meat
+Sheep and Goat Meat,1987,632.668994,meat
+Sheep and Goat Meat,1988,648.163122,meat
+Sheep and Goat Meat,1989,675.031885,meat
+Sheep and Goat Meat,1990,692.667671,meat
+Sheep and Goat Meat,1991,703.074345,meat
+Sheep and Goat Meat,1992,708.708086,meat
+Sheep and Goat Meat,1993,711.557228,meat
+Sheep and Goat Meat,1994,725.236608,meat
+Sheep and Goat Meat,1995,750.600747,meat
+Sheep and Goat Meat,1996,729.3208,meat
+Sheep and Goat Meat,1997,750.860512,meat
+Sheep and Goat Meat,1998,776.423704,meat
+Sheep and Goat Meat,1999,797.368333,meat
+Sheep and Goat Meat,2000,813.515479,meat
+Sheep and Goat Meat,2001,813.562541,meat
+Sheep and Goat Meat,2002,820.854505,meat
+Sheep and Goat Meat,2003,847.102257,meat
+Sheep and Goat Meat,2004,871.2544,meat
+Sheep and Goat Meat,2005,896.908519,meat
+Sheep and Goat Meat,2006,915.349493,meat
+Sheep and Goat Meat,2007,932.641832,meat
+Sheep and Goat Meat,2008,935.319992,meat
+Sheep and Goat Meat,2009,941.964083,meat
+Sheep and Goat Meat,2010,945.826427,meat
+Sheep and Goat Meat,2011,942.102764,meat
+Sheep and Goat Meat,2012,960.054625,meat
+Sheep and Goat Meat,2013,984.109388,meat
+Sheep and Goat Meat,2014,1005.577522,meat
+Sheep and Goat Meat,2015,1020.199574,meat
+Sheep and Goat Meat,2016,1045.363977,meat
+Sheep and Goat Meat,2017,1034.344008,meat
+Sheep and Goat Meat,2018,1052.953275,meat
