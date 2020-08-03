@@ -11,7 +11,7 @@ has kept track of myriad data reflecting the extent, efficiency, and changes in
 global crop and livestock production. A key statistic tracked by the FAO is the
 global standing population of a wide variety of livestock. Collected at
 approximately the same time per year per reporting country, these data, 
-portrayed graphically in @Fig:standing_pop_distribution (A), reflects a
+portrayed graphically in @Fig:standing_pop (A), reflects a
 snapshot of how many animals livestock are under human agricultural maintenance.
 Chicken, both egg-laying and meat-producing varieties, are far and away the most
 abundant type of livestock on the planet with $\approx$ 20 billion individuals
@@ -84,12 +84,12 @@ kcal $\cdot$ g$^{-1}$ of egg consumed. Given this number we can quickly arrive a
 an estimate that the typical human has to eat around one egg every other day or so.
 Coupled with a global population of $\approx 7 \cdot 10^{9}$ people on the
 planet, and 365 days per year, we can compute an estimated yearly mass of
-consumed eggs to be $\approx 5 \cdot$10$^{10}$ kg  or $\approx$ 50
+consumed eggs to be $\approx 5 \cdot 10^{10}$ kg  or $\approx$ 50
 Mt $\cdot$ year$^{-1}$.  This estimate, schematized in the top-panel of
 @Fig:chicken_estimate (A) is well within a factor of two of the actual mass
 produced per year. Over the 2010-2018 year period of data collected by the FAO,
 there were on average $\approx$ 65 Mt of eggs produced per year. This, for
-reference, corresponds to $\sim$ 10$^{12}$ eggs or $\sim$ 100 billion cartons of
+reference, corresponds to $\sim 10^{12}$ eggs or $\sim$ 100 billion cartons of
 eggs. 
 
 How does this compare to poultry, the other potential fate of chicken? Again
@@ -133,24 +133,29 @@ measured value.
 Meat-producing chicken, typically referred to as "broiler" chickens, have also
 been the targets of intense industrial breeding to maximize yield. This variety
 of chicken has a remarkably short life span of $\approx$ 6 weeks, during which
-time they can accumulate $\approx$ 5 kg of body mass, a remarkable increase from
+time they can accumulate $\approx$ 4 kg of body mass, a remarkable increase from
 the $\approx$ 1 kg body mass of mature broiler chickens in the mid 1950's
 [@zuidhof2014;@tallentire2016]. Of this body mass, $\approx$ 70\% is ultimately
-harvested for human consumption and/or feed production [@kokoszynski2008]
+harvested [@kokoszynski2008] yielding around $\approx$ 3 kg of edible mass per
+broiler chicken. Combining this array of numbers, we can arrive at an estimate
+[bottom panel of @Fig:chicken_estimate (B)] of $\sim 10^{11}$ broiler chicken
+processed annually. Once again, this simple estimate is within a factor of a few
+of the FAO recorded number of $\approx 6 \cdot 10^{11}$ broiler chicken per
+year. This number dwarfs the number of layer chicken processed per year by
+nearly an order of magnitude, even though the difference in produced mass is
+only a factor of a few. 
 
-
-
-
- with another
-$\approx$ 5\% coming directly from chicken meat, hereafter termed "poultry".
-Given this breakdown, we can estimate the total mass of consumed  egg and
-poultry, ultimately allowing us to estimate the number of animals processed for
-this number. 
-
-
-With a $\approx$ 2000 kcal$\cdot$day$^{-1}$ diet, 
-
-
+Thus, on average, approximately $\approx$ 150 Mt of chicken product is produced
+annual from $\approx$ 70 billion individuals. The latter value is larger than
+the standing population by a factor of $\approx$ 4. We can remedy this apparent
+disagreement by realizing that with a lifespan of $\approx \frac{1}{8}$ year,
+the standing population can be computed as 
+$$
+N_\text{chicken}^\text{(standing pop) \approx \frac{70\cdot 10^9
+\text{chicken}}{\text{year}}\cdot\frac{1}{8}\text{year} \approx 10 \cdot 10^9 \text{chickens},
+$${#eq:chicken_standing_pop}
+which is comparable to the $\approx 20 \cdot 10^9$ individuals reported by the
+FAO and shown in @Fig:standing_pop.
 
 ![**Sizing up global mass of consumed chicken product and processed population.** (A) Estimate for the
 amount of eggs (top panel) and poultry (bottom panel) consumed per year. The daily
@@ -163,6 +168,77 @@ values for total mass and processed population is reported as the mean and
 standard deviation of the 2010-2018 measurements.](figures/chicken_production_estimate.pdf){#fig:chicken_estimate}
 
 #### Cattle
+With the population of chickens accounted for, we now turn our focus towards the
+next abundant member of livestock -- cattle. Like chicken, cattle are
+responsible for two major components of our typical human diet, dairy and beef.
+The former includes milk which can be transformed into a variety of different 
+foods such as cheese, butter, and curds, all of which make up $\approx$ 10\% of
+daily calories or $\approx$ 200 kcal. As everything begins as milk, we will attempt to estimate the
+total mass of cow milk produced annually. 
+
+Full-fat milk has a relatively low caloric density of $\approx$ 0.5
+kcal$\cdot$g^{-1}$ ( @muehlhoff2013, pp. 107). Thus, with $\approx$ 200
+kcal$\cdot$day$^{-1}$, around $\approx$ 200 g of milk need to be consumed per
+person per day. It therefore follows that $\approx 10^{12}$ kg of milk are
+consumed globally per year. Similarly to our estimates for chicken product, our
+estimate for milk production is within a factor of a few from the measured
+yearly production of $\approx 6\cdot10^11$ kg$\cdot$year$^{-1}$
+[@Fig:cattle_estimate (A)].
+
+Beef, like milk, also constitutes $\approx$ 10\% of daily calories in our
+archetypal diet. However, beef is significantly more calorie dense than milk
+with caloric density of $\approx$ 3 kcal$\cdot$g$^{-1}$. Thus, to intake
+$\approx$ 200 kcal$\cdot$day$^{-1}$, our typical human has to consume on the
+order of 65 g of beef. As outlined in @Fig:cattle_estimate (A), expanding this
+to the $\approx 7 \cdot 10^{9}$ people on the planet results in $\sim 10^11$
+kg or $\sim$ 100 Mt a year. This estimate is within a factor of a few of the FAO
+measurement of $\approx$ 60 Mt$\cdot$year$^{-1}$. 
+
+
+How many cattle does it take to yield this amount of milk and beef? Like
+chicken, cattle come in two varieties with dairy cattle producing milk and beef
+cattle producing, well, beef. As each variety has been intensively bread to
+prioritize milk or beef production, there is effectively zero overlap between
+the producing populations. The exception is that dairy cattle, when exhausted of
+their milk producing capacity, will be slaughtered for low-quality beef products
+or high-protein feed for other livestock. For simplicity, we will assume that
+the contribution of dairy cattle to yearly beef production is negligible. 
+
+Dairy cattle are remarkable in their ability to produce milk. In industrial
+settings, a high-yield dairy cow can produce around 30 L of milk per day or
+$\approx$ 30 kg. This is produced over a maximum of $\approx$ 10 months with at
+least 60-days of a rest period before lactation can resume. Thus, over a
+$\approx$ 300 day lactation season, a single cow can produce $\approx 10^4$ kg
+of milk ( @bello2012 Figure 1) -- an order of magnitude above what is typically produced in
+non-industrial conditions [@bello2012]. With $\approx$ 10$^{12}$
+kg milk $\cdot$year$^{-1}$, on the order of 10$^8$ dairy cattle are needed per
+year, a value within  a factor of a few of the FAO measurement of $3 \cdot
+10^8$.
+
+What about for beef? Beef cattle have been bred to be enormous, with the typical
+angus beef cattle being on the order of $\approx$ 500 - 1000 kg. This so-called
+"on-the-hoof" mass does not completely edible. After slaughter, the carcass is
+stripped of non-edible components resulting in a net edible mass of $\approx$
+200 kg of beef per cow [@foodsafetydivision]. Therefore $\approx 5\cdot 10^8$
+beef cattle are processed each year for beef, within a factor of two from the
+FAO measurement of $\approx 3 \cdot 10^8$.
+
+In total, $\approx$ 700 Mt of beef product is produced globally using $\approx$
+550 million cattle. In contrast to the utilized chicken population, this number
+is a factor of $\approx$ 3 *below* the FAO reported number for the standing
+cattle population. This again is due to the matter of lifespan. Cattle, whether
+beef or dairy, have a life span on the order of $\approx$ 2 - 3 years from birth
+to culling. Thus, between 2 and 3 times the global processed population will
+need to be reared per year to meet demand, meaning the standing population can
+be approximated as 
+$$
+N_\text{cattle}^\text{standing pop.} \approx \frac{5.5 \cdot
+10^8\,\text{cattle}}{\text{year}}\cdot 3\,\text{year} \approx 1.5 \cdot
+10^9\text{cattle},
+$${#eq:cattle_standing_pop}
+
+which is inline with the $\approx 2 \cdot 10^8$ cattle under global agricultural
+maintenance as reported by the FAO, shown in @Fig:standing_pop.
 
 ![**Sizing up global mass of consumed cow product and processed population.** (A) Estimate for the
 amount of milk (top panel) and beef (bottom panel) consumed per year. The daily
@@ -173,7 +249,6 @@ show the average distribution of cattle product (top) and processed cattle popul
 (bottom) from the years 2010-2018 as recorded in the FAOSTAT data base. Reported
 values for total mass and processed population is reported as the mean and
 standard deviation of the 2010-2018 measurements.](figures/cattle_production_estimate.pdf){#fig:cattle_estimate}
-
 
 
 #### Swine
