@@ -5,10 +5,12 @@ reference-section-title: References
 bibliography: library.bib
 date: \today
 link-citations: true
+numbersections: true
+indent: true
 header-includes:
     \usepackage{microtype}
     \usepackage{sectsty}
-    \usepackage{caption}
+    \usepackage[font=sf]{caption}
     \usepackage{mathpazo}
     \usepackage{setspace}
     \onehalfspacing

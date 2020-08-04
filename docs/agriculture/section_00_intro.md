@@ -9,7 +9,7 @@ author: Griffin Chure
 # Introduction 
 
 The advent of agriculture -- the science of maintaining, rearing, and
-expanding the cultivation of crops and animals for food security -- is
+expanding the cultivation of crops and animals for food security -- is a
 defining feature of humanity and is often credited with being the principal
 development that enables sedentary human civilization. While the harvesting
 of wild (i.e. not cultivated) grains has been documented as far back as
@@ -17,9 +17,9 @@ of wild (i.e. not cultivated) grains has been documented as far back as
 dates back to $\approx$ 11,000 BCE, with many of the staple animal protein sources
 (cattle, swine, and poultry) being domesticated within the past 10,000 years.
 It is not hyperbolic to state that the pursuit of food security is the
-primary driving force of human society.
+underlying driving force of almost all human activity.
 
-With approximately $\approx$ 7 $\cdot 10^9$ people on the planet today, each
+With approximately $\approx 7\cdot 10^9$ people on the planet today, each
 consuming $\approx$ 2000 kcal per day, our agricultural output must be on the order
 of $\sim 10^{14}$ consumable kJ per day. How have humans transformed the Earth to
 reliably meet this threshold? In this series of vignettes, we will explore
