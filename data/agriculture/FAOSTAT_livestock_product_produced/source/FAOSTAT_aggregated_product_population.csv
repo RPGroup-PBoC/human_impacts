@@ -1,344 +1,1363 @@
-Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1961,1961,Head,180700430,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1962,1962,Head,192295024,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1963,1963,Head,202010951,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1964,1964,Head,200192259,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1965,1965,Head,200184152,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1966,1966,Head,205419077,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1967,1967,Head,213560186,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1968,1968,Head,220304388,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1969,1969,Head,221105998,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1970,1970,Head,220137951,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1971,1971,Head,214284166,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1972,1972,Head,214056236,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1973,1973,Head,214322428,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1974,1974,Head,227655042,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1975,1975,Head,243717820,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1976,1976,Head,254297067,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1977,1977,Head,255057076,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1978,1978,Head,256651008,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1979,1979,Head,248774573,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1980,1980,Head,246927394,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1981,1981,Head,249424593,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1982,1982,Head,251614525,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1983,1983,Head,253863101,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1984,1984,Head,260031899,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1985,1985,Head,261093073,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1986,1986,Head,268335635,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1987,1987,Head,265482647,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1988,1988,Head,265711761,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1989,1989,Head,265845578,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1990,1990,Head,270581774,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1991,1991,Head,272853733,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1992,1992,Head,271246619,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1993,1993,Head,272507387,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1994,1994,Head,276427670,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1995,1995,Head,278724565,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1996,1996,Head,279181186,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1997,1997,Head,287624259,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1998,1998,Head,289240603,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,1999,1999,Head,291544521,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2000,2000,Head,292455281,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2001,2001,Head,287451361,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2002,2002,Head,293094265,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2003,2003,Head,296969831,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2004,2004,Head,301892071,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2005,2005,Head,304685661,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2006,2006,Head,310798241,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2007,2007,Head,316720701,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2008,2008,Head,317291863,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2009,2009,Head,316563077,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2010,2010,Head,317187693,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2011,2011,Head,316289009,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2012,2012,Head,319563211,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2013,2013,Head,323704165,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2014,2014,Head,322909898,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2015,2015,Head,320438732,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2016,2016,Head,321409942,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2017,2017,Head,325060295,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1806,Beef and Buffalo Meat,2018,2018,Head,329927148,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1961,1961,1000 Head,1949397,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1962,1962,1000 Head,2004993,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1963,1963,1000 Head,2003272,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1964,1964,1000 Head,2050020,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1965,1965,1000 Head,2119629,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1966,1966,1000 Head,2202565,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1967,1967,1000 Head,2293091,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1968,1968,1000 Head,2355965,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1969,1969,1000 Head,2437523,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1970,1970,1000 Head,2532614,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1971,1971,1000 Head,2619837,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1972,1972,1000 Head,2646042,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1973,1973,1000 Head,2739856,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1974,1974,1000 Head,2794553,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1975,1975,1000 Head,2843062,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1976,1976,1000 Head,2911399,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1977,1977,1000 Head,2973657,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1978,1978,1000 Head,2917111,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1979,1979,1000 Head,2983204,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1980,1980,1000 Head,3004576,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1981,1981,1000 Head,2997676,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1982,1982,1000 Head,3051419,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1983,1983,1000 Head,3106749,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1984,1984,1000 Head,3210422,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1985,1985,1000 Head,3330725,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1986,1986,1000 Head,3402162,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1987,1987,1000 Head,3481378,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1988,1988,1000 Head,3528342,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1989,1989,1000 Head,3564872,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1990,1990,1000 Head,3672976,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1991,1991,1000 Head,3772652,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1992,1992,1000 Head,3767773,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1993,1993,1000 Head,3810296,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1994,1994,1000 Head,4154991,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1995,1995,1000 Head,4299356,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1996,1996,1000 Head,4468215,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1997,1997,1000 Head,4608049,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1998,1998,1000 Head,4737547,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,1999,1999,1000 Head,4889429,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2000,2000,1000 Head,5081759,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2001,2001,1000 Head,5218192,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2002,2002,1000 Head,5386983,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2003,2003,1000 Head,5484753,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2004,2004,1000 Head,5681289,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2005,2005,1000 Head,5857510,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2006,2006,1000 Head,6056861,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2007,2007,1000 Head,6221495,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2008,2008,1000 Head,6406817,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2009,2009,1000 Head,6510613,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2010,2010,1000 Head,6690253,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2011,2011,1000 Head,6786690,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2012,2012,1000 Head,7000024,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2013,2013,1000 Head,7168703,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2014,2014,1000 Head,7323974,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2015,2015,1000 Head,7440246,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2016,2016,1000 Head,7600818,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2017,2017,1000 Head,7712277,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5313,Laying,1783,Eggs Primary,2018,2018,1000 Head,7702126,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1961,1961,1000 Head,7051038,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1962,1962,1000 Head,7310379,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1963,1963,1000 Head,7701256,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1964,1964,1000 Head,7987544,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1965,1965,1000 Head,8662950,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1966,1966,1000 Head,8838936,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1967,1967,1000 Head,9744161,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1968,1968,1000 Head,10065954,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1969,1969,1000 Head,10751124,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1970,1970,1000 Head,11669957,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1971,1971,1000 Head,12079523,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1972,1972,1000 Head,12874827,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1973,1973,1000 Head,13449382,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1974,1974,1000 Head,13961235,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1975,1975,1000 Head,14133033,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1976,1976,1000 Head,15077771,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1977,1977,1000 Head,16013833,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1978,1978,1000 Head,17089716,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1979,1979,1000 Head,18393526,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1980,1980,1000 Head,19369157,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1981,1981,1000 Head,20403765,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1982,1982,1000 Head,21095347,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1983,1983,1000 Head,21583062,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1984,1984,1000 Head,21958292,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1985,1985,1000 Head,22922321,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1986,1986,1000 Head,24119541,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1987,1987,1000 Head,25889865,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1988,1988,1000 Head,26910388,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1989,1989,1000 Head,27338051,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1990,1990,1000 Head,28806412,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1991,1991,1000 Head,30058743,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1992,1992,1000 Head,31132815,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1993,1993,1000 Head,32783630,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1994,1994,1000 Head,34235992,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1995,1995,1000 Head,36770788,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1996,1996,1000 Head,37782707,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1997,1997,1000 Head,39170632,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1998,1998,1000 Head,40063326,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",1999,1999,1000 Head,42245344,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2000,2000,1000 Head,43798446,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2001,2001,1000 Head,45392259,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2002,2002,1000 Head,46914756,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2003,2003,1000 Head,47748218,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2004,2004,1000 Head,48623775,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2005,2005,1000 Head,50970007,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2006,2006,1000 Head,51699601,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2007,2007,1000 Head,54832348,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2008,2008,1000 Head,57564860,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2009,2009,1000 Head,59533124,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2010,2010,1000 Head,60721781,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2011,2011,1000 Head,62547754,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2012,2012,1000 Head,64248203,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5323,Production,1775,"Meat indigenous, poultry",2013,2013,1000 Head,65505474,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1961,1961,1000 Head,7014581,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1962,1962,1000 Head,7288363,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1963,1963,1000 Head,7675218,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1964,1964,1000 Head,7970113,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1965,1965,1000 Head,8622712,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1966,1966,1000 Head,8809759,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1967,1967,1000 Head,9716567,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1968,1968,1000 Head,10033865,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1969,1969,1000 Head,10730340,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1970,1970,1000 Head,11652661,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1971,1971,1000 Head,12048350,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1972,1972,1000 Head,12845199,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1973,1973,1000 Head,13417913,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1974,1974,1000 Head,13927267,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1975,1975,1000 Head,14105575,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1976,1976,1000 Head,15048726,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1977,1977,1000 Head,15985440,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1978,1978,1000 Head,17045404,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1979,1979,1000 Head,18353271,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1980,1980,1000 Head,19319099,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1981,1981,1000 Head,20318510,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1982,1982,1000 Head,21023380,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1983,1983,1000 Head,21534133,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1984,1984,1000 Head,21931693,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1985,1985,1000 Head,22887475,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1986,1986,1000 Head,24075977,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1987,1987,1000 Head,25874221,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1988,1988,1000 Head,26903914,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1989,1989,1000 Head,27330603,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1990,1990,1000 Head,28786886,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1991,1991,1000 Head,29964014,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1992,1992,1000 Head,31225795,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1993,1993,1000 Head,32919757,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1994,1994,1000 Head,34301819,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1995,1995,1000 Head,36599498,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1996,1996,1000 Head,37590321,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1997,1997,1000 Head,39120015,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1998,1998,1000 Head,40002985,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",1999,1999,1000 Head,42164841,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2000,2000,1000 Head,43718937,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2001,2001,1000 Head,45230408,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2002,2002,1000 Head,46846383,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2003,2003,1000 Head,47614056,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2004,2004,1000 Head,48564403,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2005,2005,1000 Head,50955957,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2006,2006,1000 Head,51721385,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2007,2007,1000 Head,54895499,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2008,2008,1000 Head,57465999,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2009,2009,1000 Head,59310085,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2010,2010,1000 Head,60655380,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2011,2011,1000 Head,62397342,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2012,2012,1000 Head,63803675,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2013,2013,1000 Head,64675178,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2014,2014,1000 Head,66051010,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2015,2015,1000 Head,68080243,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2016,2016,1000 Head,69685732,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2017,2017,1000 Head,71062299,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5321,Producing Animals/Slaughtered,1808,"Meat, Poultry",2018,2018,1000 Head,73174280,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1961,1961,Head,389107444,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1962,1962,Head,387477385,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1963,1963,Head,389216298,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1964,1964,Head,390546558,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1965,1965,Head,394236113,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1966,1966,Head,402654807,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1967,1967,Head,405495217,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1968,1968,Head,412271039,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1969,1969,Head,413211033,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1970,1970,Head,411965756,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1971,1971,Head,414378359,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1972,1972,Head,416751254,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1973,1973,Head,418416541,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1974,1974,Head,425760001,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1975,1975,Head,435301023,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1976,1976,Head,444714540,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1977,1977,Head,456312766,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1978,1978,Head,465316035,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1979,1979,Head,475854108,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1980,1980,Head,485777002,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1981,1981,Head,494730444,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1982,1982,Head,499879007,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1983,1983,Head,508607747,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1984,1984,Head,505614365,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1985,1985,Head,511068217,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1986,1986,Head,519013726,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1987,1987,Head,523532136,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1988,1988,Head,531635056,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1989,1989,Head,541618178,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1990,1990,Head,560297728,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1991,1991,Head,575934565,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1992,1992,Head,581668433,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1993,1993,Head,585761162,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1994,1994,Head,602586304,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1995,1995,Head,609877022,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1996,1996,Head,610967027,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1997,1997,Head,615855388,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1998,1998,Head,621197886,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",1999,1999,Head,632900931,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2000,2000,Head,632445663,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2001,2001,Head,634626548,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2002,2002,Head,643571035,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2003,2003,Head,650295161,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2004,2004,Head,658539076,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2005,2005,Head,677280846,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2006,2006,Head,685307194,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2007,2007,Head,705480215,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2008,2008,Head,705562434,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2009,2009,Head,729074398,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2010,2010,Head,746710728,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2011,2011,Head,758920896,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2012,2012,Head,776787671,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2013,2013,Head,772904633,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2014,2014,Head,774288802,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2015,2015,Head,795366616,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2016,2016,Head,806649957,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2017,2017,Head,813295116,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5318,Milk Animals,1780,"Milk, Total",2018,2018,Head,809812895,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1961,1961,Head,433822495,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1962,1962,Head,446155169,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1963,1963,Head,449587478,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1964,1964,Head,452576461,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1965,1965,Head,450974385,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1966,1966,Head,464640347,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1967,1967,Head,467187839,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1968,1968,Head,476668478,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1969,1969,Head,476469910,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1970,1970,Head,486355703,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1971,1971,Head,494288866,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1972,1972,Head,497476074,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1973,1973,Head,489800052,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1974,1974,Head,478581655,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1975,1975,Head,499371434,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1976,1976,Head,495134695,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1977,1977,Head,501697373,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1978,1978,Head,515001976,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1979,1979,Head,514739926,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1980,1980,Head,540803240,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1981,1981,Head,563788793,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1982,1982,Head,567594373,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1983,1983,Head,584677541,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1984,1984,Head,589252265,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1985,1985,Head,603475588,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1986,1986,Head,606217819,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1987,1987,Head,632668994,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1988,1988,Head,648163122,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1989,1989,Head,675031885,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1990,1990,Head,692667671,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1991,1991,Head,703074345,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1992,1992,Head,708708086,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1993,1993,Head,711557228,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1994,1994,Head,725236608,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1995,1995,Head,750600747,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1996,1996,Head,729320800,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1997,1997,Head,750860512,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1998,1998,Head,776423704,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,1999,1999,Head,797368333,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2000,2000,Head,813515479,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2001,2001,Head,813562541,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2002,2002,Head,820854505,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2003,2003,Head,847102257,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2004,2004,Head,871254400,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2005,2005,Head,896908519,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2006,2006,Head,915349493,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2007,2007,Head,932641832,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2008,2008,Head,935319992,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2009,2009,Head,941964083,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2010,2010,Head,945826427,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2011,2011,Head,942102764,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2012,2012,Head,960054625,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2013,2013,Head,984109388,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2014,2014,Head,1005577522,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2015,2015,Head,1020199574,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2016,2016,Head,1045363977,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2017,2017,Head,1034344008,A,"Aggregate, may include official, semi-official, estimated or calculated data"
-QL,Livestock Primary,5000,World,5320,Producing Animals/Slaughtered,1807,Sheep and Goat Meat,2018,2018,Head,1052953275,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+category,Item,Year,Unit,Value,producing_population_Mhd
+eggs,"Eggs, hen, in shell",1961,1000 Head,1893282,1893.282
+eggs,"Eggs, hen, in shell",1962,1000 Head,1947569,1947.569
+eggs,"Eggs, hen, in shell",1963,1000 Head,1945340,1945.34
+eggs,"Eggs, hen, in shell",1964,1000 Head,1991798,1991.798
+eggs,"Eggs, hen, in shell",1965,1000 Head,2061013,2061.013
+eggs,"Eggs, hen, in shell",1966,1000 Head,2143234,2143.234
+eggs,"Eggs, hen, in shell",1967,1000 Head,2233265,2233.265
+eggs,"Eggs, hen, in shell",1968,1000 Head,2294618,2294.618
+eggs,"Eggs, hen, in shell",1969,1000 Head,2375499,2375.499
+eggs,"Eggs, hen, in shell",1970,1000 Head,2470400,2470.4
+eggs,"Eggs, hen, in shell",1971,1000 Head,2557400,2557.4
+eggs,"Eggs, hen, in shell",1972,1000 Head,2583485,2583.485
+eggs,"Eggs, hen, in shell",1973,1000 Head,2677180,2677.18
+eggs,"Eggs, hen, in shell",1974,1000 Head,2732832,2732.832
+eggs,"Eggs, hen, in shell",1975,1000 Head,2775080,2775.08
+eggs,"Eggs, hen, in shell",1976,1000 Head,2843289,2843.289
+eggs,"Eggs, hen, in shell",1977,1000 Head,2899304,2899.304
+eggs,"Eggs, hen, in shell",1978,1000 Head,2840525,2840.525
+eggs,"Eggs, hen, in shell",1979,1000 Head,2903327,2903.327
+eggs,"Eggs, hen, in shell",1980,1000 Head,2923330,2923.33
+eggs,"Eggs, hen, in shell",1981,1000 Head,2917545,2917.545
+eggs,"Eggs, hen, in shell",1982,1000 Head,2971253,2971.253
+eggs,"Eggs, hen, in shell",1983,1000 Head,3027747,3027.747
+eggs,"Eggs, hen, in shell",1984,1000 Head,3130617,3130.617
+eggs,"Eggs, hen, in shell",1985,1000 Head,3256304,3256.304
+eggs,"Eggs, hen, in shell",1986,1000 Head,3324990,3324.99
+eggs,"Eggs, hen, in shell",1987,1000 Head,3406849,3406.849
+eggs,"Eggs, hen, in shell",1988,1000 Head,3457889,3457.889
+eggs,"Eggs, hen, in shell",1989,1000 Head,3497714,3497.714
+eggs,"Eggs, hen, in shell",1990,1000 Head,3604338,3604.338
+eggs,"Eggs, hen, in shell",1991,1000 Head,3699594,3699.594
+eggs,"Eggs, hen, in shell",1992,1000 Head,3688089,3688.089
+eggs,"Eggs, hen, in shell",1993,1000 Head,3726720,3726.72
+eggs,"Eggs, hen, in shell",1994,1000 Head,4065923,4065.923
+eggs,"Eggs, hen, in shell",1995,1000 Head,4207945,4207.945
+eggs,"Eggs, hen, in shell",1996,1000 Head,4363000,4363
+eggs,"Eggs, hen, in shell",1997,1000 Head,4495168,4495.168
+eggs,"Eggs, hen, in shell",1998,1000 Head,4621816,4621.816
+eggs,"Eggs, hen, in shell",1999,1000 Head,4784073,4784.073
+eggs,"Eggs, hen, in shell",2000,1000 Head,4973197,4973.197
+eggs,"Eggs, hen, in shell",2001,1000 Head,5104308,5104.308
+eggs,"Eggs, hen, in shell",2002,1000 Head,5268888,5268.888
+eggs,"Eggs, hen, in shell",2003,1000 Head,5362263,5362.263
+eggs,"Eggs, hen, in shell",2004,1000 Head,5557018,5557.018
+eggs,"Eggs, hen, in shell",2005,1000 Head,5722981,5722.981
+eggs,"Eggs, hen, in shell",2006,1000 Head,5918965,5918.965
+eggs,"Eggs, hen, in shell",2007,1000 Head,6077780,6077.78
+eggs,"Eggs, hen, in shell",2008,1000 Head,6254368,6254.368
+eggs,"Eggs, hen, in shell",2009,1000 Head,6348052,6348.052
+eggs,"Eggs, hen, in shell",2010,1000 Head,6520831,6520.831
+eggs,"Eggs, hen, in shell",2011,1000 Head,6616656,6616.656
+eggs,"Eggs, hen, in shell",2012,1000 Head,6819159,6819.159
+eggs,"Eggs, hen, in shell",2013,1000 Head,6974713,6974.713
+eggs,"Eggs, hen, in shell",2014,1000 Head,7111061,7111.061
+eggs,"Eggs, hen, in shell",2015,1000 Head,7223672,7223.672
+eggs,"Eggs, hen, in shell",2016,1000 Head,7389729,7389.729
+eggs,"Eggs, hen, in shell",2017,1000 Head,7483715,7483.715
+eggs,"Eggs, hen, in shell",2018,1000 Head,7466460,7466.46
+eggs,"Eggs, other bird, in shell",1961,1000 Head,56115,56.115
+eggs,"Eggs, other bird, in shell",1962,1000 Head,57424,57.424
+eggs,"Eggs, other bird, in shell",1963,1000 Head,57932,57.932
+eggs,"Eggs, other bird, in shell",1964,1000 Head,58222,58.222
+eggs,"Eggs, other bird, in shell",1965,1000 Head,58616,58.616
+eggs,"Eggs, other bird, in shell",1966,1000 Head,59331,59.331
+eggs,"Eggs, other bird, in shell",1967,1000 Head,59826,59.826
+eggs,"Eggs, other bird, in shell",1968,1000 Head,61347,61.347
+eggs,"Eggs, other bird, in shell",1969,1000 Head,62024,62.024
+eggs,"Eggs, other bird, in shell",1970,1000 Head,62214,62.214
+eggs,"Eggs, other bird, in shell",1971,1000 Head,62438,62.438
+eggs,"Eggs, other bird, in shell",1972,1000 Head,62558,62.558
+eggs,"Eggs, other bird, in shell",1973,1000 Head,62676,62.676
+eggs,"Eggs, other bird, in shell",1974,1000 Head,61721,61.721
+eggs,"Eggs, other bird, in shell",1975,1000 Head,67982,67.982
+eggs,"Eggs, other bird, in shell",1976,1000 Head,68110,68.11
+eggs,"Eggs, other bird, in shell",1977,1000 Head,74353,74.353
+eggs,"Eggs, other bird, in shell",1978,1000 Head,76586,76.586
+eggs,"Eggs, other bird, in shell",1979,1000 Head,79877,79.877
+eggs,"Eggs, other bird, in shell",1980,1000 Head,81246,81.246
+eggs,"Eggs, other bird, in shell",1981,1000 Head,80132,80.132
+eggs,"Eggs, other bird, in shell",1982,1000 Head,80166,80.166
+eggs,"Eggs, other bird, in shell",1983,1000 Head,79002,79.002
+eggs,"Eggs, other bird, in shell",1984,1000 Head,79805,79.805
+eggs,"Eggs, other bird, in shell",1985,1000 Head,74421,74.421
+eggs,"Eggs, other bird, in shell",1986,1000 Head,77172,77.172
+eggs,"Eggs, other bird, in shell",1987,1000 Head,74529,74.529
+eggs,"Eggs, other bird, in shell",1988,1000 Head,70453,70.453
+eggs,"Eggs, other bird, in shell",1989,1000 Head,67158,67.158
+eggs,"Eggs, other bird, in shell",1990,1000 Head,68638,68.638
+eggs,"Eggs, other bird, in shell",1991,1000 Head,73058,73.058
+eggs,"Eggs, other bird, in shell",1992,1000 Head,79684,79.684
+eggs,"Eggs, other bird, in shell",1993,1000 Head,83576,83.576
+eggs,"Eggs, other bird, in shell",1994,1000 Head,89068,89.068
+eggs,"Eggs, other bird, in shell",1995,1000 Head,91411,91.411
+eggs,"Eggs, other bird, in shell",1996,1000 Head,105215,105.215
+eggs,"Eggs, other bird, in shell",1997,1000 Head,112882,112.882
+eggs,"Eggs, other bird, in shell",1998,1000 Head,115732,115.732
+eggs,"Eggs, other bird, in shell",1999,1000 Head,105356,105.356
+eggs,"Eggs, other bird, in shell",2000,1000 Head,108562,108.562
+eggs,"Eggs, other bird, in shell",2001,1000 Head,113883,113.883
+eggs,"Eggs, other bird, in shell",2002,1000 Head,118095,118.095
+eggs,"Eggs, other bird, in shell",2003,1000 Head,122489,122.489
+eggs,"Eggs, other bird, in shell",2004,1000 Head,124271,124.271
+eggs,"Eggs, other bird, in shell",2005,1000 Head,134529,134.529
+eggs,"Eggs, other bird, in shell",2006,1000 Head,137895,137.895
+eggs,"Eggs, other bird, in shell",2007,1000 Head,143715,143.715
+eggs,"Eggs, other bird, in shell",2008,1000 Head,152449,152.449
+eggs,"Eggs, other bird, in shell",2009,1000 Head,162562,162.562
+eggs,"Eggs, other bird, in shell",2010,1000 Head,169422,169.422
+eggs,"Eggs, other bird, in shell",2011,1000 Head,170034,170.034
+eggs,"Eggs, other bird, in shell",2012,1000 Head,180866,180.866
+eggs,"Eggs, other bird, in shell",2013,1000 Head,193990,193.99
+eggs,"Eggs, other bird, in shell",2014,1000 Head,212914,212.914
+eggs,"Eggs, other bird, in shell",2015,1000 Head,216574,216.574
+eggs,"Eggs, other bird, in shell",2016,1000 Head,211089,211.089
+eggs,"Eggs, other bird, in shell",2017,1000 Head,228562,228.562
+eggs,"Eggs, other bird, in shell",2018,1000 Head,235666,235.666
+meat,"Meat, ass",1961,Head,245200,0.2452
+meat,"Meat, ass",1962,Head,277300,0.2773
+meat,"Meat, ass",1963,Head,272900,0.2729
+meat,"Meat, ass",1964,Head,290100,0.2901
+meat,"Meat, ass",1965,Head,326100,0.3261
+meat,"Meat, ass",1966,Head,344500,0.3445
+meat,"Meat, ass",1967,Head,351900,0.3519
+meat,"Meat, ass",1968,Head,361700,0.3617
+meat,"Meat, ass",1969,Head,359600,0.3596
+meat,"Meat, ass",1970,Head,369100,0.3691
+meat,"Meat, ass",1971,Head,403000,0.403
+meat,"Meat, ass",1972,Head,406000,0.406
+meat,"Meat, ass",1973,Head,380700,0.3807
+meat,"Meat, ass",1974,Head,380700,0.3807
+meat,"Meat, ass",1975,Head,376886,0.376886
+meat,"Meat, ass",1976,Head,381826,0.381826
+meat,"Meat, ass",1977,Head,369168,0.369168
+meat,"Meat, ass",1978,Head,373655,0.373655
+meat,"Meat, ass",1979,Head,367010,0.36701
+meat,"Meat, ass",1980,Head,364733,0.364733
+meat,"Meat, ass",1981,Head,381709,0.381709
+meat,"Meat, ass",1982,Head,404238,0.404238
+meat,"Meat, ass",1983,Head,414280,0.41428
+meat,"Meat, ass",1984,Head,401132,0.401132
+meat,"Meat, ass",1985,Head,397910,0.39791
+meat,"Meat, ass",1986,Head,423000,0.423
+meat,"Meat, ass",1987,Head,428678,0.428678
+meat,"Meat, ass",1988,Head,458990,0.45899
+meat,"Meat, ass",1989,Head,474432,0.474432
+meat,"Meat, ass",1990,Head,472242,0.472242
+meat,"Meat, ass",1991,Head,492947,0.492947
+meat,"Meat, ass",1992,Head,2157864,2.157864
+meat,"Meat, ass",1993,Head,2137063,2.137063
+meat,"Meat, ass",1994,Head,2123371,2.123371
+meat,"Meat, ass",1995,Head,2130103,2.130103
+meat,"Meat, ass",1996,Head,2281887,2.281887
+meat,"Meat, ass",1997,Head,2031672,2.031672
+meat,"Meat, ass",1998,Head,2031924,2.031924
+meat,"Meat, ass",1999,Head,2106923,2.106923
+meat,"Meat, ass",2000,Head,2170178,2.170178
+meat,"Meat, ass",2001,Head,2193207,2.193207
+meat,"Meat, ass",2002,Head,2281668,2.281668
+meat,"Meat, ass",2003,Head,2337336,2.337336
+meat,"Meat, ass",2004,Head,2408262,2.408262
+meat,"Meat, ass",2005,Head,2420426,2.420426
+meat,"Meat, ass",2006,Head,2493460,2.49346
+meat,"Meat, ass",2007,Head,2429033,2.429033
+meat,"Meat, ass",2008,Head,2427923,2.427923
+meat,"Meat, ass",2009,Head,2568750,2.56875
+meat,"Meat, ass",2010,Head,2587981,2.587981
+meat,"Meat, ass",2011,Head,2687288,2.687288
+meat,"Meat, ass",2012,Head,2680194,2.680194
+meat,"Meat, ass",2013,Head,2656199,2.656199
+meat,"Meat, ass",2014,Head,2561140,2.56114
+meat,"Meat, ass",2015,Head,2352766,2.352766
+meat,"Meat, ass",2016,Head,2156023,2.156023
+meat,"Meat, ass",2017,Head,2578320,2.57832
+meat,"Meat, ass",2018,Head,2622294,2.622294
+meat,"Meat, buffalo",1961,Head,7744138,7.744138
+meat,"Meat, buffalo",1962,Head,7989005,7.989005
+meat,"Meat, buffalo",1963,Head,8126567,8.126567
+meat,"Meat, buffalo",1964,Head,8408709,8.408709
+meat,"Meat, buffalo",1965,Head,8566276,8.566276
+meat,"Meat, buffalo",1966,Head,8683014,8.683014
+meat,"Meat, buffalo",1967,Head,8897804,8.897804
+meat,"Meat, buffalo",1968,Head,9239157,9.239157
+meat,"Meat, buffalo",1969,Head,9410766,9.410766
+meat,"Meat, buffalo",1970,Head,9626620,9.62662
+meat,"Meat, buffalo",1971,Head,9912534,9.912534
+meat,"Meat, buffalo",1972,Head,10089752,10.089752
+meat,"Meat, buffalo",1973,Head,10436843,10.436843
+meat,"Meat, buffalo",1974,Head,10725229,10.725229
+meat,"Meat, buffalo",1975,Head,10816252,10.816252
+meat,"Meat, buffalo",1976,Head,11050517,11.050517
+meat,"Meat, buffalo",1977,Head,11269026,11.269026
+meat,"Meat, buffalo",1978,Head,11448237,11.448237
+meat,"Meat, buffalo",1979,Head,11758463,11.758463
+meat,"Meat, buffalo",1980,Head,11971723,11.971723
+meat,"Meat, buffalo",1981,Head,12320424,12.320424
+meat,"Meat, buffalo",1982,Head,13106993,13.106993
+meat,"Meat, buffalo",1983,Head,13293766,13.293766
+meat,"Meat, buffalo",1984,Head,13711963,13.711963
+meat,"Meat, buffalo",1985,Head,14285916,14.285916
+meat,"Meat, buffalo",1986,Head,14771297,14.771297
+meat,"Meat, buffalo",1987,Head,14841151,14.841151
+meat,"Meat, buffalo",1988,Head,16025272,16.025272
+meat,"Meat, buffalo",1989,Head,15878165,15.878165
+meat,"Meat, buffalo",1990,Head,16265647,16.265647
+meat,"Meat, buffalo",1991,Head,16598082,16.598082
+meat,"Meat, buffalo",1992,Head,17032094,17.032094
+meat,"Meat, buffalo",1993,Head,17769774,17.769774
+meat,"Meat, buffalo",1994,Head,18408102,18.408102
+meat,"Meat, buffalo",1995,Head,19185260,19.18526
+meat,"Meat, buffalo",1996,Head,17953694,17.953694
+meat,"Meat, buffalo",1997,Head,19318866,19.318866
+meat,"Meat, buffalo",1998,Head,19652520,19.65252
+meat,"Meat, buffalo",1999,Head,20308853,20.308853
+meat,"Meat, buffalo",2000,Head,20484013,20.484013
+meat,"Meat, buffalo",2001,Head,20372364,20.372364
+meat,"Meat, buffalo",2002,Head,20758787,20.758787
+meat,"Meat, buffalo",2003,Head,20047840,20.04784
+meat,"Meat, buffalo",2004,Head,20680262,20.680262
+meat,"Meat, buffalo",2005,Head,21280719,21.280719
+meat,"Meat, buffalo",2006,Head,22036401,22.036401
+meat,"Meat, buffalo",2007,Head,22884747,22.884747
+meat,"Meat, buffalo",2008,Head,23175670,23.17567
+meat,"Meat, buffalo",2009,Head,24826950,24.82695
+meat,"Meat, buffalo",2010,Head,25771225,25.771225
+meat,"Meat, buffalo",2011,Head,26003977,26.003977
+meat,"Meat, buffalo",2012,Head,26469509,26.469509
+meat,"Meat, buffalo",2013,Head,26110595,26.110595
+meat,"Meat, buffalo",2014,Head,26326049,26.326049
+meat,"Meat, buffalo",2015,Head,26545189,26.545189
+meat,"Meat, buffalo",2016,Head,26945966,26.945966
+meat,"Meat, buffalo",2017,Head,27330110,27.33011
+meat,"Meat, buffalo",2018,Head,27799035,27.799035
+meat,"Meat, camel",1961,Head,648845,0.648845
+meat,"Meat, camel",1962,Head,667424,0.667424
+meat,"Meat, camel",1963,Head,689554,0.689554
+meat,"Meat, camel",1964,Head,708068,0.708068
+meat,"Meat, camel",1965,Head,748660,0.74866
+meat,"Meat, camel",1966,Head,798943,0.798943
+meat,"Meat, camel",1967,Head,801909,0.801909
+meat,"Meat, camel",1968,Head,849681,0.849681
+meat,"Meat, camel",1969,Head,830793,0.830793
+meat,"Meat, camel",1970,Head,846539,0.846539
+meat,"Meat, camel",1971,Head,853649,0.853649
+meat,"Meat, camel",1972,Head,888092,0.888092
+meat,"Meat, camel",1973,Head,900154,0.900154
+meat,"Meat, camel",1974,Head,963079,0.963079
+meat,"Meat, camel",1975,Head,919709,0.919709
+meat,"Meat, camel",1976,Head,927569,0.927569
+meat,"Meat, camel",1977,Head,920754,0.920754
+meat,"Meat, camel",1978,Head,897786,0.897786
+meat,"Meat, camel",1979,Head,903347,0.903347
+meat,"Meat, camel",1980,Head,960432,0.960432
+meat,"Meat, camel",1981,Head,927205,0.927205
+meat,"Meat, camel",1982,Head,990970,0.99097
+meat,"Meat, camel",1983,Head,988922,0.988922
+meat,"Meat, camel",1984,Head,1048244,1.048244
+meat,"Meat, camel",1985,Head,1063270,1.06327
+meat,"Meat, camel",1986,Head,1023965,1.023965
+meat,"Meat, camel",1987,Head,1007031,1.007031
+meat,"Meat, camel",1988,Head,1065845,1.065845
+meat,"Meat, camel",1989,Head,1150276,1.150276
+meat,"Meat, camel",1990,Head,1233767,1.233767
+meat,"Meat, camel",1991,Head,1311409,1.311409
+meat,"Meat, camel",1992,Head,1385577,1.385577
+meat,"Meat, camel",1993,Head,1311595,1.311595
+meat,"Meat, camel",1994,Head,1393524,1.393524
+meat,"Meat, camel",1995,Head,1440408,1.440408
+meat,"Meat, camel",1996,Head,1555095,1.555095
+meat,"Meat, camel",1997,Head,1582227,1.582227
+meat,"Meat, camel",1998,Head,1650056,1.650056
+meat,"Meat, camel",1999,Head,1607052,1.607052
+meat,"Meat, camel",2000,Head,1624133,1.624133
+meat,"Meat, camel",2001,Head,1698786,1.698786
+meat,"Meat, camel",2002,Head,1695378,1.695378
+meat,"Meat, camel",2003,Head,1773658,1.773658
+meat,"Meat, camel",2004,Head,1851662,1.851662
+meat,"Meat, camel",2005,Head,1708419,1.708419
+meat,"Meat, camel",2006,Head,1931149,1.931149
+meat,"Meat, camel",2007,Head,2134683,2.134683
+meat,"Meat, camel",2008,Head,2322316,2.322316
+meat,"Meat, camel",2009,Head,2283597,2.283597
+meat,"Meat, camel",2010,Head,2414283,2.414283
+meat,"Meat, camel",2011,Head,2468763,2.468763
+meat,"Meat, camel",2012,Head,2331713,2.331713
+meat,"Meat, camel",2013,Head,2411649,2.411649
+meat,"Meat, camel",2014,Head,2412796,2.412796
+meat,"Meat, camel",2015,Head,2454144,2.454144
+meat,"Meat, camel",2016,Head,2479153,2.479153
+meat,"Meat, camel",2017,Head,2543657,2.543657
+meat,"Meat, camel",2018,Head,2540635,2.540635
+meat,"Meat, cattle",1961,Head,172956292,172.956292
+meat,"Meat, cattle",1962,Head,184306019,184.306019
+meat,"Meat, cattle",1963,Head,193884384,193.884384
+meat,"Meat, cattle",1964,Head,191783550,191.78355
+meat,"Meat, cattle",1965,Head,191617876,191.617876
+meat,"Meat, cattle",1966,Head,196736063,196.736063
+meat,"Meat, cattle",1967,Head,204662382,204.662382
+meat,"Meat, cattle",1968,Head,211065231,211.065231
+meat,"Meat, cattle",1969,Head,211695232,211.695232
+meat,"Meat, cattle",1970,Head,210511331,210.511331
+meat,"Meat, cattle",1971,Head,204371632,204.371632
+meat,"Meat, cattle",1972,Head,203966484,203.966484
+meat,"Meat, cattle",1973,Head,203885585,203.885585
+meat,"Meat, cattle",1974,Head,216929813,216.929813
+meat,"Meat, cattle",1975,Head,232901568,232.901568
+meat,"Meat, cattle",1976,Head,243246550,243.24655
+meat,"Meat, cattle",1977,Head,243788050,243.78805
+meat,"Meat, cattle",1978,Head,245202771,245.202771
+meat,"Meat, cattle",1979,Head,237016110,237.01611
+meat,"Meat, cattle",1980,Head,234955671,234.955671
+meat,"Meat, cattle",1981,Head,237104169,237.104169
+meat,"Meat, cattle",1982,Head,238507532,238.507532
+meat,"Meat, cattle",1983,Head,240569335,240.569335
+meat,"Meat, cattle",1984,Head,246319936,246.319936
+meat,"Meat, cattle",1985,Head,246807157,246.807157
+meat,"Meat, cattle",1986,Head,253564338,253.564338
+meat,"Meat, cattle",1987,Head,250641496,250.641496
+meat,"Meat, cattle",1988,Head,249686489,249.686489
+meat,"Meat, cattle",1989,Head,249967413,249.967413
+meat,"Meat, cattle",1990,Head,254316127,254.316127
+meat,"Meat, cattle",1991,Head,256255651,256.255651
+meat,"Meat, cattle",1992,Head,254214526,254.214526
+meat,"Meat, cattle",1993,Head,254737613,254.737613
+meat,"Meat, cattle",1994,Head,258019568,258.019568
+meat,"Meat, cattle",1995,Head,259539306,259.539306
+meat,"Meat, cattle",1996,Head,261227492,261.227492
+meat,"Meat, cattle",1997,Head,268305393,268.305393
+meat,"Meat, cattle",1998,Head,269588084,269.588084
+meat,"Meat, cattle",1999,Head,271235668,271.235668
+meat,"Meat, cattle",2000,Head,271971267,271.971267
+meat,"Meat, cattle",2001,Head,267078997,267.078997
+meat,"Meat, cattle",2002,Head,272335478,272.335478
+meat,"Meat, cattle",2003,Head,276921991,276.921991
+meat,"Meat, cattle",2004,Head,281211809,281.211809
+meat,"Meat, cattle",2005,Head,283404941,283.404941
+meat,"Meat, cattle",2006,Head,288761840,288.76184
+meat,"Meat, cattle",2007,Head,293835954,293.835954
+meat,"Meat, cattle",2008,Head,294116193,294.116193
+meat,"Meat, cattle",2009,Head,291736127,291.736127
+meat,"Meat, cattle",2010,Head,291416468,291.416468
+meat,"Meat, cattle",2011,Head,290285032,290.285032
+meat,"Meat, cattle",2012,Head,293093702,293.093702
+meat,"Meat, cattle",2013,Head,297593570,297.59357
+meat,"Meat, cattle",2014,Head,296583849,296.583849
+meat,"Meat, cattle",2015,Head,293893542,293.893542
+meat,"Meat, cattle",2016,Head,294463976,294.463976
+meat,"Meat, cattle",2017,Head,297730185,297.730185
+meat,"Meat, cattle",2018,Head,302128113,302.128113
+meat,"Meat, chicken",1961,1000 Head,6577869,6577.869
+meat,"Meat, chicken",1962,1000 Head,6853536,6853.536
+meat,"Meat, chicken",1963,1000 Head,7219918,7219.918
+meat,"Meat, chicken",1964,1000 Head,7495146,7495.146
+meat,"Meat, chicken",1965,1000 Head,8120139,8120.139
+meat,"Meat, chicken",1966,1000 Head,8277472,8277.472
+meat,"Meat, chicken",1967,1000 Head,9159074,9159.074
+meat,"Meat, chicken",1968,1000 Head,9474670,9474.67
+meat,"Meat, chicken",1969,1000 Head,10158324,10158.324
+meat,"Meat, chicken",1970,1000 Head,11034188,11034.188
+meat,"Meat, chicken",1971,1000 Head,11390271,11390.271
+meat,"Meat, chicken",1972,1000 Head,12169120,12169.12
+meat,"Meat, chicken",1973,1000 Head,12704649,12704.649
+meat,"Meat, chicken",1974,1000 Head,13190174,13190.174
+meat,"Meat, chicken",1975,1000 Head,13382800,13382.8
+meat,"Meat, chicken",1976,1000 Head,14286949,14286.949
+meat,"Meat, chicken",1977,1000 Head,15193656,15193.656
+meat,"Meat, chicken",1978,1000 Head,16215309,16215.309
+meat,"Meat, chicken",1979,1000 Head,17452391,17452.391
+meat,"Meat, chicken",1980,1000 Head,18392525,18392.525
+meat,"Meat, chicken",1981,1000 Head,19353538,19353.538
+meat,"Meat, chicken",1982,1000 Head,20022384,20022.384
+meat,"Meat, chicken",1983,1000 Head,20481154,20481.154
+meat,"Meat, chicken",1984,1000 Head,20861570,20861.57
+meat,"Meat, chicken",1985,1000 Head,21774959,21774.959
+meat,"Meat, chicken",1986,1000 Head,22869302,22869.302
+meat,"Meat, chicken",1987,1000 Head,24545918,24545.918
+meat,"Meat, chicken",1988,1000 Head,25491080,25491.08
+meat,"Meat, chicken",1989,1000 Head,25863051,25863.051
+meat,"Meat, chicken",1990,1000 Head,27184885,27184.885
+meat,"Meat, chicken",1991,1000 Head,28202998,28202.998
+meat,"Meat, chicken",1992,1000 Head,29335752,29335.752
+meat,"Meat, chicken",1993,1000 Head,30831975,30831.975
+meat,"Meat, chicken",1994,1000 Head,32078838,32078.838
+meat,"Meat, chicken",1995,1000 Head,34087381,34087.381
+meat,"Meat, chicken",1996,1000 Head,34994325,34994.325
+meat,"Meat, chicken",1997,1000 Head,36368946,36368.946
+meat,"Meat, chicken",1998,1000 Head,37102236,37102.236
+meat,"Meat, chicken",1999,1000 Head,38954106,38954.106
+meat,"Meat, chicken",2000,1000 Head,40554848,40554.848
+meat,"Meat, chicken",2001,1000 Head,42005596,42005.596
+meat,"Meat, chicken",2002,1000 Head,43664254,43664.254
+meat,"Meat, chicken",2003,1000 Head,44363159,44363.159
+meat,"Meat, chicken",2004,1000 Head,45278330,45278.33
+meat,"Meat, chicken",2005,1000 Head,47461643,47461.643
+meat,"Meat, chicken",2006,1000 Head,48259122,48259.122
+meat,"Meat, chicken",2007,1000 Head,51167523,51167.523
+meat,"Meat, chicken",2008,1000 Head,53571315,53571.315
+meat,"Meat, chicken",2009,1000 Head,55394628,55394.628
+meat,"Meat, chicken",2010,1000 Head,56643368,56643.368
+meat,"Meat, chicken",2011,1000 Head,58260235,58260.235
+meat,"Meat, chicken",2012,1000 Head,59489556,59489.556
+meat,"Meat, chicken",2013,1000 Head,60408983,60408.983
+meat,"Meat, chicken",2014,1000 Head,61827376,61827.376
+meat,"Meat, chicken",2015,1000 Head,63814249,63814.249
+meat,"Meat, chicken",2016,1000 Head,65326782,65326.782
+meat,"Meat, chicken",2017,1000 Head,66708647,66708.647
+meat,"Meat, chicken",2018,1000 Head,68785221,68785.221
+meat,"Meat, duck",1961,1000 Head,226713,226.713
+meat,"Meat, duck",1962,1000 Head,235197,235.197
+meat,"Meat, duck",1963,1000 Head,250608,250.608
+meat,"Meat, duck",1964,1000 Head,258949,258.949
+meat,"Meat, duck",1965,1000 Head,272838,272.838
+meat,"Meat, duck",1966,1000 Head,283829,283.829
+meat,"Meat, duck",1967,1000 Head,293365,293.365
+meat,"Meat, duck",1968,1000 Head,304553,304.553
+meat,"Meat, duck",1969,1000 Head,315310,315.31
+meat,"Meat, duck",1970,1000 Head,336631,336.631
+meat,"Meat, duck",1971,1000 Head,350875,350.875
+meat,"Meat, duck",1972,1000 Head,358449,358.449
+meat,"Meat, duck",1973,1000 Head,373609,373.609
+meat,"Meat, duck",1974,1000 Head,386389,386.389
+meat,"Meat, duck",1975,1000 Head,381434,381.434
+meat,"Meat, duck",1976,1000 Head,396430,396.43
+meat,"Meat, duck",1977,1000 Head,416215,416.215
+meat,"Meat, duck",1978,1000 Head,441339,441.339
+meat,"Meat, duck",1979,1000 Head,479383,479.383
+meat,"Meat, duck",1980,1000 Head,479245,479.245
+meat,"Meat, duck",1981,1000 Head,502921,502.921
+meat,"Meat, duck",1982,1000 Head,523895,523.895
+meat,"Meat, duck",1983,1000 Head,545569,545.569
+meat,"Meat, duck",1984,1000 Head,560407,560.407
+meat,"Meat, duck",1985,1000 Head,583083,583.083
+meat,"Meat, duck",1986,1000 Head,629610,629.61
+meat,"Meat, duck",1987,1000 Head,687256,687.256
+meat,"Meat, duck",1988,1000 Head,730986,730.986
+meat,"Meat, duck",1989,1000 Head,749728,749.728
+meat,"Meat, duck",1990,1000 Head,812040,812.04
+meat,"Meat, duck",1991,1000 Head,924383,924.383
+meat,"Meat, duck",1992,1000 Head,1024252,1024.252
+meat,"Meat, duck",1993,1000 Head,1190739,1190.739
+meat,"Meat, duck",1994,1000 Head,1294263,1294.263
+meat,"Meat, duck",1995,1000 Head,1449338,1449.338
+meat,"Meat, duck",1996,1000 Head,1508791,1508.791
+meat,"Meat, duck",1997,1000 Head,1623025,1623.025
+meat,"Meat, duck",1998,1000 Head,1746135,1746.135
+meat,"Meat, duck",1999,1000 Head,2051294,2051.294
+meat,"Meat, duck",2000,1000 Head,1968545,1968.545
+meat,"Meat, duck",2001,1000 Head,2031932,2031.932
+meat,"Meat, duck",2002,1000 Head,1998405,1998.405
+meat,"Meat, duck",2003,1000 Head,2075858,2075.858
+meat,"Meat, duck",2004,1000 Head,2107170,2107.17
+meat,"Meat, duck",2005,1000 Head,2290327,2290.327
+meat,"Meat, duck",2006,1000 Head,2273089,2273.089
+meat,"Meat, duck",2007,1000 Head,2440230,2440.23
+meat,"Meat, duck",2008,1000 Head,2576155,2576.155
+meat,"Meat, duck",2009,1000 Head,2598656,2598.656
+meat,"Meat, duck",2010,1000 Head,2685590,2685.59
+meat,"Meat, duck",2011,1000 Head,2784859,2784.859
+meat,"Meat, duck",2012,1000 Head,2902224,2902.224
+meat,"Meat, duck",2013,1000 Head,2881886,2881.886
+meat,"Meat, duck",2014,1000 Head,2831009,2831.009
+meat,"Meat, duck",2015,1000 Head,2922409,2922.409
+meat,"Meat, duck",2016,1000 Head,2975190,2975.19
+meat,"Meat, duck",2017,1000 Head,2939492,2939.492
+meat,"Meat, duck",2018,1000 Head,2989098,2989.098
+meat,"Meat, game",1991,Head,757108,0.757108
+meat,"Meat, game",1992,Head,836588,0.836588
+meat,"Meat, game",1993,Head,770795,0.770795
+meat,"Meat, game",1994,Head,796310,0.79631
+meat,"Meat, game",1995,Head,725423,0.725423
+meat,"Meat, game",1996,Head,660725,0.660725
+meat,"Meat, game",1997,Head,760728,0.760728
+meat,"Meat, game",1998,Head,797963,0.797963
+meat,"Meat, game",1999,Head,823441,0.823441
+meat,"Meat, game",2000,Head,838364,0.838364
+meat,"Meat, game",2001,Head,831939,0.831939
+meat,"Meat, game",2002,Head,818993,0.818993
+meat,"Meat, game",2003,Head,781721,0.781721
+meat,"Meat, game",2004,Head,848454,0.848454
+meat,"Meat, game",2005,Head,861374,0.861374
+meat,"Meat, game",2006,Head,677999,0.677999
+meat,"Meat, game",2007,Head,899269,0.899269
+meat,"Meat, game",2008,Head,811660,0.81166
+meat,"Meat, game",2009,Head,664267,0.664267
+meat,"Meat, game",2010,Head,656519,0.656519
+meat,"Meat, game",2011,Head,687328,0.687328
+meat,"Meat, game",2012,Head,729491,0.729491
+meat,"Meat, game",2013,Head,591838,0.591838
+meat,"Meat, game",2014,Head,627753,0.627753
+meat,"Meat, game",2015,Head,643245,0.643245
+meat,"Meat, game",2016,Head,661466,0.661466
+meat,"Meat, game",2017,Head,628542,0.628542
+meat,"Meat, game",2018,Head,595998,0.595998
+meat,"Meat, goat",1961,Head,102919701,102.919701
+meat,"Meat, goat",1962,Head,104626745,104.626745
+meat,"Meat, goat",1963,Head,105240845,105.240845
+meat,"Meat, goat",1964,Head,106687125,106.687125
+meat,"Meat, goat",1965,Head,108978029,108.978029
+meat,"Meat, goat",1966,Head,111484322,111.484322
+meat,"Meat, goat",1967,Head,112804276,112.804276
+meat,"Meat, goat",1968,Head,114705523,114.705523
+meat,"Meat, goat",1969,Head,117289368,117.289368
+meat,"Meat, goat",1970,Head,118837457,118.837457
+meat,"Meat, goat",1971,Head,122130975,122.130975
+meat,"Meat, goat",1972,Head,125282673,125.282673
+meat,"Meat, goat",1973,Head,128288351,128.288351
+meat,"Meat, goat",1974,Head,130844209,130.844209
+meat,"Meat, goat",1975,Head,135994437,135.994437
+meat,"Meat, goat",1976,Head,138036723,138.036723
+meat,"Meat, goat",1977,Head,142205731,142.205731
+meat,"Meat, goat",1978,Head,148488512,148.488512
+meat,"Meat, goat",1979,Head,152412994,152.412994
+meat,"Meat, goat",1980,Head,156407034,156.407034
+meat,"Meat, goat",1981,Head,161721278,161.721278
+meat,"Meat, goat",1982,Head,163678164,163.678164
+meat,"Meat, goat",1983,Head,169991008,169.991008
+meat,"Meat, goat",1984,Head,174416591,174.416591
+meat,"Meat, goat",1985,Head,179990888,179.990888
+meat,"Meat, goat",1986,Head,185446777,185.446777
+meat,"Meat, goat",1987,Head,201412501,201.412501
+meat,"Meat, goat",1988,Head,207313140,207.31314
+meat,"Meat, goat",1989,Head,218774686,218.774686
+meat,"Meat, goat",1990,Head,228282931,228.282931
+meat,"Meat, goat",1991,Head,234070228,234.070228
+meat,"Meat, goat",1992,Head,242703360,242.70336
+meat,"Meat, goat",1993,Head,246886613,246.886613
+meat,"Meat, goat",1994,Head,254527264,254.527264
+meat,"Meat, goat",1995,Head,272337374,272.337374
+meat,"Meat, goat",1996,Head,266079210,266.07921
+meat,"Meat, goat",1997,Head,283014488,283.014488
+meat,"Meat, goat",1998,Head,299857565,299.857565
+meat,"Meat, goat",1999,Head,317390537,317.390537
+meat,"Meat, goat",2000,Head,319370159,319.370159
+meat,"Meat, goat",2001,Head,321628426,321.628426
+meat,"Meat, goat",2002,Head,325986494,325.986494
+meat,"Meat, goat",2003,Head,345356858,345.356858
+meat,"Meat, goat",2004,Head,369884824,369.884824
+meat,"Meat, goat",2005,Head,383246190,383.24619
+meat,"Meat, goat",2006,Head,384956543,384.956543
+meat,"Meat, goat",2007,Head,391759330,391.75933
+meat,"Meat, goat",2008,Head,400921838,400.921838
+meat,"Meat, goat",2009,Head,419291269,419.291269
+meat,"Meat, goat",2010,Head,426317144,426.317144
+meat,"Meat, goat",2011,Head,429413577,429.413577
+meat,"Meat, goat",2012,Head,434691552,434.691552
+meat,"Meat, goat",2013,Head,443075261,443.075261
+meat,"Meat, goat",2014,Head,453671378,453.671378
+meat,"Meat, goat",2015,Head,462885192,462.885192
+meat,"Meat, goat",2016,Head,475381822,475.381822
+meat,"Meat, goat",2017,Head,470250280,470.25028
+meat,"Meat, goat",2018,Head,479172097,479.172097
+meat,"Meat, goose and guinea fowl",1961,1000 Head,44488,44.488
+meat,"Meat, goose and guinea fowl",1962,1000 Head,46795,46.795
+meat,"Meat, goose and guinea fowl",1963,1000 Head,46957,46.957
+meat,"Meat, goose and guinea fowl",1964,1000 Head,49962,49.962
+meat,"Meat, goose and guinea fowl",1965,1000 Head,54319,54.319
+meat,"Meat, goose and guinea fowl",1966,1000 Head,56055,56.055
+meat,"Meat, goose and guinea fowl",1967,1000 Head,60017,60.017
+meat,"Meat, goose and guinea fowl",1968,1000 Head,64517,64.517
+meat,"Meat, goose and guinea fowl",1969,1000 Head,63131,63.131
+meat,"Meat, goose and guinea fowl",1970,1000 Head,67737,67.737
+meat,"Meat, goose and guinea fowl",1971,1000 Head,74618,74.618
+meat,"Meat, goose and guinea fowl",1972,1000 Head,69637,69.637
+meat,"Meat, goose and guinea fowl",1973,1000 Head,71101,71.101
+meat,"Meat, goose and guinea fowl",1974,1000 Head,70990,70.99
+meat,"Meat, goose and guinea fowl",1975,1000 Head,74563,74.563
+meat,"Meat, goose and guinea fowl",1976,1000 Head,73413,73.413
+meat,"Meat, goose and guinea fowl",1977,1000 Head,75473,75.473
+meat,"Meat, goose and guinea fowl",1978,1000 Head,80459,80.459
+meat,"Meat, goose and guinea fowl",1979,1000 Head,82214,82.214
+meat,"Meat, goose and guinea fowl",1980,1000 Head,83536,83.536
+meat,"Meat, goose and guinea fowl",1981,1000 Head,86164,86.164
+meat,"Meat, goose and guinea fowl",1982,1000 Head,90307,90.307
+meat,"Meat, goose and guinea fowl",1983,1000 Head,93742,93.742
+meat,"Meat, goose and guinea fowl",1984,1000 Head,95548,95.548
+meat,"Meat, goose and guinea fowl",1985,1000 Head,95260,95.26
+meat,"Meat, goose and guinea fowl",1986,1000 Head,106267,106.267
+meat,"Meat, goose and guinea fowl",1987,1000 Head,118422,118.422
+meat,"Meat, goose and guinea fowl",1988,1000 Head,151673,151.673
+meat,"Meat, goose and guinea fowl",1989,1000 Head,158217,158.217
+meat,"Meat, goose and guinea fowl",1990,1000 Head,179602,179.602
+meat,"Meat, goose and guinea fowl",1991,1000 Head,216231,216.231
+meat,"Meat, goose and guinea fowl",1992,1000 Head,227173,227.173
+meat,"Meat, goose and guinea fowl",1993,1000 Head,254672,254.672
+meat,"Meat, goose and guinea fowl",1994,1000 Head,271534,271.534
+meat,"Meat, goose and guinea fowl",1995,1000 Head,375293,375.293
+meat,"Meat, goose and guinea fowl",1996,1000 Head,384106,384.106
+meat,"Meat, goose and guinea fowl",1997,1000 Head,418451,418.451
+meat,"Meat, goose and guinea fowl",1998,1000 Head,455486,455.486
+meat,"Meat, goose and guinea fowl",1999,1000 Head,471547,471.547
+meat,"Meat, goose and guinea fowl",2000,1000 Head,478939,478.939
+meat,"Meat, goose and guinea fowl",2001,1000 Head,477465,477.465
+meat,"Meat, goose and guinea fowl",2002,1000 Head,465898,465.898
+meat,"Meat, goose and guinea fowl",2003,1000 Head,482883,482.883
+meat,"Meat, goose and guinea fowl",2004,1000 Head,490806,490.806
+meat,"Meat, goose and guinea fowl",2005,1000 Head,526276,526.276
+meat,"Meat, goose and guinea fowl",2006,1000 Head,520864,520.864
+meat,"Meat, goose and guinea fowl",2007,1000 Head,571435,571.435
+meat,"Meat, goose and guinea fowl",2008,1000 Head,586229,586.229
+meat,"Meat, goose and guinea fowl",2009,1000 Head,620279,620.279
+meat,"Meat, goose and guinea fowl",2010,1000 Head,633898,633.898
+meat,"Meat, goose and guinea fowl",2011,1000 Head,653741,653.741
+meat,"Meat, goose and guinea fowl",2012,1000 Head,696104,696.104
+meat,"Meat, goose and guinea fowl",2013,1000 Head,687501,687.501
+meat,"Meat, goose and guinea fowl",2014,1000 Head,699895,699.895
+meat,"Meat, goose and guinea fowl",2015,1000 Head,643059,643.059
+meat,"Meat, goose and guinea fowl",2016,1000 Head,662399,662.399
+meat,"Meat, goose and guinea fowl",2017,1000 Head,705405,705.405
+meat,"Meat, goose and guinea fowl",2018,1000 Head,691325,691.325
+meat,"Meat, horse",1961,Head,3070964,3.070964
+meat,"Meat, horse",1962,Head,3011027,3.011027
+meat,"Meat, horse",1963,Head,3004979,3.004979
+meat,"Meat, horse",1964,Head,3171073,3.171073
+meat,"Meat, horse",1965,Head,3042180,3.04218
+meat,"Meat, horse",1966,Head,2970305,2.970305
+meat,"Meat, horse",1967,Head,2929556,2.929556
+meat,"Meat, horse",1968,Head,3049182,3.049182
+meat,"Meat, horse",1969,Head,3074561,3.074561
+meat,"Meat, horse",1970,Head,3066567,3.066567
+meat,"Meat, horse",1971,Head,3032460,3.03246
+meat,"Meat, horse",1972,Head,3050209,3.050209
+meat,"Meat, horse",1973,Head,3091764,3.091764
+meat,"Meat, horse",1974,Head,2818583,2.818583
+meat,"Meat, horse",1975,Head,2940337,2.940337
+meat,"Meat, horse",1976,Head,3174995,3.174995
+meat,"Meat, horse",1977,Head,3114395,3.114395
+meat,"Meat, horse",1978,Head,3202272,3.202272
+meat,"Meat, horse",1979,Head,3108438,3.108438
+meat,"Meat, horse",1980,Head,2865611,2.865611
+meat,"Meat, horse",1981,Head,2840700,2.8407
+meat,"Meat, horse",1982,Head,2659156,2.659156
+meat,"Meat, horse",1983,Head,2617700,2.6177
+meat,"Meat, horse",1984,Head,2722388,2.722388
+meat,"Meat, horse",1985,Head,2750526,2.750526
+meat,"Meat, horse",1986,Head,2650492,2.650492
+meat,"Meat, horse",1987,Head,2740882,2.740882
+meat,"Meat, horse",1988,Head,2755635,2.755635
+meat,"Meat, horse",1989,Head,2809530,2.80953
+meat,"Meat, horse",1990,Head,2867423,2.867423
+meat,"Meat, horse",1991,Head,3007396,3.007396
+meat,"Meat, horse",1992,Head,4025633,4.025633
+meat,"Meat, horse",1993,Head,3752501,3.752501
+meat,"Meat, horse",1994,Head,4168208,4.168208
+meat,"Meat, horse",1995,Head,4330433,4.330433
+meat,"Meat, horse",1996,Head,4768955,4.768955
+meat,"Meat, horse",1997,Head,4709662,4.709662
+meat,"Meat, horse",1998,Head,4631221,4.631221
+meat,"Meat, horse",1999,Head,4766677,4.766677
+meat,"Meat, horse",2000,Head,4829421,4.829421
+meat,"Meat, horse",2001,Head,5036462,5.036462
+meat,"Meat, horse",2002,Head,4859416,4.859416
+meat,"Meat, horse",2003,Head,4871250,4.87125
+meat,"Meat, horse",2004,Head,4865373,4.865373
+meat,"Meat, horse",2005,Head,4830932,4.830932
+meat,"Meat, horse",2006,Head,4791667,4.791667
+meat,"Meat, horse",2007,Head,4708919,4.708919
+meat,"Meat, horse",2008,Head,4679767,4.679767
+meat,"Meat, horse",2009,Head,4698616,4.698616
+meat,"Meat, horse",2010,Head,4597205,4.597205
+meat,"Meat, horse",2011,Head,4714874,4.714874
+meat,"Meat, horse",2012,Head,4786319,4.786319
+meat,"Meat, horse",2013,Head,4677134,4.677134
+meat,"Meat, horse",2014,Head,4806414,4.806414
+meat,"Meat, horse",2015,Head,4757047,4.757047
+meat,"Meat, horse",2016,Head,4783417,4.783417
+meat,"Meat, horse",2017,Head,5041595,5.041595
+meat,"Meat, horse",2018,Head,5045488,5.045488
+meat,"Meat, mule",1961,Head,70000,0.07
+meat,"Meat, mule",1962,Head,83800,0.0838
+meat,"Meat, mule",1963,Head,88500,0.0885
+meat,"Meat, mule",1964,Head,95200,0.0952
+meat,"Meat, mule",1965,Head,95700,0.0957
+meat,"Meat, mule",1966,Head,80400,0.0804
+meat,"Meat, mule",1967,Head,85100,0.0851
+meat,"Meat, mule",1968,Head,83700,0.0837
+meat,"Meat, mule",1969,Head,81700,0.0817
+meat,"Meat, mule",1970,Head,86700,0.0867
+meat,"Meat, mule",1971,Head,101100,0.1011
+meat,"Meat, mule",1972,Head,114400,0.1144
+meat,"Meat, mule",1973,Head,111500,0.1115
+meat,"Meat, mule",1974,Head,114000,0.114
+meat,"Meat, mule",1975,Head,117427,0.117427
+meat,"Meat, mule",1976,Head,123400,0.1234
+meat,"Meat, mule",1977,Head,121300,0.1213
+meat,"Meat, mule",1978,Head,132200,0.1322
+meat,"Meat, mule",1979,Head,138683,0.138683
+meat,"Meat, mule",1980,Head,150600,0.1506
+meat,"Meat, mule",1981,Head,159400,0.1594
+meat,"Meat, mule",1982,Head,165300,0.1653
+meat,"Meat, mule",1983,Head,174928,0.174928
+meat,"Meat, mule",1984,Head,181669,0.181669
+meat,"Meat, mule",1985,Head,196033,0.196033
+meat,"Meat, mule",1986,Head,210200,0.2102
+meat,"Meat, mule",1987,Head,234924,0.234924
+meat,"Meat, mule",1988,Head,244690,0.24469
+meat,"Meat, mule",1989,Head,256424,0.256424
+meat,"Meat, mule",1990,Head,265367,0.265367
+meat,"Meat, mule",1991,Head,270150,0.27015
+meat,"Meat, mule",1992,Head,284593,0.284593
+meat,"Meat, mule",1993,Head,294500,0.2945
+meat,"Meat, mule",1994,Head,459700,0.4597
+meat,"Meat, mule",1995,Head,515500,0.5155
+meat,"Meat, mule",1996,Head,619500,0.6195
+meat,"Meat, mule",1997,Head,589500,0.5895
+meat,"Meat, mule",1998,Head,739000,0.739
+meat,"Meat, mule",1999,Head,595700,0.5957
+meat,"Meat, mule",2000,Head,656700,0.6567
+meat,"Meat, mule",2001,Head,675600,0.6756
+meat,"Meat, mule",2002,Head,659600,0.6596
+meat,"Meat, mule",2003,Head,658600,0.6586
+meat,"Meat, mule",2004,Head,637500,0.6375
+meat,"Meat, mule",2005,Head,605700,0.6057
+meat,"Meat, mule",2006,Head,616100,0.6161
+meat,"Meat, mule",2007,Head,583600,0.5836
+meat,"Meat, mule",2008,Head,546600,0.5466
+meat,"Meat, mule",2009,Head,570600,0.5706
+meat,"Meat, mule",2010,Head,544600,0.5446
+meat,"Meat, mule",2011,Head,526600,0.5266
+meat,"Meat, mule",2012,Head,523600,0.5236
+meat,"Meat, mule",2013,Head,482300,0.4823
+meat,"Meat, mule",2014,Head,482600,0.4826
+meat,"Meat, mule",2015,Head,402944,0.402944
+meat,"Meat, mule",2016,Head,362374,0.362374
+meat,"Meat, mule",2017,Head,294364,0.294364
+meat,"Meat, mule",2018,Head,281819,0.281819
+meat,"Meat, other camelids",1961,Head,753678,0.753678
+meat,"Meat, other camelids",1962,Head,841360,0.84136
+meat,"Meat, other camelids",1963,Head,688359,0.688359
+meat,"Meat, other camelids",1964,Head,789810,0.78981
+meat,"Meat, other camelids",1965,Head,482830,0.48283
+meat,"Meat, other camelids",1966,Head,480280,0.48028
+meat,"Meat, other camelids",1967,Head,468180,0.46818
+meat,"Meat, other camelids",1968,Head,484330,0.48433
+meat,"Meat, other camelids",1969,Head,507610,0.50761
+meat,"Meat, other camelids",1970,Head,541160,0.54116
+meat,"Meat, other camelids",1971,Head,502029,0.502029
+meat,"Meat, other camelids",1972,Head,478398,0.478398
+meat,"Meat, other camelids",1973,Head,471336,0.471336
+meat,"Meat, other camelids",1974,Head,483468,0.483468
+meat,"Meat, other camelids",1975,Head,470423,0.470423
+meat,"Meat, other camelids",1976,Head,466867,0.466867
+meat,"Meat, other camelids",1977,Head,466624,0.466624
+meat,"Meat, other camelids",1978,Head,468161,0.468161
+meat,"Meat, other camelids",1979,Head,463721,0.463721
+meat,"Meat, other camelids",1980,Head,440770,0.44077
+meat,"Meat, other camelids",1981,Head,445991,0.445991
+meat,"Meat, other camelids",1982,Head,444863,0.444863
+meat,"Meat, other camelids",1983,Head,552562,0.552562
+meat,"Meat, other camelids",1984,Head,434011,0.434011
+meat,"Meat, other camelids",1985,Head,415103,0.415103
+meat,"Meat, other camelids",1986,Head,407314,0.407314
+meat,"Meat, other camelids",1987,Head,407961,0.407961
+meat,"Meat, other camelids",1988,Head,422350,0.42235
+meat,"Meat, other camelids",1989,Head,433100,0.4331
+meat,"Meat, other camelids",1990,Head,473225,0.473225
+meat,"Meat, other camelids",1991,Head,417120,0.41712
+meat,"Meat, other camelids",1992,Head,461000,0.461
+meat,"Meat, other camelids",1993,Head,431000,0.431
+meat,"Meat, other camelids",1994,Head,460360,0.46036
+meat,"Meat, other camelids",1995,Head,427941,0.427941
+meat,"Meat, other camelids",1996,Head,415876,0.415876
+meat,"Meat, other camelids",1997,Head,437454,0.437454
+meat,"Meat, other camelids",1998,Head,455353,0.455353
+meat,"Meat, other camelids",1999,Head,479221,0.479221
+meat,"Meat, other camelids",2000,Head,494737,0.494737
+meat,"Meat, other camelids",2001,Head,492230,0.49223
+meat,"Meat, other camelids",2002,Head,532691,0.532691
+meat,"Meat, other camelids",2003,Head,533000,0.533
+meat,"Meat, other camelids",2004,Head,540000,0.54
+meat,"Meat, other camelids",2005,Head,631983,0.631983
+meat,"Meat, other camelids",2006,Head,671199,0.671199
+meat,"Meat, other camelids",2007,Head,714573,0.714573
+meat,"Meat, other camelids",2008,Head,753682,0.753682
+meat,"Meat, other camelids",2009,Head,811336,0.811336
+meat,"Meat, other camelids",2010,Head,792795,0.792795
+meat,"Meat, other camelids",2011,Head,895514,0.895514
+meat,"Meat, other camelids",2012,Head,927982,0.927982
+meat,"Meat, other camelids",2013,Head,936841,0.936841
+meat,"Meat, other camelids",2014,Head,936815,0.936815
+meat,"Meat, other camelids",2015,Head,937380,0.93738
+meat,"Meat, other camelids",2016,Head,955260,0.95526
+meat,"Meat, other camelids",2017,Head,950472,0.950472
+meat,"Meat, other camelids",2018,Head,961919,0.961919
+meat,"Meat, other rodents",1961,1000 Head,79118,79.118
+meat,"Meat, other rodents",1962,1000 Head,79763,79.763
+meat,"Meat, other rodents",1963,1000 Head,80417,80.417
+meat,"Meat, other rodents",1964,1000 Head,80615,80.615
+meat,"Meat, other rodents",1965,1000 Head,80998,80.998
+meat,"Meat, other rodents",1966,1000 Head,80184,80.184
+meat,"Meat, other rodents",1967,1000 Head,79740,79.74
+meat,"Meat, other rodents",1968,1000 Head,79544,79.544
+meat,"Meat, other rodents",1969,1000 Head,79786,79.786
+meat,"Meat, other rodents",1970,1000 Head,79817,79.817
+meat,"Meat, other rodents",1971,1000 Head,80128,80.128
+meat,"Meat, other rodents",1972,1000 Head,79467,79.467
+meat,"Meat, other rodents",1973,1000 Head,80031,80.031
+meat,"Meat, other rodents",1974,1000 Head,81657,81.657
+meat,"Meat, other rodents",1975,1000 Head,81726,81.726
+meat,"Meat, other rodents",1976,1000 Head,81786,81.786
+meat,"Meat, other rodents",1977,1000 Head,81738,81.738
+meat,"Meat, other rodents",1978,1000 Head,81795,81.795
+meat,"Meat, other rodents",1979,1000 Head,81840,81.84
+meat,"Meat, other rodents",1980,1000 Head,81803,81.803
+meat,"Meat, other rodents",1981,1000 Head,81850,81.85
+meat,"Meat, other rodents",1982,1000 Head,81898,81.898
+meat,"Meat, other rodents",1983,1000 Head,81925,81.925
+meat,"Meat, other rodents",1984,1000 Head,81965,81.965
+meat,"Meat, other rodents",1985,1000 Head,81965,81.965
+meat,"Meat, other rodents",1986,1000 Head,82345,82.345
+meat,"Meat, other rodents",1987,1000 Head,82645,82.645
+meat,"Meat, other rodents",1988,1000 Head,83145,83.145
+meat,"Meat, other rodents",1989,1000 Head,83720,83.72
+meat,"Meat, other rodents",1990,1000 Head,84120,84.12
+meat,"Meat, other rodents",1991,1000 Head,84520,84.52
+meat,"Meat, other rodents",1992,1000 Head,84720,84.72
+meat,"Meat, other rodents",1993,1000 Head,84720,84.72
+meat,"Meat, other rodents",1994,1000 Head,84720,84.72
+meat,"Meat, other rodents",1995,1000 Head,84720,84.72
+meat,"Meat, other rodents",1996,1000 Head,84720,84.72
+meat,"Meat, other rodents",1997,1000 Head,84720,84.72
+meat,"Meat, other rodents",1998,1000 Head,72600,72.6
+meat,"Meat, other rodents",1999,1000 Head,60900,60.9
+meat,"Meat, other rodents",2000,1000 Head,62770,62.77
+meat,"Meat, other rodents",2001,1000 Head,63000,63
+meat,"Meat, other rodents",2002,1000 Head,63500,63.5
+meat,"Meat, other rodents",2003,1000 Head,64900,64.9
+meat,"Meat, other rodents",2004,1000 Head,65500,65.5
+meat,"Meat, other rodents",2005,1000 Head,67000,67
+meat,"Meat, other rodents",2006,1000 Head,67000,67
+meat,"Meat, other rodents",2007,1000 Head,67500,67.5
+meat,"Meat, other rodents",2008,1000 Head,69000,69
+meat,"Meat, other rodents",2009,1000 Head,69800,69.8
+meat,"Meat, other rodents",2010,1000 Head,70000,70
+meat,"Meat, other rodents",2011,1000 Head,70000,70
+meat,"Meat, other rodents",2012,1000 Head,70371,70.371
+meat,"Meat, other rodents",2013,1000 Head,70371,70.371
+meat,"Meat, other rodents",2014,1000 Head,70733,70.733
+meat,"Meat, other rodents",2015,1000 Head,70576,70.576
+meat,"Meat, other rodents",2016,1000 Head,70630,70.63
+meat,"Meat, other rodents",2017,1000 Head,71162,71.162
+meat,"Meat, other rodents",2018,1000 Head,71316,71.316
+meat,"Meat, pig",1961,Head,376366821,376.366821
+meat,"Meat, pig",1962,Head,400614529,400.614529
+meat,"Meat, pig",1963,Head,438317204,438.317204
+meat,"Meat, pig",1964,Head,453715727,453.715727
+meat,"Meat, pig",1965,Head,491740573,491.740573
+meat,"Meat, pig",1966,Head,507144931,507.144931
+meat,"Meat, pig",1967,Head,525627737,525.627737
+meat,"Meat, pig",1968,Head,528933603,528.933603
+meat,"Meat, pig",1969,Head,518408918,518.408918
+meat,"Meat, pig",1970,Head,537222595,537.222595
+meat,"Meat, pig",1971,Head,595074277,595.074277
+meat,"Meat, pig",1972,Head,617789219,617.789219
+meat,"Meat, pig",1973,Head,614783238,614.783238
+meat,"Meat, pig",1974,Head,630845691,630.845691
+meat,"Meat, pig",1975,Head,627303069,627.303069
+meat,"Meat, pig",1976,Head,621545118,621.545118
+meat,"Meat, pig",1977,Head,643453717,643.453717
+meat,"Meat, pig",1978,Head,664926432,664.926432
+meat,"Meat, pig",1979,Head,721459781,721.459781
+meat,"Meat, pig",1980,Head,756014033,756.014033
+meat,"Meat, pig",1981,Head,748905037,748.905037
+meat,"Meat, pig",1982,Head,744368269,744.368269
+meat,"Meat, pig",1983,Head,770247913,770.247913
+meat,"Meat, pig",1984,Head,790755032,790.755032
+meat,"Meat, pig",1985,Head,815034118,815.034118
+meat,"Meat, pig",1986,Head,836061010,836.06101
+meat,"Meat, pig",1987,Head,855731670,855.73167
+meat,"Meat, pig",1988,Head,884321746,884.321746
+meat,"Meat, pig",1989,Head,901139877,901.139877
+meat,"Meat, pig",1990,Head,917442681,917.442681
+meat,"Meat, pig",1991,Head,925602267,925.602267
+meat,"Meat, pig",1992,Head,946222814,946.222814
+meat,"Meat, pig",1993,Head,966111850,966.11185
+meat,"Meat, pig",1994,Head,992176051,992.176051
+meat,"Meat, pig",1995,Head,1001073647,1001.073647
+meat,"Meat, pig",1996,Head,999774984,999.774984
+meat,"Meat, pig",1997,Head,997933665,997.933665
+meat,"Meat, pig",1998,Head,1055147800,1055.1478
+meat,"Meat, pig",1999,Head,1088254196,1088.254196
+meat,"Meat, pig",2000,Head,1100384024,1100.384024
+meat,"Meat, pig",2001,Head,1101657969,1101.657969
+meat,"Meat, pig",2002,Head,1133500519,1133.500519
+meat,"Meat, pig",2003,Head,1173025584,1173.025584
+meat,"Meat, pig",2004,Head,1185557429,1185.557429
+meat,"Meat, pig",2005,Head,1200487078,1200.487078
+meat,"Meat, pig",2006,Head,1231479013,1231.479013
+meat,"Meat, pig",2007,Head,1265480763,1265.480763
+meat,"Meat, pig",2008,Head,1299545256,1299.545256
+meat,"Meat, pig",2009,Head,1319775446,1319.775446
+meat,"Meat, pig",2010,Head,1383539789,1383.539789
+meat,"Meat, pig",2011,Head,1387639934,1387.639934
+meat,"Meat, pig",2012,Head,1427935389,1427.935389
+meat,"Meat, pig",2013,Head,1452043214,1452.043214
+meat,"Meat, pig",2014,Head,1468266226,1468.266226
+meat,"Meat, pig",2015,Head,1485288483,1485.288483
+meat,"Meat, pig",2016,Head,1481173814,1481.173814
+meat,"Meat, pig",2017,Head,1486716445,1486.716445
+meat,"Meat, pig",2018,Head,1484492840,1484.49284
+meat,"Meat, rabbit",1961,1000 Head,271336,271.336
+meat,"Meat, rabbit",1962,1000 Head,270866,270.866
+meat,"Meat, rabbit",1963,1000 Head,274420,274.42
+meat,"Meat, rabbit",1964,1000 Head,276557,276.557
+meat,"Meat, rabbit",1965,1000 Head,280891,280.891
+meat,"Meat, rabbit",1966,1000 Head,289911,289.911
+meat,"Meat, rabbit",1967,1000 Head,298260,298.26
+meat,"Meat, rabbit",1968,1000 Head,311902,311.902
+meat,"Meat, rabbit",1969,1000 Head,324310,324.31
+meat,"Meat, rabbit",1970,1000 Head,333175,333.175
+meat,"Meat, rabbit",1971,1000 Head,362969,362.969
+meat,"Meat, rabbit",1972,1000 Head,384273,384.273
+meat,"Meat, rabbit",1973,1000 Head,400651,400.651
+meat,"Meat, rabbit",1974,1000 Head,427283,427.283
+meat,"Meat, rabbit",1975,1000 Head,444813,444.813
+meat,"Meat, rabbit",1976,1000 Head,467674,467.674
+meat,"Meat, rabbit",1977,1000 Head,495767,495.767
+meat,"Meat, rabbit",1978,1000 Head,497078,497.078
+meat,"Meat, rabbit",1979,1000 Head,503963,503.963
+meat,"Meat, rabbit",1980,1000 Head,496627,496.627
+meat,"Meat, rabbit",1981,1000 Head,493321,493.321
+meat,"Meat, rabbit",1982,1000 Head,498315,498.315
+meat,"Meat, rabbit",1983,1000 Head,510206,510.206
+meat,"Meat, rabbit",1984,1000 Head,518665,518.665
+meat,"Meat, rabbit",1985,1000 Head,524350,524.35
+meat,"Meat, rabbit",1986,1000 Head,536578,536.578
+meat,"Meat, rabbit",1987,1000 Head,565185,565.185
+meat,"Meat, rabbit",1988,1000 Head,577021,577.021
+meat,"Meat, rabbit",1989,1000 Head,539531,539.531
+meat,"Meat, rabbit",1990,1000 Head,538531,538.531
+meat,"Meat, rabbit",1991,1000 Head,458688,458.688
+meat,"Meat, rabbit",1992,1000 Head,483259,483.259
+meat,"Meat, rabbit",1993,1000 Head,504753,504.753
+meat,"Meat, rabbit",1994,1000 Head,526027,526.027
+meat,"Meat, rabbit",1995,1000 Head,546096,546.096
+meat,"Meat, rabbit",1996,1000 Head,593086,593.086
+meat,"Meat, rabbit",1997,1000 Head,564024,564.024
+meat,"Meat, rabbit",1998,1000 Head,585996,585.996
+meat,"Meat, rabbit",1999,1000 Head,577376,577.376
+meat,"Meat, rabbit",2000,1000 Head,638032,638.032
+meat,"Meat, rabbit",2001,1000 Head,699118,699.118
+meat,"Meat, rabbit",2002,1000 Head,714597,714.597
+meat,"Meat, rabbit",2003,1000 Head,721129,721.129
+meat,"Meat, rabbit",2004,1000 Head,714049,714.049
+meat,"Meat, rabbit",2005,1000 Head,753648,753.648
+meat,"Meat, rabbit",2006,1000 Head,778406,778.406
+meat,"Meat, rabbit",2007,1000 Head,824222,824.222
+meat,"Meat, rabbit",2008,1000 Head,794360,794.36
+meat,"Meat, rabbit",2009,1000 Head,809932,809.932
+meat,"Meat, rabbit",2010,1000 Head,847475,847.475
+meat,"Meat, rabbit",2011,1000 Head,874014,874.014
+meat,"Meat, rabbit",2012,1000 Head,877199,877.199
+meat,"Meat, rabbit",2013,1000 Head,907249,907.249
+meat,"Meat, rabbit",2014,1000 Head,927308,927.308
+meat,"Meat, rabbit",2015,1000 Head,933310,933.31
+meat,"Meat, rabbit",2016,1000 Head,897614,897.614
+meat,"Meat, rabbit",2017,1000 Head,925333,925.333
+meat,"Meat, rabbit",2018,1000 Head,921894,921.894
+meat,"Meat, sheep",1961,Head,330902794,330.902794
+meat,"Meat, sheep",1962,Head,341528424,341.528424
+meat,"Meat, sheep",1963,Head,344346633,344.346633
+meat,"Meat, sheep",1964,Head,345889336,345.889336
+meat,"Meat, sheep",1965,Head,341996356,341.996356
+meat,"Meat, sheep",1966,Head,353156025,353.156025
+meat,"Meat, sheep",1967,Head,354383563,354.383563
+meat,"Meat, sheep",1968,Head,361962955,361.962955
+meat,"Meat, sheep",1969,Head,359180542,359.180542
+meat,"Meat, sheep",1970,Head,367518246,367.518246
+meat,"Meat, sheep",1971,Head,372157891,372.157891
+meat,"Meat, sheep",1972,Head,372193401,372.193401
+meat,"Meat, sheep",1973,Head,361511701,361.511701
+meat,"Meat, sheep",1974,Head,347737446,347.737446
+meat,"Meat, sheep",1975,Head,363376997,363.376997
+meat,"Meat, sheep",1976,Head,357097972,357.097972
+meat,"Meat, sheep",1977,Head,359491642,359.491642
+meat,"Meat, sheep",1978,Head,366513464,366.513464
+meat,"Meat, sheep",1979,Head,362326932,362.326932
+meat,"Meat, sheep",1980,Head,384396206,384.396206
+meat,"Meat, sheep",1981,Head,402067515,402.067515
+meat,"Meat, sheep",1982,Head,403916209,403.916209
+meat,"Meat, sheep",1983,Head,414686533,414.686533
+meat,"Meat, sheep",1984,Head,414835674,414.835674
+meat,"Meat, sheep",1985,Head,423484700,423.4847
+meat,"Meat, sheep",1986,Head,420771042,420.771042
+meat,"Meat, sheep",1987,Head,431256493,431.256493
+meat,"Meat, sheep",1988,Head,440849982,440.849982
+meat,"Meat, sheep",1989,Head,456257199,456.257199
+meat,"Meat, sheep",1990,Head,464384740,464.38474
+meat,"Meat, sheep",1991,Head,469004117,469.004117
+meat,"Meat, sheep",1992,Head,466004726,466.004726
+meat,"Meat, sheep",1993,Head,464670615,464.670615
+meat,"Meat, sheep",1994,Head,470709344,470.709344
+meat,"Meat, sheep",1995,Head,478263373,478.263373
+meat,"Meat, sheep",1996,Head,463241590,463.24159
+meat,"Meat, sheep",1997,Head,467846024,467.846024
+meat,"Meat, sheep",1998,Head,476566139,476.566139
+meat,"Meat, sheep",1999,Head,479977796,479.977796
+meat,"Meat, sheep",2000,Head,494145320,494.14532
+meat,"Meat, sheep",2001,Head,491934115,491.934115
+meat,"Meat, sheep",2002,Head,494868010,494.86801
+meat,"Meat, sheep",2003,Head,501745399,501.745399
+meat,"Meat, sheep",2004,Head,501369576,501.369576
+meat,"Meat, sheep",2005,Head,513662329,513.662329
+meat,"Meat, sheep",2006,Head,530392950,530.39295
+meat,"Meat, sheep",2007,Head,540882502,540.882502
+meat,"Meat, sheep",2008,Head,534398155,534.398155
+meat,"Meat, sheep",2009,Head,522672814,522.672814
+meat,"Meat, sheep",2010,Head,519509284,519.509284
+meat,"Meat, sheep",2011,Head,512689187,512.689187
+meat,"Meat, sheep",2012,Head,525363072,525.363072
+meat,"Meat, sheep",2013,Head,541034127,541.034127
+meat,"Meat, sheep",2014,Head,551906143,551.906143
+meat,"Meat, sheep",2015,Head,557314382,557.314382
+meat,"Meat, sheep",2016,Head,569982155,569.982155
+meat,"Meat, sheep",2017,Head,564093728,564.093728
+meat,"Meat, sheep",2018,Head,573781178,573.781178
+meat,"Meat, turkey",1961,1000 Head,141620,141.62
+meat,"Meat, turkey",1962,1000 Head,128645,128.645
+meat,"Meat, turkey",1963,1000 Head,133740,133.74
+meat,"Meat, turkey",1964,1000 Head,141732,141.732
+meat,"Meat, turkey",1965,1000 Head,151287,151.287
+meat,"Meat, turkey",1966,1000 Head,168748,168.748
+meat,"Meat, turkey",1967,1000 Head,182955,182.955
+meat,"Meat, turkey",1968,1000 Head,169116,169.116
+meat,"Meat, turkey",1969,1000 Head,172886,172.886
+meat,"Meat, turkey",1970,1000 Head,193835,193.835
+meat,"Meat, turkey",1971,1000 Head,209791,209.791
+meat,"Meat, turkey",1972,1000 Head,228044,228.044
+meat,"Meat, turkey",1973,1000 Head,250845,250.845
+meat,"Meat, turkey",1974,1000 Head,263884,263.884
+meat,"Meat, turkey",1975,1000 Head,251358,251.358
+meat,"Meat, turkey",1976,1000 Head,276844,276.844
+meat,"Meat, turkey",1977,1000 Head,282915,282.915
+meat,"Meat, turkey",1978,1000 Head,293897,293.897
+meat,"Meat, turkey",1979,1000 Head,325608,325.608
+meat,"Meat, turkey",1980,1000 Head,349032,349.032
+meat,"Meat, turkey",1981,1000 Head,355747,355.747
+meat,"Meat, turkey",1982,1000 Head,359124,359.124
+meat,"Meat, turkey",1983,1000 Head,376678,376.678
+meat,"Meat, turkey",1984,1000 Head,372008,372.008
+meat,"Meat, turkey",1985,1000 Head,391563,391.563
+meat,"Meat, turkey",1986,1000 Head,427338,427.338
+meat,"Meat, turkey",1987,1000 Head,478815,478.815
+meat,"Meat, turkey",1988,1000 Head,485448,485.448
+meat,"Meat, turkey",1989,1000 Head,513814,513.814
+meat,"Meat, turkey",1990,1000 Head,561581,561.581
+meat,"Meat, turkey",1991,1000 Head,569281,569.281
+meat,"Meat, turkey",1992,1000 Head,584495,584.495
+meat,"Meat, turkey",1993,1000 Head,583517,583.517
+meat,"Meat, turkey",1994,1000 Head,599848,599.848
+meat,"Meat, turkey",1995,1000 Head,628698,628.698
+meat,"Meat, turkey",1996,1000 Head,642074,642.074
+meat,"Meat, turkey",1997,1000 Head,647234,647.234
+meat,"Meat, turkey",1998,1000 Head,637633,637.633
+meat,"Meat, turkey",1999,1000 Head,624862,624.862
+meat,"Meat, turkey",2000,1000 Head,652562,652.562
+meat,"Meat, turkey",2001,1000 Head,652252,652.252
+meat,"Meat, turkey",2002,1000 Head,655653,655.653
+meat,"Meat, turkey",2003,1000 Head,629437,629.437
+meat,"Meat, turkey",2004,1000 Head,624012,624.012
+meat,"Meat, turkey",2005,1000 Head,615986,615.986
+meat,"Meat, turkey",2006,1000 Head,606452,606.452
+meat,"Meat, turkey",2007,1000 Head,653526,653.526
+meat,"Meat, turkey",2008,1000 Head,670019,670.019
+meat,"Meat, turkey",2009,1000 Head,635917,635.917
+meat,"Meat, turkey",2010,1000 Head,632414,632.414
+meat,"Meat, turkey",2011,1000 Head,638519,638.519
+meat,"Meat, turkey",2012,1000 Head,654258,654.258
+meat,"Meat, turkey",2013,1000 Head,632619,632.619
+meat,"Meat, turkey",2014,1000 Head,632935,632.935
+meat,"Meat, turkey",2015,1000 Head,642327,642.327
+meat,"Meat, turkey",2016,1000 Head,668167,668.167
+meat,"Meat, turkey",2017,1000 Head,655212,655.212
+meat,"Meat, turkey",2018,1000 Head,656308,656.308
+milk,"Milk, whole fresh buffalo",1961,Head,19302156,19.302156
+milk,"Milk, whole fresh buffalo",1962,Head,19591097,19.591097
+milk,"Milk, whole fresh buffalo",1963,Head,19810914,19.810914
+milk,"Milk, whole fresh buffalo",1964,Head,20000288,20.000288
+milk,"Milk, whole fresh buffalo",1965,Head,20273320,20.27332
+milk,"Milk, whole fresh buffalo",1966,Head,20352016,20.352016
+milk,"Milk, whole fresh buffalo",1967,Head,19980045,19.980045
+milk,"Milk, whole fresh buffalo",1968,Head,20797462,20.797462
+milk,"Milk, whole fresh buffalo",1969,Head,21066392,21.066392
+milk,"Milk, whole fresh buffalo",1970,Head,21473699,21.473699
+milk,"Milk, whole fresh buffalo",1971,Head,23001814,23.001814
+milk,"Milk, whole fresh buffalo",1972,Head,23321768,23.321768
+milk,"Milk, whole fresh buffalo",1973,Head,23558323,23.558323
+milk,"Milk, whole fresh buffalo",1974,Head,23837368,23.837368
+milk,"Milk, whole fresh buffalo",1975,Head,24142837,24.142837
+milk,"Milk, whole fresh buffalo",1976,Head,25205654,25.205654
+milk,"Milk, whole fresh buffalo",1977,Head,26118592,26.118592
+milk,"Milk, whole fresh buffalo",1978,Head,25320091,25.320091
+milk,"Milk, whole fresh buffalo",1979,Head,26718820,26.71882
+milk,"Milk, whole fresh buffalo",1980,Head,28055280,28.05528
+milk,"Milk, whole fresh buffalo",1981,Head,29133246,29.133246
+milk,"Milk, whole fresh buffalo",1982,Head,29605292,29.605292
+milk,"Milk, whole fresh buffalo",1983,Head,30195883,30.195883
+milk,"Milk, whole fresh buffalo",1984,Head,32224427,32.224427
+milk,"Milk, whole fresh buffalo",1985,Head,33354971,33.354971
+milk,"Milk, whole fresh buffalo",1986,Head,35374803,35.374803
+milk,"Milk, whole fresh buffalo",1987,Head,35910586,35.910586
+milk,"Milk, whole fresh buffalo",1988,Head,37033727,37.033727
+milk,"Milk, whole fresh buffalo",1989,Head,39048245,39.048245
+milk,"Milk, whole fresh buffalo",1990,Head,39532752,39.532752
+milk,"Milk, whole fresh buffalo",1991,Head,41658636,41.658636
+milk,"Milk, whole fresh buffalo",1992,Head,40421683,40.421683
+milk,"Milk, whole fresh buffalo",1993,Head,40901274,40.901274
+milk,"Milk, whole fresh buffalo",1994,Head,41985146,41.985146
+milk,"Milk, whole fresh buffalo",1995,Head,42793465,42.793465
+milk,"Milk, whole fresh buffalo",1996,Head,44130762,44.130762
+milk,"Milk, whole fresh buffalo",1997,Head,44729264,44.729264
+milk,"Milk, whole fresh buffalo",1998,Head,46313260,46.31326
+milk,"Milk, whole fresh buffalo",1999,Head,46264176,46.264176
+milk,"Milk, whole fresh buffalo",2000,Head,46865686,46.865686
+milk,"Milk, whole fresh buffalo",2001,Head,48387240,48.38724
+milk,"Milk, whole fresh buffalo",2002,Head,49225375,49.225375
+milk,"Milk, whole fresh buffalo",2003,Head,49651062,49.651062
+milk,"Milk, whole fresh buffalo",2004,Head,51052054,51.052054
+milk,"Milk, whole fresh buffalo",2005,Head,52509096,52.509096
+milk,"Milk, whole fresh buffalo",2006,Head,53371162,53.371162
+milk,"Milk, whole fresh buffalo",2007,Head,55153239,55.153239
+milk,"Milk, whole fresh buffalo",2008,Head,55820121,55.820121
+milk,"Milk, whole fresh buffalo",2009,Head,57004105,57.004105
+milk,"Milk, whole fresh buffalo",2010,Head,58336993,58.336993
+milk,"Milk, whole fresh buffalo",2011,Head,59748036,59.748036
+milk,"Milk, whole fresh buffalo",2012,Head,60729389,60.729389
+milk,"Milk, whole fresh buffalo",2013,Head,61575949,61.575949
+milk,"Milk, whole fresh buffalo",2014,Head,62431963,62.431963
+milk,"Milk, whole fresh buffalo",2015,Head,64620032,64.620032
+milk,"Milk, whole fresh buffalo",2016,Head,66375541,66.375541
+milk,"Milk, whole fresh buffalo",2017,Head,67468820,67.46882
+milk,"Milk, whole fresh buffalo",2018,Head,69614417,69.614417
+milk,"Milk, whole fresh camel",1961,Head,1899369,1.899369
+milk,"Milk, whole fresh camel",1962,Head,1985269,1.985269
+milk,"Milk, whole fresh camel",1963,Head,2105769,2.105769
+milk,"Milk, whole fresh camel",1964,Head,2245269,2.245269
+milk,"Milk, whole fresh camel",1965,Head,2350043,2.350043
+milk,"Milk, whole fresh camel",1966,Head,2482014,2.482014
+milk,"Milk, whole fresh camel",1967,Head,2595785,2.595785
+milk,"Milk, whole fresh camel",1968,Head,2689188,2.689188
+milk,"Milk, whole fresh camel",1969,Head,2714614,2.714614
+milk,"Milk, whole fresh camel",1970,Head,2936543,2.936543
+milk,"Milk, whole fresh camel",1971,Head,2991988,2.991988
+milk,"Milk, whole fresh camel",1972,Head,3028345,3.028345
+milk,"Milk, whole fresh camel",1973,Head,2989805,2.989805
+milk,"Milk, whole fresh camel",1974,Head,3019282,3.019282
+milk,"Milk, whole fresh camel",1975,Head,3149279,3.149279
+milk,"Milk, whole fresh camel",1976,Head,3217018,3.217018
+milk,"Milk, whole fresh camel",1977,Head,3335698,3.335698
+milk,"Milk, whole fresh camel",1978,Head,3450460,3.45046
+milk,"Milk, whole fresh camel",1979,Head,3474100,3.4741
+milk,"Milk, whole fresh camel",1980,Head,3485475,3.485475
+milk,"Milk, whole fresh camel",1981,Head,3589070,3.58907
+milk,"Milk, whole fresh camel",1982,Head,3695200,3.6952
+milk,"Milk, whole fresh camel",1983,Head,3724969,3.724969
+milk,"Milk, whole fresh camel",1984,Head,3760484,3.760484
+milk,"Milk, whole fresh camel",1985,Head,3830870,3.83087
+milk,"Milk, whole fresh camel",1986,Head,3843536,3.843536
+milk,"Milk, whole fresh camel",1987,Head,3948400,3.9484
+milk,"Milk, whole fresh camel",1988,Head,4035500,4.0355
+milk,"Milk, whole fresh camel",1989,Head,4106977,4.106977
+milk,"Milk, whole fresh camel",1990,Head,3937381,3.937381
+milk,"Milk, whole fresh camel",1991,Head,4031012,4.031012
+milk,"Milk, whole fresh camel",1992,Head,3907513,3.907513
+milk,"Milk, whole fresh camel",1993,Head,3835089,3.835089
+milk,"Milk, whole fresh camel",1994,Head,3923492,3.923492
+milk,"Milk, whole fresh camel",1995,Head,4041161,4.041161
+milk,"Milk, whole fresh camel",1996,Head,4077515,4.077515
+milk,"Milk, whole fresh camel",1997,Head,4151174,4.151174
+milk,"Milk, whole fresh camel",1998,Head,4115427,4.115427
+milk,"Milk, whole fresh camel",1999,Head,4169647,4.169647
+milk,"Milk, whole fresh camel",2000,Head,4367942,4.367942
+milk,"Milk, whole fresh camel",2001,Head,4271616,4.271616
+milk,"Milk, whole fresh camel",2002,Head,4538976,4.538976
+milk,"Milk, whole fresh camel",2003,Head,4480516,4.480516
+milk,"Milk, whole fresh camel",2004,Head,4752683,4.752683
+milk,"Milk, whole fresh camel",2005,Head,4804361,4.804361
+milk,"Milk, whole fresh camel",2006,Head,4517306,4.517306
+milk,"Milk, whole fresh camel",2007,Head,5100439,5.100439
+milk,"Milk, whole fresh camel",2008,Head,5557748,5.557748
+milk,"Milk, whole fresh camel",2009,Head,5687290,5.68729
+milk,"Milk, whole fresh camel",2010,Head,5714543,5.714543
+milk,"Milk, whole fresh camel",2011,Head,5953978,5.953978
+milk,"Milk, whole fresh camel",2012,Head,7543764,7.543764
+milk,"Milk, whole fresh camel",2013,Head,7492443,7.492443
+milk,"Milk, whole fresh camel",2014,Head,7220709,7.220709
+milk,"Milk, whole fresh camel",2015,Head,7817627,7.817627
+milk,"Milk, whole fresh camel",2016,Head,7843794,7.843794
+milk,"Milk, whole fresh camel",2017,Head,7971757,7.971757
+milk,"Milk, whole fresh camel",2018,Head,7833109,7.833109
+milk,"Milk, whole fresh cow",1961,Head,177334557,177.334557
+milk,"Milk, whole fresh cow",1962,Head,176572244,176.572244
+milk,"Milk, whole fresh cow",1963,Head,177117785,177.117785
+milk,"Milk, whole fresh cow",1964,Head,175927677,175.927677
+milk,"Milk, whole fresh cow",1965,Head,176794885,176.794885
+milk,"Milk, whole fresh cow",1966,Head,184186306,184.186306
+milk,"Milk, whole fresh cow",1967,Head,183648552,183.648552
+milk,"Milk, whole fresh cow",1968,Head,186150424,186.150424
+milk,"Milk, whole fresh cow",1969,Head,187197358,187.197358
+milk,"Milk, whole fresh cow",1970,Head,184796281,184.796281
+milk,"Milk, whole fresh cow",1971,Head,186786143,186.786143
+milk,"Milk, whole fresh cow",1972,Head,189670490,189.67049
+milk,"Milk, whole fresh cow",1973,Head,188414803,188.414803
+milk,"Milk, whole fresh cow",1974,Head,191664627,191.664627
+milk,"Milk, whole fresh cow",1975,Head,194909493,194.909493
+milk,"Milk, whole fresh cow",1976,Head,197407922,197.407922
+milk,"Milk, whole fresh cow",1977,Head,200676806,200.676806
+milk,"Milk, whole fresh cow",1978,Head,203163678,203.163678
+milk,"Milk, whole fresh cow",1979,Head,207244476,207.244476
+milk,"Milk, whole fresh cow",1980,Head,210261906,210.261906
+milk,"Milk, whole fresh cow",1981,Head,212119923,212.119923
+milk,"Milk, whole fresh cow",1982,Head,213217788,213.217788
+milk,"Milk, whole fresh cow",1983,Head,215651397,215.651397
+milk,"Milk, whole fresh cow",1984,Head,216368694,216.368694
+milk,"Milk, whole fresh cow",1985,Head,216954192,216.954192
+milk,"Milk, whole fresh cow",1986,Head,220537233,220.537233
+milk,"Milk, whole fresh cow",1987,Head,220439302,220.439302
+milk,"Milk, whole fresh cow",1988,Head,220261096,220.261096
+milk,"Milk, whole fresh cow",1989,Head,222010096,222.010096
+milk,"Milk, whole fresh cow",1990,Head,223058659,223.058659
+milk,"Milk, whole fresh cow",1991,Head,222652927,222.652927
+milk,"Milk, whole fresh cow",1992,Head,220916779,220.916779
+milk,"Milk, whole fresh cow",1993,Head,219793864,219.793864
+milk,"Milk, whole fresh cow",1994,Head,222139943,222.139943
+milk,"Milk, whole fresh cow",1995,Head,222148313,222.148313
+milk,"Milk, whole fresh cow",1996,Head,220190546,220.190546
+milk,"Milk, whole fresh cow",1997,Head,219504036,219.504036
+milk,"Milk, whole fresh cow",1998,Head,219339328,219.339328
+milk,"Milk, whole fresh cow",1999,Head,220235470,220.23547
+milk,"Milk, whole fresh cow",2000,Head,218477512,218.477512
+milk,"Milk, whole fresh cow",2001,Head,221051627,221.051627
+milk,"Milk, whole fresh cow",2002,Head,223715182,223.715182
+milk,"Milk, whole fresh cow",2003,Head,230736769,230.736769
+milk,"Milk, whole fresh cow",2004,Head,234325435,234.325435
+milk,"Milk, whole fresh cow",2005,Head,237197399,237.197399
+milk,"Milk, whole fresh cow",2006,Head,241944248,241.944248
+milk,"Milk, whole fresh cow",2007,Head,249145515,249.145515
+milk,"Milk, whole fresh cow",2008,Head,251369977,251.369977
+milk,"Milk, whole fresh cow",2009,Head,259237486,259.237486
+milk,"Milk, whole fresh cow",2010,Head,261373580,261.37358
+milk,"Milk, whole fresh cow",2011,Head,263991735,263.991735
+milk,"Milk, whole fresh cow",2012,Head,268213041,268.213041
+milk,"Milk, whole fresh cow",2013,Head,269645043,269.645043
+milk,"Milk, whole fresh cow",2014,Head,272951126,272.951126
+milk,"Milk, whole fresh cow",2015,Head,275544683,275.544683
+milk,"Milk, whole fresh cow",2016,Head,276573845,276.573845
+milk,"Milk, whole fresh cow",2017,Head,275384484,275.384484
+milk,"Milk, whole fresh cow",2018,Head,265099487,265.099487
+milk,"Milk, whole fresh goat",1961,Head,73746600,73.7466
+milk,"Milk, whole fresh goat",1962,Head,72860597,72.860597
+milk,"Milk, whole fresh goat",1963,Head,72066757,72.066757
+milk,"Milk, whole fresh goat",1964,Head,72658319,72.658319
+milk,"Milk, whole fresh goat",1965,Head,73798012,73.798012
+milk,"Milk, whole fresh goat",1966,Head,72961462,72.961462
+milk,"Milk, whole fresh goat",1967,Head,73789474,73.789474
+milk,"Milk, whole fresh goat",1968,Head,75328800,75.3288
+milk,"Milk, whole fresh goat",1969,Head,75803258,75.803258
+milk,"Milk, whole fresh goat",1970,Head,76030681,76.030681
+milk,"Milk, whole fresh goat",1971,Head,76409363,76.409363
+milk,"Milk, whole fresh goat",1972,Head,76006530,76.00653
+milk,"Milk, whole fresh goat",1973,Head,76556160,76.55616
+milk,"Milk, whole fresh goat",1974,Head,78540136,78.540136
+milk,"Milk, whole fresh goat",1975,Head,81358085,81.358085
+milk,"Milk, whole fresh goat",1976,Head,83831097,83.831097
+milk,"Milk, whole fresh goat",1977,Head,87237396,87.237396
+milk,"Milk, whole fresh goat",1978,Head,90156454,90.156454
+milk,"Milk, whole fresh goat",1979,Head,91966833,91.966833
+milk,"Milk, whole fresh goat",1980,Head,92596412,92.596412
+milk,"Milk, whole fresh goat",1981,Head,94957266,94.957266
+milk,"Milk, whole fresh goat",1982,Head,96244417,96.244417
+milk,"Milk, whole fresh goat",1983,Head,97566751,97.566751
+milk,"Milk, whole fresh goat",1984,Head,98251385,98.251385
+milk,"Milk, whole fresh goat",1985,Head,101097066,101.097066
+milk,"Milk, whole fresh goat",1986,Head,104388840,104.38884
+milk,"Milk, whole fresh goat",1987,Head,105924470,105.92447
+milk,"Milk, whole fresh goat",1988,Head,108781742,108.781742
+milk,"Milk, whole fresh goat",1989,Head,111624761,111.624761
+milk,"Milk, whole fresh goat",1990,Head,123476288,123.476288
+milk,"Milk, whole fresh goat",1991,Head,127598199,127.598199
+milk,"Milk, whole fresh goat",1992,Head,128637641,128.637641
+milk,"Milk, whole fresh goat",1993,Head,133298705,133.298705
+milk,"Milk, whole fresh goat",1994,Head,141173415,141.173415
+milk,"Milk, whole fresh goat",1995,Head,146344255,146.344255
+milk,"Milk, whole fresh goat",1996,Head,143675785,143.675785
+milk,"Milk, whole fresh goat",1997,Head,148704979,148.704979
+milk,"Milk, whole fresh goat",1998,Head,150648145,150.648145
+milk,"Milk, whole fresh goat",1999,Head,158650372,158.650372
+milk,"Milk, whole fresh goat",2000,Head,157010266,157.010266
+milk,"Milk, whole fresh goat",2001,Head,155894099,155.894099
+milk,"Milk, whole fresh goat",2002,Head,161064755,161.064755
+milk,"Milk, whole fresh goat",2003,Head,165134253,165.134253
+milk,"Milk, whole fresh goat",2004,Head,166586328,166.586328
+milk,"Milk, whole fresh goat",2005,Head,173310176,173.310176
+milk,"Milk, whole fresh goat",2006,Head,174510758,174.510758
+milk,"Milk, whole fresh goat",2007,Head,178898342,178.898342
+milk,"Milk, whole fresh goat",2008,Head,179308271,179.308271
+milk,"Milk, whole fresh goat",2009,Head,185720075,185.720075
+milk,"Milk, whole fresh goat",2010,Head,189850751,189.850751
+milk,"Milk, whole fresh goat",2011,Head,197356430,197.35643
+milk,"Milk, whole fresh goat",2012,Head,206778479,206.778479
+milk,"Milk, whole fresh goat",2013,Head,200659412,200.659412
+milk,"Milk, whole fresh goat",2014,Head,196995089,196.995089
+milk,"Milk, whole fresh goat",2015,Head,208866636,208.866636
+milk,"Milk, whole fresh goat",2016,Head,208563046,208.563046
+milk,"Milk, whole fresh goat",2017,Head,214012106,214.012106
+milk,"Milk, whole fresh goat",2018,Head,216231667,216.231667
+milk,"Milk, whole fresh sheep",1961,Head,116824762,116.824762
+milk,"Milk, whole fresh sheep",1962,Head,116468178,116.468178
+milk,"Milk, whole fresh sheep",1963,Head,118115073,118.115073
+milk,"Milk, whole fresh sheep",1964,Head,119715005,119.715005
+milk,"Milk, whole fresh sheep",1965,Head,121019853,121.019853
+milk,"Milk, whole fresh sheep",1966,Head,122673009,122.673009
+milk,"Milk, whole fresh sheep",1967,Head,125481361,125.481361
+milk,"Milk, whole fresh sheep",1968,Head,127305165,127.305165
+milk,"Milk, whole fresh sheep",1969,Head,126429411,126.429411
+milk,"Milk, whole fresh sheep",1970,Head,126728552,126.728552
+milk,"Milk, whole fresh sheep",1971,Head,125189051,125.189051
+milk,"Milk, whole fresh sheep",1972,Head,124724121,124.724121
+milk,"Milk, whole fresh sheep",1973,Head,126897450,126.89745
+milk,"Milk, whole fresh sheep",1974,Head,128698588,128.698588
+milk,"Milk, whole fresh sheep",1975,Head,131741329,131.741329
+milk,"Milk, whole fresh sheep",1976,Head,135052849,135.052849
+milk,"Milk, whole fresh sheep",1977,Head,138944274,138.944274
+milk,"Milk, whole fresh sheep",1978,Head,143225352,143.225352
+milk,"Milk, whole fresh sheep",1979,Head,146449879,146.449879
+milk,"Milk, whole fresh sheep",1980,Head,151377929,151.377929
+milk,"Milk, whole fresh sheep",1981,Head,154930939,154.930939
+milk,"Milk, whole fresh sheep",1982,Head,157116310,157.11631
+milk,"Milk, whole fresh sheep",1983,Head,161468747,161.468747
+milk,"Milk, whole fresh sheep",1984,Head,155009375,155.009375
+milk,"Milk, whole fresh sheep",1985,Head,155831118,155.831118
+milk,"Milk, whole fresh sheep",1986,Head,154869314,154.869314
+milk,"Milk, whole fresh sheep",1987,Head,157309378,157.309378
+milk,"Milk, whole fresh sheep",1988,Head,161522991,161.522991
+milk,"Milk, whole fresh sheep",1989,Head,164828099,164.828099
+milk,"Milk, whole fresh sheep",1990,Head,170292648,170.292648
+milk,"Milk, whole fresh sheep",1991,Head,179993793,179.993793
+milk,"Milk, whole fresh sheep",1992,Head,187784816,187.784816
+milk,"Milk, whole fresh sheep",1993,Head,187932231,187.932231
+milk,"Milk, whole fresh sheep",1994,Head,193364308,193.364308
+milk,"Milk, whole fresh sheep",1995,Head,194549827,194.549827
+milk,"Milk, whole fresh sheep",1996,Head,198892418,198.892418
+milk,"Milk, whole fresh sheep",1997,Head,198765935,198.765935
+milk,"Milk, whole fresh sheep",1998,Head,200781725,200.781725
+milk,"Milk, whole fresh sheep",1999,Head,203581265,203.581265
+milk,"Milk, whole fresh sheep",2000,Head,205724258,205.724258
+milk,"Milk, whole fresh sheep",2001,Head,205021966,205.021966
+milk,"Milk, whole fresh sheep",2002,Head,205026749,205.026749
+milk,"Milk, whole fresh sheep",2003,Head,200292560,200.29256
+milk,"Milk, whole fresh sheep",2004,Head,201822577,201.822577
+milk,"Milk, whole fresh sheep",2005,Head,209459814,209.459814
+milk,"Milk, whole fresh sheep",2006,Head,210963720,210.96372
+milk,"Milk, whole fresh sheep",2007,Head,217182680,217.18268
+milk,"Milk, whole fresh sheep",2008,Head,213506317,213.506317
+milk,"Milk, whole fresh sheep",2009,Head,221425442,221.425442
+milk,"Milk, whole fresh sheep",2010,Head,231434862,231.434862
+milk,"Milk, whole fresh sheep",2011,Head,231870717,231.870717
+milk,"Milk, whole fresh sheep",2012,Head,233522998,233.522998
+milk,"Milk, whole fresh sheep",2013,Head,233531786,233.531786
+milk,"Milk, whole fresh sheep",2014,Head,234689916,234.689916
+milk,"Milk, whole fresh sheep",2015,Head,238517638,238.517638
+milk,"Milk, whole fresh sheep",2016,Head,247293731,247.293731
+milk,"Milk, whole fresh sheep",2017,Head,248457948,248.457948
+milk,"Milk, whole fresh sheep",2018,Head,251034215,251.034215

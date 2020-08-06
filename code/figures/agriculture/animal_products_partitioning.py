@@ -56,8 +56,10 @@ total = total[total['year'] >= 2010]
 
 # %%
 total = total.groupby(['year', 'category']).sum().reset_index()
+
+
 total = total.groupby(['year']).sum().reset_index()
-total = total.agg(('mean', 'sem'))
+total = total.agg(('mean', 'std'))
 total
 
 # %%
