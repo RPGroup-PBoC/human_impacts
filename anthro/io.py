@@ -1,4 +1,5 @@
 from bokeh.models import * 
+import numpy as np
 
 def load_js(fname, args):
     """
@@ -32,3 +33,47 @@ def load_js(fname, args):
 
     cb = CustomJS(code=js, args=args)
     return cb
+
+
+def numeric_formatter(values, digits=3, sci=False, unit=''):
+    """
+    Formats numbers to human-readable formats using single-letter abbreviations
+    for orders of magntiude. 
+
+    Parameters
+    ----------
+    values : list or nd-array of numeric values
+        Value which you wish for format in a readable manner
+    digits : int
+        Number of significant figures to report
+    
+
+    Returns
+    -------
+    str_vals : list 
+        List of formatted numbers of the same length as values.
+    """
+    base_powers = np.floor(np.log10(values))
+    str_vals = []
+    base_dict = {'p':[-15, -12], 'n':[-12, -9], 'µ':[-9, -6], 'm':[-6, -3],
+                 '':[-3, 3], 'K':[3,6], 'M':[6, 9], 'B':[9, 12],
+                 'T':[12,15]}
+    for i, v in enumerate(values):
+        base = base_powers[i]
+        for _v, _k in base_dict.items():
+            if (base >=_k[0]) & (base < _k[1]):
+                n = _k[0]
+                l = _v
+        val = str(np.round(v*10**-n, decimals=2)) 
+        if len(val) <= digits:
+            val = val
+        else:
+            if val[digits-1] == '.':
+                end = digits + 1
+            else:
+                end = digits  
+            val = val[:end]
+        if (sci == True) & (l == 'B'):
+            l = 'G'
+        str_vals.append(f'{val}{l}{unit}')
+    return str_vals 

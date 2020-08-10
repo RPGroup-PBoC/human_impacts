@@ -9,7 +9,8 @@ import bokeh.transform
 import bokeh.layouts
 import anthro.viz
 colors, palette = anthro.viz.bokeh_theme()
-bokeh.io.output_file('./livestock_population.html')
+bokeh.io.output_file('./barnyard_number
+.html')
 
 # Load the datasets 
 animal_data = pd.read_csv('../../../data/agriculture/FAOSTAT_livestock_population/processed/FAOSTAT_livestock_population.csv')
