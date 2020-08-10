@@ -5,7 +5,7 @@
 from . import unit
 from . import viz 
 from . import stats
-from . import tessellation
+from . import io
 __author__ = """Griffin Chure"""
 __email__ = """gchure@caltech.edu"""
 __version__ = '0.0.01'
