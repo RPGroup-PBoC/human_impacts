@@ -12,7 +12,7 @@ Exajoules were converted to units of TW.
 
 
 Top 10 (2019)
-| Country | Power Usage |
+| Country | Power Usage (TW) |
 |:--:|:--:|
 | China | ≈ 4.5 | 
 | USA | ≈ 3 | 
