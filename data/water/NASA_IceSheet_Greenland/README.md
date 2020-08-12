@@ -5,7 +5,7 @@
 This dataset contains mass anomalies for the Greenland Ice Sheet relative to April 2002.
 
 ## Key Numbers
-Greenland Mass Trend (04/2002 - 05/2020): -279.46 +/- 21.00 Gt/yr
+Greenland Mass Trend (04/2002 - 05/2020): -279.46 +/- 21.00 Gt/yr,
 Greenland Mass Anomaly (May 2020): -4724.64 +/- 50.39 Gt
 
 ## Source Information
@@ -15,4 +15,4 @@ Greenland Mass Anomaly (May 2020): -4724.64 +/- 50.39 Gt
 * **Bias**: These data are collected by NASA, a U.S. Government Agency generally regarded to be an objective science agency. PO.DAAC is a CoreTrustSeal Certified Repository.
 
 ## Notes
-These data are collected by NASA's Gravity Recovery and Climate Experiment (GRACE) and follow on (GRACE-FO) satellites. The gap in 2017-2018 is the time between these missions. The GRACE and GRACE-FO missions made maps of Earth's gravitational field, and thus mass distribution, every 30 days. With these data, movements of ice and water can be tracked. 
+These data are collected by NASA's Gravity Recovery and Climate Experiment (GRACE) and follow on (GRACE-FO) satellites. The gap in 2017-2018 is the time between these missions. The GRACE and GRACE-FO missions made maps of Earth's gravitational field, and thus mass distribution, every 30 days. With these data, movements of ice and water can be tracked.
