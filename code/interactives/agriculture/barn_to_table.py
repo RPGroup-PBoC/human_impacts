@@ -35,7 +35,7 @@ data.loc[(data['primary']=='goat') & (data['secondary']=='meat'), 'color'] = col
 data.loc[(data['primary']=='goat') & (data['secondary']=='milk'), 'color'] = colors['light_purple']
 data.loc[(data['primary']=='sheep') & (data['secondary']=='milk'), 'color'] = '#8a8d8e'
 data.loc[(data['primary']=='sheep') & (data['secondary']=='meat'), 'color'] = '#4b4b4b'
-data.loc[(data['primary']=='swine') & (data['secondary']=='meat'), 'color'] = colors['light_red']
+data.loc[(data['primary']=='swine') & (data['secondary']=='pork'), 'color'] = colors['light_red']
 data.loc[(data['primary']=='total') & (data['secondary']=='meat'), 'color'] = colors['light_red']
 data.loc[(data['primary']=='total') & (data['secondary']=='milk'), 'color'] = colors['blue']
 data.loc[(data['primary']=='total') & (data['secondary']=='eggs'), 'color'] = colors['green']
@@ -56,12 +56,15 @@ cat_select = Select(title='Product category', options=list(data['primary'].uniqu
                     value='Cattle')
 
 
-pop_hover = HoverTool(tooltips=[('product', '@primary, @secondary'),
+pop_hover = HoverTool(tooltips=[('point color $color[swatch]:color', ''),
+                                 ('product', '@primary, @secondary'),
                                  ('producing animals', '@pop_total'),
                                  ('year', '@year')],
                       mode='vline')
 
-prod_hover = HoverTool(tooltips=[('product', '@primary, @secondary'),
+prod_hover = HoverTool(tooltips=[
+                                ('point color', '$color[hex, swatch]:color'),
+                                 ('product', '@primary, @secondary'),
                                  ('amount produced', '@prod_total'),
                                  ('year', '@year')],
                       mode='vline')
