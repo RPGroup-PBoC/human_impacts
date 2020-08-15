@@ -48,8 +48,10 @@ mid-1960's. Of these, $^{239}$Pu and $^{240}$Pu have recently been proposed
 to be the best chronological markers for the onset of the anthropocene due to
 their long half-lives, global distribution, low mobility in stratified soils,
 and the fact that plutonium is so rarely produced via natural processes as to
-be negligible [@hancock2014]. In this vignette, we will explore how the deposition of
-plutonium isotopes into the Earth geochemical cycles will serve as a geological
-marker for the presence of humans, even long after we are likely gone. 
+be negligible [@hancock2014]. In this vignette, we will explore how the
+deposition of plutonium isotopes into the Earth geochemical cycles will serve
+as a geological marker for the presence of humans, even long after we are
+likely gone.
 
 ## Whence Cometh the Anthropocene? 
+
