@@ -2,7 +2,7 @@
 # Greenland Ice Sheet Mass
 
 ## Description
-This dataset contains mass anomalies for the Greenland Ice Sheet relative to April 2002.
+This dataset contains mass anomalies and the NASA calculated mass trend for the Greenland Ice Sheet relative to April 2002.
 
 ## Key Numbers
 Greenland Mass Trend (04/2002 - 05/2020): -279.46 +/- 21.00 Gt/yr,

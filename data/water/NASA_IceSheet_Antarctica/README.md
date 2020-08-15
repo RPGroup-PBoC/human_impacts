@@ -2,7 +2,7 @@
 # Antarctica Ice Sheet Mass
 
 ## Description
-This dataset contains mass anomalies for the Antarctic Ice Sheet relative to April 2002.
+This dataset contains mass anomalies and the NASA calculated mass trend for the Antarctic Ice Sheet relative to April 2002.
 
 ## Key Numbers
 Antarctic Mass Trend (04/2002 - 05/2020): -147.35 +/- 39.00 Gt/yr,

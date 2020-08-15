@@ -6,7 +6,7 @@ This dataset contains information on the mass balance of a set of reference glac
 
 ## Key Numbers
 Cumulative glacier mass balance 1970-2019: -23,655 kg/m<sup>2</sup>,
-Glacier mass balance 2019: -1131 kg/m<sup>2</sup>
+Glacier mass balance 2019: -1131 kg/m<sup>2</sup>,
 Years since 1970 with positive glacier mass balance: 2
 
 ## Source Information
