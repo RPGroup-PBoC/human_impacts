@@ -1,6 +1,6 @@
 # The Great Human Experiment by the Numbers
 
-Welcome! This respository collects and annotates data sets pertaining to the
+Welcome! This repository collects and annotates data sets pertaining to the
 impacts humans have on the earth writ large. This is a living, breathing
 research repository and is subject to change at any point in time. 
 
@@ -124,13 +124,6 @@ and human readable. Please see the `README_TEMPLATE.md` file for more
 information about what to include. 
 
 ## Software
-During the course, you may want to computationally explore some of the data sets
-and make visualizations. Great! We want you to do this and have fun with it.
-There is no expectation of a specific programming language and you are free to
-use what you see fit. However, you must have your code properly commented and
-annotated such that other members of the repository can reproduce your work in
-another programming language. 
-
 Any code you write to analyze a data set must be housed within a `code`
 subdirectory in your deposited data folder. Consider our example of a
 hypothetical data set containing the global population from the years
