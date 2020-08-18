@@ -75,5 +75,5 @@ def numeric_formatter(values, digits=3, sci=False, unit=''):
             val = val[:end]
         if (sci == True) & (l == 'B'):
             l = 'G'
-        str_vals.append(f'{val}{l}{unit}')
+        str_vals.append(f'{val} {l}{unit}')
     return str_vals 
