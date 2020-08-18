@@ -1,4 +1,4 @@
-﻿region,period,area (km^2),V (mm SLE),V uncertainty (mm SLE),mass loss (kg m-2 yr-1),mass loss uncertainty (kg m-2 yr-1),mass loss(Gt yr-1) ,mass loss uncertainty (Gt yr-1),mass loss (mm SLE yr-1 ),mass loss uncertainty (mm SLE yr-1 )
+﻿region,period,area (km^2),V (mm SLE),V uncertainty (mm SLE),mass loss (kg m-2 yr-1),mass loss uncertainty (kg m-2 yr-1),mass loss (Gt yr-1),mass loss uncertainty (Gt yr-1),mass loss (mm SLE yr-1 ),mass loss uncertainty (mm SLE yr-1 )
 mountain regions,2006-2015,"251,604",87,15,-490,100,-123,24,0.34,0.07
 arctic regions,2006-2015,422000,221,25,-500,70,-213,29,-0.59,0.08
 "global excl. antarctic, greenland periphery",2006-2015,483155,221,23,-460,60,-220,30,0.61,0.08
