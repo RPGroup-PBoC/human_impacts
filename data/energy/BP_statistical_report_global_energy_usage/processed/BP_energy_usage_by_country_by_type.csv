@@ -1,0 +1,1289 @@
+﻿country,year,energy_type,consumed_EJ_yr,consumed_TW
+Canada,1968,nuclear,0.01,0.000291892
+Canada,1969,nuclear,0.01,0.000168203
+Canada,1970,nuclear,0.01,0.00032973
+Canada,1971,nuclear,0.04,0.001356757
+Canada,1972,nuclear,0.07,0.002292846
+Canada,1973,nuclear,0.15,0.004850238
+Canada,1974,nuclear,0.15,0.004672814
+Canada,1975,nuclear,0.13,0.00399682
+Canada,1976,nuclear,0.17,0.005537679
+Canada,1977,nuclear,0.26,0.008375835
+Canada,1978,nuclear,0.31,0.009921145
+Canada,1979,nuclear,0.35,0.011214944
+Canada,1980,nuclear,0.38,0.012092846
+Canada,1981,nuclear,0.40,0.012739905
+Canada,1982,nuclear,0.38,0.012189825
+Canada,1983,nuclear,0.49,0.01545628
+Canada,1984,nuclear,0.52,0.016600954
+Canada,1985,nuclear,0.61,0.019243561
+Canada,1986,nuclear,0.71,0.022660413
+Canada,1987,nuclear,0.77,0.024566296
+Canada,1988,nuclear,0.83,0.026348808
+Canada,1989,nuclear,0.79,0.025219982
+Canada,1990,nuclear,0.72,0.023039746
+Canada,1991,nuclear,0.84,0.026816835
+Canada,1992,nuclear,0.80,0.025444231
+Canada,1993,nuclear,0.93,0.029661116
+Canada,1994,nuclear,1.07,0.034049034
+Canada,1995,nuclear,0.97,0.030894821
+Canada,1996,nuclear,0.92,0.029291607
+Canada,1997,nuclear,0.82,0.02605874
+Canada,1998,nuclear,0.71,0.022573174
+Canada,1999,nuclear,0.73,0.023205087
+Canada,2000,nuclear,0.72,0.022986863
+Canada,2001,nuclear,0.76,0.024059633
+Canada,2002,nuclear,0.74,0.023539669
+Canada,2003,nuclear,0.73,0.0231928
+Canada,2004,nuclear,0.87,0.027812741
+Canada,2005,nuclear,0.89,0.02814232
+Canada,2006,nuclear,0.94,0.029765372
+Canada,2007,nuclear,0.89,0.028229018
+Canada,2008,nuclear,0.91,0.028812282
+Canada,2009,nuclear,0.84,0.026866376
+Canada,2010,nuclear,0.85,0.02686957
+Canada,2011,nuclear,0.87,0.027568988
+Canada,2012,nuclear,0.87,0.027774697
+Canada,2013,nuclear,0.95,0.030103682
+Canada,2014,nuclear,0.98,0.031034498
+Canada,2015,nuclear,0.92,0.029276303
+Canada,2016,nuclear,0.91,0.028994447
+Canada,2017,nuclear,0.91,0.028787054
+Canada,2018,nuclear,0.90,0.028458365
+Canada,2019,nuclear,0.90,0.028482325
+Mexico,1990,nuclear,0.03,0.000933863
+Mexico,1991,nuclear,0.04,0.001348808
+Mexico,1992,nuclear,0.04,0.001246105
+Mexico,1993,nuclear,0.05,0.001567886
+Mexico,1994,nuclear,0.04,0.001347854
+Mexico,1995,nuclear,0.08,0.002684579
+Mexico,1996,nuclear,0.08,0.002504928
+Mexico,1997,nuclear,0.10,0.003324642
+Mexico,1998,nuclear,0.09,0.002945946
+Mexico,1999,nuclear,0.10,0.003180286
+Mexico,2000,nuclear,0.08,0.00261399
+Mexico,2001,nuclear,0.09,0.002756546
+Mexico,2002,nuclear,0.10,0.003059096
+Mexico,2003,nuclear,0.10,0.003274898
+Mexico,2004,nuclear,0.09,0.00284887
+Mexico,2005,nuclear,0.10,0.003326861
+Mexico,2006,nuclear,0.10,0.003324704
+Mexico,2007,nuclear,0.10,0.003168464
+Mexico,2008,nuclear,0.09,0.002962424
+Mexico,2009,nuclear,0.10,0.003153477
+Mexico,2010,nuclear,0.06,0.001754706
+Mexico,2011,nuclear,0.09,0.00299284
+Mexico,2012,nuclear,0.08,0.002585631
+Mexico,2013,nuclear,0.11,0.003458119
+Mexico,2014,nuclear,0.09,0.00281906
+Mexico,2015,nuclear,0.11,0.003352453
+Mexico,2016,nuclear,0.10,0.003041886
+Mexico,2017,nuclear,0.10,0.003114332
+Mexico,2018,nuclear,0.12,0.003883298
+Mexico,2019,nuclear,0.10,0.003189112
+USA,1965,nuclear,0.04,0.001223897
+USA,1966,nuclear,0.06,0.001847514
+USA,1967,nuclear,0.08,0.0025622
+USA,1968,nuclear,0.13,0.004193262
+USA,1969,nuclear,0.15,0.004661648
+USA,1970,nuclear,0.23,0.007297949
+USA,1971,nuclear,0.40,0.012753592
+USA,1972,nuclear,0.57,0.018104304
+USA,1973,nuclear,0.88,0.027940578
+USA,1974,nuclear,1.20,0.038147683
+USA,1975,nuclear,1.82,0.057737453
+USA,1976,nuclear,2.01,0.063962357
+USA,1977,nuclear,2.64,0.083970641
+USA,1978,nuclear,2.91,0.092512114
+USA,1979,nuclear,2.69,0.085400259
+USA,1980,nuclear,2.64,0.084048389
+USA,1981,nuclear,2.87,0.091263828
+USA,1982,nuclear,2.98,0.094644213
+USA,1983,nuclear,3.09,0.098293739
+USA,1984,nuclear,3.45,0.109658957
+USA,1985,nuclear,4.04,0.128421296
+USA,1986,nuclear,4.36,0.13857855
+USA,1987,nuclear,4.79,0.152379008
+USA,1988,nuclear,5.55,0.176377892
+USA,1989,nuclear,5.57,0.177175037
+USA,1990,nuclear,6.07,0.193075618
+USA,1991,nuclear,6.45,0.20502555
+USA,1992,nuclear,6.51,0.207104431
+USA,1993,nuclear,6.42,0.204264485
+USA,1994,nuclear,6.74,0.214355228
+USA,1995,nuclear,7.09,0.225387707
+USA,1996,nuclear,7.10,0.225831661
+USA,1997,nuclear,6.62,0.21040722
+USA,1998,nuclear,7.09,0.225488111
+USA,1999,nuclear,7.67,0.243746674
+USA,2000,nuclear,7.94,0.252327986
+USA,2001,nuclear,8.04,0.255655235
+USA,2002,nuclear,8.11,0.257718599
+USA,2003,nuclear,7.88,0.250705557
+USA,2004,nuclear,8.09,0.257196382
+USA,2005,nuclear,7.97,0.253448234
+USA,2006,nuclear,7.97,0.253539377
+USA,2007,nuclear,8.12,0.258101806
+USA,2008,nuclear,8.06,0.256429885
+USA,2009,nuclear,7.94,0.252522393
+USA,2010,nuclear,7.97,0.25352223
+USA,2011,nuclear,7.76,0.246741814
+USA,2012,nuclear,7.51,0.238768266
+USA,2013,nuclear,7.66,0.243402569
+USA,2014,nuclear,7.69,0.244444045
+USA,2015,nuclear,7.64,0.242992647
+USA,2016,nuclear,7.68,0.244135296
+USA,2017,nuclear,7.63,0.242474997
+USA,2018,nuclear,7.60,0.241696332
+USA,2019,nuclear,7.60,0.241498827
+Argentina,1974,nuclear,0.01,0.000329412
+Argentina,1975,nuclear,0.03,0.000800318
+Argentina,1976,nuclear,0.03,0.000817806
+Argentina,1977,nuclear,0.02,0.000520509
+Argentina,1978,nuclear,0.03,0.000920827
+Argentina,1979,nuclear,0.03,0.000855962
+Argentina,1980,nuclear,0.02,0.000744038
+Argentina,1981,nuclear,0.03,0.00089539
+Argentina,1982,nuclear,0.02,0.000594595
+Argentina,1983,nuclear,0.03,0.001082671
+Argentina,1984,nuclear,0.05,0.001475676
+Argentina,1985,nuclear,0.06,0.001833386
+Argentina,1986,nuclear,0.06,0.001815898
+Argentina,1987,nuclear,0.06,0.002055644
+Argentina,1988,nuclear,0.06,0.001843561
+Argentina,1989,nuclear,0.05,0.001602226
+Argentina,1990,nuclear,0.07,0.002315103
+Argentina,1991,nuclear,0.08,0.002466137
+Argentina,1992,nuclear,0.07,0.00225151
+Argentina,1993,nuclear,0.08,0.002464229
+Argentina,1994,nuclear,0.08,0.002618442
+Argentina,1995,nuclear,0.07,0.002246741
+Argentina,1996,nuclear,0.07,0.002371701
+Argentina,1997,nuclear,0.08,0.00253132
+Argentina,1998,nuclear,0.07,0.002369793
+Argentina,1999,nuclear,0.07,0.002259459
+Argentina,2000,nuclear,0.06,0.00196407
+Argentina,2001,nuclear,0.07,0.00222994
+Argentina,2002,nuclear,0.06,0.001826992
+Argentina,2003,nuclear,0.07,0.002359459
+Argentina,2004,nuclear,0.08,0.00243832
+Argentina,2005,nuclear,0.07,0.002116216
+Argentina,2006,nuclear,0.07,0.002362366
+Argentina,2007,nuclear,0.07,0.002205608
+Argentina,2008,nuclear,0.07,0.002234212
+Argentina,2009,nuclear,0.08,0.002457357
+Argentina,2010,nuclear,0.07,0.002151882
+Argentina,2011,nuclear,0.06,0.001898484
+Argentina,2012,nuclear,0.06,0.001887568
+Argentina,2013,nuclear,0.06,0.001819049
+Argentina,2014,nuclear,0.05,0.001606279
+Argentina,2015,nuclear,0.06,0.00203832
+Argentina,2016,nuclear,0.08,0.002384935
+Argentina,2017,nuclear,0.05,0.001742194
+Argentina,2018,nuclear,0.06,0.00195505
+Argentina,2019,nuclear,0.08,0.002392823
+Brazil,1984,nuclear,0.02,0.000522417
+Brazil,1984,nuclear,0.03,0.00107504
+Brazil,1987,nuclear,0.01,0.00030938
+Brazil,1988,nuclear,0.01,0.000193323
+Brazil,1999,nuclear,0.02,0.000581876
+Brazil,1990,nuclear,0.02,0.000711288
+Brazil,1991,nuclear,0.01,0.000458506
+Brazil,1992,nuclear,0.02,0.0005593
+Brazil,1995,nuclear,0.03,0.000800954
+Brazil,1996,nuclear,0.02,0.000771701
+Brazil,1997,nuclear,0.03,0.001007631
+Brazil,1998,nuclear,0.03,0.001038156
+Brazil,1999,nuclear,0.04,0.001264547
+Brazil,2000,nuclear,0.06,0.001922417
+Brazil,2001,nuclear,0.14,0.004510741
+Brazil,2002,nuclear,0.14,0.004342598
+Brazil,2003,nuclear,0.13,0.004165696
+Brazil,2004,nuclear,0.11,0.003597831
+Brazil,2005,nuclear,0.10,0.003034382
+Brazil,2006,nuclear,0.13,0.004208292
+Brazil,2007,nuclear,0.12,0.003754995
+Brazil,2008,nuclear,0.13,0.004220823
+Brazil,2009,nuclear,0.12,0.003890991
+Brazil,2010,nuclear,0.14,0.004334552
+Brazil,2011,nuclear,0.15,0.004645168
+Brazil,2012,nuclear,0.15,0.004728767
+Brazil,2013,nuclear,0.14,0.00452775
+Brazil,2014,nuclear,0.14,0.004479889
+Brazil,2015,nuclear,0.13,0.004266647
+Brazil,2016,nuclear,0.14,0.004566739
+Brazil,2017,nuclear,0.14,0.004504063
+Brazil,2018,nuclear,0.14,0.004459143
+Brazil,2019,nuclear,0.14,0.004581858
+Belgium,1975,nuclear,0.07,0.002157075
+Belgium,1976,nuclear,0.10,0.003191097
+Belgium,1977,nuclear,0.12,0.003796184
+Belgium,1978,nuclear,0.13,0.003978696
+Belgium,1979,nuclear,0.11,0.003627027
+Belgium,1980,nuclear,0.13,0.003990143
+Belgium,1981,nuclear,0.13,0.004088712
+Belgium,1982,nuclear,0.16,0.004980604
+Belgium,1983,nuclear,0.24,0.007664865
+Belgium,1984,nuclear,0.28,0.008821304
+Belgium,1985,nuclear,0.35,0.011001908
+Belgium,1986,nuclear,0.39,0.012525914
+Belgium,1987,nuclear,0.42,0.013344038
+Belgium,1988,nuclear,0.43,0.013704928
+Belgium,1989,nuclear,0.41,0.013105564
+Belgium,1990,nuclear,0.43,0.013584102
+Belgium,1991,nuclear,0.43,0.013628299
+Belgium,1992,nuclear,0.43,0.013817488
+Belgium,1993,nuclear,0.42,0.01333132
+Belgium,1994,nuclear,0.41,0.012917011
+Belgium,1995,nuclear,0.41,0.013149762
+Belgium,1996,nuclear,0.43,0.013779332
+Belgium,1997,nuclear,0.47,0.015074086
+Belgium,1998,nuclear,0.46,0.014678855
+Belgium,1999,nuclear,0.49,0.015585692
+Belgium,2000,nuclear,0.48,0.015312242
+Belgium,2001,nuclear,0.46,0.014641664
+Belgium,2002,nuclear,0.47,0.014864516
+Belgium,2003,nuclear,0.46,0.014775156
+Belgium,2004,nuclear,0.46,0.014660286
+Belgium,2005,nuclear,0.46,0.014654636
+Belgium,2006,nuclear,0.45,0.0142718
+Belgium,2007,nuclear,0.46,0.014663615
+Belgium,2008,nuclear,0.43,0.013769078
+Belgium,2009,nuclear,0.45,0.014180781
+Belgium,2010,nuclear,0.45,0.014309269
+Belgium,2011,nuclear,0.45,0.014308042
+Belgium,2012,nuclear,0.37,0.01188059
+Belgium,2013,nuclear,0.39,0.012497428
+Belgium,2014,nuclear,0.31,0.009817996
+Belgium,2015,nuclear,0.24,0.007558784
+Belgium,2016,nuclear,0.39,0.01252861
+Belgium,2017,nuclear,0.38,0.012083981
+Belgium,2018,nuclear,0.26,0.008135704
+Belgium,2019,nuclear,0.39,0.012402739
+Bulgaria,1974,nuclear,0.01,0.000295072
+Bulgaria,1975,nuclear,0.03,0.000812083
+Bulgaria,1976,nuclear,0.05,0.001586328
+Bulgaria,1977,nuclear,0.06,0.001870906
+Bulgaria,1978,nuclear,0.06,0.001879173
+Bulgaria,1979,nuclear,0.06,0.001965024
+Bulgaria,1980,nuclear,0.06,0.001960254
+Bulgaria,1981,nuclear,0.09,0.002899523
+Bulgaria,1982,nuclear,0.11,0.003416852
+Bulgaria,1983,nuclear,0.12,0.003916693
+Bulgaria,1984,nuclear,0.13,0.004049285
+Bulgaria,1985,nuclear,0.13,0.004175199
+Bulgaria,1986,nuclear,0.12,0.003837838
+Bulgaria,1987,nuclear,0.12,0.003954213
+Bulgaria,1988,nuclear,0.16,0.005096979
+Bulgaria,1989,nuclear,0.15,0.004631479
+Bulgaria,1990,nuclear,0.15,0.004662957
+Bulgaria,1991,nuclear,0.13,0.004192051
+Bulgaria,1992,nuclear,0.12,0.003673132
+Bulgaria,1993,nuclear,0.14,0.004442925
+Bulgaria,1994,nuclear,0.15,0.004875994
+Bulgaria,1995,nuclear,0.17,0.005488394
+Bulgaria,1996,nuclear,0.18,0.005749444
+Bulgaria,1997,nuclear,0.18,0.005644197
+Bulgaria,1998,nuclear,0.17,0.005373291
+Bulgaria,1999,nuclear,0.16,0.005028299
+Bulgaria,2000,nuclear,0.18,0.005779968
+Bulgaria,2001,nuclear,0.19,0.006176799
+Bulgaria,2002,nuclear,0.20,0.006346922
+Bulgaria,2003,nuclear,0.17,0.005388773
+Bulgaria,2004,nuclear,0.16,0.005210363
+Bulgaria,2005,nuclear,0.18,0.005743312
+Bulgaria,2006,nuclear,0.19,0.005964202
+Bulgaria,2007,nuclear,0.14,0.004452264
+Bulgaria,2008,nuclear,0.15,0.004763639
+Bulgaria,2009,nuclear,0.14,0.004581381
+Bulgaria,2010,nuclear,0.14,0.004551186
+Bulgaria,2011,nuclear,0.15,0.004839354
+Bulgaria,2012,nuclear,0.15,0.004654054
+Bulgaria,2013,nuclear,0.13,0.004153077
+Bulgaria,2014,nuclear,0.15,0.004622103
+Bulgaria,2015,nuclear,0.14,0.004453407
+Bulgaria,2016,nuclear,0.14,0.004541263
+Bulgaria,2017,nuclear,0.14,0.004448632
+Bulgaria,2018,nuclear,0.14,0.004587562
+Bulgaria,2019,nuclear,0.15,0.004696498
+Czech Republic,1984,nuclear,0.01,0.000393959
+Czech Republic,1985,nuclear,0.02,0.000762162
+Czech Republic,1986,nuclear,0.06,0.001955167
+Czech Republic,1987,nuclear,0.11,0.003402544
+Czech Republic,1988,nuclear,0.12,0.003757075
+Czech Republic,1989,nuclear,0.12,0.00394849
+Czech Republic,1990,nuclear,0.13,0.00400159
+Czech Republic,1991,nuclear,0.12,0.003857552
+Czech Republic,1992,nuclear,0.12,0.003895072
+Czech Republic,1993,nuclear,0.13,0.004014944
+Czech Republic,1994,nuclear,0.13,0.004126232
+Czech Republic,1995,nuclear,0.12,0.003888712
+Czech Republic,1996,nuclear,0.13,0.004085851
+Czech Republic,1997,nuclear,0.12,0.003972655
+Czech Republic,1998,nuclear,0.13,0.004190143
+Czech Republic,1999,nuclear,0.13,0.004247059
+Czech Republic,2000,nuclear,0.14,0.004321145
+Czech Republic,2001,nuclear,0.15,0.004659309
+Czech Republic,2002,nuclear,0.18,0.005881214
+Czech Republic,2003,nuclear,0.25,0.00806816
+Czech Republic,2004,nuclear,0.26,0.008157077
+Czech Republic,2005,nuclear,0.24,0.007613698
+Czech Republic,2006,nuclear,0.25,0.007969352
+Czech Republic,2007,nuclear,0.25,0.007957733
+Czech Republic,2008,nuclear,0.25,0.008022797
+Czech Republic,2009,nuclear,0.26,0.008170511
+Czech Republic,2010,nuclear,0.26,0.008353301
+Czech Republic,2011,nuclear,0.26,0.008389697
+Czech Republic,2012,nuclear,0.28,0.008940796
+Czech Republic,2013,nuclear,0.28,0.009010345
+Czech Republic,2014,nuclear,0.28,0.008833925
+Czech Republic,2015,nuclear,0.24,0.007772432
+Czech Republic,2016,nuclear,0.22,0.006938679
+Czech Republic,2017,nuclear,0.26,0.008109901
+Czech Republic,2018,nuclear,0.27,0.008512461
+Czech Republic,2019,nuclear,0.27,0.008573167
+Finland,1977,nuclear,0.03,0.000840097
+Finland,1978,nuclear,0.03,0.001030541
+Finland,1979,nuclear,0.07,0.002128692
+Finland,1980,nuclear,0.07,0.002217388
+Finland,1981,nuclear,0.15,0.004630575
+Finland,1982,nuclear,0.17,0.005296963
+Finland,1983,nuclear,0.18,0.00559518
+Finland,1984,nuclear,0.19,0.005957326
+Finland,1985,nuclear,0.19,0.006017906
+Finland,1986,nuclear,0.19,0.006023931
+Finland,1987,nuclear,0.20,0.00620333
+Finland,1988,nuclear,0.19,0.006174211
+Finland,1989,nuclear,0.19,0.006027947
+Finland,1990,nuclear,0.19,0.006067442
+Finland,1991,nuclear,0.19,0.006160823
+Finland,1992,nuclear,0.19,0.006081499
+Finland,1993,nuclear,0.20,0.00629236
+Finland,1994,nuclear,0.19,0.006134382
+Finland,1995,nuclear,0.19,0.006067442
+Finland,1996,nuclear,0.20,0.006251862
+Finland,1997,nuclear,0.21,0.00671107
+Finland,1998,nuclear,0.22,0.007020668
+Finland,1999,nuclear,0.23,0.007383483
+Finland,2000,nuclear,0.23,0.007221153
+Finland,2001,nuclear,0.23,0.007267004
+Finland,2002,nuclear,0.22,0.007068442
+Finland,2003,nuclear,0.23,0.007165959
+Finland,2004,nuclear,0.22,0.007115097
+Finland,2005,nuclear,0.23,0.007245861
+Finland,2006,nuclear,0.22,0.007086696
+Finland,2007,nuclear,0.23,0.007201664
+Finland,2008,nuclear,0.22,0.007013325
+Finland,2009,nuclear,0.22,0.007144239
+Finland,2010,nuclear,0.22,0.006876786
+Finland,2011,nuclear,0.22,0.006952416
+Finland,2012,nuclear,0.22,0.006847371
+Finland,2013,nuclear,0.22,0.006994516
+Finland,2014,nuclear,0.22,0.0069442
+Finland,2015,nuclear,0.21,0.006805324
+Finland,2016,nuclear,0.21,0.006751148
+Finland,2017,nuclear,0.20,0.006498737
+Finland,2018,nuclear,0.20,0.006224979
+Finland,2019,nuclear,0.20,0.006498285
+France,1965,nuclear,0.01,0.000285215
+France,1966,nuclear,0.01,0.000443561
+France,1967,nuclear,0.02,0.000660095
+France,1968,nuclear,0.03,0.000980922
+France,1969,nuclear,0.04,0.001144674
+France,1970,nuclear,0.06,0.001815898
+France,1971,nuclear,0.09,0.002966296
+France,1972,nuclear,0.15,0.004639428
+France,1973,nuclear,0.15,0.004690302
+France,1974,nuclear,0.15,0.004677266
+France,1975,nuclear,0.18,0.005802226
+France,1976,nuclear,0.16,0.005016852
+France,1977,nuclear,0.18,0.00570461
+France,1978,nuclear,0.30,0.009682671
+France,1979,nuclear,0.40,0.012705882
+France,1980,nuclear,0.61,0.019475676
+France,1981,nuclear,1.05,0.033489984
+France,1982,nuclear,1.09,0.034632432
+France,1983,nuclear,1.44,0.045869952
+France,1984,nuclear,1.91,0.060805723
+France,1985,nuclear,2.24,0.071255962
+France,1986,nuclear,2.54,0.080812401
+France,1987,nuclear,2.66,0.084426073
+France,1988,nuclear,2.76,0.087606041
+France,1989,nuclear,3.04,0.096639428
+France,1990,nuclear,3.14,0.099866773
+France,1991,nuclear,3.31,0.105354531
+France,1992,nuclear,3.38,0.107613672
+France,1993,nuclear,3.68,0.117070906
+France,1994,nuclear,3.60,0.114461367
+France,1995,nuclear,3.77,0.119946264
+France,1996,nuclear,3.97,0.126340223
+France,1997,nuclear,3.95,0.125749762
+France,1998,nuclear,3.88,0.12336725
+France,1999,nuclear,3.94,0.125355803
+France,2000,nuclear,4.15,0.132006995
+France,2001,nuclear,4.18,0.133018041
+France,2002,nuclear,4.31,0.137082476
+France,2003,nuclear,4.33,0.137547817
+France,2004,nuclear,4.37,0.138893751
+France,2005,nuclear,4.37,0.139027061
+France,2006,nuclear,4.33,0.137743294
+France,2007,nuclear,4.20,0.133701689
+France,2008,nuclear,4.18,0.132785731
+France,2009,nuclear,3.87,0.123043844
+France,2010,nuclear,4.02,0.127895507
+France,2011,nuclear,4.13,0.131229136
+France,2012,nuclear,3.94,0.12542683
+France,2013,nuclear,3.91,0.124166884
+France,2014,nuclear,4.00,0.12715038
+France,2015,nuclear,3.98,0.12666834
+France,2016,nuclear,3.65,0.116064449
+France,2017,nuclear,3.59,0.113996923
+France,2018,nuclear,3.70,0.117736993
+France,2019,nuclear,3.56,0.113218435
+Germany,1967,nuclear,0.01,0.000389507
+Germany,1968,nuclear,0.02,0.000561526
+Germany,1969,nuclear,0.05,0.001569793
+Germany,1970,nuclear,0.06,0.002064865
+Germany,1971,nuclear,0.06,0.001976471
+Germany,1972,nuclear,0.10,0.003027663
+Germany,1973,nuclear,0.12,0.003849285
+Germany,1974,nuclear,0.14,0.004597456
+Germany,1975,nuclear,0.24,0.00767504
+Germany,1976,nuclear,0.30,0.009390461
+Germany,1977,nuclear,0.41,0.013117647
+Germany,1978,nuclear,0.44,0.013950079
+Germany,1979,nuclear,0.52,0.016554531
+Germany,1980,nuclear,0.56,0.017675358
+Germany,1981,nuclear,0.66,0.020837202
+Germany,1982,nuclear,0.74,0.023664865
+Germany,1983,nuclear,0.78,0.024821304
+Germany,1984,nuclear,1.04,0.033169157
+Germany,1985,nuclear,1.39,0.044082989
+Germany,1986,nuclear,1.30,0.041490938
+Germany,1987,nuclear,1.42,0.045063593
+Germany,1988,nuclear,1.57,0.049863275
+Germany,1989,nuclear,1.62,0.051405723
+Germany,1990,nuclear,1.53,0.048489666
+Germany,1991,nuclear,1.47,0.046868045
+Germany,1992,nuclear,1.59,0.050492846
+Germany,1993,nuclear,1.54,0.048807631
+Germany,1994,nuclear,1.51,0.048076312
+Germany,1995,nuclear,1.54,0.04899841
+Germany,1996,nuclear,1.62,0.051387281
+Germany,1997,nuclear,1.70,0.054158347
+Germany,1998,nuclear,1.62,0.051383148
+Germany,1999,nuclear,1.70,0.054055326
+Germany,2000,nuclear,1.70,0.053928776
+Germany,2001,nuclear,1.70,0.054115304
+Germany,2002,nuclear,1.63,0.051737681
+Germany,2003,nuclear,1.62,0.051474012
+Germany,2004,nuclear,1.63,0.05176743
+Germany,2005,nuclear,1.58,0.050200171
+Germany,2006,nuclear,1.61,0.051205303
+Germany,2007,nuclear,1.34,0.042729932
+Germany,2008,nuclear,1.41,0.04495528
+Germany,2009,nuclear,1.27,0.04052012
+Germany,2010,nuclear,1.32,0.041950058
+Germany,2011,nuclear,1.01,0.03202838
+Germany,2012,nuclear,0.92,0.029324816
+Germany,2013,nuclear,0.90,0.028512211
+Germany,2014,nuclear,0.89,0.028294578
+Germany,2015,nuclear,0.84,0.026579048
+Germany,2016,nuclear,0.77,0.024362898
+Germany,2017,nuclear,0.69,0.021841641
+Germany,2018,nuclear,0.68,0.021623044
+Germany,2019,nuclear,0.67,0.021278648
+Hungary,1983,nuclear,0.02,0.000786328
+Hungary,1984,nuclear,0.04,0.001197456
+Hungary,1985,nuclear,0.06,0.002060413
+Hungary,1986,nuclear,0.07,0.002360572
+Hungary,1987,nuclear,0.11,0.003493164
+Hungary,1988,nuclear,0.13,0.00427504
+Hungary,1989,nuclear,0.14,0.004416852
+Hungary,1990,nuclear,0.14,0.004365978
+Hungary,1991,nuclear,0.14,0.004364388
+Hungary,1992,nuclear,0.14,0.004440064
+Hungary,1993,nuclear,0.14,0.004386645
+Hungary,1994,nuclear,0.14,0.004467091
+Hungary,1995,nuclear,0.14,0.004459777
+Hungary,1996,nuclear,0.14,0.004508744
+Hungary,1997,nuclear,0.14,0.004441335
+Hungary,1998,nuclear,0.14,0.004435294
+Hungary,1999,nuclear,0.14,0.004482035
+Hungary,2000,nuclear,0.14,0.004508744
+Hungary,2001,nuclear,0.14,0.004462408
+Hungary,2002,nuclear,0.14,0.00437932
+Hungary,2003,nuclear,0.11,0.003434407
+Hungary,2004,nuclear,0.12,0.00369203
+Hungary,2005,nuclear,0.13,0.004259528
+Hungary,2006,nuclear,0.13,0.004118613
+Hungary,2007,nuclear,0.14,0.004462601
+Hungary,2008,nuclear,0.14,0.004477489
+Hungary,2009,nuclear,0.15,0.004632432
+Hungary,2010,nuclear,0.15,0.004703996
+Hungary,2011,nuclear,0.15,0.004652776
+Hungary,2012,nuclear,0.15,0.004656417
+Hungary,2013,nuclear,0.14,0.00450428
+Hungary,2014,nuclear,0.14,0.004558589
+Hungary,2015,nuclear,0.14,0.00458525
+Hungary,2016,nuclear,0.15,0.004621309
+Hungary,2017,nuclear,0.14,0.004606625
+Hungary,2018,nuclear,0.14,0.00447596
+Hungary,2019,nuclear,0.15,0.004617053
+Italy,1965,nuclear,0.04,0.001116057
+Italy,1966,nuclear,0.04,0.001228299
+Italy,1967,nuclear,0.03,0.001002226
+Italy,1968,nuclear,0.03,0.000819078
+Italy,1969,nuclear,0.02,0.000533863
+Italy,1970,nuclear,0.03,0.001009857
+Italy,1971,nuclear,0.03,0.001069952
+Italy,1972,nuclear,0.04,0.001152941
+Italy,1973,nuclear,0.03,0.000999046
+Italy,1974,nuclear,0.03,0.001084261
+Italy,1975,nuclear,0.04,0.001208267
+Italy,1976,nuclear,0.04,0.001210493
+Italy,1977,nuclear,0.03,0.001076312
+Italy,1978,nuclear,0.04,0.001407949
+Italy,1979,nuclear,0.03,0.000835612
+Italy,1980,nuclear,0.02,0.000702067
+Italy,1981,nuclear,0.03,0.000860731
+Italy,1982,nuclear,0.07,0.002163434
+Italy,1983,nuclear,0.06,0.001838792
+Italy,1984,nuclear,0.07,0.002189825
+Italy,1985,nuclear,0.07,0.002233386
+Italy,1986,nuclear,0.09,0.002784738
+Lithuania,1985,nuclear,0.09,0.003014185
+Lithuania,1986,nuclear,0.10,0.00314206
+Lithuania,1987,nuclear,0.09,0.002920036
+Lithuania,1988,nuclear,0.13,0.004073717
+Lithuania,1989,nuclear,0.17,0.005294849
+Lithuania,1990,nuclear,0.17,0.005415898
+Lithuania,1991,nuclear,0.17,0.005405405
+Lithuania,1992,nuclear,0.15,0.004654372
+Lithuania,1993,nuclear,0.12,0.003898251
+Lithuania,1994,nuclear,0.08,0.002450238
+Lithuania,1995,nuclear,0.12,0.003758983
+Lithuania,1996,nuclear,0.14,0.004433068
+Lithuania,1997,nuclear,0.12,0.003823211
+Lithuania,1998,nuclear,0.14,0.004309698
+Lithuania,1999,nuclear,0.10,0.003135771
+Lithuania,2000,nuclear,0.08,0.002676948
+Lithuania,2001,nuclear,0.11,0.003589259
+Lithuania,2002,nuclear,0.14,0.00443864
+Lithuania,2003,nuclear,0.15,0.00482869
+Lithuania,2004,nuclear,0.15,0.004679442
+Lithuania,2005,nuclear,0.10,0.003182976
+Lithuania,2006,nuclear,0.08,0.002646976
+Lithuania,2007,nuclear,0.09,0.002989733
+Lithuania,2008,nuclear,0.09,0.002989535
+Lithuania,2009,nuclear,0.10,0.003259039
+Netherlands,1973,nuclear,0.01,0.000352305
+Netherlands,1974,nuclear,0.03,0.001041971
+Netherlands,1975,nuclear,0.03,0.001060413
+Netherlands,1976,nuclear,0.04,0.001231161
+Netherlands,1977,nuclear,0.04,0.00117965
+Netherlands,1978,nuclear,0.04,0.001290938
+Netherlands,1979,nuclear,0.03,0.00110938
+Netherlands,1980,nuclear,0.04,0.001335453
+Netherlands,1981,nuclear,0.04,0.001163116
+Netherlands,1982,nuclear,0.04,0.00123911
+Netherlands,1983,nuclear,0.04,0.001141176
+Netherlands,1984,nuclear,0.04,0.001179968
+Netherlands,1985,nuclear,0.04,0.001239746
+Netherlands,1986,nuclear,0.04,0.001340541
+Netherlands,1987,nuclear,0.04,0.001130684
+Netherlands,1988,nuclear,0.04,0.001168521
+Netherlands,1989,nuclear,0.04,0.001277901
+Netherlands,1990,nuclear,0.04,0.001113514
+Netherlands,1991,nuclear,0.03,0.001058506
+Netherlands,1992,nuclear,0.04,0.001208267
+Netherlands,1993,nuclear,0.04,0.001255326
+Netherlands,1994,nuclear,0.04,0.001261367
+Netherlands,1995,nuclear,0.04,0.001277583
+Netherlands,1996,nuclear,0.04,0.001322734
+Netherlands,1997,nuclear,0.02,0.00076566
+Netherlands,1998,nuclear,0.04,0.001211158
+Netherlands,1999,nuclear,0.04,0.001217238
+Netherlands,2000,nuclear,0.04,0.001246171
+Netherlands,2001,nuclear,0.04,0.001254936
+Netherlands,2002,nuclear,0.04,0.001228312
+Netherlands,2003,nuclear,0.04,0.001253011
+Netherlands,2004,nuclear,0.04,0.001184306
+Netherlands,2005,nuclear,0.04,0.001230828
+Netherlands,2006,nuclear,0.03,0.001061532
+Netherlands,2007,nuclear,0.04,0.001277122
+Netherlands,2008,nuclear,0.04,0.001259695
+Netherlands,2009,nuclear,0.04,0.001275776
+Netherlands,2010,nuclear,0.04,0.00118463
+Netherlands,2011,nuclear,0.04,0.001228312
+Netherlands,2012,nuclear,0.04,0.001154214
+Netherlands,2013,nuclear,0.03,0.000847207
+Netherlands,2014,nuclear,0.04,0.001191835
+Netherlands,2015,nuclear,0.04,0.0011809
+Netherlands,2016,nuclear,0.04,0.001140013
+Netherlands,2017,nuclear,0.03,0.000973682
+Netherlands,2018,nuclear,0.03,0.000999935
+Netherlands,2019,nuclear,0.03,0.001108203
+Romania,1996,nuclear,0.01,0.0004407
+Romania,1997,nuclear,0.05,0.001717011
+Romania,1998,nuclear,0.05,0.00168744
+Romania,1999,nuclear,0.05,0.001652782
+Romania,2000,nuclear,0.05,0.001734817
+Romania,2001,nuclear,0.05,0.001720393
+Romania,2002,nuclear,0.05,0.001730323
+Romania,2003,nuclear,0.05,0.001529938
+Romania,2004,nuclear,0.05,0.001719125
+Romania,2005,nuclear,0.05,0.0017104
+Romania,2006,nuclear,0.05,0.001723202
+Romania,2007,nuclear,0.07,0.002343953
+Romania,2008,nuclear,0.11,0.00339211
+Romania,2009,nuclear,0.11,0.003529129
+Romania,2010,nuclear,0.11,0.003468977
+Romania,2011,nuclear,0.11,0.003484667
+Romania,2012,nuclear,0.11,0.003380698
+Romania,2013,nuclear,0.11,0.003404937
+Romania,2014,nuclear,0.11,0.003401211
+Romania,2015,nuclear,0.11,0.003370656
+Romania,2016,nuclear,0.10,0.003248809
+Romania,2017,nuclear,0.10,0.003293514
+Romania,2018,nuclear,0.10,0.0032367
+Romania,2019,nuclear,0.10,0.003197272
+Slovakia,1979,nuclear,0.02,0.000682671
+Slovakia,1980,nuclear,0.05,0.001438156
+Slovakia,1981,nuclear,0.05,0.001632114
+Slovakia,1982,nuclear,0.06,0.001856916
+Slovakia,1983,nuclear,0.06,0.001955485
+Slovakia,1984,nuclear,0.07,0.002301749
+Slovakia,1985,nuclear,0.09,0.002983148
+Slovakia,1986,nuclear,0.12,0.003725278
+Slovakia,1987,nuclear,0.12,0.003660731
+Slovakia,1988,nuclear,0.11,0.003648331
+Slovakia,1989,nuclear,0.12,0.003865501
+Slovakia,1990,nuclear,0.12,0.003827027
+Slovakia,1991,nuclear,0.12,0.003716693
+Slovakia,1992,nuclear,0.11,0.003513514
+Slovakia,1993,nuclear,0.11,0.003652146
+Slovakia,1994,nuclear,0.13,0.004004769
+Slovakia,1995,nuclear,0.11,0.003636566
+Slovakia,1996,nuclear,0.11,0.003576789
+Slovakia,1997,nuclear,0.11,0.003520827
+Slovakia,1998,nuclear,0.11,0.003622893
+Slovakia,1999,nuclear,0.13,0.004170747
+Slovakia,2000,nuclear,0.16,0.005244515
+Slovakia,2001,nuclear,0.17,0.005402843
+Slovakia,2002,nuclear,0.18,0.005634769
+Slovakia,2003,nuclear,0.18,0.005570894
+Slovakia,2004,nuclear,0.17,0.005275745
+Slovakia,2005,nuclear,0.17,0.005458194
+Slovakia,2006,nuclear,0.17,0.005511066
+Slovakia,2007,nuclear,0.15,0.004662365
+Slovakia,2008,nuclear,0.16,0.005047373
+Slovakia,2009,nuclear,0.13,0.004228529
+Slovakia,2010,nuclear,0.14,0.004349726
+Slovakia,2011,nuclear,0.14,0.00457149
+Slovakia,2012,nuclear,0.14,0.00456855
+Slovakia,2013,nuclear,0.14,0.004606968
+Slovakia,2014,nuclear,0.14,0.004515002
+Slovakia,2015,nuclear,0.14,0.004385907
+Slovakia,2016,nuclear,0.13,0.004252871
+Slovakia,2017,nuclear,0.14,0.004315707
+Slovakia,2018,nuclear,0.13,0.00422276
+Slovakia,2019,nuclear,0.14,0.004389714
+Slovenia,1990,nuclear,0.05,0.001469634
+Slovenia,1991,nuclear,0.05,0.001574563
+Slovenia,1992,nuclear,0.04,0.001262639
+Slovenia,1993,nuclear,0.04,0.00125787
+Slovenia,1994,nuclear,0.05,0.001465501
+Slovenia,1995,nuclear,0.05,0.001519555
+Slovenia,1996,nuclear,0.05,0.001450556
+Slovenia,1997,nuclear,0.05,0.001595866
+Slovenia,1998,nuclear,0.05,0.001595866
+Slovenia,1999,nuclear,0.05,0.001493164
+Slovenia,2000,nuclear,0.05,0.001513831
+Slovenia,2001,nuclear,0.05,0.001660688
+Slovenia,2002,nuclear,0.05,0.001735031
+Slovenia,2003,nuclear,0.05,0.001623805
+Slovenia,2004,nuclear,0.05,0.001691548
+Slovenia,2005,nuclear,0.06,0.0018117
+Slovenia,2006,nuclear,0.05,0.001697501
+Slovenia,2007,nuclear,0.05,0.001731588
+Slovenia,2008,nuclear,0.06,0.001895484
+Slovenia,2009,nuclear,0.05,0.001723423
+Slovenia,2010,nuclear,0.05,0.001688377
+Slovenia,2011,nuclear,0.06,0.001843606
+Slovenia,2012,nuclear,0.05,0.001629877
+Slovenia,2013,nuclear,0.05,0.00155324
+Slovenia,2014,nuclear,0.06,0.00185564
+Slovenia,2015,nuclear,0.05,0.001635521
+Slovenia,2016,nuclear,0.05,0.00164513
+Slovenia,2017,nuclear,0.06,0.001798647
+Slovenia,2018,nuclear,0.05,0.001643368
+Slovenia,2019,nuclear,0.05,0.001650013
+Sweden,1972,nuclear,0.01,0.000465819
+Sweden,1973,nuclear,0.02,0.000671224
+Sweden,1974,nuclear,0.02,0.0006531
+Sweden,1975,nuclear,0.12,0.003805723
+Sweden,1976,nuclear,0.16,0.005085215
+Sweden,1977,nuclear,0.20,0.006331638
+Sweden,1978,nuclear,0.24,0.007561526
+Sweden,1979,nuclear,0.21,0.006689666
+Sweden,1980,nuclear,0.26,0.008422258
+Sweden,1981,nuclear,0.38,0.011980604
+Sweden,1982,nuclear,0.39,0.012414944
+Sweden,1983,nuclear,0.41,0.013037838
+Sweden,1984,nuclear,0.51,0.016192687
+Sweden,1985,nuclear,0.59,0.01862035
+Sweden,1986,nuclear,0.70,0.022241971
+Sweden,1987,nuclear,0.67,0.021426073
+Sweden,1988,nuclear,0.69,0.022074404
+Sweden,1989,nuclear,0.66,0.020859459
+Sweden,1990,nuclear,0.68,0.021680445
+Sweden,1991,nuclear,0.77,0.024407313
+Sweden,1992,nuclear,0.64,0.020204769
+Sweden,1993,nuclear,0.61,0.019521463
+Sweden,1994,nuclear,0.73,0.023261049
+Sweden,1995,nuclear,0.70,0.022236884
+Sweden,1996,nuclear,0.74,0.023616534
+Sweden,1997,nuclear,0.70,0.022234658
+Sweden,1998,nuclear,0.74,0.02339682
+Sweden,1999,nuclear,0.73,0.023271224
+Sweden,2000,nuclear,0.57,0.018224483
+Sweden,2001,nuclear,0.72,0.022779256
+Sweden,2002,nuclear,0.67,0.021377472
+Sweden,2003,nuclear,0.66,0.021023389
+Sweden,2004,nuclear,0.76,0.024067447
+Sweden,2005,nuclear,0.70,0.022381765
+Sweden,2006,nuclear,0.64,0.020492708
+Sweden,2007,nuclear,0.64,0.020362196
+Sweden,2008,nuclear,0.61,0.019305053
+Sweden,2009,nuclear,0.49,0.015667568
+Sweden,2010,nuclear,0.54,0.017229382
+Sweden,2011,nuclear,0.56,0.017939189
+Sweden,2012,nuclear,0.59,0.018880688
+Sweden,2013,nuclear,0.61,0.019476164
+Sweden,2014,nuclear,0.59,0.018899272
+Sweden,2015,nuclear,0.51,0.016316988
+Sweden,2016,nuclear,0.57,0.018164369
+Sweden,2017,nuclear,0.59,0.018800127
+Sweden,2018,nuclear,0.61,0.019501849
+Sweden,2019,nuclear,0.60,0.01899647
+Sweden,1969,nuclear,0.01,0.000170111
+Sweden,1970,nuclear,0.02,0.000561526
+Sweden,1971,nuclear,0.01,0.000442289
+Sweden,1972,nuclear,0.04,0.001220986
+Sweden,1973,nuclear,0.06,0.002006359
+Sweden,1974,nuclear,0.07,0.002247059
+Sweden,1975,nuclear,0.08,0.002467727
+Sweden,1976,nuclear,0.08,0.002524324
+Sweden,1977,nuclear,0.08,0.002579968
+Sweden,1978,nuclear,0.08,0.002669316
+Sweden,1979,nuclear,0.12,0.003753577
+Sweden,1980,nuclear,0.14,0.004561526
+Sweden,1981,nuclear,0.15,0.004874404
+Sweden,1982,nuclear,0.15,0.004811765
+Sweden,1983,nuclear,0.16,0.004995231
+Sweden,1984,nuclear,0.18,0.005863275
+Sweden,1985,nuclear,0.22,0.007122751
+Sweden,1986,nuclear,0.22,0.007130115
+Sweden,1987,nuclear,0.23,0.007263325
+Sweden,1988,nuclear,0.23,0.00719672
+Sweden,1989,nuclear,0.23,0.007210443
+Sweden,1990,nuclear,0.23,0.007463141
+Sweden,1991,nuclear,0.23,0.007247594
+Sweden,1992,nuclear,0.23,0.007403899
+Sweden,1993,nuclear,0.23,0.007373107
+Sweden,1994,nuclear,0.24,0.007692745
+Sweden,1995,nuclear,0.25,0.007860765
+Sweden,1996,nuclear,0.25,0.00793875
+Sweden,1997,nuclear,0.25,0.008023094
+Sweden,1998,nuclear,0.26,0.00815597
+Sweden,1999,nuclear,0.25,0.007873149
+Sweden,2000,nuclear,0.26,0.008350431
+Sweden,2001,nuclear,0.26,0.008410597
+Sweden,2002,nuclear,0.27,0.008488157
+Sweden,2003,nuclear,0.27,0.0085122
+Sweden,2004,nuclear,0.26,0.008295222
+Sweden,2005,nuclear,0.22,0.007136864
+Sweden,2006,nuclear,0.27,0.008452401
+Sweden,2007,nuclear,0.27,0.008431579
+Sweden,2008,nuclear,0.26,0.008311778
+Sweden,2009,nuclear,0.26,0.008256362
+Sweden,2010,nuclear,0.25,0.007918561
+Sweden,2011,nuclear,0.25,0.007981126
+Sweden,2012,nuclear,0.24,0.007555671
+Sweden,2013,nuclear,0.24,0.007672419
+Sweden,2014,nuclear,0.25,0.008086132
+Sweden,2015,nuclear,0.21,0.006734912
+Sweden,2016,nuclear,0.19,0.006131457
+Sweden,2017,nuclear,0.18,0.005873684
+Sweden,2018,nuclear,0.22,0.006945661
+Sweden,2019,nuclear,0.21,0.006527763
+Ukraine,1985,nuclear,0.53,0.016949699
+Ukraine,1986,nuclear,0.43,0.013579994
+Ukraine,1987,nuclear,0.50,0.016033499
+Ukraine,1988,nuclear,0.72,0.022893757
+Ukraine,1989,nuclear,0.67,0.021149885
+Ukraine,1990,nuclear,0.76,0.024222258
+Ukraine,1991,nuclear,0.75,0.02388903
+Ukraine,1992,nuclear,0.74,0.023449921
+Ukraine,1993,nuclear,0.75,0.023924642
+Ukraine,1994,nuclear,0.69,0.021891256
+Ukraine,1995,nuclear,0.71,0.022423847
+Ukraine,1996,nuclear,0.80,0.025302703
+Ukraine,1997,nuclear,0.79,0.025256916
+Ukraine,1998,nuclear,0.75,0.02392337
+Ukraine,1999,nuclear,0.72,0.022914149
+Ukraine,2000,nuclear,0.77,0.024591733
+Ukraine,2001,nuclear,0.76,0.024061811
+Ukraine,2002,nuclear,0.77,0.024478117
+Ukraine,2003,nuclear,0.80,0.025386486
+Ukraine,2004,nuclear,0.85,0.026964985
+Ukraine,2005,nuclear,0.86,0.027328224
+Ukraine,2006,nuclear,0.87,0.027605813
+Ukraine,2007,nuclear,0.88,0.02813777
+Ukraine,2008,nuclear,0.85,0.027146852
+Ukraine,2009,nuclear,0.78,0.024902102
+Ukraine,2010,nuclear,0.84,0.026608125
+Ukraine,2011,nuclear,0.84,0.026770906
+Ukraine,2012,nuclear,0.84,0.026576138
+Ukraine,2013,nuclear,0.77,0.024385575
+Ukraine,2014,nuclear,0.81,0.025748564
+Ukraine,2015,nuclear,0.80,0.02537473
+Ukraine,2016,nuclear,0.73,0.023302415
+Ukraine,2017,nuclear,0.77,0.024489215
+Ukraine,2018,nuclear,0.76,0.024010839
+Ukraine,2019,nuclear,0.74,0.023526734
+United Kingdom,1965,nuclear,0.15,0.004812401
+United Kingdom,1966,nuclear,0.20,0.006428299
+United Kingdom,1967,nuclear,0.23,0.007401272
+United Kingdom,1968,nuclear,0.26,0.008327504
+United Kingdom,1969,nuclear,0.29,0.009260731
+United Kingdom,1970,nuclear,0.26,0.008270906
+United Kingdom,1971,nuclear,0.28,0.0087593
+United Kingdom,1972,nuclear,0.29,0.009341176
+United Kingdom,1973,nuclear,0.28,0.008902067
+United Kingdom,1974,nuclear,0.34,0.01068903
+United Kingdom,1975,nuclear,0.30,0.009646423
+United Kingdom,1976,nuclear,0.36,0.011496025
+United Kingdom,1977,nuclear,0.40,0.012725278
+United Kingdom,1978,nuclear,0.37,0.01183593
+United Kingdom,1979,nuclear,0.38,0.012180604
+United Kingdom,1980,nuclear,0.37,0.011772019
+United Kingdom,1981,nuclear,0.38,0.012072814
+United Kingdom,1982,nuclear,0.44,0.013981558
+United Kingdom,1983,nuclear,0.50,0.015875358
+United Kingdom,1984,nuclear,0.54,0.017163434
+United Kingdom,1985,nuclear,0.61,0.019426073
+United Kingdom,1986,nuclear,0.59,0.018785056
+United Kingdom,1987,nuclear,0.55,0.017563752
+United Kingdom,1988,nuclear,0.63,0.020176789
+United Kingdom,1989,nuclear,0.72,0.022808903
+United Kingdom,1990,nuclear,0.66,0.020905882
+United Kingdom,1991,nuclear,0.71,0.022430207
+United Kingdom,1992,nuclear,0.77,0.02442194
+United Kingdom,1993,nuclear,0.89,0.028411129
+United Kingdom,1994,nuclear,0.88,0.028070588
+United Kingdom,1995,nuclear,0.89,0.02828744
+United Kingdom,1996,nuclear,0.95,0.030102067
+United Kingdom,1997,nuclear,0.98,0.031206995
+United Kingdom,1998,nuclear,0.99,0.031633052
+United Kingdom,1999,nuclear,0.95,0.030248949
+United Kingdom,2000,nuclear,0.85,0.027046984
+United Kingdom,2001,nuclear,0.90,0.028460306
+United Kingdom,2002,nuclear,0.87,0.02757229
+United Kingdom,2003,nuclear,0.87,0.02765684
+United Kingdom,2004,nuclear,0.78,0.024788843
+United Kingdom,2005,nuclear,0.79,0.025130446
+United Kingdom,2006,nuclear,0.73,0.023085362
+United Kingdom,2007,nuclear,0.60,0.019164023
+United Kingdom,2008,nuclear,0.50,0.015859402
+United Kingdom,2009,nuclear,0.65,0.020750058
+United Kingdom,2010,nuclear,0.58,0.018546081
+United Kingdom,2011,nuclear,0.64,0.020462229
+United Kingdom,2012,nuclear,0.65,0.020758251
+United Kingdom,2013,nuclear,0.65,0.020692344
+United Kingdom,2014,nuclear,0.58,0.01857037
+United Kingdom,2015,nuclear,0.64,0.020370145
+United Kingdom,2016,nuclear,0.65,0.020647201
+United Kingdom,2017,nuclear,0.63,0.020128071
+United Kingdom,2018,nuclear,0.58,0.018510341
+United Kingdom,2019,nuclear,0.50,0.015925116
+Europe (other),1982,nuclear,0.03,0.000805405
+Europe (other),1983,nuclear,0.04,0.001245151
+Europe (other),1984,nuclear,0.04,0.001405405
+Europe (other),1985,nuclear,0.04,0.001288712
+Europe (other),1986,nuclear,0.04,0.001277901
+Europe (other),1987,nuclear,0.04,0.001429253
+Europe (other),1988,nuclear,0.04,0.001314785
+Europe (other),1989,nuclear,0.05,0.00149062
+Kazakhstan,1991,nuclear,0.01,0.000317965
+Russian Federation,1985,nuclear,0.99,0.031579388
+Russian Federation,1986,nuclear,1.05,0.033456755
+Russian Federation,1987,nuclear,1.25,0.039650941
+Russian Federation,1988,nuclear,1.35,0.042866072
+Russian Federation,1989,nuclear,1.36,0.043350871
+Russian Federation,1990,nuclear,1.18,0.037623216
+Russian Federation,1991,nuclear,1.20,0.038150652
+Russian Federation,1992,nuclear,1.20,0.038036884
+Russian Federation,1993,nuclear,1.19,0.037896979
+Russian Federation,1994,nuclear,0.98,0.031103339
+Russian Federation,1995,nuclear,1.00,0.031647695
+Russian Federation,1996,nuclear,1.09,0.034666455
+Russian Federation,1997,nuclear,1.08,0.034498569
+Russian Federation,1998,nuclear,1.04,0.032979014
+Russian Federation,1999,nuclear,1.22,0.038751669
+Russian Federation,2000,nuclear,1.31,0.041562798
+Russian Federation,2001,nuclear,1.36,0.04325781
+Russian Federation,2002,nuclear,1.40,0.044451997
+Russian Federation,2003,nuclear,1.47,0.0468842
+Russian Federation,2004,nuclear,1.41,0.04483949
+Russian Federation,2005,nuclear,1.45,0.046014848
+Russian Federation,2006,nuclear,1.51,0.047864151
+Russian Federation,2007,nuclear,1.53,0.048666132
+Russian Federation,2008,nuclear,1.55,0.049278331
+Russian Federation,2009,nuclear,1.54,0.049123874
+Russian Federation,2010,nuclear,1.60,0.050861625
+Russian Federation,2011,nuclear,1.61,0.051300979
+Russian Federation,2012,nuclear,1.65,0.052344147
+Russian Federation,2013,nuclear,1.59,0.050555939
+Russian Federation,2014,nuclear,1.66,0.052656307
+Russian Federation,2015,nuclear,1.78,0.056603343
+Russian Federation,2016,nuclear,1.78,0.056597776
+Russian Federation,2017,nuclear,1.83,0.05813256
+Russian Federation,2018,nuclear,1.83,0.05820229
+Russian Federation,2019,nuclear,1.86,0.05923617
+USSR,1965,nuclear,0.02,0.000591595
+USSR,1966,nuclear,0.02,0.000656235
+USSR,1967,nuclear,0.02,0.000716659
+USSR,1968,nuclear,0.03,0.000996297
+USSR,1969,nuclear,0.04,0.001155086
+USSR,1970,nuclear,0.04,0.001395378
+USSR,1971,nuclear,0.05,0.001712957
+USSR,1972,nuclear,0.10,0.003126603
+USSR,1973,nuclear,0.14,0.004550085
+USSR,1974,nuclear,0.21,0.006823722
+USSR,1975,nuclear,0.29,0.009098765
+USSR,1976,nuclear,0.38,0.012131218
+USSR,1977,nuclear,0.51,0.016226013
+USSR,1978,nuclear,0.52,0.016681303
+USSR,1979,nuclear,0.60,0.018956345
+USSR,1980,nuclear,0.74,0.023505025
+USSR,1981,nuclear,0.87,0.027691159
+USSR,1982,nuclear,1.00,0.031877294
+USSR,1983,nuclear,1.11,0.03541984
+USSR,1984,nuclear,1.44,0.045722874
+CIS (other),1985,nuclear,0.05,0.001675016
+CIS (other),1986,nuclear,0.03,0.000875449
+CIS (other),1987,nuclear,0.04,0.00137711
+CIS (other),1988,nuclear,0.05,0.001530279
+CIS (other),1989,nuclear,0.01,0.000406107
+CIS (other),1996,nuclear,0.02,0.000738951
+CIS (other),1997,nuclear,0.02,0.00051097
+CIS (other),1998,nuclear,0.02,0.000505246
+CIS (other),1999,nuclear,0.02,0.000660731
+CIS (other),2000,nuclear,0.02,0.00063752
+CIS (other),2001,nuclear,0.02,0.000627694
+CIS (other),2002,nuclear,0.02,0.000716234
+CIS (other),2003,nuclear,0.02,0.000623077
+CIS (other),2004,nuclear,0.02,0.000682011
+CIS (other),2005,nuclear,0.03,0.000836264
+CIS (other),2006,nuclear,0.03,0.000807843
+CIS (other),2007,nuclear,0.02,0.000776372
+CIS (other),2008,nuclear,0.02,0.000743811
+CIS (other),2009,nuclear,0.02,0.000748859
+CIS (other),2010,nuclear,0.02,0.00074316
+CIS (other),2011,nuclear,0.02,0.000755834
+CIS (other),2012,nuclear,0.02,0.000681376
+CIS (other),2013,nuclear,0.02,0.000691543
+CIS (other),2014,nuclear,0.02,0.000718019
+CIS (other),2015,nuclear,0.03,0.000807249
+CIS (other),2016,nuclear,0.02,0.000685255
+CIS (other),2017,nuclear,0.02,0.000749647
+CIS (other),2018,nuclear,0.02,0.00059064
+CIS (other),2019,nuclear,0.02,0.000622958
+Iran,2012,nuclear,0.01,0.000435708
+Iran,2013,nuclear,0.04,0.001266688
+Iran,2014,nuclear,0.04,0.00120602
+Iran,2015,nuclear,0.03,0.001027124
+Iran,2016,nuclear,0.06,0.001863605
+Iran,2017,nuclear,0.06,0.001991048
+Iran,2018,nuclear,0.06,0.001958855
+Iran,2019,nuclear,0.06,0.001817069
+South Africa,1984,nuclear,0.04,0.001248013
+South Africa,1985,nuclear,0.05,0.001689984
+South Africa,1986,nuclear,0.09,0.002799046
+South Africa,1987,nuclear,0.06,0.00196089
+South Africa,1988,nuclear,0.10,0.003336407
+South Africa,1989,nuclear,0.11,0.003529094
+South Africa,1990,nuclear,0.08,0.002686486
+South Africa,1991,nuclear,0.09,0.002907472
+South Africa,1992,nuclear,0.09,0.002953259
+South Africa,1993,nuclear,0.07,0.002306836
+South Africa,1994,nuclear,0.10,0.003083307
+South Africa,1995,nuclear,0.11,0.003593323
+South Africa,1996,nuclear,0.12,0.003744038
+South Africa,1997,nuclear,0.13,0.004021304
+South Africa,1998,nuclear,0.14,0.004324642
+South Africa,1999,nuclear,0.13,0.004081717
+South Africa,2000,nuclear,0.13,0.004136725
+South Africa,2001,nuclear,0.11,0.003386135
+South Africa,2002,nuclear,0.12,0.003763522
+South Africa,2003,nuclear,0.12,0.00394896
+South Africa,2004,nuclear,0.13,0.00414137
+South Africa,2005,nuclear,0.11,0.00347704
+South Africa,2006,nuclear,0.10,0.003067618
+South Africa,2007,nuclear,0.11,0.00344098
+South Africa,2008,nuclear,0.12,0.00392936
+South Africa,2009,nuclear,0.12,0.003845645
+South Africa,2010,nuclear,0.13,0.004037241
+South Africa,2011,nuclear,0.12,0.003827225
+South Africa,2012,nuclear,0.12,0.003823322
+South Africa,2013,nuclear,0.13,0.004133962
+South Africa,2014,nuclear,0.13,0.00401832
+South Africa,2015,nuclear,0.11,0.003543533
+South Africa,2016,nuclear,0.14,0.004580872
+South Africa,2017,nuclear,0.14,0.004508968
+South Africa,2018,nuclear,0.10,0.003155171
+South Africa,2019,nuclear,0.13,0.004028957
+China,1993,nuclear,0.02,0.000510016
+China,1994,nuclear,0.15,0.004691892
+China,1995,nuclear,0.13,0.004080445
+China,1996,nuclear,0.14,0.004558983
+China,1997,nuclear,0.14,0.00458442
+China,1998,nuclear,0.14,0.004483307
+China,1999,nuclear,0.15,0.004753259
+China,2000,nuclear,0.17,0.005321781
+China,2001,nuclear,0.17,0.00551941
+China,2002,nuclear,0.25,0.007886417
+China,2003,nuclear,0.43,0.013516216
+China,2004,nuclear,0.49,0.015638526
+China,2005,nuclear,0.51,0.016345946
+China,2006,nuclear,0.53,0.016780112
+China,2007,nuclear,0.59,0.018890878
+China,2008,nuclear,0.65,0.020666309
+China,2009,nuclear,0.66,0.02103615
+China,2010,nuclear,0.70,0.022307369
+China,2011,nuclear,0.81,0.025866842
+China,2012,nuclear,0.91,0.028988223
+China,2013,nuclear,1.03,0.032676881
+China,2014,nuclear,1.22,0.038807511
+China,2015,nuclear,1.56,0.049626886
+China,2016,nuclear,1.93,0.061365941
+China,2017,nuclear,2.23,0.07099841
+China,2018,nuclear,2.64,0.083926031
+China,2019,nuclear,3.11,0.09883765
+India,1969,nuclear,0.01,0.000230455
+India,1970,nuclear,0.01,0.000415944
+India,1971,nuclear,0.01,0.000309147
+India,1972,nuclear,0.01,0.00029369
+India,1973,nuclear,0.02,0.000621105
+India,1974,nuclear,0.02,0.000571922
+India,1975,nuclear,0.02,0.000681529
+India,1976,nuclear,0.03,0.000844534
+India,1977,nuclear,0.02,0.000588785
+India,1978,nuclear,0.02,0.00071947
+India,1979,nuclear,0.02,0.000746169
+India,1980,nuclear,0.02,0.000778489
+India,1981,nuclear,0.02,0.00078411
+India,1982,nuclear,0.02,0.000685745
+India,1983,nuclear,0.03,0.000978029
+India,1984,nuclear,0.04,0.001284366
+India,1985,nuclear,0.05,0.001433319
+India,1986,nuclear,0.05,0.001596324
+India,1987,nuclear,0.05,0.001691878
+India,1988,nuclear,0.06,0.00193217
+India,1989,nuclear,0.04,0.001278745
+India,1990,nuclear,0.06,0.002033346
+India,1991,nuclear,0.05,0.001721388
+India,1992,nuclear,0.06,0.002036156
+India,1993,nuclear,0.06,0.001979947
+India,1994,nuclear,0.05,0.001572435
+India,1995,nuclear,0.08,0.002421185
+India,1996,nuclear,0.08,0.002671313
+India,1997,nuclear,0.10,0.003202484
+India,1998,nuclear,0.11,0.003615617
+India,1999,nuclear,0.13,0.004047018
+India,2000,nuclear,0.16,0.005013806
+India,2001,nuclear,0.19,0.005966888
+India,2002,nuclear,0.19,0.006074036
+India,2003,nuclear,0.18,0.005657475
+India,2004,nuclear,0.21,0.006586469
+India,2005,nuclear,0.17,0.005458194
+India,2006,nuclear,0.17,0.005394725
+India,2007,nuclear,0.17,0.005421825
+India,2008,nuclear,0.14,0.004602201
+India,2009,nuclear,0.16,0.005049904
+India,2010,nuclear,0.22,0.00688904
+India,2011,nuclear,0.30,0.009558762
+India,2012,nuclear,0.31,0.009770922
+India,2013,nuclear,0.31,0.009761451
+India,2014,nuclear,0.32,0.010104278
+India,2015,nuclear,0.35,0.011092911
+India,2016,nuclear,0.34,0.010909261
+India,2017,nuclear,0.34,0.010706838
+India,2018,nuclear,0.35,0.01110973
+India,2019,nuclear,0.40,0.012801244
+Japan,1966,nuclear,0.01,0.000185692
+Japan,1967,nuclear,0.01,0.0002
+Japan,1968,nuclear,0.01,0.000331955
+Japan,1969,nuclear,0.01,0.000344038
+Japan,1970,nuclear,0.05,0.001456598
+Japan,1971,nuclear,0.08,0.0025469
+Japan,1972,nuclear,0.09,0.003014308
+Japan,1973,nuclear,0.10,0.003086486
+Japan,1974,nuclear,0.20,0.006263593
+Japan,1975,nuclear,0.25,0.007988871
+Japan,1976,nuclear,0.34,0.01083593
+Japan,1977,nuclear,0.32,0.010066455
+Japan,1978,nuclear,0.59,0.018859459
+Japan,1979,nuclear,0.70,0.022382512
+Japan,1980,nuclear,0.83,0.026261049
+Japan,1981,nuclear,0.88,0.027923688
+Japan,1982,nuclear,1.02,0.032569157
+Japan,1983,nuclear,1.14,0.036340541
+Japan,1984,nuclear,1.34,0.042691256
+Japan,1985,nuclear,1.60,0.050740223
+Japan,1986,nuclear,1.65,0.052581787
+Japan,1987,nuclear,1.89,0.059969793
+Japan,1988,nuclear,1.74,0.055293142
+Japan,1989,nuclear,1.86,0.059082415
+Japan,1990,nuclear,1.95,0.06186686
+Japan,1991,nuclear,2.09,0.066357241
+Japan,1992,nuclear,2.17,0.06900958
+Japan,1993,nuclear,2.48,0.078759909
+Japan,1994,nuclear,2.58,0.082113827
+Japan,1995,nuclear,2.87,0.091220434
+Japan,1996,nuclear,2.97,0.094277
+Japan,1997,nuclear,3.21,0.102116673
+Japan,1998,nuclear,3.26,0.103648285
+Japan,1999,nuclear,3.17,0.100869612
+Japan,2000,nuclear,3.19,0.101469499
+Japan,2001,nuclear,3.18,0.101258063
+Japan,2002,nuclear,3.10,0.098633839
+Japan,2003,nuclear,2.26,0.071749794
+Japan,2004,nuclear,2.79,0.088579448
+Japan,2005,nuclear,2.84,0.090227289
+Japan,2006,nuclear,2.93,0.093102673
+Japan,2007,nuclear,2.67,0.084833708
+Japan,2008,nuclear,2.39,0.076068405
+Japan,2009,nuclear,2.59,0.082477635
+Japan,2010,nuclear,2.74,0.087255629
+Japan,2011,nuclear,1.52,0.048330441
+Japan,2012,nuclear,0.17,0.005304591
+Japan,2013,nuclear,0.13,0.004279587
+Japan,2015,nuclear,0.04,0.001310156
+Japan,2016,nuclear,0.16,0.005088821
+Japan,2017,nuclear,0.26,0.008320064
+Japan,2018,nuclear,0.44,0.013970413
+Japan,2019,nuclear,0.59,0.018604267
+Pakistan,1974,nuclear,0.01,0.000168626
+Pakistan,1975,nuclear,0.01,0.00019392
+Pakistan,1976,nuclear,0.01,0.00016441
+Pakistan,1986,nuclear,0.01,0.000167221
+Pakistan,1992,nuclear,0.01,0.000317965
+Pakistan,1994,nuclear,0.01,0.000186894
+Pakistan,1995,nuclear,0.01,0.000165815
+Pakistan,2000,nuclear,0.01,0.000300716
+Pakistan,2001,nuclear,0.02,0.000658954
+Pakistan,2002,nuclear,0.02,0.000595059
+Pakistan,2003,nuclear,0.02,0.000594
+Pakistan,2004,nuclear,0.02,0.000748322
+Pakistan,2005,nuclear,0.02,0.000781421
+Pakistan,2006,nuclear,0.02,0.000775012
+Pakistan,2007,nuclear,0.02,0.000704776
+Pakistan,2008,nuclear,0.02,0.000527849
+Pakistan,2009,nuclear,0.02,0.00076392
+Pakistan,2010,nuclear,0.02,0.000758679
+Pakistan,2011,nuclear,0.04,0.001169129
+Pakistan,2012,nuclear,0.03,0.000800548
+Pakistan,2013,nuclear,0.07,0.002070218
+Pakistan,2014,nuclear,0.04,0.001268657
+Pakistan,2015,nuclear,0.04,0.00128119
+Pakistan,2016,nuclear,0.05,0.001555493
+Pakistan,2017,nuclear,0.07,0.002253789
+Pakistan,2018,nuclear,0.09,0.002787222
+Pakistan,2019,nuclear,0.08,0.002698378
+South Korea,1978,nuclear,0.02,0.00073907
+South Korea,1979,nuclear,0.03,0.001002195
+South Korea,1980,nuclear,0.03,0.001105613
+South Korea,1981,nuclear,0.03,0.00092121
+South Korea,1982,nuclear,0.04,0.001201046
+South Korea,1983,nuclear,0.09,0.002850575
+South Korea,1984,nuclear,0.12,0.003749462
+South Korea,1985,nuclear,0.17,0.005324433
+South Korea,1986,nuclear,0.28,0.009001977
+South Korea,1987,nuclear,0.39,0.012500538
+South Korea,1988,nuclear,0.40,0.012750611
+South Korea,1989,nuclear,0.47,0.015060468
+South Korea,1990,nuclear,0.53,0.016816077
+South Korea,1991,nuclear,0.56,0.017904849
+South Korea,1992,nuclear,0.57,0.017974631
+South Korea,1993,nuclear,0.58,0.018485915
+South Korea,1994,nuclear,0.59,0.018648941
+South Korea,1995,nuclear,0.67,0.021312765
+South Korea,1996,nuclear,0.74,0.023505355
+South Korea,1997,nuclear,0.77,0.02451054
+South Korea,1998,nuclear,0.90,0.028517956
+South Korea,1999,nuclear,1.03,0.032770677
+South Korea,2000,nuclear,1.09,0.034646658
+South Korea,2001,nuclear,1.11,0.035422861
+South Korea,2002,nuclear,1.18,0.037381906
+South Korea,2003,nuclear,1.27,0.04043818
+South Korea,2004,nuclear,1.27,0.040503816
+South Korea,2005,nuclear,1.42,0.045193678
+South Korea,2006,nuclear,1.43,0.045512153
+South Korea,2007,nuclear,1.37,0.043460624
+South Korea,2008,nuclear,1.43,0.045614283
+South Korea,2009,nuclear,1.40,0.044375618
+South Korea,2010,nuclear,1.39,0.044349574
+South Korea,2011,nuclear,1.44,0.045896769
+South Korea,2012,nuclear,1.39,0.044322543
+South Korea,2013,nuclear,1.28,0.040672607
+South Korea,2014,nuclear,1.43,0.045562667
+South Korea,2015,nuclear,1.50,0.047711124
+South Korea,2016,nuclear,1.47,0.046632206
+South Korea,2017,nuclear,1.34,0.042475056
+South Korea,2018,nuclear,1.19,0.037981582
+South Korea,2019,nuclear,1.30,0.041380289
+Taiwan,1978,nuclear,0.03,0.000848967
+Taiwan,1979,nuclear,0.06,0.002012401
+Taiwan,1980,nuclear,0.08,0.002606995
+Taiwan,1981,nuclear,0.11,0.003392051
+Taiwan,1982,nuclear,0.13,0.00416032
+Taiwan,1983,nuclear,0.19,0.006010715
+Taiwan,1984,nuclear,0.25,0.007818425
+Taiwan,1985,nuclear,0.29,0.009134099
+Taiwan,1986,nuclear,0.27,0.008566231
+Taiwan,1987,nuclear,0.33,0.01053365
+Taiwan,1988,nuclear,0.31,0.009746027
+Taiwan,1989,nuclear,0.28,0.008990823
+Taiwan,1990,nuclear,0.33,0.010450224
+Taiwan,1991,nuclear,0.35,0.011221012
+Taiwan,1992,nuclear,0.34,0.010761369
+Taiwan,1993,nuclear,0.34,0.01092342
+Taiwan,1994,nuclear,0.35,0.011087614
+Taiwan,1995,nuclear,0.35,0.011229138
+Taiwan,1996,nuclear,0.38,0.012015164
+Taiwan,1997,nuclear,0.36,0.011532423
+Taiwan,1998,nuclear,0.37,0.011708892
+Taiwan,1999,nuclear,0.38,0.012214882
+Taiwan,2000,nuclear,0.39,0.012242541
+Taiwan,2001,nuclear,0.35,0.011210172
+Taiwan,2002,nuclear,0.39,0.012414169
+Taiwan,2003,nuclear,0.38,0.01212835
+Taiwan,2004,nuclear,0.38,0.01223655
+Taiwan,2005,nuclear,0.39,0.012307495
+Taiwan,2006,nuclear,0.38,0.01219903
+Taiwan,2007,nuclear,0.39,0.012326096
+Taiwan,2008,nuclear,0.39,0.012336469
+Taiwan,2009,nuclear,0.39,0.012483822
+Taiwan,2010,nuclear,0.39,0.012424414
+Taiwan,2011,nuclear,0.39,0.012493356
+Taiwan,2012,nuclear,0.37,0.011917955
+Taiwan,2013,nuclear,0.38,0.012203004
+Taiwan,2014,nuclear,0.39,0.012348302
+Taiwan,2015,nuclear,0.33,0.010561135
+Taiwan,2016,nuclear,0.29,0.009114098
+Taiwan,2017,nuclear,0.20,0.006423204
+Taiwan,2018,nuclear,0.25,0.007875507
+Taiwan,2019,nuclear,0.29,0.00916195
