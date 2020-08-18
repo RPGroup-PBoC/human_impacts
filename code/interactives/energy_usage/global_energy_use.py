@@ -24,21 +24,23 @@ power_data['W_per_captia'] = power_data['consumption_TW'].values * 1E12 / power_
 dfs = []
 for g, d in power_data.groupby(['year']):
     tot_power = d['consumption_TW'].sum()
-    tot_per_head = d['W_per_captia'].sum()
+    tot_per_capita = d['W_per_captia'].sum()
     for _g, _d in d.groupby('type'):
         _d = d.copy()
         _d['frac_of_total'] = d['consumption_TW'].values / tot_power
-        _d['frac_of_captia'] = d['W_per_captia'].values / tot_per_capita
+        _d['frac_of_capita'] = d['W_per_captia'].values / tot_per_capita
+        dfs.append(_d)
+pop_source_df = pd.concat(dfs, sort=False)
 
 
-
-# Compute the total and append to the power data. 
-tot_power = power_data.groupby(['year']).sum().reset_index()
+# Compute the angles for the donut charts. 
+pop_source_df['total_angle'] = 2 * np.pi * pop_source_df['frac_of_total'].values
+pop_source_df['capita_angle'] = 2 * np.pi * pop_source_df['frac_of_capita'].values
+pop_source_df.head()
 
 
 
 
 # %%
-pop_data.head()
 
 # %%
