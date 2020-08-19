@@ -11,7 +11,7 @@ Global concrete production (see notes for how this was approximated): 28,700,000
 ## Source Information
 * **Source Website**: USGS Cement Statistics and Information
 * **URL**:  https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-cement.pdf
-* **Original License**: No license is noted. The following citation is suggested: U.S. Geological Survey, 2020, Mineral commodity summaries 2020: U.S. Geological Survey, 200 p., https://doi.org/10.3133/ mcs2020.
+* **Original License**: No license is noted. The following citation is suggested: U.S. Geological Survey, 2020,  Mineral commodity summaries 2020: U.S. Geological Survey, 200 p., https://doi.org/10.3133/ mcs2020.
 * **Bias**: These data are collected by the USGS, a United States Federal agency generally regarded to be an objective science agency.
 
 ## Notes
