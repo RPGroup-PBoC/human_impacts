@@ -227,5 +227,5 @@ animal_row = bokeh.layouts.row(animal_col, animal_time, animal_stick)
 cat_panel = Panel(child=cat_row, title='(A) Population of major livestock')
 animal_panel = Panel(child=animal_row, title='(B) Population of all livestock')
 tabs = Tabs(tabs=[cat_panel, animal_panel])
-bokeh.io.save(tabs)
+bokeh.io.save(cat_panel)
 # %%
