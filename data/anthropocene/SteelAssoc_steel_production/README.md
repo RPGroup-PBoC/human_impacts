@@ -5,7 +5,7 @@
 This entry gives the global production of steel in the year 2019.
 
 ## Key Numbers
-Global steel production (2019): 1.8699 Gt
+Global steel production (2019): 1869.9 Mt
 
 ## Source Information
 * **Source Website**: World Steel Association: World Crude Steel Production - Summary
@@ -14,6 +14,6 @@ Global steel production (2019): 1.8699 Gt
 
 Source: World Steel Association
 Source: worldsteel.org"
-* **Bias**: These data are published by the World Steel Association, an industry association that may have biases. The data is similar to other sources.
+* **Bias**: These data are published by the World Steel Association, an industry association that may have biases or conflicts of interest. The data is similar to other sources.
 
 ## Notes

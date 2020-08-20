@@ -2,10 +2,11 @@
 # Global steel production (USGS)
 
 ## Description
-This entry gives the global production of steel in the year 2019.
+This entry gives the global production of steel in the years 2018 and 2019.
 
 ## Key Numbers
-Global steel production (2019): 1.90 Gt
+Global steel production (2018): 1810 Mt,
+Global steel production (2019): 1900 Mt
 
 ## Source Information
 * **Source Website**: USGS Iron and Steel Statistics and Information

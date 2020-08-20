@@ -2,11 +2,11 @@
 # Global cement production
 
 ## Description
-This entry gives the global production of cement in the year 2019.
+This entry gives the global production of cement in the year 2019. It can be used to estimate global concrete production.
 
 ## Key Numbers
-Global cement production in 2019: 4,100,000,000 tons,
-Global concrete production (see notes for how this was approximated): 28,700,000,000 tons 
+Global cement production in 2019: 4.1 Gt,
+Global concrete production in 2019 (see notes for how this was approximated): 28.7 Gt
 
 ## Source Information
 * **Source Website**: USGS Cement Statistics and Information
