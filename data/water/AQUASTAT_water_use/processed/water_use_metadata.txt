@@ -1,0 +1,312 @@
+Metadata:
+[1] [P-Components-N] | 72% of 0.93 total water withdrawal
+[2] [P-Components-N] | Irrigation water withdrawal only
+[3] [P-Components-N] | Irrigation water withdrawal only
+[4] [P-Overall accuracy-N] | AQUASTAT estimation based on Eurostat data of water withdrawal by source (Med_en42) using Eurostat proportion by sector of water supplied (Med-en44): 59% for agriculture, 36% for municipalities and 5% for industries.
+[5] [P-Overall accuracy-N] | AQUASTAT estimation based on Eurostat data of water withdrawal by source (Med_en42) using Eurostat proportion by sector of water supplied (Med-en44): 59% for agriculture, 36% for municipalities and 5% for industries.
+[6] [P-Overall accuracy-N] | AQUASTAT estimation based on Eurostat data of water withdrawal by source (Med_en42) using Eurostat proportion by sector of water supplied (Med-en44): 59% for agriculture, 36% for municipalities and 5% for industries.
+[7] [P-Components-N] | Irrigation water withdrawal only
+[8] [P-Components-N] | Irrigation water withdrawal only
+[9] [P-Components-N] | Irrigation water withdrawal only
+[10] [P-Reference period-N] | Data actually from 1997
+[11] [P-Components-N] | Includes 2.278 (household) + 2.165 (industry- water supply)
+[12] [P-Components-N] | Includes 2.108 (household) + 2.083 (industry- water supply)
+[13] [P-Components-N] | Includes 1.715 (household) + 2.029 (industry- water supply)
+[14] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)
+[15] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)
+[16] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)
+[17] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)
+[18] [P-Components-N] | Surface water 6.62 km3/yr + groundwater 24.88 km3/yr
+[19] [P-Components-N] | Surface water 0.40 km3/yr + groundwater 3.2 km3/yr
+[20] [P-Components-N] | Irrigation water withdrawal only
+[21] [P-Components-N] | Irrigation water withdrawal only
+[22] [P-Reference period-N] | Data actually from 1989
+[23] [P-Components-N] | Irrigation and agricultural water supply: 0.286; aquaculture: 0.282
+[24] [P-Components-N] | Irrigation and agricultural water supply: 0.160; aquaculture: 0.282
+[25] [P-Components-N] | Irrigation and agricultural water supply: 0.127; aquaculture: 0.282
+[26] [P-Components-N] | Irrigation and agricultural water supply: 0.114; aquaculture: 0.357
+[27] [P-Components-N] | includes 0.051 km3 of loss during transport = 50% of total loss during transport (0.102 km3)
+[28] [P-Components-N] | includes 0.0685 km3 of loss during transport = 50% of total loss during transport (0.137 km3)
+[29] [P-Components-N] | includes 0.053 km3 of loss during transport = 50% of total loss during transport (0.106 km3)
+[30] [P-Components-N] | includes 0.0945 km3 of loss during transport = 50% of total loss during transport (0.189 km3)
+[31] [P-Components-N] | includes 0.051 km3 of loss during transport = 50% of total loss during transport (0.102 km3)
+[32] [P-Components-N] | includes 0.0685 km3 of loss during transport = 50% of total loss during transport (0.137 km3)
+[33] [P-Components-N] | includes 0.053 km3 of loss during transport = 50% of total loss during transport (0.106 km3)
+[34] [P-Components-N] | includes 0.0945 km3 of loss during transport = 50% of total loss during transport (0.189 km3)
+[35] [P-Components-N] | Surface water and groundwater account for 0.003 km3 and 0.035 km3 respectively of agricultural water withdrawal (Source: Eurostat, 2016)
+[36] [P-Components-N] | Surface water and groundwater account for 0.003 km3 and 0.034 km3 respectively of agricultural water withdrawal (Source: Eurostat, 2016)
+[37] [P-Components-N] | Irrigation water withdrawal only
+[38] [P-Components-N] | 0.029 irrigation & forestry + 0.045 livestock + 0.006 wildlife
+[39] [P-Components-N] | Including mining and energy
+[40] [P-Components-N] | 0.047 urban centres + 0.020 major villages + 0.010 rural villages + 0.002 settlements
+[41] [P-Components-N] | Irrigation water withdrawal only
+[42] [P-Components-N] | Surface water and groundwater account for 0.733 km3 and 0.010 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[43] [P-Components-N] | Surface water and groundwater account for 0.866 km3 and 0.010 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[44] [P-Components-N] | Irrigation water withdrawal only
+[45] [P-Components-N] | Irrigation water withdrawal only
+[46] [P-Components-N] | Irrigation water withdrawal only
+[47] [P-Components-N] | Surface water accounts for 3.672 km3 and groundwater accounts for 0.319 km3 of the total agricultural withdrawal
+[48] [P-Components-N] | Surface water accounts for 3.7936 km3 and groundwater accounts for 0.31089 km3 of the total agricultural withdrawal
+[49] [P-Overall accuracy-N] | Estimated data by the water balance model used in the 2012 Agricultural water use exercise. Canada Statistics declare 0.838 (2010), but the resulting water requirement ratio was incoherent (304%). This is certainly due to the model using the long-term average precipitations and assuming that crop optimal growth. So estimated value is a maximum value especially if precipitations are higher than the average (supplemental irrigation only).
+[50] [P-Components-N] | Irrigation water withdrawal only
+[51] [P-Components-N] | Surface water accounts for 4.694 km3 and groundwater accounts for 0.408 km3 of the total municipal withdrawal
+[52] [P-Components-N] | Surface water accounts for 4.678 km3 and groundwater accounts for 0.523 km3 of the total municipal withdrawal
+[53] [P-Components-N] | Irrigation water withdrawal only
+[54] [P-Reference period-N] | Data actually from 1987
+[55] [P-Components-N] | Irrigation water withdrawal only
+[56] [P-Reference period-N] | Data actually from 1987
+[57] [P-Components-N] | Irrigation water withdrawal only
+[58] [P-Components-N] | Irrigation water withdrawal only
+[59] [P-Reference period-N] | Data actually from 2002
+[60] [P-Components-N] | Irrigation water withdrawal only
+[61] [P-Components-N] | Industrial: 1.577 + thermoelectric 0.665
+[62] [P-Components-N] | 0. 528 km3 correspond to institutions withdrawal (hospitals, schools, universities, hoteles) and 2.606 km3 correspond to domestic withdrawal
+[63] [P-Reference period-N] | Data actually from 2008
+[64] [P-Components-N] | Irrigation water withdrawal only
+[65] [P-Components-N] | Irrigation water withdrawal only
+[66] [P-Components-N] | Surface water and groundwater account for 0.0029 km3 and 0.0003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[67] [P-Observations-N] | In addition, there is an environmental flow (gasto ecologico) of 395 million m3 (not included in total withdrawal), which has to be taken into consideration
+[68] [P-Components-N] | Surface water and groundwater account for 0.0481 km3 and 0.1125 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[69] [P-Components-N] | Surface water and groundwater account for 0.028 km3 and 0.1150 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[70] [P-Components-N] | Surface water and groundwater account for 0.0420 km3 and 0.1290 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[71] [P-Components-N] | Surface water and groundwater account for 0.051 km3 and 0.012 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[72] [P-Components-N] | Surface water and groundwater account for 0.097 km3 and 0.014 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[73] [P-Components-N] | Surface water and groundwater account for 0.014 km3 and 0.006 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[74] [P-Components-N] | Surface water and groundwater account for 0.0311 km3 and 0.0121 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[75] [P-Components-N] | Irrigation water withdrawal only
+[76] [P-Reference period-N] | Data actually from 2000
+[77] [P-Components-N] | Irrigation water withdrawal only
+[78] [P-Components-N] | Surface water and groundwater account for 0.0031 km3 and 0.1621 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[79] [P-Components-N] | Surface water and groundwater account for 0.0017 km3 and 0.1158 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[80] [P-Components-N] | 0.0025 irrigation + 0.0005 élevage
+[81] [P-Overall accuracy-N] | Refered to as "Water demand" not abstraction
+[82] [P-Overall accuracy-N] | Refered to as "Water demand" not abstraction
+[83] [P-Components-N] | Irrigation water withdrawal only
+[84] [P-Reference period-N] | Data actually from 2000
+[85] [P-Components-N] | Irrigation water withdrawal only
+[86] [P-Components-N] | Does not include hydropower and navigation. 'In-stream water usage by hydropower plants' is 4 km3 in 2000 (Source 5996: 'FAO. 2005. Irrigation in Africa in figures: AQUASTAT Survey 2005. Water Reports No. 29').
+[87] [P-Components-N] | Surface water and groundwater account for 0.0262 km3 and 0.0038 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[88] [P-Components-N] | Surface water and groundwater account for 0.0031 km3 and 0.0045 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[89] [P-Components-N] | The figure includes 1.2 km3 of water withdrawal for cooling of thermoelectric plants
+[90] [P-Components-N] | Irrigation 993 + livestock 13
+[91] [P-Components-N] | Urban 14 + rural 10
+[92] [P-Components-N] | Including 0.687 for livestock
+[93] [P-Components-N] | Surface water and groundwater account for 0.04 km3 and 0.01 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[94] [P-Components-N] | Surface water and groundwater account for 0.04 km3 and 0.01 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[95] [P-Components-N] | Surface water accounts for 0.175 km3 and groundwater accounts for 0.237 km3 of the total municipal withdrawal
+[96] [P-Components-N] | Surface water accounts for 0.16 km3 and groundwater accounts for 0.24 km3 of the total municipal withdrawal
+[97] [P-Components-N] | Surface water and groundwater account for 3.284 km3 and 1.007 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[98] [P-Components-N] | Surface water and groundwater account for 3.135 km3 and 0.798 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[99] [P-Reference Area-N] | Only Metropolitan France
+[100] [P-Observations-N] | Only Metropolitan France
+[101] [P-Observations-N] | Only Metropolitan France
+[102] [P-Components-N] | Irrigation water withdrawal only
+[103] [P-Components-N] | Irrigation water withdrawal only
+[104] [P-Reference period-N] | Data actually from 2000
+[105] [P-Components-N] | Irrigation water withdrawal only
+[106] [P-Components-N] | Irrigation 0,867 + Agriculture water supply 0,188
+[107] [P-Components-N] | Household and drinking purposes
+[108] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.157 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[109] [P-Components-N] | Surface water accounts for 1.586 km3 and groundwater accounts for 4.224 km3 of the total municipal withdrawal
+[110] [P-Overall accuracy-N] | Water produced and distributed by the Ghana Water Company
+[111] [P-Components-N] | Surface water and groundwater account for 1.7 km3 and 0.725 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[112] [P-Components-N] | Surface water and groundwater account for 3.1 km3 and 1.5 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[113] [P-Components-N] | Surface water and groundwater account for 4.9 km3 and 3.0 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[114] [P-Components-N] | Surface water accounts for 4.5 km3 and groundwater accounts for 3.1 km3 of the total agricultural withdrawal
+[115] [P-Components-N] | Surface water and groundwater account for 5.473 km3 and 2.947 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[116] [P-Components-N] | Surface water and groundwater account for 5.075 km3 and 3.383 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[117] [P-Components-N] | Irrigation water withdrawal only
+[118] [P-Components-N] | Irrigation water withdrawal only
+[119] [P-Components-N] | Irrigation water withdrawal only
+[120] [P-Components-N] | Irrigation water withdrawal only
+[121] [P-Components-N] | It doesn's include 0.3 km3 of hydroelectric use
+[122] [P-Components-N] | Surface water represents 100% of the total agricultural water withdrawal
+[123] [P-Components-N] | Surface water represents 100% of the total agricultural water withdrawal
+[124] [P-Components-N] | Surface water and groundwater account for 0.904 km3 and 0.045 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[125] [P-Components-N] | Surface water and groundwater account for 0.447 km3 and 0.008 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[126] [P-Components-N] | Surface water and groundwater account for 0.611 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[127] [P-Components-N] | Surface water and groundwater account for 0.265 km3 and 0.04 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[128] [P-Components-N] | Surface water accounts for 0.264 km3 and groundwater accounts for 0.058 km3 of the total agricultural withdrawal
+[129] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[130] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[131] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[132] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[133] [P-Components-N] | Industry 8 + energy 2
+[134] [P-Components-N] | Surface water and groundwater account for 0.134 km3 and 0.045 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[135] [P-Components-N] | Surface water accounts for 0.527 km3 and groundwater accounts for 0.101 km3 of the total municipal withdrawal
+[136] [P-Components-N] | Irrigation water withdrawal only
+[137] [P-Components-N] | Surface water accounts for 52.748 km3 and groundwater accounts for 3.302 km3 of the total agricultural withdrawal
+[138] [P-Components-N] | Surface water accounts for 51.2 km3 and groundwater accounts for 3.3 km3 of the total agricultural withdrawal
+[139] [P-Components-N] | Surface water accounts for 51.564 km3 and groundwater accounts for 2.866 km3 of the total agricultural withdrawal
+[140] [P-Components-N] | Surface water accounts for 8.618 km3 and groundwater accounts for 3.7 km3 of the total industrial withdrawal
+[141] [P-Components-N] | Surface water accounts for 9.15 km3 and groundwater accounts for 3.63 km3 of the total industrial withdrawal
+[142] [P-Components-N] | Surface water accounts for 8.358 km3 and groundwater accounts for 3.251 km3 of the total industrial withdrawal
+[143] [P-Components-N] | Surface water accounts for 12.638 km3 and groundwater accounts for 3.642 km3 of the total municipal withdrawal
+[144] [P-Components-N] | Surface water accounts for 12.3 km3 and groundwater accounts for 3.4 km3 of the total municipal withdrawal
+[145] [P-Components-N] | Surface water accounts for 12.16 km3 and groundwater accounts for 3.254 km3 of the total municipal withdrawal
+[146] [P-Overall accuracy-N] | Official figure for water use
+[147] [P-Overall accuracy-N] | Official figure for water use
+[148] [P-Overall accuracy-N] | Official figure for water use
+[149] [P-Overall accuracy-N] | Official figure for water use
+[150] [P-Overall accuracy-N] | Official figure for water use
+[151] [P-Overall accuracy-N] | Official figure for water use
+[152] [P-Overall accuracy-N] | Official figure for water use
+[153] [P-Overall accuracy-N] | Official figure for water use
+[154] [P-Overall accuracy-N] | Official figure for water use
+[155] [P-Overall accuracy-N] | Official figure for water use
+[156] [P-Overall accuracy-N] | Official figure for water use
+[157] [P-Overall accuracy-N] | Official figure for water use
+[158] [P-Overall accuracy-N] | The previous estimation of 2.165  from 2011 irrigation water use study was reconsidered based on new data available
+[159] [P-Components-N] | Including 0.008 km3 for wildlife
+[160] [P-Components-N] | Irrigation water withdrawal only
+[161] [P-Components-N] | Surface water and groundwater account for 0.050 km3 and 0.004 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[162] [P-Components-N] | Surface water and groundwater account for 0.048 km3 and 0.003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[163] [P-Components-N] | Surface water and groundwater account for 0.0384 km3 and 0.0024 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[164] [P-Components-N] | Irrigation water withdrawal only
+[165] [P-Components-N] | Irrigation water withdrawal only
+[166] [P-Components-N] | Surface water and groundwater account for 0.048 km3 and 0.005 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[167] [P-Components-N] | Surface water and groundwater account for 0.077 km3 and 0.005 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[168] [P-Components-N] | Surface water and groundwater account for 0.075 km3 and 0.004 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[169] [P-Observations-N] | Last nuclear power plant closed down in 2009, so there is no water withdrawal for cooling of the nuclear plants anymore since 2010. That is why industrial water withdrawal is so much less than before 2009
+[170] [P-Components-N] | Groundwater represents 100 % of total water withdrawal for agriculture
+[171] [P-Components-N] | Surface water accounts for 0.021 km3 and groundwater accounts for 0.02 km3 of the total municipal withdrawal
+[172] [P-Components-N] | Irrigation water withdrawal only
+[173] [P-Reference period-N] | Data actually from 2002
+[174] [P-Components-N] | Irrigation water withdrawal only
+[175] [P-Components-N] | Irrigation water withdrawal only
+[176] [P-Overall accuracy-N] | Figure does not include requirements of an estimated 500 000 tourists who visit Maldives per year
+[177] [P-Components-N] | Does not include water used by an estimated 500 000 tourists visiting Maldives per year
+[178] [P-Overall accuracy-N] | Many people collect and store rainwater for their use, which is also not included in this amounts
+[179] [P-Components-N] | 0.046 in rural area and semi-urban and 0.061 in urban area
+[180] [P-Components-N] | Groundwater represents 100% of total water withdrawal for agriculture
+[181] [P-Components-N] | Groundwater represents 100% of total water withdrawal for agriculture
+[182] [P-Components-N] | Groundwater represents 100% of total water withdrawal for agriculture
+[183] [P-Components-N] | Irrigation water withdrawal only
+[184] [P-Comparability (geographical)-N] | Includes only Island of Mauritius
+[185] [P-Comparability (geographical)-N] | Includes only Island of Mauritius
+[186] [P-Comparability (geographical)-N] | Includes only Island of Mauritius
+[187] [P-Components-N] | Irrigation water withdrawal only
+[188] [P-Components-N] | Mining only
+[189] [P-Components-N] | Including industry and tourism
+[190] [P-Reference period-N] | Data actually from 2006
+[191] [P-Components-N] | Irrigation water withdrawal only
+[192] [P-Components-N] | Irrigation water withdrawal only
+[193] [P-Components-N] | Surface water and groundwater account for 0.075 km3 and 0.155 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[194] [P-Components-N] | Surface water and groundwater account for 0.0193 km3 and 0.0333 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[195] [P-Components-N] | Surface water and groundwater account for 0.0179 km3 and 0.0540 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[196] [P-Components-N] | Surface water and groundwater account for 0.0064 km3 and 0.0538 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[197] [P-Components-N] | Surface water accounts for 1.917 km3 and groundwater accounts for 0.903 km3 of the total agricultural withdrawal
+[198] [P-Components-N] | Surface water accounts for 2.176 km3 and groundwater accounts for 1.031 km3 of the total agricultural withdrawal
+[199] [P-Components-N] | Surface water accounts for 0.44 km3 and groundwater accounts for 0.37 km3 of the total municipal withdrawal
+[200] [P-Components-N] | Irrigation water withdrawal only
+[201] [P-Components-N] | The main part is due to COMINAK, SOMAÎR and SONICHA
+[202] [P-Components-N] | Surface water and groundwater account for 0.278 km3 and 0.004 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[203] [P-Components-N] | Surface water and groundwater account for 0.1253 km3 and 0.0002 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[204] [P-Components-N] | Surface water accounts for 0.726 km3 and groundwater accounts for 0.055 km3 of the total municipal withdrawal
+[205] [P-Components-N] | West Bank: 8.6 million m3; Gaza Strip: 6 million m3.
+[206] [P-Components-N] | West Bank: 59.4 million m3; Gaza Strip: 42 million m3.
+[207] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)
+[208] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)
+[209] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)
+[210] [P-Components-N] | Surface water represents 100% of the agricultural water withdrawal
+[211] [P-Components-N] | Surface water represents 100% of the agricultural water withdrawal
+[212] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)
+[213] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)
+[214] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)
+[215] [P-Components-N] | Surface water accounts for 1.36 km3 and groundwater accounts for 1.48 km3 of the total municipal withdrawal
+[216] [P-Components-N] | Surface water accounts for 1.009 km3 and groundwater accounts for 1.283 km3 of the total municipal withdrawal
+[217] [P-Components-N] | Surface water accounts for 0.401 km3 and groundwater accounts for 0.471 km3 of the total municipal withdrawal
+[218] [P-Components-N] | it includes 0.195 km3 of withdrawal for irrigation, and 0.011 km3 for livestock. Withdrawal for aquaculture is unknown
+[219] [P-Components-N] | this figure includes 0.0624 km3 of withdrawal for irrigation, 0.0108 km3 for livestock and 0.0007 km3 for aquaculture
+[220] [P-Components-N] | this figure includes 0.0528 km3 of withdrawal for irrigation, 0.0108 km3 for livestock and 0.0006 km3 for aquaculture
+[221] [P-Components-N] | This figure includes 3.416 km3 of water withdrawal for cooling of thermoelectric plants and 0.004 km3 of mining withdrawal
+[222] [P-Components-N] | This figure includes 3.0255 km3 of water withdrawal for cooling of thermoelectric plants
+[223] [P-Components-N] | This figure includes 3.1676 km3 of water withdrawal for cooling of thermoelectric plants and 0.003 km3 of mining withdrawal
+[224] [P-Components-N] | This figure includes 3.1413 km3 of water withdrawal for cooling of thermoelectric plants and 0.003 km3 of mining withdrawal
+[225] [P-Components-N] | includes 3.4 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[226] [P-Components-N] | includes 3.03 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[227] [P-Components-N] | includes 3.16 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[228] [P-Components-N] | includes 3.136 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[229] [P-Components-N] | 99% desalinated water + 1% groundwater
+[230] [P-Components-N] | Surface water accounts for 14.5 km3 and groundwater accounts for 1.6 km3 of the total agricultural withdrawal
+[231] [P-Components-N] | Surface water accounts for 8.548 km3 and groundwater accounts for 0.065 km3 of the total agricultural withdrawal
+[232] [P-Components-N] | Surface water accounts for 6.86 km3 and groundwater accounts for 0.064 km3 of the total municipal withdrawal
+[233] [P-Observations-N] | Hydropower is not included in industrial withdrawal. It is estimated that around 1 km3 is for hydropower.
+[234] [P-Components-N] | Surface water and groundwater account for 1.143 km3 and 0.049 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[235] [P-Components-N] | Surface water and groundwater account for 1.056 km3 and 0.043 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[236] [P-Components-N] | Surface water and groundwater account for 1.063 km3 and 0.030 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[237] [P-Components-N] | Including 30.8 km3 of power plants
+[238] [P-Components-N] | Irrigation water withdrawal only
+[239] [P-Components-N] | Irrigation water withdrawal only
+[240] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics
+[241] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics
+[242] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics
+[243] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics
+[244] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics
+[245] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics
+[246] [P-Components-N] | Surface water and groundwater account for 0.127 km3 and 0.001 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[247] [P-Components-N] | Irrigation water withdrawal only
+[248] [P-Components-N] | Irrigation water withdrawal only
+[249] [P-Reference period-N] | Data actually from 1992
+[250] [P-Components-N] | Irrigation water withdrawal only
+[251] [P-Reference period-N] | Data actually from 1992
+[252] [P-Components-N] | Surface water and groundwater account for 0.124 km3 and 0.028 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[253] [P-Components-N] | Surface water and groundwater account for 0.047 km3 and 0.020 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[254] [P-Components-N] | Surface water and groundwater account for 0.043 km3 and 0.014 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[255] [P-Components-N] | Surface water and groundwater account for 0.009 km3 and 0.013 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[256] [P-Components-N] | Surface water and groundwater account for 0.018 km3 and 0.013 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[257] [P-Components-N] | Surface water and groundwater account for 0.0029 km3 and 0.0008 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[258] [P-Components-N] | Surface water and groundwater account for 0.0045 km3 and 0.0003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[259] [P-Components-N] | Surface water and groundwater account for 0.0045 km3 and 0.0002 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[260] [P-Components-N] | Surface water and groundwater account for 0.0020 km3 and 0.0003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[261] [P-Components-N] | Includes 0.296 of power generation
+[262] [P-Components-N] | Urban 3.332 + rural 0.572
+[263] [P-Components-N] | Surface water and groundwater account for 19.2 km3 and 4.50 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[264] [P-Components-N] | Surface water and groundwater account for 20.501 km3 and 2.931 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[265] [P-Components-N] | Surface water and groundwater account for 18.832 km3 and 4.212 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[266] [P-Components-N] | Surface water and groundwater account for 18.630 km3 and 4.550 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[267] [P-Components-N] | Surface water and groundwater account for 20.375 km3 and 5.094 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[268] [P-Components-N] | Irrigation water withdrawal only
+[269] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.078 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[270] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.083 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[271] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.086 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[272] [P-Components-N] | Surface water and groundwater account for 0.080 km3 and 0.070 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[273] [P-Components-N] | Surface water and groundwater account for 0.055 km3 and 0.052 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[274] [P-Components-N] | Surface water and groundwater account for 0.050 km3 and 0.048 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[275] [P-Components-N] | Surface water and groundwater account for 0.12 km3 and 0.04 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[276] [P-Overall accuracy-N] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)
+[277] [P-Overall accuracy-N] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)
+[278] [P-Components-N] | Including 0.033 of water withdrawn by the tourism sector
+[279] [P-Overall accuracy-N] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)
+[280] [P-Components-N] | Surface water and groundwater account for 1.099 km3 and 0.209 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[281] [P-Observations-N] | England and Wales only
+[282] [P-Components-N] | Surface water and groundwater account for 1.138 km3 and 0.193 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[283] [P-Components-N] | Surface water and groundwater account for 0.893 km3 and 0.156 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)
+[284] [P-Reference Area-N] | Mainlandequals4.624;  Zanzibarequals0.042
+[285] [P-Reference Area-N] | Mainlandequals0.493, Zanzibarequals0.043
+[286] [P-Components-N] | This figure includes 188.49 km3 of withdrawal for irrigation, and 6.2 km3 for livestock. Withdrawal for aquaculture is unknown
+[287] [P-Components-N] | it includes 189.14 km3 of withdrawal for irrigation, 2.43 km3 for livestock and 5.11 km3 for aquaculture
+[288] [P-Components-N] | Fresh surface water and groundwater withdrawal for agriculture account for 115.1 km3 and 81.4 km3 respectively
+[289] [P-Components-N] | This figure includes 176.77 km3 of withdrawal for irrigation, 2.95 km3 for livestock and 12.13 km3 for aquaculture
+[290] [P-Components-N] | Fresh surface water and groundwater withdrawal for agriculture account for 110.9 km3 and 80.95 km3 respectively
+[291] [P-Components-N] | this figure includes 159.29 km3 of withdrawal for irrigation, 2.75 km3 for livestock and 13.02 km3 for aquaculture
+[292] [P-Components-N] | Fresh surface water and groundwater withdrawal for agriculture account for 102.58 km3 and 72.48 km3 respectively
+[293] [P-Components-N] | This figure includes 265.9 km3 of water withdrawal for cooling of thermoelectric plants and 6.84 km3 of mining withdrawal
+[294] [P-Components-N] | External metadata: This figure includes 266.69 km3 of water withdrawal for cooling of thermoelectric plants and 4.82 km3 of mining withdrawal
+[295] [P-Components-N] | This figure includes 274.48 km3 of water withdrawal for cooling of thermoelectric plants and 5.55 km3 of mining withdrawal
+[296] [P-Components-N] | This figure includes 219 km3 of water withdrawal for cooling of thermoelectric plants and 7.35 km3 of mining withdrawal
+[297] [P-Components-N] | includes 92.2 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[298] [P-Components-N] | This figure doesn't include total withdrawal of Puerto Rico (4.21 km3) and total withdrawal of the US Virgin Islands (0.23 km3). For more information on Puerto Rico, please select Puerto Rico in the AQUASTAT database.
+[299] [P-Components-N] | includes 82.85 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[300] [P-Components-N] | This figure doesn't include total withdrawal of Puerto Rico (3.88 km3) and total withdrawal of the US Virgin Islands (0.20 km3). For more information on Puerto Rico, please select Puerto Rico in the AQUASTAT database.
+[301] [P-Components-N] | includes 80.89 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[302] [P-Components-N] | This figure doesn't include total withdrawal of Puerto Rico (4.16 km3) and total withdrawal of the US Virgin Islands (0.20 km3). For more information on Puerto Rico, please select Puerto Rico in the AQUASTAT database.
+[303] [P-Components-N] | includes 63.45 km3 of withdrawal of saline water (sea water, coastal brackish, saline groundwater), mostly for cooling of thermoelectric plants and some for mining
+[304] [P-Components-N] | This figure doesn't include total withdrawal of Puerto Rico (4.15 km3) and total withdrawal of the US Virgin Islands (0.18 km3). For more information on Puerto Rico, please select Puerto Rico in the AQUASTAT database.
+[305] [P-Components-N] | Irrigation water withdrawal only
+[306] [P-Components-N] | Irrigation water withdrawal only
+[307] [P-Components-N] | Including irrigation and stock watering
+[308] [P-Observations-N] | Volume of water allocated to agriculture, not actual withdrawal
+[309] [P-Observations-N] | Volume of water allocated to industries, not actual withdrawal
+[310] [P-Observations-N] | Volume of water allocated to municipalities, not actual withdrawal
+[311] [P-Observations-N] | Total volume of water allocated, not actual withdrawal
