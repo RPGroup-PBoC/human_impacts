@@ -1,5 +1,5 @@
 
-# Global and Regional Glacier Mass Change Estimates for 2006–2015
+# IPCC Global and Regional Glacier Mass Change Estimates for 2006–2015
 
 ## Description
 This truncated and processed dataset contains summary statistics of mass change between 2006-2015 for major glacial regions.
@@ -16,4 +16,4 @@ Global Glacier Mass Trend: -278 ± 113 Gt/yr
 * **Bias**: These data are collected by the IPCC, an intergovernmental agency generally regarded to be an objective science agency.
 
 ## Notes
-See Appendix 2.A for information on the data collection and processing. See Table 2.A.1 for statistics at a more granular regional level.
+See Appendix 2.A for information on the data collection and processing. See Table 2.A.1 for statistics at a more granular regional level. Data for major subsections of the planet are shown in this truncated dataset which was processed manually.

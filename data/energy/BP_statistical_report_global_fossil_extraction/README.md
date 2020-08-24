@@ -9,7 +9,7 @@ fuels extracted from years 1965 - 2019. Units of barrels (for oil) were converte
 
 * Global natural gas extraction (2019) ≈ 4.0 trillion cubic meters
 * Global oil extraction (2019) ≈ 5.5 billion cubic meters
-* Global coal extraction (2019) ≈ 5.9 billion tonnes
+* Global coal extraction (2019) ≈ 8.1 billion tonnes
 
 ## Source Information
 
