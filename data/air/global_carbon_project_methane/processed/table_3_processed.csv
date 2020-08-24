@@ -1,0 +1,11 @@
+﻿emissions_category,period,bottom_up_flux_(Tg CH4 yr-1),top_down_flux_(Tg CH4 yr-1)
+total_natural_sources,2008–2017,371,218
+total_natural_sources,2017,367,232
+total_anthropogenic_sources,2008–2017,366,359
+total_anthropogenic_sources,2017,380,364
+total_sinks,2008–2017,625,556
+total_sinks,2017,625,571
+total_sources,2008–2017,737,576
+total_sources,2017,747,596
+imbalance,2008–2017,112,13
+imbalance,2017,120,12
