@@ -9,3 +9,5 @@ total_sources,2008–2017,737,0.737,576,0.576
 total_sources,2017,747,0.747,596,0.596
 imbalance,2008–2017,112,0.112,13,0.013
 imbalance,2017,120,0.12,12,0.012
+atmospheric_growth,2008–2017,,,18.2,0.0182
+atmospheric_growth,2017,,,16.8,0.0168
