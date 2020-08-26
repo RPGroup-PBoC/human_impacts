@@ -12,7 +12,7 @@ The Global Carbon Budget contains data on CO<sub>2</sub> emissions from fossil-f
 
 ## Source Information
 * **Source Website**: Global Carbon Budget 2019
-* **URL**: https://doi.org/10.5194/essd-11-1783-2019, https://www.icos-cp.eu/global-carbon-budget-2019
+* **URL**: [manuscript](https://doi.org/10.5194/essd-11-1783-2019), [data](https://www.icos-cp.eu/global-carbon-budget-2019)
 * **Original License**:
   - Friedlingstein, P. et al. (2019). Global carbon budget 2019. Earth System Science Data, 11(4), 1783-1838.
   - Per the Data Sources and Terms of Use: "The use of data is conditional on citing the original data sources. Full details on how to cite the data are given at the top of each page. For research projects, if the data are essential to the work, or if an important result or conclusion depends on the data, co-authorship may need to be considered. The Global Carbon Project facilitates access to data to encourage its use and promote a good understanding of the carbon cycle. Respecting original data sources is key to help secure the support of data providers to enhance, maintain and update valuable data."
