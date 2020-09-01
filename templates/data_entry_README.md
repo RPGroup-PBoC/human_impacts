@@ -14,7 +14,7 @@ data set.
 ## Source Information
 Fill out the table below for each data set. 
 
-* **Source Website**: The name of the website or database from where you
+* **Source**: The name of the website or database from where you
   accessed the data
 * **URL**: The complete URL address to the original dataset. 
 * **Original License**: The original license provided with the data. If not a
