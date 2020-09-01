@@ -7,6 +7,7 @@ This dataset corresponds to the results presented in Eshel et al. 2014. Many of 
 ## Key Numbers
 
 **Data From Fig. 2**
+
 | Product | Resource | Unit | Requirement |
 |:--:|:--:|:--:|:--:|
 |beef|	GHG emissions|	kg CO2e / Mcal|	 ≈ 9.6|
