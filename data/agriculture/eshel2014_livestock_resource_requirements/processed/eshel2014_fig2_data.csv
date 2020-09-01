@@ -1,0 +1,57 @@
+﻿product,resource,quantity,units,value
+beef,GHG emissions,mean,kg CO2e / Mcal,9.6
+poultry,GHG emissions,mean,kg CO2e / Mcal,1.71
+pork,GHG emissions,mean,kg CO2e / Mcal,2.03
+eggs,GHG emissions,mean,kg CO2e / Mcal,1.45
+dairy,GHG emissions,mean,kg CO2e / Mcal,1.85
+beef,land,mean,sq m / yr / Mcal,146.56
+poultry,land,mean,sq m / yr / Mcal,4.09
+pork,land,mean,sq m / yr / Mcal,5.26
+eggs,land,mean,sq m / yr / Mcal,2.96
+dairy,land,mean,sq m / yr / Mcal,8.71
+beef,water,mean,L / Mcal,1642.18
+poultry,water,mean,L / Mcal,144.99
+pork,water,mean,L / Mcal,186.54
+eggs,water,mean,L / Mcal,104.84
+dairy,water,mean,L / Mcal,170.83
+beef,reactive nitrogen,mean,g Nr / Mcal,175.83
+poultry,reactive nitrogen,mean,g Nr / Mcal,33.33
+pork,reactive nitrogen,mean,g Nr / Mcal,42.88
+eggs,reactive nitrogen,mean,g Nr / Mcal,24.1
+dairy,reactive nitrogen,mean,g Nr / Mcal,25.62
+beef,GHG emissions,std_dev,kg CO2e / Mcal,1.86
+poultry,GHG emissions,std_dev,kg CO2e / Mcal,0.17
+pork,GHG emissions,std_dev,kg CO2e / Mcal,0.2
+eggs,GHG emissions,std_dev,kg CO2e / Mcal,0.15
+dairy,GHG emissions,std_dev,kg CO2e / Mcal,0.19
+beef,land,std_dev,sq m / yr / Mcal,15.44
+poultry,land,std_dev,sq m / yr / Mcal,1.14
+pork,land,std_dev,sq m / yr / Mcal,2.39
+eggs,land,std_dev,sq m / yr / Mcal,1.42
+dairy,land,std_dev,sq m / yr / Mcal,3.47
+beef,water,std_dev,L / Mcal,260.53
+poultry,water,std_dev,L / Mcal,43.87
+pork,water,std_dev,L / Mcal,87.67
+eggs,water,std_dev,L / Mcal,51.97
+dairy,water,std_dev,L / Mcal,51.09
+beef,reactive nitrogen,std_dev,g Nr / Mcal,25.96
+poultry,reactive nitrogen,std_dev,g Nr / Mcal,10.44
+pork,reactive nitrogen,std_dev,g Nr / Mcal,20.45
+eggs,reactive nitrogen,std_dev,g Nr / Mcal,12.1
+dairy,reactive nitrogen,std_dev,g Nr / Mcal,6.25
+apples,land,mean,sq m / yr / Mcal,1.09
+potatoes,land,mean,sq m / yr / Mcal,0.41
+wheat,land,mean,sq m / yr / Mcal,1.69
+rice,land,mean,sq m / yr / Mcal,0.6
+apples,water,mean,L / Mcal,640
+potatoes,water,mean,L / Mcal,200
+wheat,water,mean,L / Mcal,50
+rice,water,mean,L / Mcal,390
+apples,GHG emissions,mean,kg CO2e / Mcal,1.35
+potatoes,GHG emissions,mean,kg CO2e / Mcal,0.88
+wheat,GHG emissions,mean,kg CO2e / Mcal,0.25
+rice,GHG emissions,mean,kg CO2e / Mcal,1.6
+apples,reactive nitrogen,mean,g Nr / Mcal,3.24
+potatoes,reactive nitrogen,mean,g Nr / Mcal,7.3
+wheat,reactive nitrogen,mean,g Nr / Mcal,9.82
+rice,reactive nitrogen,mean,g Nr / Mcal,10.19
