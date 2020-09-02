@@ -1,0 +1,31 @@
+﻿region,year,area_km2,confidence_interval
+Africa,1990,17520,0.21
+Africa,1995,18570,0.2
+Africa,2000,28530,0.25
+Africa,2005,43650,0.39
+Africa,2010,41200,0.3
+Asia-Oceania,1990,196500,1.14
+Asia-Oceania,1995,244770,1.24
+Asia-Oceania,2000,310000,0.4
+Asia-Oceania,2005,310580,1.35
+Asia-Oceania,2010,393590,1.58
+Europe,1990,100360,0.58
+Europe,1995,100830,0.58
+Europe,2000,126450,0.61
+Europe,2005,169390,0.89
+Europe,2010,158120,0.7
+North America,1990,124670,0.49
+North America,1995,142880,0.56
+North America,2000,149840,0.55
+North America,2005,180760,0.72
+North America,2010,171030,0.59
+South America,1990,30090,0.2
+South America,1995,33640,0.21
+South America,2000,36560,0.21
+South America,2005,40940,0.22
+South America,2010,44930,0.21
+Total,1990,450970,1.18
+Total,1995,504110,1.26
+Total,2000,596120,1.34
+Total,2005,655700,1.41
+Total,2010,747050,1.5
