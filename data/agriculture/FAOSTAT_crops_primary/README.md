@@ -11,20 +11,20 @@ ultimately used for livestock feed.
 Below is a ranking of the top 11 crops accounting for > 75% of total crops
 harvested. The table is rank ordered by area harvested and not mass harvested. 
 
-| Quantity | Mass produced Mt| Area Harvested MHa|
-|:--:|:--:|:--:|
-| Cereals, total | ≈ 2800 | ≈ 700 |
-| Wheat | ≈ 725 | ≈220 | 
-| Maize | ≈ 1000 | ≈200 |
-| Rice, paddy | ≈ 750 | ≈ 160 |
-| Soybeans | ≈ 300 | ≈ 115 |
-| Vegetables, Primary (see note) | ≈1000 | ≈ 55 | 
-| Barley | ≈ 140 | ≈ 50 |
-| Sorghum | ≈ 60 | ≈ 40 |
-| Rapeseed | ≈ 70 | ≈ 35 | 
-| Seed cotton | ≈ 75 | ≈ 33 |
-| Millet | ≈ 30 | ≈ 30 |
-| Sugar Cane | ≈1800 | ≈ 25| 
+| Quantity | Mass produced Mt| Area Harvested MHa| Yield (t / ha) |
+|:--:|:--:|:--:|:--:|
+| Cereals, total | ≈ 2800 | ≈ 700 | ≈ 4 |
+| Wheat | ≈ 725 | ≈ 220 | ≈ 3 |
+| Maize | ≈ 1000 | ≈ 200 | ≈ 5 |
+| Rice, paddy | ≈ 750 | ≈ 160 | ≈ 4.5 | 
+| Soybeans | ≈ 300 | ≈ 115 | ≈ 3 |
+| Vegetables, Primary (see note) | ≈1000 | ≈ 55 | ≈ 18 |
+| Barley | ≈ 140 | ≈ 50 | ≈ 3 |
+| Sorghum | ≈ 60 | ≈ 40 | ≈ 1.5 |
+| Rapeseed | ≈ 70 | ≈ 35 | ≈ 2 |
+| Seed cotton | ≈ 75 | ≈ 33 | ≈ 2 |
+| Millet | ≈ 30 | ≈ 30 | ≈ 0.8 |
+| Sugar Cane | ≈1800 | ≈ 25|  ≈ 70 |
 
 
 ## Source Information
