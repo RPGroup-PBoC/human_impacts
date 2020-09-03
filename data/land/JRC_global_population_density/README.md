@@ -1,4 +1,4 @@
-# GSHL - European Commision Joint Research Center — Urban Population and Area  
+# GSHL - European Commission Joint Research Center — Urban Population and Area  
 
 ## Description 
 This dataset is a granular representation of the total population, built-up
