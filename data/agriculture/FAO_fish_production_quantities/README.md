@@ -42,5 +42,5 @@ country, by species, and in total.
   their data and making it easily accessible. Raw data is also available. 
 
 ## Notes
-* This data only records organisms denoted as being "fish, crustaceans, and molluscs  etc" and does not include mammals, reptiles, or lower organisms such as corals and sponges. Furthermore, it does not contain aquatic plantae, which make up a sizeable portion of aquaculture (Japanese kelp, specifically). Most data sets comparing capture fisheries and aquaculture including aquatic plants in the reported production mass, such as that reported by [Our World in Data](https://ourworldindata.org/rise-of-aquaculture).
+* This data only records organisms denoted as being "fish, crustaceans, and molluscs  etc" and does not include mammals, reptiles, or lower organisms such as corals and sponges. Furthermore, it does not contain aquatic plantae, which make up a sizable portion of aquaculture (Japanese kelp, specifically). Most data sets comparing capture fisheries and aquaculture including aquatic plants in the reported production mass, such as that reported by [Our World in Data](https://ourworldindata.org/rise-of-aquaculture).
 

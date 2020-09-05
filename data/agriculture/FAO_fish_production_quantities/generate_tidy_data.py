@@ -51,5 +51,6 @@ total = species_totals.groupby(['year']
 total['source'] = 'total'
 merged = pd.concat([source_totals, total], sort=False)
 merged.to_csv('./processed/FAO_FishStatJ_total_mass_source.csv', index=False)
-merged
+
 # %%
+
