@@ -1,10 +1,19 @@
 # The Great Human Experiment by the Numbers
 
 Welcome! This repository collects and annotates data sets pertaining to the
-impacts humans have on the earth writ large. This is a living, breathing
-research repository and is subject to change at any point in time. 
+impacts humans have on the earth writ large and serves as the central data source for
+the [Human Impacts Database]().  The repository is
+open to the public, though please contact [Griffin](http://mailto:gchure@caltech.edu) if
+you are interested in becoming a contributing member to the effort. You do not need special
+permissions to clone or fork this repository or to submit pull requests. As this is a living, breathing
+research repository, the structure and scope of the repository is subject to change at any point in 
+time without warning.
+
 
 ## Using The Repository
+If you are interested in contributing to this repository, please contact [Griffin](http://mailto:gchure@caltech.edu). You do not require any special permissions to fork the repository and submit pull requests.
+
+
 Being able to use Git and GitHub is vital to keep track of the data. There are 
 many tutorials showing how to use both of these efficiently. If you are not
 familiar with Git and GitHub, please review the following tutorials:
@@ -22,7 +31,14 @@ meaningful commit messages.
 > :warning: An example data file has been added to `flora_fauna/` if you want to
 > learn by example how to manage this repository.
 
-The bare bones of the repository is already in place. Within each folder, you
+
+The general layout of this repository follows the [ReproducibleResearch](https://github.com/gchure/reproducible_research) 
+template. All primary data are stored in the `data` directory of the root folder. Data sources are categorized 
+into a primary type of human and Earth-system interaction (such as land use, agriculture, water use, etc). These 
+categorizations all all preliminary and subject to change. 
+
+
+Within each folder, you
 will find a `README.md` file explaining the purpose of the folder and other
 information that will help you manage the repository. The structure of this
 repository is very much in its infancy and may change! Keep track of this
@@ -33,16 +49,20 @@ things could be changed to improve it, please [open an
 issue](https://github.com/rpgroup-pboc/human_impacts/issues) on this
 repository.
 
-This repository houses all *raw* data sets collected from the internet. This
+This repository houses all *raw* data sets collected from databases, primary scientific literature, 
+organizational and/or governmental reports, and industry datasets. This
 repository is broken down into four separate subdirectories. Of course, some
 data sets will fall into multiple categories. When adding your data to the
 repository, choose what you think is the best match. 
-+ **`food`**: All data sets related to food generation and consumption. + **`water`**: All
-data sets related to water consumption and usage. 
-+ **`air`**: All data sets related to atmospheric impacts. 
-+ **`earth`**: All data sets related to land usage. This may include data
++ **`agriculture`**: All data sets related to food generation and consumption. 
++ **`water`**: All data sets related to water consumption and usage. 
++ **`atmosphere_biogeochemistry`**: All data sets related to atmospheric impacts and biogeochemical cycles. 
++ **`land_use`**: All data sets related to land usage. This may include data
   relating to anthropomass, farmland, city sizes, etc. 
 + **`flora_fauna`**: All data sets pertaining to humans impact on the biosphere. 
++ **`energy`**: All datasets pertaining to energy generation, consumption, and harvesting.
++ **`anthropocentric`**: All datasets specifically pertaining to the anthroposphere, including global populations,
+anthropomass production, etc.
 + **`other`**: All data sets which do not fit into any of the above categories.
 
 Within each of these subdirectories, there will be yet *another* directory
@@ -160,11 +180,15 @@ this repository, you will need to have the `anthro` package locally installed.
 Assuming you have cloned this repository, you can install the package using the
 following command,
 
-> pip install -e anthro
+> pip install -e .
 
 assuming you are in the root directory. 
 
 ## License
+All data sources carry with them the licenses they had when they were released. **Please 
+see the `README.md` files within each dataset directory for information regarding 
+the original data licensing and preferred citations.`
+
 All software within this repository that originates from the class should be
 licensed under the standard MIT license as is given below. All creative work
 originating from this course (e.g. writing and graphics) is similarly
