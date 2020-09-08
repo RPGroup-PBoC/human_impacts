@@ -187,13 +187,13 @@ assuming you are in the root directory.
 ## License
 All data sources carry with them the licenses they had when they were released. **Please 
 see the `README.md` files within each dataset directory for information regarding 
-the original data licensing and preferred citations.`
+the original data licensing and preferred citations.**
 
 All software within this repository that originates from the class should be
-licensed under the standard MIT license as is given below. All creative work
-originating from this course (e.g. writing and graphics) is similarly
-licensed under a [Creative Commons CC-BY
-4.0](https://creativecommons.org/licenses/by/4.0/) permissive license. All
+licensed under the standard MIT license as is given below. 
+
+All creative work generated specifically for this work (e.g. writing and graphics) is similarly
+licensed under a [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) permissive license. All
 data, creative works, and software *not* originating from this course carry
 the original license and copyright as is present in the source material.
 
