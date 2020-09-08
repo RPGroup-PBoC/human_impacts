@@ -263,6 +263,7 @@ def plotting_style(grid=False):
           'mathtext.fontset': 'stixsans',
           'mathtext.sf': 'sans',
           'legend.frameon': True,
+          'legend.framealpha': 0,
           'legend.facecolor': '#FFEDCE',
           'figure.dpi': 150,
            'xtick.color': 'k',
@@ -272,17 +273,3 @@ def plotting_style(grid=False):
     sns.set_style('darkgrid', rc=rc)
     return color_palette()
 
-def compute_voronoi_treemap(cell_names, cell_weights, imax=1000, error=0.001):
-    """
-    Computes a Voronoi treemap with a *single* layer.
-    """
-    vcell = geom.optimize_voronoi(cell_weights, imax=imax, error=0.001)
-    gdf = pd.concat([gpd.GeoSeries(cell) for cell in vcell]).pipe(gpd.GeoDataFrame)
-    gdf = gdf.rename(columns={0:'geometry'})
-    gdf['cell'] = np.arange(len(cell_names))
-    _df = pd.DataFrame([])
-    _df['name'] = cell_names
-    _df['weights'] = cell_weights
-    _df['cell'] = np.arange(len(cell_names))
-    result = gdf.merge(_df, on=['cell'])
-    return [result, vcell]
