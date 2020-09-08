@@ -44,3 +44,25 @@ ax.set_yticklabels([0.0, 0.5, 1.0, 1.5, 2.0])
 plt.savefig('../../../figures/fishery_source_masses.svg', bbox_inches='tight')
 
 # %%
+# Generate the plot of the categorized aquaculture
+culture = pd.read_csv('./aquaculture_categorized.csv')
+fig, ax = plt.subplots(1, 1, figsize=(3, 2))
+ax.xaxis.set_tick_params(labelsize=6)
+ax.yaxis.set_tick_params(labelsize=6)
+ax.set_yticks([0, 0.5, 1, 1.5, 2, 2.5])
+ax.set_xlabel('year', fontsize=6)
+ax.set_ylabel('farmed mass [10$^{10}$ kg]', fontsize=6)
+palette = [colors['blue'], colors['red'], colors['dark_green'], colors['dark_brown'], colors['purple']]
+iter = 0
+for g, d in culture.groupby(['category']):
+        if g == 'shells':
+                label = 'molluscs'
+        else:
+                label = g
+        if g != 'other':
+                ax.plot(d['year'], d['produced_mass_kg'].values / 1E10, '-o', lw=0.75, 
+                         ms=1, label=label, color=palette[iter])
+                iter += 1
+ax.legend(fontsize=6)
+plt.savefig('../../../figures/barnyard_number/aquaculture_category_totals.svg')
+# %%
