@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+
+
+<svg stroke-dasharray="none" shape-rendering="auto"
+     xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;"
+     width="2512" text-rendering="auto" fill-opacity="1"
+     contentScriptType="text/ecmascript" color-interpolation="auto"
+     color-rendering="auto" preserveAspectRatio="xMidYMid meet" font-size="12px"
+     fill="black" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+     image-rendering="auto" stroke-miterlimit="10" zoomAndPan="magnify"
+     version="1.0" stroke-linecap="square" stroke-linejoin="miter"
+     contentStyleType="text/css" font-style="normal" height="2512"
+     stroke-width="1" stroke-dashoffset="0" font-weight="normal"
+     stroke-opacity="1">
+    <!--Generated with Paver-->
+    <defs id="genericDefs"/>
+    <g>
+        <defs id="defs1">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
+                <path d="M0 0 L2512 0 L2512 2512 L0 2512 L0 0 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2">
+                <path d="M-6 -6 L2506 -6 L2506 2506 L-6 2506 L-6 -6 Z"/>
+            </clipPath>
+        </defs>
+        <g fill="rgb(102,102,102)" font-size="11px" font-family="sans-serif"
+           stroke="rgb(102,102,102)">
+            <rect x="0" width="2512" height="2512" y="0"
+                  clip-path="url(#clipPath1)" stroke="none"/>
+        </g>
+        <g font-size="11px" transform="translate(6,6)" fill="rgb(116,173,209)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           stroke="rgb(116,173,209)" color-interpolation="sRGB">
+            <path d="M984.7809 0 L1893.0913 0 L1847.2047 274.7587 L1061.0425 263.0341 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="chicken" node-id="chicken" stroke="none"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(49,54,149)"
+                  node-id="cattle" fill-rule="evenodd"
+                  d="M0 1785.337 L0 1688.973 L68.2719 1168.6079 L1061.0425 263.0341 L1847.2047 274.7587 L2500 718.9171 L2500 2500 L437.9579 2500 Z"
+                  stroke="none" node-name="cattle"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(171,217,233)"
+                  node-id="swine" fill-rule="evenodd"
+                  d="M1893.0913 0 L2418.4868 0 L2500 84.3603 L2500 718.9171 L1847.2047 274.7587 Z"
+                  stroke="none" node-name="swine"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(215,48,39)"
+                  node-id="rodents" fill-rule="evenodd"
+                  d="M2500 84.3603 L2418.4868 0 L2500 0 Z" stroke="none"
+                  node-name="rodents"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(215,48,39)"
+                  node-id="other ruminants" fill-rule="evenodd"
+                  d="M0 1139.55 L0 0 L984.7809 0 L1061.0425 263.0341 L68.2719 1168.6079 Z"
+                  stroke="none" node-name="other ruminants"/>
+            <path d="M0 1139.55 L68.2719 1168.6079 L0 1688.973 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="other poultry" node-id="other poultry"
+                  stroke="none"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(171,217,233)"
+                  node-id="equines &amp; camelids" fill-rule="evenodd"
+                  d="M0 1785.337 L437.9579 2500 L0 2500 Z" stroke="none"
+                  node-name="equines &amp; camelids"/>
+        </g>
+        <g stroke-linecap="butt" font-size="11px" transform="translate(6,6)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           stroke-linejoin="bevel" color-interpolation="sRGB" stroke-width="0">
+            <path fill="none"
+                  d="M984.7809 0 L1893.0913 0 L1847.2047 274.7587 L1061.0425 263.0341 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="chicken" node-id="chicken"/>
+            <path fill="none"
+                  d="M0 1785.337 L0 1688.973 L68.2719 1168.6079 L1061.0425 263.0341 L1847.2047 274.7587 L2500 718.9171 L2500 2500 L437.9579 2500 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="cattle" node-id="cattle"/>
+            <path fill="none"
+                  d="M1893.0913 0 L2418.4868 0 L2500 84.3603 L2500 718.9171 L1847.2047 274.7587 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="swine" node-id="swine"/>
+            <path fill="none" d="M2500 84.3603 L2418.4868 0 L2500 0 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="rodents" node-id="rodents"/>
+            <path fill="none"
+                  d="M0 1139.55 L0 0 L984.7809 0 L1061.0425 263.0341 L68.2719 1168.6079 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="other ruminants" node-id="other ruminants"/>
+            <path fill="none" d="M0 1139.55 L68.2719 1168.6079 L0 1688.973 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="other poultry" node-id="other poultry"/>
+            <path fill="none" d="M0 1785.337 L437.9579 2500 L0 2500 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="equines &amp; camelids"
+                  node-id="equines &amp; camelids"/>
+            <path clip-path="url(#clipPath2)" fill="none" node-id="root"
+                  fill-rule="evenodd" d="M0 0 L2500 0 L2500 2500 L0 2500 Z"
+                  stroke-width="12" node-name="root"/>
+        </g>
+        <g font-size="155.8251px" transform="translate(6,6)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           color-interpolation="sRGB" font-weight="bold">
+            <text x="1124.9265" y="184.2866" clip-path="url(#clipPath2)"
+                  node-id="chicken" stroke="none" node-name="chicken"
+                  xml:space="preserve">chicken</text><text x="1123.9265"
+                  y="183.2866" clip-path="url(#clipPath2)" fill="white"
+                  node-id="chicken" stroke="none" node-name="chicken"
+                  xml:space="preserve">chicken</text><text x="337.9367"
+                  font-size="611.8547px" y="1777.877"
+                  clip-path="url(#clipPath2)" node-id="cattle" stroke="none"
+                  node-name="cattle" xml:space="preserve">cattle</text><text x="336.9367"
+                  font-size="611.8547px" y="1776.877"
+                  clip-path="url(#clipPath2)" fill="white" node-id="cattle"
+                  stroke="none" node-name="cattle" xml:space="preserve">cattle</text><text x="2011.5687"
+                  font-size="138.1805px" y="304.2842"
+                  clip-path="url(#clipPath2)" node-id="swine" stroke="none"
+                  node-name="swine" xml:space="preserve">swine</text><text x="2010.5687"
+                  font-size="138.1805px" y="303.2842"
+                  clip-path="url(#clipPath2)" fill="white" node-id="swine"
+                  stroke="none" node-name="swine" xml:space="preserve">swine</text><text x="2454.7546"
+                  font-size="9.2319px" y="31.6719" clip-path="url(#clipPath2)"
+                  node-id="rodents" stroke="none" node-name="rodents"
+                  xml:space="preserve">rodents</text><text x="2453.7546"
+                  font-size="9.2319px" y="30.6719" clip-path="url(#clipPath2)"
+                  fill="white" node-id="rodents" stroke="none"
+                  node-name="rodents" xml:space="preserve">rodents</text><text x="206.9709"
+                  font-size="107.9516px" y="401.2152"
+                  clip-path="url(#clipPath2)" node-id="other ruminants"
+                  stroke="none" node-name="other ruminants" xml:space="preserve">other</text><text x="205.9709"
+                  font-size="107.9516px" y="400.2152"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="other ruminants" stroke="none"
+                  node-name="other ruminants" xml:space="preserve">other</text><text x="60.514"
+                  font-size="107.9516px" y="509.1669"
+                  clip-path="url(#clipPath2)" node-id="other ruminants"
+                  stroke="none" node-name="other ruminants" xml:space="preserve">ruminants</text><text x="59.514"
+                  font-size="107.9516px" y="508.1669"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="other ruminants" stroke="none"
+                  node-name="other ruminants" xml:space="preserve">ruminants</text><text x="12.0173"
+                  font-size="9.7214px" y="1320.286" clip-path="url(#clipPath2)"
+                  node-id="other poultry" stroke="none"
+                  node-name="other poultry" xml:space="preserve">other</text><text x="11.0173"
+                  font-size="9.7214px" y="1319.286" clip-path="url(#clipPath2)"
+                  fill="white" node-id="other poultry" stroke="none"
+                  node-name="other poultry" xml:space="preserve">other</text><text x="7"
+                  font-size="9.7214px" y="1330.0074" clip-path="url(#clipPath2)"
+                  node-id="other poultry" stroke="none"
+                  node-name="other poultry" xml:space="preserve">poultry</text><text x="6"
+                  font-size="9.7214px" y="1329.0074" clip-path="url(#clipPath2)"
+                  fill="white" node-id="other poultry" stroke="none"
+                  node-name="other poultry" xml:space="preserve">poultry</text><text x="32.6213"
+                  font-size="41.7226px" y="2261.3887"
+                  clip-path="url(#clipPath2)" node-id="equines &amp; camelids"
+                  stroke="none" node-name="equines &amp; camelids"
+                  xml:space="preserve">equines</text><text x="31.6213"
+                  font-size="41.7226px" y="2260.3887"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="equines &amp; camelids" stroke="none"
+                  node-name="equines &amp; camelids" xml:space="preserve">equines</text><text x="106.9295"
+                  font-size="41.7226px" y="2303.1111"
+                  clip-path="url(#clipPath2)" node-id="equines &amp; camelids"
+                  stroke="none" node-name="equines &amp; camelids"
+                  xml:space="preserve">&amp;</text>
+            <text x="105.9295" font-size="41.7226px" y="2302.1111"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="equines &amp; camelids" stroke="none"
+                  node-name="equines &amp; camelids" xml:space="preserve">&amp;</text>
+            <text x="21.1415" font-size="41.7226px" y="2344.8337"
+                  clip-path="url(#clipPath2)" node-id="equines &amp; camelids"
+                  stroke="none" node-name="equines &amp; camelids"
+                  xml:space="preserve">camelids</text><text x="20.1415"
+                  font-size="41.7226px" y="2343.8337"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="equines &amp; camelids" stroke="none"
+                  node-name="equines &amp; camelids" xml:space="preserve">camelids</text>
+        </g>
+    </g>
+</svg>

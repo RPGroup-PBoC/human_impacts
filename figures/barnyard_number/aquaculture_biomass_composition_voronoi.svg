@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+
+
+<svg stroke-dasharray="none" shape-rendering="auto"
+     xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;"
+     width="2512" text-rendering="auto" fill-opacity="1"
+     contentScriptType="text/ecmascript" color-interpolation="auto"
+     color-rendering="auto" preserveAspectRatio="xMidYMid meet" font-size="12px"
+     fill="black" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+     image-rendering="auto" stroke-miterlimit="10" zoomAndPan="magnify"
+     version="1.0" stroke-linecap="square" stroke-linejoin="miter"
+     contentStyleType="text/css" font-style="normal" height="2512"
+     stroke-width="1" stroke-dashoffset="0" font-weight="normal"
+     stroke-opacity="1">
+    <!--Generated with Paver-->
+    <defs id="genericDefs"/>
+    <g>
+        <defs id="defs1">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
+                <path d="M0 0 L2512 0 L2512 2512 L0 2512 L0 0 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2">
+                <path d="M-6 -6 L2506 -6 L2506 2506 L-6 2506 L-6 -6 Z"/>
+            </clipPath>
+        </defs>
+        <g fill="rgb(102,102,102)" font-size="11px" font-family="sans-serif"
+           stroke="rgb(102,102,102)">
+            <rect x="0" width="2512" height="2512" y="0"
+                  clip-path="url(#clipPath1)" stroke="none"/>
+        </g>
+        <g font-size="11px" transform="translate(6,6)" fill="rgb(254,224,144)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           stroke="rgb(254,224,144)" color-interpolation="sRGB">
+            <path d="M0 1815.4159 L1624.1731 1942.6469 L1532.1338 2500 L0 2500 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="carp" node-id="carp" stroke="none"/>
+            <path d="M2114.2983 2500 L1532.1338 2500 L1624.1731 1942.6469 L1649.5094 1923.3029 L2042.0782 1943.4503 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="tilapia" node-id="tilapia" stroke="none"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(165,0,38)"
+                  node-id="shrimp &amp; prawns" fill-rule="evenodd"
+                  d="M2500 1814.5605 L2500 2500 L2114.2983 2500 L2042.0782 1943.4503 Z"
+                  stroke="none" node-name="shrimp &amp; prawns"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(244,109,67)"
+                  node-id="molluscs" fill-rule="evenodd"
+                  d="M1397.6718 0 L2500 0 L2500 1814.5605 L2042.0782 1943.4503 L1649.5094 1923.3029 Z"
+                  stroke="none" node-name="molluscs"/>
+            <path d="M1397.6718 0 L1649.5094 1923.3029 L1624.1731 1942.6469 L0 1815.4159 L0 0 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="other" node-id="other" stroke="none"/>
+        </g>
+        <g stroke-linecap="butt" font-size="11px" transform="translate(6,6)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           stroke-linejoin="bevel" color-interpolation="sRGB" stroke-width="0">
+            <path fill="none"
+                  d="M0 1815.4159 L1624.1731 1942.6469 L1532.1338 2500 L0 2500 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="carp" node-id="carp"/>
+            <path fill="none"
+                  d="M2114.2983 2500 L1532.1338 2500 L1624.1731 1942.6469 L1649.5094 1923.3029 L2042.0782 1943.4503 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="tilapia" node-id="tilapia"/>
+            <path fill="none"
+                  d="M2500 1814.5605 L2500 2500 L2114.2983 2500 L2042.0782 1943.4503 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="shrimp &amp; prawns" node-id="shrimp &amp; prawns"/>
+            <path fill="none"
+                  d="M1397.6718 0 L2500 0 L2500 1814.5605 L2042.0782 1943.4503 L1649.5094 1923.3029 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="molluscs" node-id="molluscs"/>
+            <path fill="none"
+                  d="M1397.6718 0 L1649.5094 1923.3029 L1624.1731 1942.6469 L0 1815.4159 L0 0 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="other" node-id="other"/>
+            <path clip-path="url(#clipPath2)" fill="none" node-id="root"
+                  fill-rule="evenodd" d="M0 0 L2500 0 L2500 2500 L0 2500 Z"
+                  stroke-width="12" node-name="root"/>
+        </g>
+        <g font-size="412.9983px" transform="translate(6,6)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           color-interpolation="sRGB" font-weight="bold">
+            <text x="217.354" y="2352.4175" clip-path="url(#clipPath2)"
+                  node-id="carp" stroke="none" node-name="carp"
+                  xml:space="preserve">carp</text><text x="216.354"
+                  y="2351.4175" clip-path="url(#clipPath2)" fill="white"
+                  node-id="carp" stroke="none" node-name="carp"
+                  xml:space="preserve">carp</text><text x="1638.8898"
+                  font-size="110.3286px" y="2256.5933"
+                  clip-path="url(#clipPath2)" node-id="tilapia" stroke="none"
+                  node-name="tilapia" xml:space="preserve">tilapia</text><text x="1637.8898"
+                  font-size="110.3286px" y="2255.5933"
+                  clip-path="url(#clipPath2)" fill="white" node-id="tilapia"
+                  stroke="none" node-name="tilapia" xml:space="preserve">tilapia</text><text x="2142.1929"
+                  font-size="81.7899px" y="2133.1206"
+                  clip-path="url(#clipPath2)" node-id="shrimp &amp; prawns"
+                  stroke="none" node-name="shrimp &amp; prawns"
+                  xml:space="preserve">shrimp</text><text x="2141.1929"
+                  font-size="81.7899px" y="2132.1206"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="shrimp &amp; prawns" stroke="none"
+                  node-name="shrimp &amp; prawns" xml:space="preserve">shrimp</text><text x="2266.0559"
+                  font-size="81.7899px" y="2214.9106"
+                  clip-path="url(#clipPath2)" node-id="shrimp &amp; prawns"
+                  stroke="none" node-name="shrimp &amp; prawns"
+                  xml:space="preserve">&amp;</text>
+            <text x="2265.0559" font-size="81.7899px" y="2213.9106"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="shrimp &amp; prawns" stroke="none"
+                  node-name="shrimp &amp; prawns" xml:space="preserve">&amp;</text>
+            <text x="2133.4468" font-size="81.7899px" y="2296.7004"
+                  clip-path="url(#clipPath2)" node-id="shrimp &amp; prawns"
+                  stroke="none" node-name="shrimp &amp; prawns"
+                  xml:space="preserve">prawns</text><text x="2132.4468"
+                  font-size="81.7899px" y="2295.7004"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="shrimp &amp; prawns" stroke="none"
+                  node-name="shrimp &amp; prawns" xml:space="preserve">prawns</text><text x="1609.4973"
+                  font-size="165.1806px" y="953.5193"
+                  clip-path="url(#clipPath2)" node-id="molluscs" stroke="none"
+                  node-name="molluscs" xml:space="preserve">molluscs</text><text x="1608.4973"
+                  font-size="165.1806px" y="952.5193"
+                  clip-path="url(#clipPath2)" fill="white" node-id="molluscs"
+                  stroke="none" node-name="molluscs" xml:space="preserve">molluscs</text><text x="121.625"
+                  font-size="410.8229px" y="1080.0977"
+                  clip-path="url(#clipPath2)" node-id="other" stroke="none"
+                  node-name="other" xml:space="preserve">other</text><text x="120.625"
+                  font-size="410.8229px" y="1079.0977"
+                  clip-path="url(#clipPath2)" fill="white" node-id="other"
+                  stroke="none" node-name="other" xml:space="preserve">other</text>
+        </g>
+    </g>
+</svg>

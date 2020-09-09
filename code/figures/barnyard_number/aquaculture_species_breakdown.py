@@ -21,9 +21,9 @@ for g, d in culture.groupby(['year']):
     carp['category'] = 'carp'
     carp['approx_indiv_mass_kg'] = 3
     carp['approx_res_time_yr'] = 0.7 
-    carp['approx_standing_population'] = carp['approx_res_time_yr'].values * carp['produced_mass_kg'].values\
+    carp['population'] = carp['approx_res_time_yr'].values * carp['produced_mass_kg'].values\
                                 / carp['approx_indiv_mass_kg'].values
-    carp['approx_standing_biomass_kg'] = carp['approx_standing_population'].values * carp['approx_indiv_mass_kg']
+    carp['biomass_kg'] = carp['population'].values * carp['approx_indiv_mass_kg']
     
     
     # Tilapia
@@ -33,9 +33,9 @@ for g, d in culture.groupby(['year']):
     tilapia['category'] = 'tilapia'
     tilapia['approx_indiv_mass_kg'] = 2
     tilapia['approx_res_time_yr'] = 0.7 
-    tilapia['approx_standing_population'] = tilapia['approx_res_time_yr'].values * tilapia['produced_mass_kg'].values\
+    tilapia['population'] = tilapia['approx_res_time_yr'].values * tilapia['produced_mass_kg'].values\
                                 / tilapia['approx_indiv_mass_kg'].values
-    tilapia['approx_standing_biomass_kg'] = tilapia['approx_standing_population'].values * tilapia['approx_indiv_mass_kg']
+    tilapia['biomass_kg'] = tilapia['population'].values * tilapia['approx_indiv_mass_kg']
     
     
     
@@ -47,9 +47,9 @@ for g, d in culture.groupby(['year']):
     shrimp['category'] = 'shrimp & prawns'
     shrimp['approx_indiv_mass_kg'] = 0.05 
     shrimp['approx_res_time_yr'] = 0.5
-    shrimp['approx_standing_population'] = shrimp['approx_res_time_yr'].values * shrimp['produced_mass_kg'].values\
+    shrimp['population'] = shrimp['approx_res_time_yr'].values * shrimp['produced_mass_kg'].values\
                                 / shrimp['approx_indiv_mass_kg'].values
-    shrimp['approx_standing_biomass_kg'] = shrimp['approx_standing_population'].values * shrimp['approx_indiv_mass_kg']
+    shrimp['biomass_kg'] = shrimp['population'].values * shrimp['approx_indiv_mass_kg']
     
     shrimp
     
@@ -62,12 +62,12 @@ for g, d in culture.groupby(['year']):
                      d['species'].str.contains('oyster')]
     shell_species = _shells['species'].values
     shells = pd.DataFrame([_shells['produced_mass_t'].sum() * 1E3], columns=['produced_mass_kg'])
-    shells['category'] = 'shells'
+    shells['category'] = 'oysters, clams, & mussels'
     shells['approx_indiv_mass_kg'] = 0.1
     shells['approx_res_time_yr'] = 2 
-    shells['approx_standing_population'] = shells['approx_res_time_yr'].values * shells['produced_mass_kg'].values\
+    shells['population'] = shells['approx_res_time_yr'].values * shells['produced_mass_kg'].values\
                                 / shells['approx_indiv_mass_kg'].values
-    shells['approx_standing_biomass_kg'] = shells['approx_standing_population'].values * shells['approx_indiv_mass_kg']
+    shells['biomass_kg'] = shells['population'].values * shells['approx_indiv_mass_kg']
     
     # Concatenate these 
     categorized = pd.concat([carp, tilapia, shrimp, shells], sort=False)
@@ -77,9 +77,9 @@ for g, d in culture.groupby(['year']):
     other['category'] = 'other'
     other['approx_indiv_mass_kg'] = 3 
     other['approx_res_time_yr'] = 1
-    other['approx_standing_population'] = other['approx_res_time_yr'].values * other['produced_mass_kg'].values\
+    other['population'] = other['approx_res_time_yr'].values * other['produced_mass_kg'].values\
                                         / other['approx_indiv_mass_kg'].values
-    other['approx_standing_biomass_kg'] = other['approx_standing_population'].values * other['approx_indiv_mass_kg'].values
+    other['biomass_kg'] = other['population'].values * other['approx_indiv_mass_kg'].values
     
     # Merge everything. 
     categorized = pd.concat([categorized, other], sort=False)

@@ -6,7 +6,7 @@ import anthro.viz
 colors = anthro.viz.plotting_style()
 
 # Load the data. 
-data = pd.read_csv('../../../data/land/FAOSTAT_agriculture_landuse/processed/FAOSTAT_global_crop_pasture_land_use.csv')
+data = pd.read_csv('../../../data/agriculture/FAOSTAT_agriculture_landuse/processed/FAOSTAT_global_crop_pasture_land_use.csv')
 
 # Set up the figure canvas. 
 fig, ax = plt.subplots(1, 1, figsize=(3, 2.25))
@@ -32,4 +32,14 @@ plt.tight_layout()
 plt.savefig('../../../figures/terra_number/agricultural_land.svg')
 
 
+# %%
+crops
+
+# %%
+crop_ha = crops['area_km2'].values[-1] * 100
+pasture_ha = pasture['area_km2'].values[-1] * 100
+tot_ha = total['area_km2'].values[-1] * 100
+
+crop_ha / tot_ha
+pasture_ha / tot_ha
 # %%

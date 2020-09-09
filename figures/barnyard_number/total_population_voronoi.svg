@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+
+
+<svg stroke-dasharray="none" shape-rendering="auto"
+     xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;"
+     width="2512" text-rendering="auto" fill-opacity="1"
+     contentScriptType="text/ecmascript" color-interpolation="auto"
+     color-rendering="auto" preserveAspectRatio="xMidYMid meet" font-size="12px"
+     fill="black" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="black"
+     image-rendering="auto" stroke-miterlimit="10" zoomAndPan="magnify"
+     version="1.0" stroke-linecap="square" stroke-linejoin="miter"
+     contentStyleType="text/css" font-style="normal" height="2512"
+     stroke-width="1" stroke-dashoffset="0" font-weight="normal"
+     stroke-opacity="1">
+    <!--Generated with Paver-->
+    <defs id="genericDefs"/>
+    <g>
+        <defs id="defs1">
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
+                <path d="M0 0 L2512 0 L2512 2512 L0 2512 L0 0 Z"/>
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2">
+                <path d="M-6 -6 L2506 -6 L2506 2506 L-6 2506 L-6 -6 Z"/>
+            </clipPath>
+        </defs>
+        <g fill="rgb(102,102,102)" font-size="11px" font-family="sans-serif"
+           stroke="rgb(102,102,102)">
+            <rect x="0" width="2512" height="2512" y="0"
+                  clip-path="url(#clipPath1)" stroke="none"/>
+        </g>
+        <g font-size="11px" transform="translate(6,6)" fill="rgb(254,224,144)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           stroke="rgb(254,224,144)" color-interpolation="sRGB">
+            <path d="M2499.6533 0 L2500 0.3965 L2500 1471.0146 L1471.7177 2500 L0 2500 L0 0 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="aquatic livestock" node-id="aquatic livestock"
+                  stroke="none"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(49,54,149)"
+                  node-id="terrestrial livestock" fill-rule="evenodd"
+                  d="M2500 1471.0146 L2500 2500 L1471.7177 2500 Z" stroke="none"
+                  node-name="terrestrial livestock"/>
+            <path clip-path="url(#clipPath2)" fill="rgb(49,54,149)"
+                  node-id="extraterrestrial livestock" fill-rule="evenodd"
+                  d="M2499.6533 0 L2500 0 L2500 0.3965 Z" stroke="none"
+                  node-name="extraterrestrial livestock"/>
+        </g>
+        <g stroke-linecap="butt" font-size="11px" transform="translate(6,6)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           stroke-linejoin="bevel" color-interpolation="sRGB" stroke-width="0">
+            <path fill="none"
+                  d="M2499.6533 0 L2500 0.3965 L2500 1471.0146 L1471.7177 2500 L0 2500 L0 0 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="aquatic livestock" node-id="aquatic livestock"/>
+            <path fill="none" d="M2500 1471.0146 L2500 2500 L1471.7177 2500 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="terrestrial livestock"
+                  node-id="terrestrial livestock"/>
+            <path fill="none" d="M2499.6533 0 L2500 0 L2500 0.3965 Z"
+                  clip-path="url(#clipPath2)" fill-rule="evenodd"
+                  node-name="extraterrestrial livestock"
+                  node-id="extraterrestrial livestock"/>
+            <path clip-path="url(#clipPath2)" fill="none" node-id="root"
+                  fill-rule="evenodd" d="M0 0 L2500 0 L2500 2500 L0 2500 Z"
+                  stroke-width="12" node-name="root"/>
+        </g>
+        <g font-size="388.0545px" transform="translate(6,6)"
+           text-rendering="optimizeLegibility" image-rendering="optimizeSpeed"
+           color-rendering="optimizeSpeed" font-family="sans-serif"
+           color-interpolation="sRGB" font-weight="bold">
+            <text x="355.5086" y="1056.3242" clip-path="url(#clipPath2)"
+                  node-id="aquatic livestock" stroke="none"
+                  node-name="aquatic livestock" xml:space="preserve">aquatic</text><text x="354.5086"
+                  y="1055.3242" clip-path="url(#clipPath2)" fill="white"
+                  node-id="aquatic livestock" stroke="none"
+                  node-name="aquatic livestock" xml:space="preserve">aquatic</text><text x="191.9876"
+                  y="1444.3788" clip-path="url(#clipPath2)"
+                  node-id="aquatic livestock" stroke="none"
+                  node-name="aquatic livestock" xml:space="preserve">livestock</text><text x="190.9876"
+                  y="1443.3788" clip-path="url(#clipPath2)" fill="white"
+                  node-id="aquatic livestock" stroke="none"
+                  node-name="aquatic livestock" xml:space="preserve">livestock</text><text x="1963.5448"
+                  font-size="85.5275px" y="2172.1968"
+                  clip-path="url(#clipPath2)" node-id="terrestrial livestock"
+                  stroke="none" node-name="terrestrial livestock"
+                  xml:space="preserve">terrestrial</text><text x="1962.5448"
+                  font-size="85.5275px" y="2171.1968"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="terrestrial livestock" stroke="none"
+                  node-name="terrestrial livestock" xml:space="preserve">terrestrial</text><text x="1994.0725"
+                  font-size="85.5275px" y="2257.7241"
+                  clip-path="url(#clipPath2)" node-id="terrestrial livestock"
+                  stroke="none" node-name="terrestrial livestock"
+                  xml:space="preserve">livestock</text><text x="1993.0725"
+                  font-size="85.5275px" y="2256.7241"
+                  clip-path="url(#clipPath2)" fill="white"
+                  node-id="terrestrial livestock" stroke="none"
+                  node-name="terrestrial livestock" xml:space="preserve">livestock</text>
+        </g>
+    </g>
+</svg>
