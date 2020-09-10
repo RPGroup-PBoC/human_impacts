@@ -69,22 +69,25 @@ plt.savefig('../../../figures/terra_number/urban_pop_density.svg')
 # ############################################################################### 
 fig, ax = plt.subplots(1, 1, figsize=(3, 2))
 ax.set_xlim([1973, 2017])
-ax.set_ylim([125, 325])
+ax.set_ylim([0,1.15])
 ax.xaxis.set_tick_params(labelsize=6)
 ax.yaxis.set_tick_params(labelsize=6)
-ax.set_ylabel('urban land area [thousand km$^2$]', fontsize=6)
+ax.set_ylabel('urban land area [10$^6$ km$^2$]', fontsize=6)
 ax.set_xlabel('year', fontsize=6)
 
 JRC_total = JRC_urban_data.groupby('year')['total_area_km2'].sum().reset_index()
 liu_total = liu_table3[liu_table3['region']=='Total']
-ax.plot(JRC_total['year'], JRC_total['total_area_km2'] / 10**3, '-o', 
+ax.hlines(1, 1975, 2017, 'k', linestyle='--', lw=0.75, label='estimate')
+ax.plot(JRC_total['year'], JRC_total['total_area_km2'] / 10**6, '-o', 
         color=colors['blue'], lw=1, ms=4, label='Florczyk et al. 2019')
-ax.plot(liu_total['year'], liu_total['area_km2'] / 10**3, '-o', lw=1, 
+ax.plot(liu_total['year'], liu_total['area_km2'] / 10**6, '-o', lw=1, 
         color=colors['red'], ms=4,  label='Liu et al. 2018')
 
 ax.set_xticks([1975, 1985, 1995, 2005, 2015])
-ax.set_yticks([150, 300, 450, 600, 750, 900])
-ax.legend(fontsize=6)
+ax.set_xlim([1975, 2015])
+ax.set_yticks([0, 0.25, 0.5, 0.75, 1])
+ax.legend(fontsize=6, loc='upper left')
+
 plt.tight_layout()
 plt.savefig('../../../figures/terra_number/urban_land_data.svg')
 

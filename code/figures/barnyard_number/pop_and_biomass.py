@@ -46,10 +46,10 @@ aq_pop.to_csv('./aquaculture_population.tsv', sep='\t', index=False)
 # # Compute the fraction for each cat
 # aquatic['pop_fraction'] = aquatic['population'].values / aquatic['population'].sum()
 # terra['pop_fraction'] = terra['population'].values / terra['population'].sum()
-# tot['pop_fraction'] = tot['population'].values / tot['population'].sum()
+tot['pop_fraction'] = tot['population'].values / tot['population'].sum()
 # aquatic['mass_fraction'] = aquatic['biomass_kg'].values / aquatic['biomass_kg'].sum()
 # terra['mass_fraction'] = terra['biomass_kg'].values / terra['biomass_kg'].sum()
-# tot['mass_fraction'] = tot['biomass_kg'].values / tot['biomass_kg'].sum()
+tot['mass_fraction'] = tot['biomass_kg'].values / tot['biomass_kg'].sum()
 
 # # Generate the population figures
 # fig, ax = plt.subplots(1, 1, figsize=(3, 1.5))
