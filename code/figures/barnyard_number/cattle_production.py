@@ -20,12 +20,12 @@ merged = pd.concat([cattle, tot], sort=False)
 merged['kg_mass'] = merged['mass_produced_Mt'].values * 1E9 / 1E11
 
 #%%
-fig, ax = plt.subplots(1, 1, figsize=(3, 2))
+fig, ax = plt.subplots(1, 1, figsize=(3, 1.7))
 ax.xaxis.set_tick_params(labelsize=6)
 ax.yaxis.set_tick_params(labelsize=6)
 ax.set_xlim([1961, 2018])
-ax.set_ylim([0, 8.5])
-ax.set_yticks([0, 2, 4, 6, 8])
+ax.set_ylim([0, 10.5])
+ax.set_yticks([0, 2, 4, 6, 8, 10])
 ax.set_xlabel('year', fontsize=6)
 ax.set_ylabel('mass of cattle product [10$^{11}$ kg]', fontsize=6)
 
@@ -33,14 +33,14 @@ beef = merged[merged['subcategory']=='beef']
 dairy = merged[merged['subcategory']=='dairy (milk)']
 total = merged[merged['subcategory']=='total']
 
-ax.hlines(8, 1961, 2018, 'k', linestyle='--', lw=0.75, label='estimate')
+ax.hlines(10, 1961, 2018, 'k', linestyle='--', lw=0.75, label='estimate')
 ax.plot(beef['year'], beef['kg_mass'], '-o', ms=1, lw=0.5, label='beef',
        color=colors['red'])
 ax.plot(dairy['year'], dairy['kg_mass'], '-o', ms=1, lw=0.5, label='dairy (milk)',
        color='white')
 ax.plot(total['year'], total['kg_mass'], '-o', ms=1, lw=0.5, label='total',
        color=colors['dark_green'])
-ax.legend(fontsize=6, loc=(0,  1.02), ncol=4, handlelength=0.75)
+ax.legend(fontsize=6, handlelength=0.75, loc='upper left')
 plt.savefig('../../../figures/barnyard_number/cattle_product_mass.svg')
 
 # %%

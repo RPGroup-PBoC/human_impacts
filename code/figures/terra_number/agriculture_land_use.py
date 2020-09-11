@@ -30,16 +30,3 @@ ax.plot(total['year'], total['area_km2'].values / 10**6, '-o',
 ax.legend(fontsize=6, ncol=3)       
 plt.tight_layout()
 plt.savefig('../../../figures/terra_number/agricultural_land.svg')
-
-
-# %%
-crops
-
-# %%
-crop_ha = crops['area_km2'].values[-1] * 100
-pasture_ha = pasture['area_km2'].values[-1] * 100
-tot_ha = total['area_km2'].values[-1] * 100
-
-crop_ha / tot_ha
-pasture_ha / tot_ha
-# %%
