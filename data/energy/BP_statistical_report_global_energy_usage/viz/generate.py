@@ -16,7 +16,7 @@ for g, d in data.groupby(['type']):
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
                     alt.Tooltip(field='consumption', type='nominal')]
             ).properties(
-            width=300,
+            width="container",
             height=300
             )
 
@@ -24,5 +24,9 @@ for g, d in data.groupby(['type']):
     p = chart.mark_point(color='dodgerblue', filled=True)
 
     layer = alt.layer(l, p)
-layer
+    if g.lower()=='biodiesel/biogasoline':
+        g = 'biogas'
+    if g.lower()=='geothermal/biomass/other':
+        g = 'other'
+    layer.save(f'./{g.lower()}.json')
 # %%
