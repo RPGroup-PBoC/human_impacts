@@ -12,17 +12,25 @@ data['year'] = pd.to_datetime(data['year'], format='%Y')
 products = ['Wheat', 'Maize', 'Cereals, Total', 'Potatoes', 'Rice']
 data = data[data['product'].isin(products)]
 
-# Format the area harvested and the yield.
-data['area'] = anthro.io.numeric_formatter(data['area_harvested_ha'], unit='Ha', sci=False)
-data['mass'] = antrho.io.numeric_formatter(data['harvested_t'], unit='t', sci=True)
-
 # Generate the plots.
 for g, d in data.groupby(['product']):
     chart = alt.Chart(d).encode(
                 x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-                y=alt.Y(field='yield_t_per_ha', type='quantitative', title='yield [Mt / hectare]')
+                y=alt.Y(field='yield_t_per_ha', type='quantitative', title='yield [tonnes / hectare]'),
                 tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
-                        alt.Tooltip(field='area', type='nominal', title='area harvested'),
-                        alt.Toolltip(field='mass', type='nominal', title='mass harvested')]
-    )
+                        alt.Tooltip(field='yield', type='quantitative', format='0.1f', title='yield [t/ha]'),
+                        alt.Tooltip(field='mass', type='nominal', title='mass harvested')]
+                    ).properties(
+                        width="container",
+                        height=300
+                    )
+    l = chart.mark_line(color='dodgerblue')
+    p = chart.mark_point(color='dodgerblue', filled=True)
+    layer = alt.layer(l, p)
+
+    if g == 'Cereals, Total':
+        g = 'cereals'
+    else:
+        g = g
+    layer.save(f'{g.lower()}_yield.json')
 # %%
