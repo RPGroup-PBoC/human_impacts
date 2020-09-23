@@ -16,8 +16,8 @@ for g, d in data.groupby(['type']):
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
                     alt.Tooltip(field='consumption', type='nominal')]
             ).properties(
-            width="container",
-            height=300
+                width="container",
+                height=300
             )
 
     l = chart.mark_line(color='dodgerblue')
