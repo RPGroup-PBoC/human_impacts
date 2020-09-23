@@ -10,9 +10,13 @@ data['year'] = pd.to_datetime(data['year'], format='%Y')
 data['consumption_GW'] = data['consumption_TW'].values * 1E3
 data['consumption'] = anthro.io.numeric_formatter(data['consumption_TW'] * 1E12, sci=True, unit='W')
 for g, d in data.groupby(['type']):
+    if (g == 'Natural Gas') | (g=='Oil') | (g=='Coal') | (g=='Hydroelectric'):
+        d['consumption_GW'] *= 1E-3
+        title = 'TW'
+
     chart = alt.Chart(d).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='consumption_GW',  type='quantitative', title='power consumption [GW]'),
+            y=alt.Y(field='consumption_GW',  type='quantitative', title=f'power consumption [{title}]'),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
                     alt.Tooltip(field='consumption', type='nominal')]
             ).properties(
