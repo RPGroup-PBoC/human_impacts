@@ -2,7 +2,7 @@
 # Global Plastic Resin Production
 
 ## Description 
-This dataset reports the
+This dataset reports the plastic resin production from 1950 through 2015.
 
 ## Key Numbers
 Global production of plastic in 2015 ≈ 381 Mt
@@ -15,4 +15,4 @@ Fill out the table below for each data set.
 * **Bias**: This data comes from a 2017 scientific publication and the authors have declared no competing interest
 
 ## Notes 
-These data come from Table S2 of the manuscript and reflect a composite of other data sets referenced by the authors. 
+These data come from Table S1 of the manuscript and reflect a composite of other data sets referenced by the authors. 
