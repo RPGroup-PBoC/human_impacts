@@ -117,10 +117,6 @@ def altair_theme():
                     'width': 400,
                     'fill': '#E3DCD0'
                     },
-                'mark': {
-                    'strokeWidth': 0.5,
-                    'stroke': 'black'
-                },
                 'axis': {
                     'domainColor': None,
                     'labelFont': 'Lucida Sans Unicode',
