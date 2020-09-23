@@ -9,7 +9,7 @@ data = pd.read_csv('../processed/FAOSTAT_crop_primary_yields.csv')
 data['year'] = pd.to_datetime(data['year'], format='%Y')
 
 # Limit the products to those ultimately entered in the database
-products = ['Wheat', 'Maize', 'Cereals, Total', 'Potatoes', 'Rice']
+products = ['Wheat', 'Maize', 'Cereals, Total', 'Potatoes', 'Rice, paddy']
 data = data[data['product'].isin(products)]
 
 # Generate the plots.
@@ -29,6 +29,8 @@ for g, d in data.groupby(['product']):
 
     if g == 'Cereals, Total':
         g = 'cereals'
+    if g== 'Rice, paddy':
+        g = 'rice'
     else:
         g = g
     layer.save(f'{g.lower()}_yield.json')
