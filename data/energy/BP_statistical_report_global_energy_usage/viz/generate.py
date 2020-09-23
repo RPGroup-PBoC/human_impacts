@@ -22,7 +22,6 @@ for g, d in data.groupby(['type']):
 
     l = chart.mark_line(color='dodgerblue')
     p = chart.mark_point(color='dodgerblue', filled=True)
-
     layer = alt.layer(l, p)
     if g.lower()=='biodiesel/biogasoline':
         g = 'biogas'
