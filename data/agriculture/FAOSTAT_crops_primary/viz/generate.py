@@ -18,9 +18,8 @@ for g, d in data.groupby(['product']):
                 x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
                 y=alt.Y(field='yield_t_per_ha', type='quantitative', title='yield [tonnes / hectare]'),
                 tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
-                        alt.Tooltip(field='yield', type='quantitative', format='0.1f', title='yield [t/ha]'),
-                        alt.Tooltip(field='mass', type='nominal', title='mass harvested')]
-                    ).properties(
+                        alt.Tooltip(field='yield_t_per_ha', type='quantitative', format='0.1f', title='yield [t/ha]')]
+                   ).properties(
                         width="container",
                         height=300
                     )
