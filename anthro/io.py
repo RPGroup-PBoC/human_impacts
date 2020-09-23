@@ -64,11 +64,13 @@ def numeric_formatter(values, digits=3, sci=False, unit=''):
             if (base >=_k[0]) & (base < _k[1]):
                 n = _k[0]
                 l = _v
-        val = str(np.round(v*10**-n, decimals=2)) 
+        val = str(np.round(v*10**-n, decimals=digits)) 
         if len(val) <= digits:
             val = val
         else:
             if val[digits-1] == '.':
+                end = digits + 1
+            if val[1] == '.':
                 end = digits + 1
             else:
                 end = digits  

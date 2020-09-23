@@ -28,9 +28,9 @@ for g, d in data.groupby('subcategory'):
 
 
 # %%
-# Generate JSON vis for grand categories
 # Generate JSON vis for subcategories
 for g, d in data.groupby('category'):
+    d = d.groupby(['year']).sum().reset_index() 
     chart= alt.Chart(d).encode(
                         x=alt.X(field="year", type="temporal", timeUnit='year',
                                 title="year"),
@@ -49,4 +49,6 @@ for g, d in data.groupby('category'):
 
 
 
+# %%
+chart
 # %%
