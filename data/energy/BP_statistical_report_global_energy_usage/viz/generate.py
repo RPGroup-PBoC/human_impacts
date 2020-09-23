@@ -13,6 +13,8 @@ for g, d in data.groupby(['type']):
     if (g == 'Natural Gas') | (g=='Oil') | (g=='Coal') | (g=='Hydroelectric'):
         d['consumption_GW'] *= 1E-3
         title = 'TW'
+    else:
+        title = 'GW'
 
     chart = alt.Chart(d).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
