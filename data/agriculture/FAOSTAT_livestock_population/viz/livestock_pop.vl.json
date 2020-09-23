@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": "container",
+    "height": "container",
+    "padding": 5,
+    "data": {"url": "https://raw.githubusercontent.com/RPGroup-PBoC/human_impacts/master/data/agriculture/FAOSTAT_livestock_population/processed/FAOSTAT_livestock_population.csv"},
+    "mark":   "line",
+    "encoding": {
+      "x": {
+        "field": "year",
+        "type": "quantitative"
+      },
+      "y": {
+        "field": "population_Mhd",
+        "type": "quantitative"
+      },
+      "color": {
+        "field": "animal",
+        "type": "nominal"
+      }
+    }
+}
