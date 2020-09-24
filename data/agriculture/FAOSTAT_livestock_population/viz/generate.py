@@ -28,7 +28,7 @@ for g, d in data.groupby(['animal']):
   layer.save(f'{g}_population.json')
 
 # Generate a plot for the total
-total['popultion'] = anthro.io.numeric_formatter(total['population_Mhd'].values *1E6, sci=False)
+total['population'] = anthro.io.numeric_formatter(total['population_Mhd'].values *1E6, sci=False)
 total['population_Bhd'] = total['population_Mhd'] * 1E-3
 chart = alt.Chart(total).encode(
               x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
