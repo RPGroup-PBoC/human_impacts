@@ -40,7 +40,7 @@ for g, d in contrib.groupby('source'):
     p = chart.mark_point(color='dodgerblue', filled=True)
 
     layer = alt.layer(l, p)
-    layer.save(f"{'_'.join(g.lower().split(' '))} GMSL.json")
+    layer.save(f"{'_'.join(g.lower().split(' '))}_GMSL.json")
 
 
 
