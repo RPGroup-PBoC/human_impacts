@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd 
 
 # First process the globlal observed
-data = pd.read_csv('processed/observed_GMSL_timeseries.csv')
+data = pd.read_csv('processed/Frederikse2020_observed_GMSL_timeseries.csv')
 
 yr1900 = data[data['year']==1900]['observed_GMSL_mean'].values[0]
 data['observed_GMSL_mean'] -= yr1900
@@ -16,10 +16,10 @@ data['observed_GMSL_lower'] -= yr1900
 data['observed_GMSL_upper'] -= yr1900
 
 data['units'] = 'mm difference from 1900 average'
-data.to_csv('./processed/observed_GMSL_from_1900.csv', index=False)
+data.to_csv('./processed/Frederikse2020_observed_GMSL_from_1900.csv', index=False)
 
 # Process the categorization
-data = pd.read_csv('./processed/contributor_GMSL_timeseries.csv')
+data = pd.read_csv('./processed/Frederikse2020_contributor_GMSL_timeseries.csv')
 dfs = []
 for g, d in data.groupby(['source']):
     d = d.copy()
@@ -31,6 +31,6 @@ for g, d in data.groupby(['source']):
     dfs.append(d)
 
 contributor_df = pd.concat(dfs, sort=False)
-contributor_df.to_csv('./processed/contributor_GMSL_from_1900.csv', index=False)
+contributor_df.to_csv('./processed/Frederikse_contributor_GMSL_from_1900.csv', index=False)
 
 # %%
