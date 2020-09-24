@@ -46,11 +46,11 @@ chart = alt.Chart(data).encode(
             y=alt.Y(field='population_Bhd', type='quantitative', title='population [billions]'),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
                      alt.Tooltip(field='population', type='nominal', title='population')]
-            ).properties(width=300, height=300)
+            ).properties(width='container', height=300)
 
 l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(l, p)
-layer
+layer.save('total_population.json')
 
 # %%
