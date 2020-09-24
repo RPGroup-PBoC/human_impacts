@@ -25,10 +25,11 @@ layer.save('observed_GMSL.json')
 
 # Do the same for estimated contributors
 contrib = pd.read_csv('../processed/Frederikse2020_contributor_GMSL_from_1900.csv')
+contrib['year'] = pd.to_datetime(contrib['year'], format='%Y')
 
 for g, d in contrib.groupby('source'):
     # Plot only the mean values
-    chart = alt.Chart(observed).encode(
+    chart = alt.Chart(d).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y(field='mean', type='quantitative', title='estimated change from average sea-level in 1900 [mm]'),
             tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
@@ -42,5 +43,7 @@ for g, d in contrib.groupby('source'):
     layer.save(f'{g.lower()} GMSL.json')
 
 
+
+# %%
 
 # %%
