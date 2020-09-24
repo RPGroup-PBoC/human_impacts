@@ -33,22 +33,24 @@ p = chart.mark_point(color='dodgerblue', filled=True)
 
 chart = alt.layer(l, p)
 chart.save('urban_pop.json')
-# # Generate JSON vis for subcategories
-# for g, d in data.groupby('subcategory'):
-#     chart= alt.Chart(d).encode(
-#                         x=alt.X(field="year", type="temporal", timeUnit='year',
-#                                 title="year"),
-#                         y=alt.Y(field="mass_produced_Mt", 
-#                                 type="quantitative",
-#                                 title="produced mass [Mt]"),
-#                        tooltip=[alt.Tooltip("year:T", timeUnit="year", title="year"),
-#                                 alt.Tooltip("mass_produced_Mt:Q", format="0.0f", title="produced mass [Mt]")]
-#                       ).properties(width="container", 
-#                                     height=300
-#                       ).mark_line(color='dodgerblue')
-#     l = chart.mark_line(color='dodgerblue')
-#     p = chart.mark_point(filled=True, color='dodgerblue')
-#     figure = alt.layer(l, p)
-#     figure.save(f'{g}.json')
+
+#%%
+# Generate a plot for the total population
+data = pd.read_csv('../processed/FAOSTAT_total_population.csv')
+data['year'] = pd.to_datetime(data['Year'].values, format='%Y')
+data['population_Bhd'] = data['population'] * 1E-9
+data['population'] = anthro.io.numeric_formatter(data['population'].values, sci=False)
+
+chart = alt.Chart(data).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y(field='population_Bhd', type='quantitative', title='population [billions]'),
+            tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                     alt.Tooltip(field='population', type='nominal', title='population')]
+            ).properties(width=300, height=300)
+
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
+layer = alt.layer(l, p)
+layer
 
 # %%
