@@ -84,7 +84,6 @@ breakdown_df['year'] = breakdown_df['year'].astype(int)
 # Save to a csv. 
 breakdown_df.to_csv('./processed/Qin2019_subcategory_volume_breakdown_2016.csv',
                     index=False)
-breakdown_df                    
 # %%
 # Compute a more coarse-grained breakdown of the 2016 values.
 grouped = breakdown_df.groupby(['category', 'year']).sum().reset_index()
