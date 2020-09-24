@@ -1,0 +1,25 @@
+﻿source,interval,value,conf_int_90_max,conf_int_90_min,units
+glaciers,1900-2018,0.7,0.52,0.89,mm per year
+glaciers,1957-2018,0.52,0.36,0.73,mm per year
+glaciers,1993-2018,0.67,0.53,0.84,mm per year
+Greenland Ice Sheet,1900-2018,0.44,0.35,0.53,mm per year
+Greenland Ice Sheet,1957-2018,0.3,0.21,0.38,mm per year
+Greenland Ice Sheet,1993-2018,0.32,0.21,0.44,mm per year
+Antarctic Ice Sheet,1900-2018,0.08,0,0.17,mm per year
+Antarctic Ice Sheet,1957-2018,0.13,0.04,0.22,mm per year
+Antarctic Ice Sheet,1993-2018,0.32,0.21,0.44,mm per year
+Terrestrial Water Shed,1900-2018,-0.21,-0.34,-0.08,mm per year
+Terrestrial Water Shed,1957-2018,-0.14,-0.31,0.02,mm per year
+Terrestrial Water Shed,1993-2018,0.31,0.14,0.5,mm per year
+Barystatic,1900-2018,1,0.71,1.31,mm per year
+Barystatic,1957-2018,0.8,0.49,1.13,mm per year
+Barystatic,1993-2018,1.97,1.63,2.33,mm per year
+Thermosteric,1900-2018,0.52,0.34,0.69,mm per year
+Thermosteric,1957-2018,0.71,0.54,0.88,mm per year
+Thermosteric,1993-2018,1.19,0.99,1.44,mm per year
+Summed Contributions,1900-2018,1.52,1.2,1.85,mm per year
+Summed Contributions,1957-2018,1.51,1.18,1.84,mm per year
+Summed Contributions,1993-2018,3.16,2.78,3.57,mm per year
+Observed,1900-2018,1.56,1.24,1.89,mm per year
+Observed,1957-2018,1.78,1.48,2.07,mm per year
+Observed,1993-2018,3.35,2.91,3.82,mm per year

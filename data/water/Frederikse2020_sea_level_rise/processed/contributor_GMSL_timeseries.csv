@@ -1,0 +1,596 @@
+﻿year,source,mean,lower,upper,units
+1900,Glaciers,-79.55369568,-95.5,-62.5,mm difference from 2002-2018 average
+1901,Glaciers,-78.70381165,-94.59999847,-61.79999924,mm difference from 2002-2018 average
+1902,Glaciers,-77.84363556,-93.5,-61.20000076,mm difference from 2002-2018 average
+1903,Glaciers,-77.27209473,-92.84999847,-60.54999924,mm difference from 2002-2018 average
+1904,Glaciers,-76.43074036,-91.80000305,-59.79999924,mm difference from 2002-2018 average
+1905,Glaciers,-75.43510437,-90.69999695,-58.84999847,mm difference from 2002-2018 average
+1906,Glaciers,-74.63530731,-89.69999695,-58.04999924,mm difference from 2002-2018 average
+1907,Glaciers,-73.98326111,-88.90000153,-57.65000153,mm difference from 2002-2018 average
+1908,Glaciers,-73.19345093,-87.94999695,-57.04999924,mm difference from 2002-2018 average
+1909,Glaciers,-72.4466095,-86.94999695,-56.40000153,mm difference from 2002-2018 average
+1910,Glaciers,-71.751091,-86.25,-55.79999924,mm difference from 2002-2018 average
+1911,Glaciers,-70.86196899,-85.15000153,-55.04999924,mm difference from 2002-2018 average
+1912,Glaciers,-70.1114502,-84.25,-54.40000153,mm difference from 2002-2018 average
+1913,Glaciers,-69.42710114,-83.40000153,-53.75,mm difference from 2002-2018 average
+1914,Glaciers,-68.29491425,-82.09999847,-52.84999847,mm difference from 2002-2018 average
+1915,Glaciers,-66.74526215,-80.44999695,-51.65000153,mm difference from 2002-2018 average
+1916,Glaciers,-65.74427032,-79.15000153,-50.59999847,mm difference from 2002-2018 average
+1917,Glaciers,-64.55024719,-77.65000153,-49.5,mm difference from 2002-2018 average
+1918,Glaciers,-63.50144577,-76.19999695,-48.70000076,mm difference from 2002-2018 average
+1919,Glaciers,-62.63396072,-75.19999695,-47.95000076,mm difference from 2002-2018 average
+1920,Glaciers,-62.11164856,-74.55000305,-47.45000076,mm difference from 2002-2018 average
+1921,Glaciers,-61.49795914,-73.94999695,-47.04999924,mm difference from 2002-2018 average
+1922,Glaciers,-60.75429535,-73.15000153,-46.34999847,mm difference from 2002-2018 average
+1923,Glaciers,-59.56335449,-71.80000305,-45.34999847,mm difference from 2002-2018 average
+1924,Glaciers,-58.62261963,-70.69999695,-44.54999924,mm difference from 2002-2018 average
+1925,Glaciers,-57.68900299,-69.55000305,-43.70000076,mm difference from 2002-2018 average
+1926,Glaciers,-56.62620544,-68.25,-42.79999924,mm difference from 2002-2018 average
+1927,Glaciers,-55.49388504,-66.90000153,-41.75,mm difference from 2002-2018 average
+1928,Glaciers,-54.47127914,-65.55000305,-40.79999924,mm difference from 2002-2018 average
+1929,Glaciers,-53.49627686,-64.25,-39.79999924,mm difference from 2002-2018 average
+1930,Glaciers,-52.53492355,-63.15000153,-38.95000076,mm difference from 2002-2018 average
+1931,Glaciers,-51.21866226,-61.65000153,-37.75,mm difference from 2002-2018 average
+1932,Glaciers,-50.2873497,-60.5,-37.15000153,mm difference from 2002-2018 average
+1933,Glaciers,-49.37897873,-59.45000076,-36.34999847,mm difference from 2002-2018 average
+1934,Glaciers,-48.64113235,-58.54999924,-35.75,mm difference from 2002-2018 average
+1935,Glaciers,-47.76176834,-57.54999924,-34.90000153,mm difference from 2002-2018 average
+1936,Glaciers,-46.69285202,-56.25,-33.90000153,mm difference from 2002-2018 average
+1937,Glaciers,-45.75279617,-55.09999847,-32.95000076,mm difference from 2002-2018 average
+1938,Glaciers,-44.77358246,-54.04999924,-32.09999847,mm difference from 2002-2018 average
+1939,Glaciers,-43.99297714,-53.20000076,-31.39999962,mm difference from 2002-2018 average
+1940,Glaciers,-43.04232025,-52.09999847,-30.5,mm difference from 2002-2018 average
+1941,Glaciers,-42.00475311,-50.90000153,-29.54999924,mm difference from 2002-2018 average
+1942,Glaciers,-41.06314468,-49.75,-28.54999924,mm difference from 2002-2018 average
+1943,Glaciers,-39.97578049,-48.5,-27.5,mm difference from 2002-2018 average
+1944,Glaciers,-38.81484985,-47.09999847,-26.45000076,mm difference from 2002-2018 average
+1945,Glaciers,-37.81468201,-45.95000076,-25.70000076,mm difference from 2002-2018 average
+1946,Glaciers,-36.88127136,-44.84999847,-24.75,mm difference from 2002-2018 average
+1947,Glaciers,-35.84194183,-43.70000076,-23.79999924,mm difference from 2002-2018 average
+1948,Glaciers,-34.92813873,-42.70000076,-22.95000076,mm difference from 2002-2018 average
+1949,Glaciers,-34.30861664,-41.84999847,-22.35000038,mm difference from 2002-2018 average
+1950,Glaciers,-33.19721222,-40.75,-21.35000038,mm difference from 2002-2018 average
+1951,Glaciers,-32.41927719,-39.95000076,-20.54999924,mm difference from 2002-2018 average
+1952,Glaciers,-31.49254608,-38.90000153,-19.45000076,mm difference from 2002-2018 average
+1953,Glaciers,-30.49181366,-37.70000076,-18.54999924,mm difference from 2002-2018 average
+1954,Glaciers,-29.67550278,-36.84999847,-17.75,mm difference from 2002-2018 average
+1955,Glaciers,-29.21055412,-36.34999847,-17.5,mm difference from 2002-2018 average
+1956,Glaciers,-28.30467415,-35.34999847,-16.45000076,mm difference from 2002-2018 average
+1957,Glaciers,-27.31992912,-34.15000153,-15.85000038,mm difference from 2002-2018 average
+1958,Glaciers,-26.57599831,-33.15000153,-15.39999962,mm difference from 2002-2018 average
+1959,Glaciers,-26.02885628,-32.5,-15.19999981,mm difference from 2002-2018 average
+1960,Glaciers,-25.28234482,-31.70000076,-14.64999962,mm difference from 2002-2018 average
+1961,Glaciers,-24.53464317,-30.85000038,-14.25,mm difference from 2002-2018 average
+1962,Glaciers,-23.70492172,-29.95000076,-13.44999981,mm difference from 2002-2018 average
+1963,Glaciers,-23.34495926,-29.45000076,-13.55000019,mm difference from 2002-2018 average
+1964,Glaciers,-23.34749031,-29.64999962,-14.14999962,mm difference from 2002-2018 average
+1965,Glaciers,-23.219841,-29.60000038,-14.25,mm difference from 2002-2018 average
+1966,Glaciers,-22.85889626,-29,-14.10000038,mm difference from 2002-2018 average
+1967,Glaciers,-22.52689362,-28.75,-14.10000038,mm difference from 2002-2018 average
+1968,Glaciers,-22.31526756,-28.45000076,-13.80000019,mm difference from 2002-2018 average
+1969,Glaciers,-21.84371948,-27.85000038,-13.44999981,mm difference from 2002-2018 average
+1970,Glaciers,-21.55110359,-27.39999962,-13.39999962,mm difference from 2002-2018 average
+1971,Glaciers,-21.08332253,-26.85000038,-13.05000019,mm difference from 2002-2018 average
+1972,Glaciers,-21.04180527,-26.45000076,-13.19999981,mm difference from 2002-2018 average
+1973,Glaciers,-20.76787376,-26.20000076,-13.19999981,mm difference from 2002-2018 average
+1974,Glaciers,-20.35971832,-25.75,-13.05000019,mm difference from 2002-2018 average
+1975,Glaciers,-20.04415703,-25.35000038,-13,mm difference from 2002-2018 average
+1976,Glaciers,-19.91757774,-25.14999962,-13,mm difference from 2002-2018 average
+1977,Glaciers,-19.35838127,-24.45000076,-12.55000019,mm difference from 2002-2018 average
+1978,Glaciers,-18.75263977,-23.70000076,-12.19999981,mm difference from 2002-2018 average
+1979,Glaciers,-18.12921143,-22.70000076,-11.5,mm difference from 2002-2018 average
+1980,Glaciers,-17.68750763,-22.29999924,-11.35000038,mm difference from 2002-2018 average
+1981,Glaciers,-17.2354908,-22,-11.14999962,mm difference from 2002-2018 average
+1982,Glaciers,-16.85746574,-21.5,-10.85000038,mm difference from 2002-2018 average
+1983,Glaciers,-16.60969734,-21.29999924,-10.89999962,mm difference from 2002-2018 average
+1984,Glaciers,-16.01707649,-20.54999924,-10.60000038,mm difference from 2002-2018 average
+1985,Glaciers,-15.47767258,-19.89999962,-10.05000019,mm difference from 2002-2018 average
+1986,Glaciers,-15.12900925,-19.5,-9.75,mm difference from 2002-2018 average
+1987,Glaciers,-14.8093729,-19.04999924,-9.699999809,mm difference from 2002-2018 average
+1988,Glaciers,-14.3458519,-18.54999924,-9.5,mm difference from 2002-2018 average
+1989,Glaciers,-13.81623936,-17.89999962,-9.149999619,mm difference from 2002-2018 average
+1990,Glaciers,-12.95127869,-16.85000038,-8.75,mm difference from 2002-2018 average
+1991,Glaciers,-12.28005028,-16.10000038,-8.399999619,mm difference from 2002-2018 average
+1992,Glaciers,-12.10895252,-15.69999981,-8.199999809,mm difference from 2002-2018 average
+1993,Glaciers,-11.36046696,-14.85000038,-7.449999809,mm difference from 2002-2018 average
+1994,Glaciers,-10.66430187,-14,-6.949999809,mm difference from 2002-2018 average
+1995,Glaciers,-9.838601112,-12.89999962,-6.5,mm difference from 2002-2018 average
+1996,Glaciers,-9.578860283,-12.35000038,-6.349999905,mm difference from 2002-2018 average
+1997,Glaciers,-8.885141373,-11.19999981,-5.800000191,mm difference from 2002-2018 average
+1998,Glaciers,-7.964991093,-10.19999981,-5.25,mm difference from 2002-2018 average
+1999,Glaciers,-7.367599964,-9.300000191,-4.949999809,mm difference from 2002-2018 average
+2000,Glaciers,-6.868742466,-8.649999619,-4.849999905,mm difference from 2002-2018 average
+2001,Glaciers,-6.276946068,-7.699999809,-4.550000191,mm difference from 2002-2018 average
+2002,Glaciers,-5.655814648,-6.75,-4.5,mm difference from 2002-2018 average
+2003,Glaciers,-4.752999306,-5.099999905,-4.400000095,mm difference from 2002-2018 average
+2004,Glaciers,-3.978419304,-4.300000191,-3.700000048,mm difference from 2002-2018 average
+2005,Glaciers,-3.452074528,-3.75,-3.200000048,mm difference from 2002-2018 average
+2006,Glaciers,-2.644249678,-2.900000095,-2.450000048,mm difference from 2002-2018 average
+2007,Glaciers,-1.977131963,-2.200000048,-1.799999952,mm difference from 2002-2018 average
+2008,Glaciers,-1.448653936,-1.600000024,-1.299999952,mm difference from 2002-2018 average
+2009,Glaciers,-0.80952245,-0.949999988,-0.649999976,mm difference from 2002-2018 average
+2010,Glaciers,0.104114555,0,0.25,mm difference from 2002-2018 average
+2011,Glaciers,0.734044492,0.600000024,0.850000024,mm difference from 2002-2018 average
+2012,Glaciers,1.000620961,0.850000024,1.149999976,mm difference from 2002-2018 average
+2013,Glaciers,1.867449164,1.700000048,2.049999952,mm difference from 2002-2018 average
+2014,Glaciers,2.607803345,2.450000048,2.799999952,mm difference from 2002-2018 average
+2015,Glaciers,3.392660618,3.200000048,3.650000095,mm difference from 2002-2018 average
+2016,Glaciers,4.098024845,3.849999905,4.349999905,mm difference from 2002-2018 average
+2017,Glaciers,4.985920906,4.650000095,5.349999905,mm difference from 2002-2018 average
+2018,Glaciers,5.27203846,4.849999905,5.75,mm difference from 2002-2018 average
+1900,Greenland Ice Sheet,-48.06442642,-58.79999924,-37.40000153,mm difference from 2002-2018 average
+1901,Greenland Ice Sheet,-48.17938614,-58.95000076,-37.59999847,mm difference from 2002-2018 average
+1902,Greenland Ice Sheet,-47.86169815,-58.65000153,-37.45000076,mm difference from 2002-2018 average
+1903,Greenland Ice Sheet,-47.45354843,-58.20000076,-36.95000076,mm difference from 2002-2018 average
+1904,Greenland Ice Sheet,-46.6265564,-56.20000076,-37.40000153,mm difference from 2002-2018 average
+1905,Greenland Ice Sheet,-46.41720581,-55.09999847,-37.95000076,mm difference from 2002-2018 average
+1906,Greenland Ice Sheet,-45.95628738,-54.45000076,-37.5,mm difference from 2002-2018 average
+1907,Greenland Ice Sheet,-45.5907402,-54.20000076,-37.25,mm difference from 2002-2018 average
+1908,Greenland Ice Sheet,-44.88063049,-53.45000076,-36.54999924,mm difference from 2002-2018 average
+1909,Greenland Ice Sheet,-44.30748749,-51.70000076,-37.15000153,mm difference from 2002-2018 average
+1910,Greenland Ice Sheet,-43.85770035,-49.45000076,-38.29999924,mm difference from 2002-2018 average
+1911,Greenland Ice Sheet,-43.78565979,-49.29999924,-38.29999924,mm difference from 2002-2018 average
+1912,Greenland Ice Sheet,-43.26035309,-48.75,-37.75,mm difference from 2002-2018 average
+1913,Greenland Ice Sheet,-42.9211731,-48.29999924,-37.40000153,mm difference from 2002-2018 average
+1914,Greenland Ice Sheet,-42.76308823,-48.09999847,-37.45000076,mm difference from 2002-2018 average
+1915,Greenland Ice Sheet,-42.44059372,-47.70000076,-37.25,mm difference from 2002-2018 average
+1916,Greenland Ice Sheet,-42.26547241,-47.54999924,-37.09999847,mm difference from 2002-2018 average
+1917,Greenland Ice Sheet,-41.57772064,-46.75,-36.45000076,mm difference from 2002-2018 average
+1918,Greenland Ice Sheet,-41.46857071,-46.59999847,-36.45000076,mm difference from 2002-2018 average
+1919,Greenland Ice Sheet,-41.30270767,-46.34999847,-36.34999847,mm difference from 2002-2018 average
+1920,Greenland Ice Sheet,-41.12319946,-46.15000153,-36.25,mm difference from 2002-2018 average
+1921,Greenland Ice Sheet,-40.96414566,-46,-36.04999924,mm difference from 2002-2018 average
+1922,Greenland Ice Sheet,-41.16040421,-46.04999924,-36.29999924,mm difference from 2002-2018 average
+1923,Greenland Ice Sheet,-40.83682251,-45.75,-36.04999924,mm difference from 2002-2018 average
+1924,Greenland Ice Sheet,-40.24991226,-45,-35.54999924,mm difference from 2002-2018 average
+1925,Greenland Ice Sheet,-40.05806732,-44.75,-35.34999847,mm difference from 2002-2018 average
+1926,Greenland Ice Sheet,-39.03787613,-43.65000153,-34.40000153,mm difference from 2002-2018 average
+1927,Greenland Ice Sheet,-38.28416061,-42.90000153,-33.65000153,mm difference from 2002-2018 average
+1928,Greenland Ice Sheet,-37.1605072,-41.70000076,-32.65000153,mm difference from 2002-2018 average
+1929,Greenland Ice Sheet,-36.13228226,-40.54999924,-31.75,mm difference from 2002-2018 average
+1930,Greenland Ice Sheet,-35.51887131,-39.95000076,-31.14999962,mm difference from 2002-2018 average
+1931,Greenland Ice Sheet,-33.67486191,-38.04999924,-29.35000038,mm difference from 2002-2018 average
+1932,Greenland Ice Sheet,-32.69800949,-37.04999924,-28.39999962,mm difference from 2002-2018 average
+1933,Greenland Ice Sheet,-31.60116005,-35.84999847,-27.35000038,mm difference from 2002-2018 average
+1934,Greenland Ice Sheet,-30.64511108,-34.84999847,-26.45000076,mm difference from 2002-2018 average
+1935,Greenland Ice Sheet,-29.529562,-33.70000076,-25.29999924,mm difference from 2002-2018 average
+1936,Greenland Ice Sheet,-28.27721596,-32.40000153,-24,mm difference from 2002-2018 average
+1937,Greenland Ice Sheet,-27.62118149,-31.60000038,-23.5,mm difference from 2002-2018 average
+1938,Greenland Ice Sheet,-27.210392,-31.25,-23.14999962,mm difference from 2002-2018 average
+1939,Greenland Ice Sheet,-26.73357773,-30.75,-22.75,mm difference from 2002-2018 average
+1940,Greenland Ice Sheet,-26.31389618,-30.35000038,-22.35000038,mm difference from 2002-2018 average
+1941,Greenland Ice Sheet,-25.69233704,-29.64999962,-21.79999924,mm difference from 2002-2018 average
+1942,Greenland Ice Sheet,-25.2123127,-29.14999962,-21.45000076,mm difference from 2002-2018 average
+1943,Greenland Ice Sheet,-24.51369858,-28.39999962,-20.79999924,mm difference from 2002-2018 average
+1944,Greenland Ice Sheet,-24.01293373,-27.79999924,-20.35000038,mm difference from 2002-2018 average
+1945,Greenland Ice Sheet,-23.97104454,-27.75,-20.35000038,mm difference from 2002-2018 average
+1946,Greenland Ice Sheet,-23.7762413,-27.45000076,-20.14999962,mm difference from 2002-2018 average
+1947,Greenland Ice Sheet,-23.25448036,-27,-19.64999962,mm difference from 2002-2018 average
+1948,Greenland Ice Sheet,-22.29762459,-25.89999962,-18.79999924,mm difference from 2002-2018 average
+1949,Greenland Ice Sheet,-21.18231201,-24.75,-17.75,mm difference from 2002-2018 average
+1950,Greenland Ice Sheet,-20.36541557,-23.89999962,-16.89999962,mm difference from 2002-2018 average
+1951,Greenland Ice Sheet,-19.67418861,-23.14999962,-16.35000038,mm difference from 2002-2018 average
+1952,Greenland Ice Sheet,-19.20826149,-22.60000038,-15.89999962,mm difference from 2002-2018 average
+1953,Greenland Ice Sheet,-18.7482357,-22.14999962,-15.5,mm difference from 2002-2018 average
+1954,Greenland Ice Sheet,-18.45680046,-21.75,-15.19999981,mm difference from 2002-2018 average
+1955,Greenland Ice Sheet,-18.22774315,-21.45000076,-15.05000019,mm difference from 2002-2018 average
+1956,Greenland Ice Sheet,-17.84984207,-21.04999924,-14.75,mm difference from 2002-2018 average
+1957,Greenland Ice Sheet,-17.1270752,-20.25,-14.10000038,mm difference from 2002-2018 average
+1958,Greenland Ice Sheet,-16.44646263,-19.60000038,-13.39999962,mm difference from 2002-2018 average
+1959,Greenland Ice Sheet,-16.25915146,-19.29999924,-13.30000019,mm difference from 2002-2018 average
+1960,Greenland Ice Sheet,-15.57327271,-18.60000038,-12.64999962,mm difference from 2002-2018 average
+1961,Greenland Ice Sheet,-14.89031696,-17.85000038,-12.10000038,mm difference from 2002-2018 average
+1962,Greenland Ice Sheet,-14.02888203,-17,-11.25,mm difference from 2002-2018 average
+1963,Greenland Ice Sheet,-13.7888298,-16.60000038,-11.05000019,mm difference from 2002-2018 average
+1964,Greenland Ice Sheet,-13.75571918,-16.54999924,-11.05000019,mm difference from 2002-2018 average
+1965,Greenland Ice Sheet,-13.32121563,-16.10000038,-10.64999962,mm difference from 2002-2018 average
+1966,Greenland Ice Sheet,-12.59099102,-15.44999981,-9.949999809,mm difference from 2002-2018 average
+1967,Greenland Ice Sheet,-12.22290039,-15.05000019,-9.600000381,mm difference from 2002-2018 average
+1968,Greenland Ice Sheet,-11.66329575,-14.39999962,-9.100000381,mm difference from 2002-2018 average
+1969,Greenland Ice Sheet,-11.25493336,-14,-8.699999809,mm difference from 2002-2018 average
+1970,Greenland Ice Sheet,-11.10173607,-13.80000019,-8.649999619,mm difference from 2002-2018 average
+1971,Greenland Ice Sheet,-10.61605549,-13.25,-8.25,mm difference from 2002-2018 average
+1972,Greenland Ice Sheet,-10.91835976,-13.55000019,-8.550000191,mm difference from 2002-2018 average
+1973,Greenland Ice Sheet,-10.96731091,-13.39999962,-8.699999809,mm difference from 2002-2018 average
+1974,Greenland Ice Sheet,-10.72626495,-13.05000019,-8.449999809,mm difference from 2002-2018 average
+1975,Greenland Ice Sheet,-10.67008686,-13.05000019,-8.449999809,mm difference from 2002-2018 average
+1976,Greenland Ice Sheet,-10.84678173,-13.19999981,-8.649999619,mm difference from 2002-2018 average
+1977,Greenland Ice Sheet,-10.84260941,-13.10000038,-8.800000191,mm difference from 2002-2018 average
+1978,Greenland Ice Sheet,-10.76608944,-12.94999981,-8.699999809,mm difference from 2002-2018 average
+1979,Greenland Ice Sheet,-10.65714073,-12.75,-8.649999619,mm difference from 2002-2018 average
+1980,Greenland Ice Sheet,-10.36814976,-12.39999962,-8.399999619,mm difference from 2002-2018 average
+1981,Greenland Ice Sheet,-9.840932846,-11.85000038,-7.900000095,mm difference from 2002-2018 average
+1982,Greenland Ice Sheet,-9.453761101,-11.39999962,-7.5,mm difference from 2002-2018 average
+1983,Greenland Ice Sheet,-9.68694973,-11.69999981,-7.75,mm difference from 2002-2018 average
+1984,Greenland Ice Sheet,-9.822171211,-11.75,-8,mm difference from 2002-2018 average
+1985,Greenland Ice Sheet,-9.610284805,-11.39999962,-7.800000191,mm difference from 2002-2018 average
+1986,Greenland Ice Sheet,-9.43539238,-11.14999962,-7.699999809,mm difference from 2002-2018 average
+1987,Greenland Ice Sheet,-9.436426163,-11.10000038,-7.699999809,mm difference from 2002-2018 average
+1988,Greenland Ice Sheet,-9.164364815,-10.80000019,-7.5,mm difference from 2002-2018 average
+1989,Greenland Ice Sheet,-8.801208496,-10.39999962,-7.150000095,mm difference from 2002-2018 average
+1990,Greenland Ice Sheet,-8.592012405,-10.19999981,-7.050000191,mm difference from 2002-2018 average
+1991,Greenland Ice Sheet,-8.406363487,-9.949999809,-6.900000095,mm difference from 2002-2018 average
+1992,Greenland Ice Sheet,-8.648116112,-10.05000019,-7.349999905,mm difference from 2002-2018 average
+1993,Greenland Ice Sheet,-8.557271004,-9.850000381,-7.300000191,mm difference from 2002-2018 average
+1994,Greenland Ice Sheet,-8.316083908,-9.550000191,-7.099999905,mm difference from 2002-2018 average
+1995,Greenland Ice Sheet,-7.781678677,-9,-6.650000095,mm difference from 2002-2018 average
+1996,Greenland Ice Sheet,-8.155566216,-9.350000381,-7.099999905,mm difference from 2002-2018 average
+1997,Greenland Ice Sheet,-8.129179001,-9.25,-7.099999905,mm difference from 2002-2018 average
+1998,Greenland Ice Sheet,-7.757575512,-8.699999809,-6.849999905,mm difference from 2002-2018 average
+1999,Greenland Ice Sheet,-7.479926586,-8.350000381,-6.650000095,mm difference from 2002-2018 average
+2000,Greenland Ice Sheet,-7.193330288,-8,-6.400000095,mm difference from 2002-2018 average
+2001,Greenland Ice Sheet,-6.905331135,-7.599999905,-6.199999809,mm difference from 2002-2018 average
+2002,Greenland Ice Sheet,-6.262057781,-6.849999905,-5.650000095,mm difference from 2002-2018 average
+2003,Greenland Ice Sheet,-5.565807819,-6,-5.199999809,mm difference from 2002-2018 average
+2004,Greenland Ice Sheet,-4.885714531,-5.25,-4.599999905,mm difference from 2002-2018 average
+2005,Greenland Ice Sheet,-4.255963802,-4.599999905,-4,mm difference from 2002-2018 average
+2006,Greenland Ice Sheet,-3.492525101,-3.75,-3.299999952,mm difference from 2002-2018 average
+2007,Greenland Ice Sheet,-2.68413353,-2.900000095,-2.5,mm difference from 2002-2018 average
+2008,Greenland Ice Sheet,-1.895747185,-2.049999952,-1.799999952,mm difference from 2002-2018 average
+2009,Greenland Ice Sheet,-1.214830637,-1.299999952,-1.149999976,mm difference from 2002-2018 average
+2010,Greenland Ice Sheet,-0.100957319,-0.150000006,-0.050000001,mm difference from 2002-2018 average
+2011,Greenland Ice Sheet,1.214175344,1.200000048,1.25,mm difference from 2002-2018 average
+2012,Greenland Ice Sheet,2.404487848,2.349999905,2.5,mm difference from 2002-2018 average
+2013,Greenland Ice Sheet,3.443770647,3.349999905,3.599999905,mm difference from 2002-2018 average
+2014,Greenland Ice Sheet,3.84954834,3.700000048,4.050000191,mm difference from 2002-2018 average
+2015,Greenland Ice Sheet,4.429986954,4.199999809,4.699999809,mm difference from 2002-2018 average
+2016,Greenland Ice Sheet,5.181756973,4.949999809,5.5,mm difference from 2002-2018 average
+2017,Greenland Ice Sheet,5.832570076,5.5,6.199999809,mm difference from 2002-2018 average
+2018,Greenland Ice Sheet,5.96942091,5.599999905,6.400000095,mm difference from 2002-2018 average
+1900,Antarctic Ice Sheet,-9.49485302,-16.14999962,-3.299999952,mm difference from 2002-2018 average
+1901,Antarctic Ice Sheet,-9.440324783,-16,-3.299999952,mm difference from 2002-2018 average
+1902,Antarctic Ice Sheet,-9.385605812,-15.89999962,-3.299999952,mm difference from 2002-2018 average
+1903,Antarctic Ice Sheet,-9.331830025,-15.80000019,-3.299999952,mm difference from 2002-2018 average
+1904,Antarctic Ice Sheet,-9.277635574,-15.64999962,-3.299999952,mm difference from 2002-2018 average
+1905,Antarctic Ice Sheet,-9.223115921,-15.55000019,-3.299999952,mm difference from 2002-2018 average
+1906,Antarctic Ice Sheet,-9.168591499,-15.39999962,-3.349999905,mm difference from 2002-2018 average
+1907,Antarctic Ice Sheet,-9.114278793,-15.30000019,-3.349999905,mm difference from 2002-2018 average
+1908,Antarctic Ice Sheet,-9.060194969,-15.14999962,-3.349999905,mm difference from 2002-2018 average
+1909,Antarctic Ice Sheet,-9.005735397,-15.05000019,-3.400000095,mm difference from 2002-2018 average
+1910,Antarctic Ice Sheet,-8.951540947,-14.94999981,-3.400000095,mm difference from 2002-2018 average
+1911,Antarctic Ice Sheet,-8.897089005,-14.85000038,-3.400000095,mm difference from 2002-2018 average
+1912,Antarctic Ice Sheet,-8.84277153,-14.75,-3.450000048,mm difference from 2002-2018 average
+1913,Antarctic Ice Sheet,-8.788794518,-14.60000038,-3.450000048,mm difference from 2002-2018 average
+1914,Antarctic Ice Sheet,-8.734428406,-14.44999981,-3.450000048,mm difference from 2002-2018 average
+1915,Antarctic Ice Sheet,-8.680113792,-14.35000038,-3.450000048,mm difference from 2002-2018 average
+1916,Antarctic Ice Sheet,-8.625926971,-14.19999981,-3.450000048,mm difference from 2002-2018 average
+1917,Antarctic Ice Sheet,-8.572176933,-14.10000038,-3.450000048,mm difference from 2002-2018 average
+1918,Antarctic Ice Sheet,-8.517278671,-14,-3.5,mm difference from 2002-2018 average
+1919,Antarctic Ice Sheet,-8.462777138,-13.89999962,-3.5,mm difference from 2002-2018 average
+1920,Antarctic Ice Sheet,-8.409239769,-13.75,-3.5,mm difference from 2002-2018 average
+1921,Antarctic Ice Sheet,-8.354958534,-13.64999962,-3.5,mm difference from 2002-2018 average
+1922,Antarctic Ice Sheet,-8.300263405,-13.55000019,-3.5,mm difference from 2002-2018 average
+1923,Antarctic Ice Sheet,-8.246496201,-13.39999962,-3.450000048,mm difference from 2002-2018 average
+1924,Antarctic Ice Sheet,-8.191628456,-13.25,-3.450000048,mm difference from 2002-2018 average
+1925,Antarctic Ice Sheet,-8.137795448,-13.14999962,-3.450000048,mm difference from 2002-2018 average
+1926,Antarctic Ice Sheet,-8.082689285,-13.05000019,-3.450000048,mm difference from 2002-2018 average
+1927,Antarctic Ice Sheet,-8.029065132,-12.89999962,-3.5,mm difference from 2002-2018 average
+1928,Antarctic Ice Sheet,-7.975211143,-12.80000019,-3.5,mm difference from 2002-2018 average
+1929,Antarctic Ice Sheet,-7.921007633,-12.69999981,-3.5,mm difference from 2002-2018 average
+1930,Antarctic Ice Sheet,-7.866346359,-12.55000019,-3.5,mm difference from 2002-2018 average
+1931,Antarctic Ice Sheet,-7.812622547,-12.44999981,-3.5,mm difference from 2002-2018 average
+1932,Antarctic Ice Sheet,-7.757341385,-12.30000019,-3.5,mm difference from 2002-2018 average
+1933,Antarctic Ice Sheet,-7.703495502,-12.19999981,-3.5,mm difference from 2002-2018 average
+1934,Antarctic Ice Sheet,-7.648875237,-12.10000038,-3.549999952,mm difference from 2002-2018 average
+1935,Antarctic Ice Sheet,-7.594862938,-11.94999981,-3.549999952,mm difference from 2002-2018 average
+1936,Antarctic Ice Sheet,-7.540827751,-11.85000038,-3.549999952,mm difference from 2002-2018 average
+1937,Antarctic Ice Sheet,-7.486982346,-11.69999981,-3.5,mm difference from 2002-2018 average
+1938,Antarctic Ice Sheet,-7.431713581,-11.60000038,-3.5,mm difference from 2002-2018 average
+1939,Antarctic Ice Sheet,-7.377940178,-11.44999981,-3.5,mm difference from 2002-2018 average
+1940,Antarctic Ice Sheet,-7.323640823,-11.35000038,-3.5,mm difference from 2002-2018 average
+1941,Antarctic Ice Sheet,-7.269779205,-11.19999981,-3.549999952,mm difference from 2002-2018 average
+1942,Antarctic Ice Sheet,-7.215502262,-11.10000038,-3.549999952,mm difference from 2002-2018 average
+1943,Antarctic Ice Sheet,-7.16039896,-11,-3.5,mm difference from 2002-2018 average
+1944,Antarctic Ice Sheet,-7.106714725,-10.85000038,-3.5,mm difference from 2002-2018 average
+1945,Antarctic Ice Sheet,-7.052173615,-10.75,-3.5,mm difference from 2002-2018 average
+1946,Antarctic Ice Sheet,-6.997551918,-10.64999962,-3.5,mm difference from 2002-2018 average
+1947,Antarctic Ice Sheet,-6.943964958,-10.55000019,-3.5,mm difference from 2002-2018 average
+1948,Antarctic Ice Sheet,-6.889262199,-10.39999962,-3.5,mm difference from 2002-2018 average
+1949,Antarctic Ice Sheet,-6.835301399,-10.30000019,-3.5,mm difference from 2002-2018 average
+1950,Antarctic Ice Sheet,-6.780492306,-10.19999981,-3.5,mm difference from 2002-2018 average
+1951,Antarctic Ice Sheet,-6.726674557,-10.05000019,-3.5,mm difference from 2002-2018 average
+1952,Antarctic Ice Sheet,-6.672178268,-9.949999809,-3.5,mm difference from 2002-2018 average
+1953,Antarctic Ice Sheet,-6.617931843,-9.850000381,-3.5,mm difference from 2002-2018 average
+1954,Antarctic Ice Sheet,-6.563951015,-9.699999809,-3.5,mm difference from 2002-2018 average
+1955,Antarctic Ice Sheet,-6.509374619,-9.600000381,-3.5,mm difference from 2002-2018 average
+1956,Antarctic Ice Sheet,-6.45570612,-9.5,-3.450000048,mm difference from 2002-2018 average
+1957,Antarctic Ice Sheet,-6.401492119,-9.399999619,-3.5,mm difference from 2002-2018 average
+1958,Antarctic Ice Sheet,-6.346914768,-9.300000191,-3.450000048,mm difference from 2002-2018 average
+1959,Antarctic Ice Sheet,-6.293031693,-9.199999809,-3.450000048,mm difference from 2002-2018 average
+1960,Antarctic Ice Sheet,-6.238166809,-9.050000191,-3.450000048,mm difference from 2002-2018 average
+1961,Antarctic Ice Sheet,-6.185029507,-8.949999809,-3.450000048,mm difference from 2002-2018 average
+1962,Antarctic Ice Sheet,-6.129510403,-8.800000191,-3.450000048,mm difference from 2002-2018 average
+1963,Antarctic Ice Sheet,-6.075918198,-8.699999809,-3.450000048,mm difference from 2002-2018 average
+1964,Antarctic Ice Sheet,-6.021937847,-8.600000381,-3.450000048,mm difference from 2002-2018 average
+1965,Antarctic Ice Sheet,-5.967152596,-8.5,-3.400000095,mm difference from 2002-2018 average
+1966,Antarctic Ice Sheet,-5.913240433,-8.350000381,-3.400000095,mm difference from 2002-2018 average
+1967,Antarctic Ice Sheet,-5.859026432,-8.25,-3.400000095,mm difference from 2002-2018 average
+1968,Antarctic Ice Sheet,-5.803863049,-8.149999619,-3.349999905,mm difference from 2002-2018 average
+1969,Antarctic Ice Sheet,-5.750378132,-8.050000191,-3.349999905,mm difference from 2002-2018 average
+1970,Antarctic Ice Sheet,-5.696603775,-7.949999809,-3.349999905,mm difference from 2002-2018 average
+1971,Antarctic Ice Sheet,-5.641496181,-7.800000191,-3.349999905,mm difference from 2002-2018 average
+1972,Antarctic Ice Sheet,-5.58688879,-7.75,-3.299999952,mm difference from 2002-2018 average
+1973,Antarctic Ice Sheet,-5.533118725,-7.650000095,-3.299999952,mm difference from 2002-2018 average
+1974,Antarctic Ice Sheet,-5.478682518,-7.550000191,-3.25,mm difference from 2002-2018 average
+1975,Antarctic Ice Sheet,-5.424946308,-7.400000095,-3.25,mm difference from 2002-2018 average
+1976,Antarctic Ice Sheet,-5.369976044,-7.349999905,-3.25,mm difference from 2002-2018 average
+1977,Antarctic Ice Sheet,-5.316533089,-7.25,-3.25,mm difference from 2002-2018 average
+1978,Antarctic Ice Sheet,-5.262051105,-7.150000095,-3.200000048,mm difference from 2002-2018 average
+1979,Antarctic Ice Sheet,-5.207698822,-7.050000191,-3.200000048,mm difference from 2002-2018 average
+1980,Antarctic Ice Sheet,-5.153386593,-7,-3.150000095,mm difference from 2002-2018 average
+1981,Antarctic Ice Sheet,-5.099274158,-6.949999809,-3.150000095,mm difference from 2002-2018 average
+1982,Antarctic Ice Sheet,-5.044567585,-6.849999905,-3.099999905,mm difference from 2002-2018 average
+1983,Antarctic Ice Sheet,-4.99115181,-6.75,-3.099999905,mm difference from 2002-2018 average
+1984,Antarctic Ice Sheet,-4.936046124,-6.699999809,-3.049999952,mm difference from 2002-2018 average
+1985,Antarctic Ice Sheet,-4.882669926,-6.650000095,-3.049999952,mm difference from 2002-2018 average
+1986,Antarctic Ice Sheet,-4.827497482,-6.599999905,-3,mm difference from 2002-2018 average
+1987,Antarctic Ice Sheet,-4.773350239,-6.550000191,-2.950000048,mm difference from 2002-2018 average
+1988,Antarctic Ice Sheet,-4.718896866,-6.449999809,-2.900000095,mm difference from 2002-2018 average
+1989,Antarctic Ice Sheet,-4.66561985,-6.349999905,-2.849999905,mm difference from 2002-2018 average
+1990,Antarctic Ice Sheet,-4.610251904,-6.300000191,-2.799999952,mm difference from 2002-2018 average
+1991,Antarctic Ice Sheet,-4.556954384,-6.25,-2.75,mm difference from 2002-2018 average
+1992,Antarctic Ice Sheet,-4.714530468,-6.449999809,-2.849999905,mm difference from 2002-2018 average
+1993,Antarctic Ice Sheet,-4.683066368,-6.5,-2.599999905,mm difference from 2002-2018 average
+1994,Antarctic Ice Sheet,-4.345720291,-6,-2.400000095,mm difference from 2002-2018 average
+1995,Antarctic Ice Sheet,-4.100896358,-5.699999809,-2.299999952,mm difference from 2002-2018 average
+1996,Antarctic Ice Sheet,-3.977624416,-5.5,-2.299999952,mm difference from 2002-2018 average
+1997,Antarctic Ice Sheet,-3.823491335,-5.199999809,-2.25,mm difference from 2002-2018 average
+1998,Antarctic Ice Sheet,-3.650321484,-5,-2.099999905,mm difference from 2002-2018 average
+1999,Antarctic Ice Sheet,-3.360490561,-4.550000191,-2,mm difference from 2002-2018 average
+2000,Antarctic Ice Sheet,-3.136071205,-4.199999809,-1.950000048,mm difference from 2002-2018 average
+2001,Antarctic Ice Sheet,-2.979571581,-4.050000191,-1.899999976,mm difference from 2002-2018 average
+2002,Antarctic Ice Sheet,-2.871568918,-3.75,-1.950000048,mm difference from 2002-2018 average
+2003,Antarctic Ice Sheet,-2.560501099,-3.299999952,-1.700000048,mm difference from 2002-2018 average
+2004,Antarctic Ice Sheet,-2.080149174,-2.700000048,-1.350000024,mm difference from 2002-2018 average
+2005,Antarctic Ice Sheet,-2.154083729,-2.700000048,-1.549999952,mm difference from 2002-2018 average
+2006,Antarctic Ice Sheet,-2.414371967,-2.849999905,-1.899999976,mm difference from 2002-2018 average
+2007,Antarctic Ice Sheet,-1.846381426,-2.200000048,-1.450000048,mm difference from 2002-2018 average
+2008,Antarctic Ice Sheet,-1.033902526,-1.299999952,-0.75,mm difference from 2002-2018 average
+2009,Antarctic Ice Sheet,-1.078407645,-1.25,-0.899999976,mm difference from 2002-2018 average
+2010,Antarctic Ice Sheet,-0.235720158,-0.300000012,-0.150000006,mm difference from 2002-2018 average
+2011,Antarctic Ice Sheet,0.087106794,0,0.150000006,mm difference from 2002-2018 average
+2012,Antarctic Ice Sheet,0.382881075,0.200000003,0.550000012,mm difference from 2002-2018 average
+2013,Antarctic Ice Sheet,1.079971075,0.800000012,1.299999952,mm difference from 2002-2018 average
+2014,Antarctic Ice Sheet,1.770051003,1.399999976,2.099999905,mm difference from 2002-2018 average
+2015,Antarctic Ice Sheet,2.701557875,2.200000048,3.150000095,mm difference from 2002-2018 average
+2016,Antarctic Ice Sheet,2.511930704,1.899999976,3.049999952,mm difference from 2002-2018 average
+2017,Antarctic Ice Sheet,2.652418375,1.899999976,3.299999952,mm difference from 2002-2018 average
+2018,Antarctic Ice Sheet,3.8100214,2.950000048,4.550000191,mm difference from 2002-2018 average
+1900,Thermosteric,-48.27935028,-58.66630554,-37.55291748,mm difference from 2002-2018 average
+1901,Thermosteric,-49.14489746,-58.75514603,-38.84960175,mm difference from 2002-2018 average
+1902,Thermosteric,-49.87755966,-59.15501785,-39.88882828,mm difference from 2002-2018 average
+1903,Thermosteric,-51.10058975,-60.98501205,-40.81586075,mm difference from 2002-2018 average
+1904,Thermosteric,-52.24017715,-62.58571243,-41.37925339,mm difference from 2002-2018 average
+1905,Thermosteric,-53.02521896,-62.01678085,-43.17715454,mm difference from 2002-2018 average
+1906,Thermosteric,-54.0007515,-64.65227509,-43.22138977,mm difference from 2002-2018 average
+1907,Thermosteric,-54.63808441,-64.31616211,-44.81404877,mm difference from 2002-2018 average
+1908,Thermosteric,-55.22194672,-65.63856506,-44.46862411,mm difference from 2002-2018 average
+1909,Thermosteric,-56.30411911,-66.40546417,-46.29887772,mm difference from 2002-2018 average
+1910,Thermosteric,-57.15438843,-66.61515045,-46.93889618,mm difference from 2002-2018 average
+1911,Thermosteric,-57.20583725,-67.1920929,-46.94189835,mm difference from 2002-2018 average
+1912,Thermosteric,-57.14979553,-66.75679016,-46.99798965,mm difference from 2002-2018 average
+1913,Thermosteric,-56.56736374,-65.86151886,-46.77301788,mm difference from 2002-2018 average
+1914,Thermosteric,-55.52489471,-66.03174591,-44.92617035,mm difference from 2002-2018 average
+1915,Thermosteric,-55.26660919,-65.15432739,-44.83843231,mm difference from 2002-2018 average
+1916,Thermosteric,-54.9127121,-64.73332977,-44.82182693,mm difference from 2002-2018 average
+1917,Thermosteric,-54.69734955,-64.6296463,-44.21012115,mm difference from 2002-2018 average
+1918,Thermosteric,-54.72300339,-64.74121094,-44.36013031,mm difference from 2002-2018 average
+1919,Thermosteric,-54.93631744,-64.83634186,-44.8267746,mm difference from 2002-2018 average
+1920,Thermosteric,-54.80710983,-64.59311676,-45.1482811,mm difference from 2002-2018 average
+1921,Thermosteric,-55.03212357,-63.04761887,-45.98583984,mm difference from 2002-2018 average
+1922,Thermosteric,-55.09238434,-63.42034531,-46.44710922,mm difference from 2002-2018 average
+1923,Thermosteric,-55.52363205,-63.59563065,-47.02436829,mm difference from 2002-2018 average
+1924,Thermosteric,-55.45386887,-63.96157455,-46.16325378,mm difference from 2002-2018 average
+1925,Thermosteric,-54.7929039,-63.41887283,-45.60277176,mm difference from 2002-2018 average
+1926,Thermosteric,-53.94831467,-62.45146942,-45.00859451,mm difference from 2002-2018 average
+1927,Thermosteric,-53.43021774,-61.84156799,-44.39879227,mm difference from 2002-2018 average
+1928,Thermosteric,-52.71058655,-61.13856506,-43.84347916,mm difference from 2002-2018 average
+1929,Thermosteric,-52.37741852,-60.30548096,-43.3902359,mm difference from 2002-2018 average
+1930,Thermosteric,-52.00357437,-59.93339157,-43.09970856,mm difference from 2002-2018 average
+1931,Thermosteric,-51.67815781,-59.78192139,-43.39293289,mm difference from 2002-2018 average
+1932,Thermosteric,-51.29719925,-59.36685181,-42.69807816,mm difference from 2002-2018 average
+1933,Thermosteric,-50.85221863,-59.17364502,-42.22107315,mm difference from 2002-2018 average
+1934,Thermosteric,-50.71304703,-59.41406631,-41.17224503,mm difference from 2002-2018 average
+1935,Thermosteric,-50.05358124,-58.17271423,-41.93171692,mm difference from 2002-2018 average
+1936,Thermosteric,-49.01334,-57.25800705,-40.11263657,mm difference from 2002-2018 average
+1937,Thermosteric,-47.84865952,-55.66259003,-39.51002502,mm difference from 2002-2018 average
+1938,Thermosteric,-46.6256218,-55.33403397,-37.65002823,mm difference from 2002-2018 average
+1939,Thermosteric,-45.20036697,-53.69908905,-36.3117485,mm difference from 2002-2018 average
+1940,Thermosteric,-43.87549591,-51.95581818,-35.30195999,mm difference from 2002-2018 average
+1941,Thermosteric,-43.11029816,-51.47165298,-34.39969254,mm difference from 2002-2018 average
+1942,Thermosteric,-41.85379791,-49.90243912,-33.0896759,mm difference from 2002-2018 average
+1943,Thermosteric,-40.20333481,-48.32549286,-31.50354576,mm difference from 2002-2018 average
+1944,Thermosteric,-38.99925613,-46.88611603,-30.51969147,mm difference from 2002-2018 average
+1945,Thermosteric,-38.89792252,-46.67401886,-30.72695923,mm difference from 2002-2018 average
+1946,Thermosteric,-39.00972366,-47.43530655,-30.24406624,mm difference from 2002-2018 average
+1947,Thermosteric,-39.52290726,-47.73482513,-30.91557312,mm difference from 2002-2018 average
+1948,Thermosteric,-40.56562042,-48.85261154,-31.86532211,mm difference from 2002-2018 average
+1949,Thermosteric,-41.16189957,-48.88920593,-32.70880127,mm difference from 2002-2018 average
+1950,Thermosteric,-40.33299255,-48.57523346,-31.7433033,mm difference from 2002-2018 average
+1951,Thermosteric,-39.36175156,-47.57946777,-30.58270645,mm difference from 2002-2018 average
+1952,Thermosteric,-38.56855011,-46.74437332,-30.03125954,mm difference from 2002-2018 average
+1953,Thermosteric,-38.55813599,-46.92588043,-29.40072823,mm difference from 2002-2018 average
+1954,Thermosteric,-38.39777374,-46.83011627,-29.71811676,mm difference from 2002-2018 average
+1955,Thermosteric,-38.42973328,-46.13954926,-30.17968559,mm difference from 2002-2018 average
+1956,Thermosteric,-38.18144608,-46.08089828,-29.64883804,mm difference from 2002-2018 average
+1957,Thermosteric,-37.6677475,-41.54789734,-32.81664276,mm difference from 2002-2018 average
+1958,Thermosteric,-32.85158157,-36.070858,-30.54104614,mm difference from 2002-2018 average
+1959,Thermosteric,-34.8890686,-39.11736298,-30.99777603,mm difference from 2002-2018 average
+1960,Thermosteric,-32.15377808,-35.81500626,-29.01426506,mm difference from 2002-2018 average
+1961,Thermosteric,-30.27758598,-33.85169983,-26.45434189,mm difference from 2002-2018 average
+1962,Thermosteric,-28.98838234,-32.65175629,-25.91538048,mm difference from 2002-2018 average
+1963,Thermosteric,-30.32301521,-34.26134872,-26.75689888,mm difference from 2002-2018 average
+1964,Thermosteric,-32.66517639,-34.92962265,-28.58548355,mm difference from 2002-2018 average
+1965,Thermosteric,-33.07998657,-34.86851883,-30.33201599,mm difference from 2002-2018 average
+1966,Thermosteric,-32.52550125,-33.47755814,-31.37086678,mm difference from 2002-2018 average
+1967,Thermosteric,-33.74758148,-35.61957932,-31.23988914,mm difference from 2002-2018 average
+1968,Thermosteric,-35.79723358,-38.71073151,-34.2573204,mm difference from 2002-2018 average
+1969,Thermosteric,-35.12060547,-37.89654922,-33.00056839,mm difference from 2002-2018 average
+1970,Thermosteric,-34.4797821,-37.08669281,-31.49405479,mm difference from 2002-2018 average
+1971,Thermosteric,-32.36619186,-34.28116226,-29.93246078,mm difference from 2002-2018 average
+1972,Thermosteric,-31.22978401,-32.76494598,-28.52783966,mm difference from 2002-2018 average
+1973,Thermosteric,-30.47109985,-33.06658173,-27.48119164,mm difference from 2002-2018 average
+1974,Thermosteric,-29.49831772,-32.25730896,-26.15972137,mm difference from 2002-2018 average
+1975,Thermosteric,-27.00933647,-28.7084713,-24.07696915,mm difference from 2002-2018 average
+1976,Thermosteric,-27.39489365,-30.28824234,-22.38506699,mm difference from 2002-2018 average
+1977,Thermosteric,-26.20742416,-29.13467407,-21.95104408,mm difference from 2002-2018 average
+1978,Thermosteric,-25.88254166,-30.53726768,-20.82076836,mm difference from 2002-2018 average
+1979,Thermosteric,-26.23272896,-31.12568474,-19.43857002,mm difference from 2002-2018 average
+1980,Thermosteric,-23.1020298,-25.61093712,-19.7749176,mm difference from 2002-2018 average
+1981,Thermosteric,-23.4769783,-26.10120201,-20.85185242,mm difference from 2002-2018 average
+1982,Thermosteric,-24.79598808,-27.61345673,-21.00387955,mm difference from 2002-2018 average
+1983,Thermosteric,-26.22219467,-30.05125237,-21.03318977,mm difference from 2002-2018 average
+1984,Thermosteric,-25.93332863,-31.59076118,-20.98465729,mm difference from 2002-2018 average
+1985,Thermosteric,-24.25555801,-28.26623154,-20.31391144,mm difference from 2002-2018 average
+1986,Thermosteric,-22.57913399,-24.32987404,-19.58607674,mm difference from 2002-2018 average
+1987,Thermosteric,-22.7514801,-25.0423851,-19.12669373,mm difference from 2002-2018 average
+1988,Thermosteric,-21.70013046,-24.8991909,-18.71133614,mm difference from 2002-2018 average
+1989,Thermosteric,-22.13611794,-25.83030701,-18.40795898,mm difference from 2002-2018 average
+1990,Thermosteric,-22.01452065,-26.08275604,-18.35411835,mm difference from 2002-2018 average
+1991,Thermosteric,-19.32011414,-21.40783119,-17.22550011,mm difference from 2002-2018 average
+1992,Thermosteric,-19.37729263,-22.73636246,-15.5241785,mm difference from 2002-2018 average
+1993,Thermosteric,-19.75749016,-22.6671524,-15.12382984,mm difference from 2002-2018 average
+1994,Thermosteric,-18.82006264,-20.69031143,-15.82722473,mm difference from 2002-2018 average
+1995,Thermosteric,-19.78444099,-22.15412712,-15.97253323,mm difference from 2002-2018 average
+1996,Thermosteric,-16.73625946,-17.89139938,-14.93999004,mm difference from 2002-2018 average
+1997,Thermosteric,-16.42434311,-18.73156929,-14.34837341,mm difference from 2002-2018 average
+1998,Thermosteric,-16.1932869,-18.69731331,-13.48248196,mm difference from 2002-2018 average
+1999,Thermosteric,-14.12326622,-15.70123768,-12.85780048,mm difference from 2002-2018 average
+2000,Thermosteric,-14.55739212,-16.53658676,-11.92440796,mm difference from 2002-2018 average
+2001,Thermosteric,-11.66311932,-13.48885155,-9.928843498,mm difference from 2002-2018 average
+2002,Thermosteric,-8.339600563,-9.539894104,-7.354952335,mm difference from 2002-2018 average
+2003,Thermosteric,-5.616476536,-6.847700596,-3.478754759,mm difference from 2002-2018 average
+2004,Thermosteric,-5.638072491,-6.501552105,-4.991845608,mm difference from 2002-2018 average
+2005,Thermosteric,-4.908377171,-5.500259876,-4.189908028,mm difference from 2002-2018 average
+2006,Thermosteric,-3.671440601,-4.638466358,-2.415410519,mm difference from 2002-2018 average
+2007,Thermosteric,-4.624906063,-6.018044472,-3.4707551,mm difference from 2002-2018 average
+2008,Thermosteric,-2.783293724,-3.696332216,-2.081256866,mm difference from 2002-2018 average
+2009,Thermosteric,-1.151002407,-1.842621446,0.060745522,mm difference from 2002-2018 average
+2010,Thermosteric,-1.598745823,-1.98548615,-1.137802362,mm difference from 2002-2018 average
+2011,Thermosteric,-0.459240943,-0.843125165,-0.001976276,mm difference from 2002-2018 average
+2012,Thermosteric,1.179537892,0.553805351,1.802458882,mm difference from 2002-2018 average
+2013,Thermosteric,3.112605333,2.740455151,3.669378996,mm difference from 2002-2018 average
+2014,Thermosteric,4.670032024,4.308543682,5.028706551,mm difference from 2002-2018 average
+2015,Thermosteric,6.744699001,5.933525562,7.239516258,mm difference from 2002-2018 average
+2016,Thermosteric,6.472463131,5.686139584,7.420359135,mm difference from 2002-2018 average
+2017,Thermosteric,8.048317909,7.528717041,8.812847137,mm difference from 2002-2018 average
+2018,Thermosteric,8.563514709,7.737212658,9.56000042,mm difference from 2002-2018 average
+1900,Terrestrial Water Storage,12.3268261,2.799999952,21.79999924,mm difference from 2002-2018 average
+1901,Terrestrial Water Storage,15.2467041,5.75,24.70000076,mm difference from 2002-2018 average
+1902,Terrestrial Water Storage,16.57080841,7.150000095,26.10000038,mm difference from 2002-2018 average
+1903,Terrestrial Water Storage,16.62428856,7.150000095,26.10000038,mm difference from 2002-2018 average
+1904,Terrestrial Water Storage,16.22704506,6.699999809,25.70000076,mm difference from 2002-2018 average
+1905,Terrestrial Water Storage,16.79945564,7.300000191,26.39999962,mm difference from 2002-2018 average
+1906,Terrestrial Water Storage,14.79106712,5.300000191,24.35000038,mm difference from 2002-2018 average
+1907,Terrestrial Water Storage,14.42116356,4.949999809,23.85000038,mm difference from 2002-2018 average
+1908,Terrestrial Water Storage,15.12818718,5.699999809,24.64999962,mm difference from 2002-2018 average
+1909,Terrestrial Water Storage,15.98363686,6.550000191,25.5,mm difference from 2002-2018 average
+1910,Terrestrial Water Storage,16.35335732,6.849999905,26.04999924,mm difference from 2002-2018 average
+1911,Terrestrial Water Storage,16.71662712,7.25,26.25,mm difference from 2002-2018 average
+1912,Terrestrial Water Storage,16.53230286,7.150000095,25.85000038,mm difference from 2002-2018 average
+1913,Terrestrial Water Storage,15.47516155,6,24.75,mm difference from 2002-2018 average
+1914,Terrestrial Water Storage,16.90459442,7.349999905,26.45000076,mm difference from 2002-2018 average
+1915,Terrestrial Water Storage,17.79461479,8.350000381,27.20000076,mm difference from 2002-2018 average
+1916,Terrestrial Water Storage,15.4715519,5.900000095,24.79999924,mm difference from 2002-2018 average
+1917,Terrestrial Water Storage,12.65879631,3.25,22.10000038,mm difference from 2002-2018 average
+1918,Terrestrial Water Storage,14.92122459,5.449999809,24.35000038,mm difference from 2002-2018 average
+1919,Terrestrial Water Storage,16.7130127,7.25,26.10000038,mm difference from 2002-2018 average
+1920,Terrestrial Water Storage,16.14232063,6.800000191,25.39999962,mm difference from 2002-2018 average
+1921,Terrestrial Water Storage,15.72670364,6.199999809,25.14999962,mm difference from 2002-2018 average
+1922,Terrestrial Water Storage,15.32865143,6,24.79999924,mm difference from 2002-2018 average
+1923,Terrestrial Water Storage,13.3177042,3.900000095,22.54999924,mm difference from 2002-2018 average
+1924,Terrestrial Water Storage,14.32192802,5.099999905,23.60000038,mm difference from 2002-2018 average
+1925,Terrestrial Water Storage,14.41570663,4.949999809,23.60000038,mm difference from 2002-2018 average
+1926,Terrestrial Water Storage,13.62185097,4.199999809,22.85000038,mm difference from 2002-2018 average
+1927,Terrestrial Water Storage,12.6289854,3.349999905,21.75,mm difference from 2002-2018 average
+1928,Terrestrial Water Storage,14.25476456,5,23.5,mm difference from 2002-2018 average
+1929,Terrestrial Water Storage,15.04135323,5.849999905,24.10000038,mm difference from 2002-2018 average
+1930,Terrestrial Water Storage,16.19835281,7.150000095,25.29999924,mm difference from 2002-2018 average
+1931,Terrestrial Water Storage,16.17617989,7.050000191,25.45000076,mm difference from 2002-2018 average
+1932,Terrestrial Water Storage,16.01999283,6.900000095,25.35000038,mm difference from 2002-2018 average
+1933,Terrestrial Water Storage,15.98757839,6.900000095,25.10000038,mm difference from 2002-2018 average
+1934,Terrestrial Water Storage,15.31676388,6.25,24.45000076,mm difference from 2002-2018 average
+1935,Terrestrial Water Storage,14.35338306,5.099999905,23.39999962,mm difference from 2002-2018 average
+1936,Terrestrial Water Storage,16.23234558,7.150000095,25.35000038,mm difference from 2002-2018 average
+1937,Terrestrial Water Storage,16.30110741,7.400000095,25.20000076,mm difference from 2002-2018 average
+1938,Terrestrial Water Storage,15.64494801,6.650000095,24.45000076,mm difference from 2002-2018 average
+1939,Terrestrial Water Storage,15.36816883,6.400000095,24.25,mm difference from 2002-2018 average
+1940,Terrestrial Water Storage,15.90256119,6.949999809,25,mm difference from 2002-2018 average
+1941,Terrestrial Water Storage,15.89297676,7.050000191,24.79999924,mm difference from 2002-2018 average
+1942,Terrestrial Water Storage,14.88640022,5.949999809,23.79999924,mm difference from 2002-2018 average
+1943,Terrestrial Water Storage,14.11512566,5.199999809,23.04999924,mm difference from 2002-2018 average
+1944,Terrestrial Water Storage,15.49832916,6.650000095,24.5,mm difference from 2002-2018 average
+1945,Terrestrial Water Storage,14.27181339,5.400000095,23.10000038,mm difference from 2002-2018 average
+1946,Terrestrial Water Storage,14.42496777,5.599999905,23.10000038,mm difference from 2002-2018 average
+1947,Terrestrial Water Storage,13.70422745,4.900000095,22.54999924,mm difference from 2002-2018 average
+1948,Terrestrial Water Storage,13.41252708,4.699999809,21.95000076,mm difference from 2002-2018 average
+1949,Terrestrial Water Storage,13.62536812,4.949999809,22.14999962,mm difference from 2002-2018 average
+1950,Terrestrial Water Storage,12.31010818,3.599999905,20.75,mm difference from 2002-2018 average
+1951,Terrestrial Water Storage,14.4237299,5.75,22.89999962,mm difference from 2002-2018 average
+1952,Terrestrial Water Storage,14.6821003,6.349999905,23.14999962,mm difference from 2002-2018 average
+1953,Terrestrial Water Storage,13.68274784,5.449999809,22.14999962,mm difference from 2002-2018 average
+1954,Terrestrial Water Storage,13.80435181,5.300000191,22.25,mm difference from 2002-2018 average
+1955,Terrestrial Water Storage,11.77400208,3.5,19.89999962,mm difference from 2002-2018 average
+1956,Terrestrial Water Storage,9.127698898,0.899999976,17.10000038,mm difference from 2002-2018 average
+1957,Terrestrial Water Storage,9.383833885,1.25,17.39999962,mm difference from 2002-2018 average
+1958,Terrestrial Water Storage,11.14425468,3.200000048,19.14999962,mm difference from 2002-2018 average
+1959,Terrestrial Water Storage,10.5424881,2.75,18.29999924,mm difference from 2002-2018 average
+1960,Terrestrial Water Storage,9.923852921,2.349999905,17.54999924,mm difference from 2002-2018 average
+1961,Terrestrial Water Storage,9.572471619,2.099999905,17.04999924,mm difference from 2002-2018 average
+1962,Terrestrial Water Storage,8.80534935,1.5,16.20000076,mm difference from 2002-2018 average
+1963,Terrestrial Water Storage,8.808065414,1.399999976,16.20000076,mm difference from 2002-2018 average
+1964,Terrestrial Water Storage,8.601792336,1.549999952,15.75,mm difference from 2002-2018 average
+1965,Terrestrial Water Storage,7.528021812,0.949999988,14.25,mm difference from 2002-2018 average
+1966,Terrestrial Water Storage,6.758743763,0.300000012,13.30000019,mm difference from 2002-2018 average
+1967,Terrestrial Water Storage,5.798218727,-0.550000012,12.10000038,mm difference from 2002-2018 average
+1968,Terrestrial Water Storage,3.998297215,-2,10.14999962,mm difference from 2002-2018 average
+1969,Terrestrial Water Storage,4.584831715,-1.149999976,10.39999962,mm difference from 2002-2018 average
+1970,Terrestrial Water Storage,3.463519096,-2.049999952,9.100000381,mm difference from 2002-2018 average
+1971,Terrestrial Water Storage,2.05781126,-3.450000048,7.449999809,mm difference from 2002-2018 average
+1972,Terrestrial Water Storage,2.214305639,-3,7.349999905,mm difference from 2002-2018 average
+1973,Terrestrial Water Storage,0.658904672,-4.400000095,5.650000095,mm difference from 2002-2018 average
+1974,Terrestrial Water Storage,-4.624437332,-9.399999619,0.150000006,mm difference from 2002-2018 average
+1975,Terrestrial Water Storage,-2.60790205,-7.449999809,2.049999952,mm difference from 2002-2018 average
+1976,Terrestrial Water Storage,-2.19648838,-6.849999905,2.25,mm difference from 2002-2018 average
+1977,Terrestrial Water Storage,-1.326669097,-5.75,3.099999905,mm difference from 2002-2018 average
+1978,Terrestrial Water Storage,-4.348937035,-8.600000381,-0.150000006,mm difference from 2002-2018 average
+1979,Terrestrial Water Storage,-4.915073872,-9.100000381,-0.949999988,mm difference from 2002-2018 average
+1980,Terrestrial Water Storage,-2.910201788,-6.949999809,0.949999988,mm difference from 2002-2018 average
+1981,Terrestrial Water Storage,-3.764995098,-7.599999905,-0.100000001,mm difference from 2002-2018 average
+1982,Terrestrial Water Storage,-4.139982224,-7.900000095,-0.550000012,mm difference from 2002-2018 average
+1983,Terrestrial Water Storage,-3.270228863,-6.900000095,0.25,mm difference from 2002-2018 average
+1984,Terrestrial Water Storage,-4.243091583,-7.800000191,-0.850000024,mm difference from 2002-2018 average
+1985,Terrestrial Water Storage,-5.043009281,-8.350000381,-1.850000024,mm difference from 2002-2018 average
+1986,Terrestrial Water Storage,-5.348708153,-8.449999809,-2.25,mm difference from 2002-2018 average
+1987,Terrestrial Water Storage,-2.395387173,-5.400000095,0.600000024,mm difference from 2002-2018 average
+1988,Terrestrial Water Storage,-2.955027103,-6.050000191,0,mm difference from 2002-2018 average
+1989,Terrestrial Water Storage,-4.923722267,-7.75,-2.049999952,mm difference from 2002-2018 average
+1990,Terrestrial Water Storage,-4.803403378,-7.599999905,-2.099999905,mm difference from 2002-2018 average
+1991,Terrestrial Water Storage,-4.102180958,-6.849999905,-1.450000048,mm difference from 2002-2018 average
+1992,Terrestrial Water Storage,-2.382769346,-5.050000191,0.100000001,mm difference from 2002-2018 average
+1993,Terrestrial Water Storage,-4.960765362,-7.599999905,-2.299999952,mm difference from 2002-2018 average
+1994,Terrestrial Water Storage,-5.061406136,-7.550000191,-2.599999905,mm difference from 2002-2018 average
+1995,Terrestrial Water Storage,-3.81850481,-6.199999809,-1.350000024,mm difference from 2002-2018 average
+1996,Terrestrial Water Storage,-3.931960821,-6.349999905,-1.450000048,mm difference from 2002-2018 average
+1997,Terrestrial Water Storage,-4.718495846,-7.25,-2.200000048,mm difference from 2002-2018 average
+1998,Terrestrial Water Storage,-3.65807724,-5.949999809,-1.25,mm difference from 2002-2018 average
+1999,Terrestrial Water Storage,-4.432979107,-6.599999905,-2.099999905,mm difference from 2002-2018 average
+2000,Terrestrial Water Storage,-5.590409756,-7.699999809,-3.299999952,mm difference from 2002-2018 average
+2001,Terrestrial Water Storage,-3.270433903,-5.400000095,-0.899999976,mm difference from 2002-2018 average
+2002,Terrestrial Water Storage,-1.413324952,-3.450000048,0.850000024,mm difference from 2002-2018 average
+2003,Terrestrial Water Storage,-0.617242873,-2.049999952,1.100000024,mm difference from 2002-2018 average
+2004,Terrestrial Water Storage,-3.308558702,-4.599999905,-1.799999952,mm difference from 2002-2018 average
+2005,Terrestrial Water Storage,-1.751291513,-2.799999952,-0.449999988,mm difference from 2002-2018 average
+2006,Terrestrial Water Storage,-1.530057788,-2.400000095,-0.5,mm difference from 2002-2018 average
+2007,Terrestrial Water Storage,-2.290473938,-2.950000048,-1.450000048,mm difference from 2002-2018 average
+2008,Terrestrial Water Storage,-2.057154417,-2.599999905,-1.450000048,mm difference from 2002-2018 average
+2009,Terrestrial Water Storage,-1.032456517,-1.350000024,-0.649999976,mm difference from 2002-2018 average
+2010,Terrestrial Water Storage,-0.527471304,-0.75,-0.300000012,mm difference from 2002-2018 average
+2011,Terrestrial Water Storage,-3.327292204,-3.549999952,-3.099999905,mm difference from 2002-2018 average
+2012,Terrestrial Water Storage,0.736777544,0.349999994,1.100000024,mm difference from 2002-2018 average
+2013,Terrestrial Water Storage,0.398771912,-0.150000006,0.899999976,mm difference from 2002-2018 average
+2014,Terrestrial Water Storage,-0.759096682,-1.600000024,-0.050000001,mm difference from 2002-2018 average
+2015,Terrestrial Water Storage,3.344094515,2.299999952,4.25,mm difference from 2002-2018 average
+2016,Terrestrial Water Storage,4.953524113,3.650000095,6,mm difference from 2002-2018 average
+2017,Terrestrial Water Storage,2.755219698,1.200000048,4.050000191,mm difference from 2002-2018 average
+2018,Terrestrial Water Storage,2.005244732,0.200000003,3.450000048,mm difference from 2002-2018 average
