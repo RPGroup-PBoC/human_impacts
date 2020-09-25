@@ -9,13 +9,13 @@ hand in excel from the datasets found in `source`. This data set covers years
 from 1961 through 2018.
 
 ## Key Numbers
-| Commodity | Mass Produced (Mt) | Producing Population (Mhd) |
-| :--: | :--: | :--: | 
-| Poultry, Eggs | ≈ 70 | ≈ 7000 |
-| Poultry, Meat | ≈ 100 | ≈ 70 |
-| Cattle, Dairy | ≈ 700 | ≈ 300 | 
-| Cattle, Beef | ≈ 70 | ≈ 300 | 
-| Swine, Pork | ≈ 120 | ≈ 1500 |
+| Commodity | Mass Produced (Mt) | Producing Population (Mhd) | Yield (Kg / Head)|
+| :--: | :--: | :--: | :--: |
+| Poultry, Eggs | ≈ 70 | ≈ 7000 | ≈ 10 | 
+| Poultry, Meat | ≈ 100 | ≈ 70 | ≈ 1.5 | 
+| Cattle, Dairy | ≈ 700 | ≈ 300 | ≈ 2500 | 
+| Cattle, Beef | ≈ 70 | ≈ 300 | ≈ 200 |
+| Swine, Pork | ≈ 120 | ≈ 1500 | ≈ 80 |
 
 ## Source Information
 * **Source Website**:  Food and Agriculture Organization of the United Nations (FAO)
