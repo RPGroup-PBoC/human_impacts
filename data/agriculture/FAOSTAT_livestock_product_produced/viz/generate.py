@@ -59,7 +59,7 @@ for g, d in data.groupby('subcategory'):
                                 type="quantitative",
                                 title="production yield [kg / animal]"),
                        tooltip=[alt.Tooltip("year", type='temporal', timeUnit="year", title="year", format='%Y'),
-                                alt.Tooltip("yield_per_head", type='quantitative', format="0.1f", title="yield [kg / animal]")]
+                                alt.Tooltip("yield_kg_per_head", type='quantitative', format="0.1f", title="yield [kg / animal]")]
                       ).properties(width="container", 
                                     height=300
                       ).mark_line(color='dodgerblue')
