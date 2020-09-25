@@ -20,5 +20,6 @@ chart =  alt.Chart(data).encode(
 l = chart.mark_line(color='dodgerblue')    
 p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(l, p)
-layer
+layer.save('deforested_area.json')
+
 # %%
