@@ -1,0 +1,17 @@
+definition,expected,kingdom,observed,extinction_foldchange,bg_rate_EMSY
+highly conservative (extinct only),79.51528,animalia,762,9.583063783464008,2
+conservative (extinct or extinct in wild),79.51528,animalia,800,10.060959352718118,2
+moderate (extinct or probably extinct),79.51528,animalia,1370,17.229392891529777,2
+"permissive (extinct, probably extinct, extinct in wild, probably extinct in wild)",79.51528,animalia,1418,17.833050452692866,2
+highly conservative (extinct only),0.0156,chromista,0,0.0,2
+conservative (extinct or extinct in wild),0.0156,chromista,0,0.0,2
+moderate (extinct or probably extinct),0.0156,chromista,4,256.4102564102564,2
+"permissive (extinct, probably extinct, extinct in wild, probably extinct in wild)",0.0156,chromista,4,256.4102564102564,2
+highly conservative (extinct only),0.35672000000000004,fungi,0,0.0,2
+conservative (extinct or extinct in wild),0.35672000000000004,fungi,0,0.0,2
+moderate (extinct or probably extinct),0.35672000000000004,fungi,1,2.8033191298497417,2
+"permissive (extinct, probably extinct, extinct in wild, probably extinct in wild)",0.35672000000000004,fungi,1,2.8033191298497417,2
+highly conservative (extinct only),45.299279999999996,plantae,120,2.6490487266022775,2
+conservative (extinct or extinct in wild),45.299279999999996,plantae,159,3.5099895627480175,2
+moderate (extinct or probably extinct),45.299279999999996,plantae,444,9.801480288428426,2
+"permissive (extinct, probably extinct, extinct in wild, probably extinct in wild)",45.299279999999996,plantae,522,11.523361960719907,2
