@@ -9,7 +9,7 @@ melted = data.melt('year')
 melted.rename(columns={'variable':'subcategory', 'value':'volume_km3'}, inplace=True)
 
 # Add coarse-grained categorizations. 
-melted.loc[(melted['subcategory']=='reservoir'), 'category'] = 'fragmentation',
+melted.loc[(melted['subcategory']=='reservoir'), 'category'] = 'reservoir',
 melted.loc[(melted['subcategory']=='livestock') |
            (melted['subcategory']=='other_annuals') |
            (melted['subcategory']=='rice') |
@@ -17,11 +17,16 @@ melted.loc[(melted['subcategory']=='livestock') |
            (melted['subcategory']=='perennials') |
            (melted['subcategory']=='wheat'), 'category'] = 'agriculture'
 melted.loc[(melted['subcategory']=='population'), 'category'] = 'domestic_municipal'
-melted.loc[(melted['subcategory']=='power'), 'category'] == 'thermal_power'
+melted.loc[(melted['subcategory']=='thermal_power'), 'category'] = 'thermal_power'
 
 # Save as a processed file. 
-melted.to_csv('processed/Qin2019_category_volume_1980-2016.csv',
+melted.to_csv('processed/Qin2019_subcategory_volume_1980-2016.csv',
                index=False)
+        
+# Compute the aggregate for all categories
+categorized = melted.groupby(['category', 'year']).sum().reset_index()
+
+categorized.to_csv('./processed/Qin2019_category_volume_1980-2016.csv', index=False)
 # %%
 # Compute the 2016 breakdowns. 
 latest = melted[melted['year']==2016]
@@ -33,7 +38,7 @@ cat = {'reservoir': {
             'flood_control':0.08,
             'water_supply':0.01,
             'other':0.08},
-       'power': {
+       'thermal_power': {
             'coal': 0.54,
             'nuclear': 0.15,
             'waste_heat': 0.14,
@@ -62,14 +67,15 @@ breakdown_df = pd.DataFrame({})
 for k, v in cat.items():
     d = latest[latest['subcategory']==k]
     total_vol = d['volume_km3'].values[0]
-    if k in ['livestock', 'perennials', 'other_annuals', 'wheat', 'maize', 'rice']:
+    if k in ['perennials', 'other_annuals', 'wheat', 'maize', 'rice']:
         cat = 'agriculture'
     for _k, _v in v.items():
+        print(k)
         if _k == 'hydroelectric':
-            cat = 'power'
+            cat = 'hydroelectric_power'
         elif _k == 'population':
             cat = 'domestic/municipal'
-        elif k  in ['livestock', 'perennials', 'other_annuals', 'wheat', 'maize', 'rice']:
+        elif k  in ['perennials', 'other_annuals', 'wheat', 'maize', 'rice']:
             cat = 'agriculture'
         else:
             cat = k
@@ -87,5 +93,9 @@ breakdown_df.to_csv('./processed/Qin2019_subcategory_volume_breakdown_2016.csv',
 # %%
 # Compute a more coarse-grained breakdown of the 2016 values.
 grouped = breakdown_df.groupby(['category', 'year']).sum().reset_index()
-grouped
+grouped.to_csv('./processed/Qin2019_category_volume_breakdown_2016.csv', index=False)
+
+# %%
+
+
 # %%

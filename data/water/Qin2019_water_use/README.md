@@ -6,7 +6,18 @@ This dataset corresponds to figure 1A of the source material and reports the vol
 of water used globally by humans for a variety of different purposes. 
 
 ## Key Numbers
- 
+
+**2016 Water Use Breakdown**
+|  Category | Volume [km^3] | Fraction of Total |
+|:--:|:--:|:--:|
+|Agriculture | 1265 | ≈ 74% |
+|Domestic/Municipal | ≈54 | ≈ 3% |
+|Hydroelectric | ≈245 | ≈ 15% |
+| Livestock | ≈ 17 | ≈ 1%\
+| Reservoir Management | ≈110 | ≈6% |
+| Thermal Power Generation | ≈ 20 | ≈ 1%
+| Total Water use | 1711 | 100% |
+
 
 ## Source Information
 * **Source**: Qin, Y., Mueller, N.D., Siebert, S., Jackson, R.B., AghaKouchak, A., Zimmerman, J.B., Tong, D., Hong, C., and Davis, S.J. (2019). Flexibility and intensity of global water use. Nature Sustainability 2, 515–523.
