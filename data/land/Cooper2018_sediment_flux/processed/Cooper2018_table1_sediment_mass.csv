@@ -1,0 +1,911 @@
+﻿year,quantity,units,value
+1925,coal production,Gt,1.372
+1926,coal production,Gt,1.262
+1927,coal production,Gt,1.473
+1928,coal production,Gt,1.463
+1929,coal production,Gt,1.555
+1930,coal production,Gt,1.412
+1931,coal production,Gt,1.26
+1932,coal production,Gt,1.128
+1933,coal production,Gt,1.168
+1934,coal production,Gt,1.28
+1935,coal production,Gt,1.321
+1936,coal production,Gt,1.443
+1937,coal production,Gt,1.534
+1938,coal production,Gt,1.443
+1939,coal production,Gt,1.575
+1940,coal production,Gt,1.687
+1941,coal production,Gt,1.773
+1942,coal production,Gt,1.784
+1943,coal production,Gt,1.798
+1944,coal production,Gt,1.727
+1945,coal production,Gt,1.345
+1946,coal production,Gt,1.468
+1947,coal production,Gt,1.648
+1948,coal production,Gt,1.695
+1949,coal production,Gt,1.697
+1950,coal production,Gt,1.821
+1951,coal production,Gt,1.933
+1952,coal production,Gt,1.93
+1953,coal production,Gt,1.961
+1954,coal production,Gt,1.971
+1955,coal production,Gt,2.134
+1956,coal production,Gt,2.256
+1957,coal production,Gt,2.337
+1958,coal production,Gt,2.439
+1959,coal production,Gt,2.52
+1960,coal production,Gt,2.632
+1961,coal production,Gt,2.479
+1962,coal production,Gt,2.55
+1963,coal production,Gt,2.652
+1964,coal production,Gt,2.753
+1965,coal production,Gt,2.804
+1966,coal production,Gt,2.835
+1967,coal production,Gt,2.73
+1968,coal production,Gt,2.745
+1969,coal production,Gt,2.871
+1970,coal production,Gt,2.944
+1971,coal production,Gt,2.95
+1972,coal production,Gt,3.041
+1973,coal production,Gt,3.065
+1974,coal production,Gt,3.107
+1975,coal production,Gt,3.253
+1976,coal production,Gt,3.349
+1977,coal production,Gt,3.51
+1978,coal production,Gt,3.558
+1979,coal production,Gt,3.719
+1980,coal production,Gt,3.806
+1981,coal production,Gt,3.844
+1982,coal production,Gt,3.996
+1983,coal production,Gt,4.018
+1984,coal production,Gt,4.231
+1985,coal production,Gt,4.456
+1986,coal production,Gt,4.567
+1987,coal production,Gt,4.669
+1988,coal production,Gt,4.783
+1989,coal production,Gt,4.865
+1990,coal production,Gt,4.711
+1991,coal production,Gt,4.383
+1992,coal production,Gt,4.509
+1993,coal production,Gt,4.404
+1994,coal production,Gt,4.516
+1995,coal production,Gt,4.63
+1996,coal production,Gt,4.699
+1997,coal production,Gt,4.766
+1998,coal production,Gt,4.602
+1999,coal production,Gt,4.323
+2000,coal production,Gt,4.31
+2001,coal production,Gt,4.638
+2002,coal production,Gt,4.815
+2003,coal production,Gt,5.21
+2004,coal production,Gt,5.711
+2005,coal production,Gt,6.046
+2006,coal production,Gt,6.345
+2007,coal production,Gt,6.572
+2008,coal production,Gt,6.815
+2009,coal production,Gt,6.849
+2010,coal production,Gt,7.153
+2011,coal production,Gt,7.931
+2012,coal production,Gt,8.201
+2013,coal production,Gt,8.226
+2014,coal production,Gt,8.165
+2015,coal production,Gt,7.86
+1925,coal waste/overburden,Gt,0.589
+1926,coal waste/overburden,Gt,0.603
+1927,coal waste/overburden,Gt,0.67
+1928,coal waste/overburden,Gt,0.684
+1929,coal waste/overburden,Gt,0.752
+1930,coal waste/overburden,Gt,0.709
+1931,coal waste/overburden,Gt,0.656
+1932,coal waste/overburden,Gt,0.623
+1933,coal waste/overburden,Gt,0.684
+1934,coal waste/overburden,Gt,0.795
+1935,coal waste/overburden,Gt,0.87
+1936,coal waste/overburden,Gt,1.009
+1937,coal waste/overburden,Gt,1.137
+1938,coal waste/overburden,Gt,1.134
+1939,coal waste/overburden,Gt,1.311
+1940,coal waste/overburden,Gt,1.539
+1941,coal waste/overburden,Gt,1.71
+1942,coal waste/overburden,Gt,1.818
+1943,coal waste/overburden,Gt,1.975
+1944,coal waste/overburden,Gt,2.037
+1945,coal waste/overburden,Gt,1.718
+1946,coal waste/overburden,Gt,2.025
+1947,coal waste/overburden,Gt,2.421
+1948,coal waste/overburden,Gt,2.646
+1949,coal waste/overburden,Gt,2.841
+1950,coal waste/overburden,Gt,3.226
+1951,coal waste/overburden,Gt,3.617
+1952,coal waste/overburden,Gt,3.853
+1953,coal waste/overburden,Gt,4.166
+1954,coal waste/overburden,Gt,4.402
+1955,coal waste/overburden,Gt,5.002
+1956,coal waste/overburden,Gt,5.602
+1957,coal waste/overburden,Gt,6.076
+1958,coal waste/overburden,Gt,6.629
+1959,coal waste/overburden,Gt,7.23
+1960,coal waste/overburden,Gt,7.958
+1961,coal waste/overburden,Gt,7.892
+1962,coal waste/overburden,Gt,8.536
+1963,coal waste/overburden,Gt,9.322
+1964,coal waste/overburden,Gt,10.154
+1965,coal waste/overburden,Gt,10.837
+1966,coal waste/overburden,Gt,11.469
+1967,coal waste/overburden,Gt,11.51
+1968,coal waste/overburden,Gt,12.139
+1969,coal waste/overburden,Gt,13.254
+1970,coal waste/overburden,Gt,14.175
+1971,coal waste/overburden,Gt,14.627
+1972,coal waste/overburden,Gt,15.522
+1973,coal waste/overburden,Gt,16.287
+1974,coal waste/overburden,Gt,16.98
+1975,coal waste/overburden,Gt,18.277
+1976,coal waste/overburden,Gt,19.228
+1977,coal waste/overburden,Gt,20.427
+1978,coal waste/overburden,Gt,20.963
+1979,coal waste/overburden,Gt,22.182
+1980,coal waste/overburden,Gt,22.928
+1981,coal waste/overburden,Gt,23.512
+1982,coal waste/overburden,Gt,24.811
+1983,coal waste/overburden,Gt,25.319
+1984,coal waste/overburden,Gt,27.052
+1985,coal waste/overburden,Gt,28.903
+1986,coal waste/overburden,Gt,30.044
+1987,coal waste/overburden,Gt,31.147
+1988,coal waste/overburden,Gt,32.128
+1989,coal waste/overburden,Gt,32.904
+1990,coal waste/overburden,Gt,32.298
+1991,coal waste/overburden,Gt,30.049
+1992,coal waste/overburden,Gt,32.039
+1993,coal waste/overburden,Gt,32.411
+1994,coal waste/overburden,Gt,34.398
+1995,coal waste/overburden,Gt,36.25
+1996,coal waste/overburden,Gt,37.415
+1997,coal waste/overburden,Gt,38.828
+1998,coal waste/overburden,Gt,38.743
+1999,coal waste/overburden,Gt,37.59
+2000,coal waste/overburden,Gt,38.679
+2001,coal waste/overburden,Gt,42.139
+2002,coal waste/overburden,Gt,43.847
+2003,coal waste/overburden,Gt,47.55
+2004,coal waste/overburden,Gt,52.217
+2005,coal waste/overburden,Gt,55.371
+2006,coal waste/overburden,Gt,57.597
+2007,coal waste/overburden,Gt,59.102
+2008,coal waste/overburden,Gt,60.68
+2009,coal waste/overburden,Gt,60.349
+2010,coal waste/overburden,Gt,62.324
+2011,coal waste/overburden,Gt,67.934
+2012,coal waste/overburden,Gt,69.012
+2013,coal waste/overburden,Gt,69.37
+2014,coal waste/overburden,Gt,68.702
+2015,coal waste/overburden,Gt,65.788
+1925,coal production and waste/overburden,Gt,1.96
+1926,coal production and waste/overburden,Gt,1.965
+1927,coal production and waste/overburden,Gt,2.144
+1928,coal production and waste/overburden,Gt,2.147
+1929,coal production and waste/overburden,Gt,2.307
+1930,coal production and waste/overburden,Gt,2.121
+1931,coal production and waste/overburden,Gt,1.916
+1932,coal production and waste/overburden,Gt,1.75
+1933,coal production and waste/overburden,Gt,1.853
+1934,coal production and waste/overburden,Gt,2.075
+1935,coal production and waste/overburden,Gt,2.191
+1936,coal production and waste/overburden,Gt,2.451
+1937,coal production and waste/overburden,Gt,2.672
+1938,coal production and waste/overburden,Gt,2.576
+1939,coal production and waste/overburden,Gt,2.886
+1940,coal production and waste/overburden,Gt,3.226
+1941,coal production and waste/overburden,Gt,3.483
+1942,coal production and waste/overburden,Gt,3.602
+1943,coal production and waste/overburden,Gt,3.773
+1944,coal production and waste/overburden,Gt,3.764
+1945,coal production and waste/overburden,Gt,3.063
+1946,coal production and waste/overburden,Gt,3.493
+1947,coal production and waste/overburden,Gt,4.069
+1948,coal production and waste/overburden,Gt,4.341
+1949,coal production and waste/overburden,Gt,4.538
+1950,coal production and waste/overburden,Gt,5.047
+1951,coal production and waste/overburden,Gt,5.55
+1952,coal production and waste/overburden,Gt,5.784
+1953,coal production and waste/overburden,Gt,6.127
+1954,coal production and waste/overburden,Gt,6.373
+1955,coal production and waste/overburden,Gt,7.135
+1956,coal production and waste/overburden,Gt,7.858
+1957,coal production and waste/overburden,Gt,8.413
+1958,coal production and waste/overburden,Gt,9.068
+1959,coal production and waste/overburden,Gt,9.749
+1960,coal production and waste/overburden,Gt,10.589
+1961,coal production and waste/overburden,Gt,10.371
+1962,coal production and waste/overburden,Gt,11.086
+1963,coal production and waste/overburden,Gt,11.974
+1964,coal production and waste/overburden,Gt,12.907
+1965,coal production and waste/overburden,Gt,13.641
+1966,coal production and waste/overburden,Gt,14.304
+1967,coal production and waste/overburden,Gt,14.229
+1968,coal production and waste/overburden,Gt,14.884
+1969,coal production and waste/overburden,Gt,16.126
+1970,coal production and waste/overburden,Gt,17.119
+1971,coal production and waste/overburden,Gt,17.577
+1972,coal production and waste/overburden,Gt,18.563
+1973,coal production and waste/overburden,Gt,19.352
+1974,coal production and waste/overburden,Gt,20.087
+1975,coal production and waste/overburden,Gt,21.53
+1976,coal production and waste/overburden,Gt,22.577
+1977,coal production and waste/overburden,Gt,23.937
+1978,coal production and waste/overburden,Gt,24.521
+1979,coal production and waste/overburden,Gt,25.901
+1980,coal production and waste/overburden,Gt,26.734
+1981,coal production and waste/overburden,Gt,27.356
+1982,coal production and waste/overburden,Gt,28.807
+1983,coal production and waste/overburden,Gt,29.337
+1984,coal production and waste/overburden,Gt,31.283
+1985,coal production and waste/overburden,Gt,33.359
+1986,coal production and waste/overburden,Gt,34.611
+1987,coal production and waste/overburden,Gt,35.816
+1988,coal production and waste/overburden,Gt,36.911
+1989,coal production and waste/overburden,Gt,37.769
+1990,coal production and waste/overburden,Gt,37.009
+1991,coal production and waste/overburden,Gt,34.432
+1992,coal production and waste/overburden,Gt,36.548
+1993,coal production and waste/overburden,Gt,36.815
+1994,coal production and waste/overburden,Gt,38.914
+1995,coal production and waste/overburden,Gt,40.88
+1996,coal production and waste/overburden,Gt,42.115
+1997,coal production and waste/overburden,Gt,43.593
+1998,coal production and waste/overburden,Gt,34.345
+1999,coal production and waste/overburden,Gt,41.913
+2000,coal production and waste/overburden,Gt,42.989
+2001,coal production and waste/overburden,Gt,46.777
+2002,coal production and waste/overburden,Gt,48.662
+2003,coal production and waste/overburden,Gt,52.76
+2004,coal production and waste/overburden,Gt,57.928
+2005,coal production and waste/overburden,Gt,61.417
+2006,coal production and waste/overburden,Gt,63.942
+2007,coal production and waste/overburden,Gt,65.674
+2008,coal production and waste/overburden,Gt,67.494
+2009,coal production and waste/overburden,Gt,67.198
+2010,coal production and waste/overburden,Gt,69.476
+2011,coal production and waste/overburden,Gt,75.865
+2012,coal production and waste/overburden,Gt,77.214
+2013,coal production and waste/overburden,Gt,77.596
+2014,coal production and waste/overburden,Gt,76.867
+2015,coal production and waste/overburden,Gt,73.649
+1925,mineral/metal production and waste/overburden,Gt,0.571
+1926,mineral/metal production and waste/overburden,Gt,0.585
+1927,mineral/metal production and waste/overburden,Gt,0.663
+1928,mineral/metal production and waste/overburden,Gt,0.688
+1929,mineral/metal production and waste/overburden,Gt,0.746
+1930,mineral/metal production and waste/overburden,Gt,0.692
+1931,mineral/metal production and waste/overburden,Gt,0.643
+1932,mineral/metal production and waste/overburden,Gt,0.586
+1933,mineral/metal production and waste/overburden,Gt,0.619
+1934,mineral/metal production and waste/overburden,Gt,0.704
+1935,mineral/metal production and waste/overburden,Gt,0.74
+1936,mineral/metal production and waste/overburden,Gt,0.822
+1937,mineral/metal production and waste/overburden,Gt,0.89
+1938,mineral/metal production and waste/overburden,Gt,0.866
+1939,mineral/metal production and waste/overburden,Gt,0.961
+1940,mineral/metal production and waste/overburden,Gt,1.063
+1941,mineral/metal production and waste/overburden,Gt,1.152
+1942,mineral/metal production and waste/overburden,Gt,1.178
+1943,mineral/metal production and waste/overburden,Gt,1.223
+1944,mineral/metal production and waste/overburden,Gt,1.209
+1945,mineral/metal production and waste/overburden,Gt,0.969
+1946,mineral/metal production and waste/overburden,Gt,1.101
+1947,mineral/metal production and waste/overburden,Gt,1.269
+1948,mineral/metal production and waste/overburden,Gt,1.339
+1949,mineral/metal production and waste/overburden,Gt,1.391
+1950,mineral/metal production and waste/overburden,Gt,1.555
+1951,mineral/metal production and waste/overburden,Gt,1.72
+1952,mineral/metal production and waste/overburden,Gt,1.776
+1953,mineral/metal production and waste/overburden,Gt,1.883
+1954,mineral/metal production and waste/overburden,Gt,1.971
+1955,mineral/metal production and waste/overburden,Gt,2.219
+1956,mineral/metal production and waste/overburden,Gt,2.436
+1957,mineral/metal production and waste/overburden,Gt,2.641
+1958,mineral/metal production and waste/overburden,Gt,2.877
+1959,mineral/metal production and waste/overburden,Gt,3.074
+1960,mineral/metal production and waste/overburden,Gt,3.342
+1961,mineral/metal production and waste/overburden,Gt,3.272
+1962,mineral/metal production and waste/overburden,Gt,3.494
+1963,mineral/metal production and waste/overburden,Gt,3.766
+1964,mineral/metal production and waste/overburden,Gt,4.048
+1965,mineral/metal production and waste/overburden,Gt,4.263
+1966,mineral/metal production and waste/overburden,Gt,4.451
+1967,mineral/metal production and waste/overburden,Gt,4.434
+1968,mineral/metal production and waste/overburden,Gt,4.612
+1969,mineral/metal production and waste/overburden,Gt,4.967
+1970,mineral/metal production and waste/overburden,Gt,5.211
+1971,mineral/metal production and waste/overburden,Gt,5.369
+1972,mineral/metal production and waste/overburden,Gt,5.687
+1973,mineral/metal production and waste/overburden,Gt,5.854
+1974,mineral/metal production and waste/overburden,Gt,6.09
+1975,mineral/metal production and waste/overburden,Gt,6.498
+1976,mineral/metal production and waste/overburden,Gt,6.832
+1977,mineral/metal production and waste/overburden,Gt,7.266
+1978,mineral/metal production and waste/overburden,Gt,7.507
+1979,mineral/metal production and waste/overburden,Gt,8.033
+1980,mineral/metal production and waste/overburden,Gt,8.335
+1981,mineral/metal production and waste/overburden,Gt,8.572
+1982,mineral/metal production and waste/overburden,Gt,9.071
+1983,mineral/metal production and waste/overburden,Gt,9.282
+1984,mineral/metal production and waste/overburden,Gt,9.901
+1985,mineral/metal production and waste/overburden,Gt,10.605
+1986,mineral/metal production and waste/overburden,Gt,11.006
+1987,mineral/metal production and waste/overburden,Gt,11.439
+1988,mineral/metal production and waste/overburden,Gt,11.91
+1989,mineral/metal production and waste/overburden,Gt,12.26
+1990,mineral/metal production and waste/overburden,Gt,12.06
+1991,mineral/metal production and waste/overburden,Gt,11.352
+1992,mineral/metal production and waste/overburden,Gt,11.859
+1993,mineral/metal production and waste/overburden,Gt,11.715
+1994,mineral/metal production and waste/overburden,Gt,12.147
+1995,mineral/metal production and waste/overburden,Gt,12.64
+1996,mineral/metal production and waste/overburden,Gt,12.97
+1997,mineral/metal production and waste/overburden,Gt,13.296
+1998,mineral/metal production and waste/overburden,Gt,12.978
+1999,mineral/metal production and waste/overburden,Gt,12.321
+2000,mineral/metal production and waste/overburden,Gt,12.423
+2001,mineral/metal production and waste/overburden,Gt,13.498
+2002,mineral/metal production and waste/overburden,Gt,14.108
+2003,mineral/metal production and waste/overburden,Gt,15.371
+2004,mineral/metal production and waste/overburden,Gt,16.962
+2005,mineral/metal production and waste/overburden,Gt,18.078
+2006,mineral/metal production and waste/overburden,Gt,19.034
+2007,mineral/metal production and waste/overburden,Gt,19.781
+2008,mineral/metal production and waste/overburden,Gt,20.512
+2009,mineral/metal production and waste/overburden,Gt,20.684
+2010,mineral/metal production and waste/overburden,Gt,22.587
+2011,mineral/metal production and waste/overburden,Gt,24.429
+2012,mineral/metal production and waste/overburden,Gt,25.752
+2013,mineral/metal production and waste/overburden,Gt,26.571
+2014,mineral/metal production and waste/overburden,Gt,27.27
+2015,mineral/metal production and waste/overburden,Gt,26.951
+1925,cement production,Gt,0.061
+1926,cement production,Gt,0.062
+1927,cement production,Gt,0.068
+1928,cement production,Gt,0.072
+1929,cement production,Gt,0.075
+1930,cement production,Gt,0.072
+1931,cement production,Gt,0.062
+1932,cement production,Gt,0.049
+1933,cement production,Gt,0.048
+1934,cement production,Gt,0.058
+1935,cement production,Gt,0.065
+1936,cement production,Gt,0.053
+1937,cement production,Gt,0.083
+1938,cement production,Gt,0.086
+1939,cement production,Gt,0.093
+1940,cement production,Gt,0.081
+1941,cement production,Gt,0.088
+1942,cement production,Gt,0.081
+1943,cement production,Gt,0.071
+1944,cement production,Gt,0.055
+1945,cement production,Gt,0.05
+1946,cement production,Gt,0.073
+1947,cement production,Gt,0.086
+1948,cement production,Gt,0.102
+1949,cement production,Gt,0.115
+1950,cement production,Gt,0.133
+1951,cement production,Gt,0.149
+1952,cement production,Gt,0.161
+1953,cement production,Gt,0.178
+1954,cement production,Gt,0.195
+1955,cement production,Gt,0.217
+1956,cement production,Gt,0.235
+1957,cement production,Gt,0.247
+1958,cement production,Gt,0.263
+1959,cement production,Gt,0.294
+1960,cement production,Gt,0.317
+1961,cement production,Gt,0.333
+1962,cement production,Gt,0.359
+1963,cement production,Gt,0.378
+1964,cement production,Gt,0.416
+1965,cement production,Gt,0.433
+1966,cement production,Gt,0.464
+1967,cement production,Gt,0.48
+1968,cement production,Gt,0.515
+1969,cement production,Gt,0.543
+1970,cement production,Gt,0.572
+1971,cement production,Gt,0.59
+1972,cement production,Gt,0.661
+1973,cement production,Gt,0.702
+1974,cement production,Gt,0.703
+1975,cement production,Gt,0.702
+1976,cement production,Gt,0.735
+1977,cement production,Gt,0.797
+1978,cement production,Gt,0.853
+1979,cement production,Gt,0.872
+1980,cement production,Gt,0.883
+1981,cement production,Gt,0.887
+1982,cement production,Gt,0.887
+1983,cement production,Gt,0.917
+1984,cement production,Gt,0.941
+1985,cement production,Gt,0.959
+1986,cement production,Gt,1.008
+1987,cement production,Gt,1.053
+1988,cement production,Gt,1.118
+1989,cement production,Gt,1.042
+1990,cement production,Gt,1.043
+1991,cement production,Gt,1.185
+1992,cement production,Gt,1.123
+1993,cement production,Gt,1.291
+1994,cement production,Gt,1.37
+1995,cement production,Gt,1.445
+1996,cement production,Gt,1.493
+1997,cement production,Gt,1.547
+1998,cement production,Gt,1.54
+1999,cement production,Gt,1.6
+2000,cement production,Gt,1.66
+2001,cement production,Gt,1.75
+2002,cement production,Gt,1.85
+2003,cement production,Gt,2.02
+2004,cement production,Gt,2.19
+2005,cement production,Gt,2.35
+2006,cement production,Gt,2.62
+2007,cement production,Gt,2.82
+2008,cement production,Gt,2.85
+2009,cement production,Gt,3.05
+2010,cement production,Gt,3.29
+2011,cement production,Gt,3.65
+2012,cement production,Gt,3.82
+2013,cement production,Gt,4.07
+2014,cement production,Gt,4.18
+2015,cement production,Gt,4.1
+1925,aggregate production,Gt,0.341
+1926,aggregate production,Gt,0.353
+1927,aggregate production,Gt,0.385
+1928,aggregate production,Gt,0.412
+1929,aggregate production,Gt,0.429
+1930,aggregate production,Gt,0.416
+1931,aggregate production,Gt,0.359
+1932,aggregate production,Gt,0.286
+1933,aggregate production,Gt,0.281
+1934,aggregate production,Gt,0.341
+1935,aggregate production,Gt,0.386
+1936,aggregate production,Gt,0.374
+1937,aggregate production,Gt,0.496
+1938,aggregate production,Gt,0.52
+1939,aggregate production,Gt,0.567
+1940,aggregate production,Gt,0.498
+1941,aggregate production,Gt,0.546
+1942,aggregate production,Gt,0.506
+1943,aggregate production,Gt,0.452
+1944,aggregate production,Gt,0.354
+1945,aggregate production,Gt,0.324
+1946,aggregate production,Gt,0.479
+1947,aggregate production,Gt,0.571
+1948,aggregate production,Gt,0.689
+1949,aggregate production,Gt,0.788
+1950,aggregate production,Gt,0.924
+1951,aggregate production,Gt,1.043
+1952,aggregate production,Gt,1.135
+1953,aggregate production,Gt,1.273
+1954,aggregate production,Gt,1.413
+1955,aggregate production,Gt,1.597
+1956,aggregate production,Gt,1.754
+1957,aggregate production,Gt,2.864
+1958,aggregate production,Gt,2.008
+1959,aggregate production,Gt,2.281
+1960,aggregate production,Gt,2.485
+1961,aggregate production,Gt,2.649
+1962,aggregate production,Gt,2.904
+1963,aggregate production,Gt,3.137
+1964,aggregate production,Gt,3.533
+1965,aggregate production,Gt,3.771
+1966,aggregate production,Gt,4.131
+1967,aggregate production,Gt,4.342
+1968,aggregate production,Gt,4.74
+1969,aggregate production,Gt,5.105
+1970,aggregate production,Gt,5.489
+1971,aggregate production,Gt,5.782
+1972,aggregate production,Gt,6.61
+1973,aggregate production,Gt,7.16
+1974,aggregate production,Gt,7.313
+1975,aggregate production,Gt,7.408
+1976,aggregate production,Gt,7.906
+1977,aggregate production,Gt,8.649
+1978,aggregate production,Gt,9.383
+1979,aggregate production,Gt,9.684
+1980,aggregate production,Gt,9.935
+1981,aggregate production,Gt,10.108
+1982,aggregate production,Gt,10.249
+1983,aggregate production,Gt,10.724
+1984,aggregate production,Gt,11.152
+1985,aggregate production,Gt,11.513
+1986,aggregate production,Gt,12.298
+1987,aggregate production,Gt,13.057
+1988,aggregate production,Gt,14.087
+1989,aggregate production,Gt,13.338
+1990,aggregate production,Gt,13.455
+1991,aggregate production,Gt,15.405
+1992,aggregate production,Gt,14.711
+1993,aggregate production,Gt,17.106
+1994,aggregate production,Gt,18.358
+1995,aggregate production,Gt,19.58
+1996,aggregate production,Gt,20.379
+1997,aggregate production,Gt,21.349
+1998,aggregate production,Gt,21.56
+1999,aggregate production,Gt,22.56
+2000,aggregate production,Gt,23.572
+2001,aggregate production,Gt,25.025
+2002,aggregate production,Gt,26.64
+2003,aggregate production,Gt,29.29
+2004,aggregate production,Gt,31.974
+2005,aggregate production,Gt,34.545
+2006,aggregate production,Gt,38.907
+2007,aggregate production,Gt,42.3
+2008,aggregate production,Gt,43.235
+2009,aggregate production,Gt,46.818
+2010,aggregate production,Gt,50.995
+2011,aggregate production,Gt,56.575
+2012,aggregate production,Gt,59.592
+2013,aggregate production,Gt,63.899
+2014,aggregate production,Gt,65.626
+2015,aggregate production,Gt,64.37
+1925,cement and aggregate production,Gt,0.401
+1926,cement and aggregate production,Gt,0.415
+1927,cement and aggregate production,Gt,0.453
+1928,cement and aggregate production,Gt,0.484
+1929,cement and aggregate production,Gt,0.504
+1930,cement and aggregate production,Gt,0.488
+1931,cement and aggregate production,Gt,0.421
+1932,cement and aggregate production,Gt,0.335
+1933,cement and aggregate production,Gt,0.329
+1934,cement and aggregate production,Gt,0.299
+1935,cement and aggregate production,Gt,0.451
+1936,cement and aggregate production,Gt,0.436
+1937,cement and aggregate production,Gt,0.579
+1938,cement and aggregate production,Gt,0.606
+1939,cement and aggregate production,Gt,0.66
+1940,cement and aggregate production,Gt,0.579
+1941,cement and aggregate production,Gt,0.634
+1942,cement and aggregate production,Gt,0.587
+1943,cement and aggregate production,Gt,0.523
+1944,cement and aggregate production,Gt,0.409
+1945,cement and aggregate production,Gt,0.374
+1946,cement and aggregate production,Gt,0.551
+1947,cement and aggregate production,Gt,0.656
+1948,cement and aggregate production,Gt,0.791
+1949,cement and aggregate production,Gt,0.903
+1950,cement and aggregate production,Gt,1.057
+1951,cement and aggregate production,Gt,1.192
+1952,cement and aggregate production,Gt,1.296
+1953,cement and aggregate production,Gt,1.451
+1954,cement and aggregate production,Gt,1.608
+1955,cement and aggregate production,Gt,1.814
+1956,cement and aggregate production,Gt,1.989
+1957,cement and aggregate production,Gt,2.111
+1958,cement and aggregate production,Gt,2.271
+1959,cement and aggregate production,Gt,2.575
+1960,cement and aggregate production,Gt,2.801
+1961,cement and aggregate production,Gt,2.982
+1962,cement and aggregate production,Gt,3.262
+1963,cement and aggregate production,Gt,3.515
+1964,cement and aggregate production,Gt,3.948
+1965,cement and aggregate production,Gt,4.204
+1966,cement and aggregate production,Gt,4.596
+1967,cement and aggregate production,Gt,4.822
+1968,cement and aggregate production,Gt,5.255
+1969,cement and aggregate production,Gt,5.648
+1970,cement and aggregate production,Gt,6.061
+1971,cement and aggregate production,Gt,6.472
+1972,cement and aggregate production,Gt,7.271
+1973,cement and aggregate production,Gt,7.862
+1974,cement and aggregate production,Gt,8.016
+1975,cement and aggregate production,Gt,8.11
+1976,cement and aggregate production,Gt,8.641
+1977,cement and aggregate production,Gt,9.446
+1978,cement and aggregate production,Gt,10.236
+1979,cement and aggregate production,Gt,10.556
+1980,cement and aggregate production,Gt,10.818
+1981,cement and aggregate production,Gt,10.995
+1982,cement and aggregate production,Gt,11.137
+1983,cement and aggregate production,Gt,11.641
+1984,cement and aggregate production,Gt,12.093
+1985,cement and aggregate production,Gt,12.472
+1986,cement and aggregate production,Gt,13.306
+1987,cement and aggregate production,Gt,14.11
+1988,cement and aggregate production,Gt,15.205
+1989,cement and aggregate production,Gt,14.38
+1990,cement and aggregate production,Gt,14.498
+1991,cement and aggregate production,Gt,16.59
+1992,cement and aggregate production,Gt,15.834
+1993,cement and aggregate production,Gt,18.397
+1994,cement and aggregate production,Gt,19.728
+1995,cement and aggregate production,Gt,21.025
+1996,cement and aggregate production,Gt,21.872
+1997,cement and aggregate production,Gt,22.896
+1998,cement and aggregate production,Gt,23.1
+1999,cement and aggregate production,Gt,24.16
+2000,cement and aggregate production,Gt,25.232
+2001,cement and aggregate production,Gt,26.775
+2002,cement and aggregate production,Gt,28.49
+2003,cement and aggregate production,Gt,31.31
+2004,cement and aggregate production,Gt,34.164
+2005,cement and aggregate production,Gt,36.895
+2006,cement and aggregate production,Gt,41.527
+2007,cement and aggregate production,Gt,45.12
+2008,cement and aggregate production,Gt,46.085
+2009,cement and aggregate production,Gt,49.868
+2010,cement and aggregate production,Gt,54.285
+2011,cement and aggregate production,Gt,60.225
+2012,cement and aggregate production,Gt,63.412
+2013,cement and aggregate production,Gt,67.969
+2014,cement and aggregate production,Gt,69.806
+2015,cement and aggregate production,Gt,68.47
+1925,earthworks,Gt,0.803
+1926,earthworks,Gt,0.83
+1927,earthworks,Gt,0.905
+1928,earthworks,Gt,0.967
+1929,earthworks,Gt,1.007
+1930,earthworks,Gt,0.976
+1931,earthworks,Gt,0.841
+1932,earthworks,Gt,0.67
+1933,earthworks,Gt,0.658
+1934,earthworks,Gt,0.799
+1935,earthworks,Gt,0.903
+1936,earthworks,Gt,0.873
+1937,earthworks,Gt,1.158
+1938,earthworks,Gt,1.211
+1939,earthworks,Gt,1.321
+1940,earthworks,Gt,1.158
+1941,earthworks,Gt,1.267
+1942,earthworks,Gt,1.173
+1943,earthworks,Gt,1.047
+1944,earthworks,Gt,0.818
+1945,earthworks,Gt,0.747
+1946,earthworks,Gt,1.102
+1947,earthworks,Gt,1.313
+1948,earthworks,Gt,1.581
+1949,earthworks,Gt,1.806
+1950,earthworks,Gt,2.115
+1951,earthworks,Gt,2.384
+1952,earthworks,Gt,2.592
+1953,earthworks,Gt,2.901
+1954,earthworks,Gt,3.216
+1955,earthworks,Gt,3.629
+1956,earthworks,Gt,3.978
+1957,earthworks,Gt,4.222
+1958,earthworks,Gt,4.541
+1959,earthworks,Gt,5.15
+1960,earthworks,Gt,5.602
+1961,earthworks,Gt,5.964
+1962,earthworks,Gt,6.525
+1963,earthworks,Gt,7.031
+1964,earthworks,Gt,7.896
+1965,earthworks,Gt,8.408
+1966,earthworks,Gt,9.191
+1967,earthworks,Gt,9.644
+1968,earthworks,Gt,10.51
+1969,earthworks,Gt,11.296
+1970,earthworks,Gt,12.122
+1971,earthworks,Gt,12.744
+1972,earthworks,Gt,14.542
+1973,earthworks,Gt,15.725
+1974,earthworks,Gt,16.033
+1975,earthworks,Gt,16.221
+1976,earthworks,Gt,17.282
+1977,earthworks,Gt,18.891
+1978,earthworks,Gt,20.472
+1979,earthworks,Gt,21.112
+1980,earthworks,Gt,21.636
+1981,earthworks,Gt,21.99
+1982,earthworks,Gt,22.274
+1983,earthworks,Gt,23.282
+1984,earthworks,Gt,24.186
+1985,earthworks,Gt,24.944
+1986,earthworks,Gt,26.611
+1987,earthworks,Gt,28.22
+1988,earthworks,Gt,30.41
+1989,earthworks,Gt,28.759
+1990,earthworks,Gt,28.995
+1991,earthworks,Gt,33.18
+1992,earthworks,Gt,31.669
+1993,earthworks,Gt,36.794
+1994,earthworks,Gt,39.456
+1995,earthworks,Gt,42.05
+1996,earthworks,Gt,43.745
+1997,earthworks,Gt,45.791
+1998,earthworks,Gt,46.2
+1999,earthworks,Gt,48.32
+2000,earthworks,Gt,50.464
+2001,earthworks,Gt,53.55
+2002,earthworks,Gt,56.98
+2003,earthworks,Gt,62.62
+2004,earthworks,Gt,68.328
+2005,earthworks,Gt,73.79
+2006,earthworks,Gt,83.054
+2007,earthworks,Gt,90.24
+2008,earthworks,Gt,92.169
+2009,earthworks,Gt,99.735
+2010,earthworks,Gt,108.57
+2011,earthworks,Gt,120.45
+2012,earthworks,Gt,126.824
+2013,earthworks,Gt,135.938
+2014,earthworks,Gt,139.612
+2015,earthworks,Gt,136.94
+1925,dreding,Gt,0.338
+1926,dreding,Gt,0.378
+1927,dreding,Gt,0.405
+1928,dreding,Gt,0.486
+1929,dreding,Gt,0.54
+1930,dreding,Gt,0.594
+1931,dreding,Gt,0.648
+1932,dreding,Gt,0.759
+1933,dreding,Gt,0.81
+1934,dreding,Gt,1.078
+1935,dreding,Gt,0.918
+1936,dreding,Gt,0.918
+1937,dreding,Gt,1.353
+1938,dreding,Gt,1.057
+1939,dreding,Gt,0.827
+1940,dreding,Gt,1.167
+1941,dreding,Gt,0.864
+1942,dreding,Gt,0.731
+1943,dreding,Gt,0.702
+1944,dreding,Gt,0.739
+1945,dreding,Gt,0.702
+1946,dreding,Gt,0.667
+1947,dreding,Gt,0.675
+1948,dreding,Gt,0.661
+1949,dreding,Gt,0.675
+1950,dreding,Gt,0.702
+1951,dreding,Gt,0.729
+1952,dreding,Gt,0.756
+1953,dreding,Gt,0.783
+1954,dreding,Gt,0.81
+1955,dreding,Gt,0.837
+1956,dreding,Gt,0.864
+1957,dreding,Gt,0.864
+1958,dreding,Gt,0.864
+1959,dreding,Gt,0.891
+1960,dreding,Gt,0.918
+1961,dreding,Gt,0.945
+1962,dreding,Gt,0.972
+1963,dreding,Gt,0.991
+1964,dreding,Gt,0.844
+1965,dreding,Gt,0.846
+1966,dreding,Gt,0.846
+1967,dreding,Gt,0.846
+1968,dreding,Gt,0.846
+1969,dreding,Gt,0.846
+1970,dreding,Gt,0.846
+1971,dreding,Gt,0.846
+1972,dreding,Gt,0.846
+1973,dreding,Gt,0.846
+1974,dreding,Gt,0.846
+1975,dreding,Gt,0.846
+1976,dreding,Gt,0.846
+1977,dreding,Gt,0.846
+1978,dreding,Gt,0.846
+1979,dreding,Gt,0.846
+1980,dreding,Gt,0.846
+1981,dreding,Gt,0.865
+1982,dreding,Gt,0.873
+1983,dreding,Gt,0.882
+1984,dreding,Gt,0.891
+1985,dreding,Gt,0.9
+1986,dreding,Gt,0.918
+1987,dreding,Gt,0.936
+1988,dreding,Gt,0.954
+1989,dreding,Gt,0.972
+1990,dreding,Gt,0.99
+1991,dreding,Gt,1.053
+1992,dreding,Gt,1.08
+1993,dreding,Gt,1.125
+1994,dreding,Gt,1.17
+1995,dreding,Gt,1.26
+1996,dreding,Gt,1.35
+1997,dreding,Gt,1.44
+1998,dreding,Gt,1.53
+1999,dreding,Gt,1.62
+2000,dreding,Gt,1.861
+2001,dreding,Gt,2.018
+2002,dreding,Gt,2.176
+2003,dreding,Gt,2.334
+2004,dreding,Gt,2.491
+2005,dreding,Gt,2.649
+2006,dreding,Gt,2.589
+2007,dreding,Gt,3.355
+2008,dreding,Gt,3.769
+2009,dreding,Gt,4.062
+2010,dreding,Gt,4.259
+2011,dreding,Gt,4.877
+2012,dreding,Gt,5.826
+2013,dreding,Gt,6.832
+2014,dreding,Gt,8.086
+2015,dreding,Gt,9.857
+1925,total ,Gt,4.073
+1926,total ,Gt,4.173
+1927,total ,Gt,4.569
+1928,total ,Gt,4.772
+1929,total ,Gt,5.104
+1930,total ,Gt,4.871
+1931,total ,Gt,4.469
+1932,total ,Gt,4.102
+1933,total ,Gt,4.269
+1934,total ,Gt,5.055
+1935,total ,Gt,5.203
+1936,total ,Gt,5.501
+1937,total ,Gt,6.651
+1938,total ,Gt,6.316
+1939,total ,Gt,6.654
+1940,total ,Gt,7.193
+1941,total ,Gt,7.401
+1942,total ,Gt,7.27
+1943,total ,Gt,7.268
+1944,total ,Gt,6.939
+1945,total ,Gt,5.855
+1946,total ,Gt,6.914
+1947,total ,Gt,7.982
+1948,total ,Gt,8.712
+1949,total ,Gt,9.312
+1950,total ,Gt,10.476
+1951,total ,Gt,11.575
+1952,total ,Gt,12.204
+1953,total ,Gt,13.145
+1954,total ,Gt,13.978
+1955,total ,Gt,15.635
+1956,total ,Gt,17.125
+1957,total ,Gt,18.251
+1958,total ,Gt,19.621
+1959,total ,Gt,21.44
+1960,total ,Gt,23.253
+1961,total ,Gt,23.535
+1962,total ,Gt,25.339
+1963,total ,Gt,27.276
+1964,total ,Gt,29.644
+1965,total ,Gt,31.362
+1966,total ,Gt,33.387
+1967,total ,Gt,33.975
+1968,total ,Gt,36.108
+1969,total ,Gt,38.884
+1970,total ,Gt,41.359
+1971,total ,Gt,42.908
+1972,total ,Gt,46.908
+1973,total ,Gt,49.64
+1974,total ,Gt,51.072
+1975,total ,Gt,53.205
+1976,total ,Gt,56.178
+1977,total ,Gt,60.386
+1978,total ,Gt,63.583
+1979,total ,Gt,66.449
+1980,total ,Gt,68.369
+1981,total ,Gt,69.778
+1982,total ,Gt,72.162
+1983,total ,Gt,74.423
+1984,total ,Gt,78.354
+1985,total ,Gt,82.28
+1986,total ,Gt,86.453
+1987,total ,Gt,90.522
+1988,total ,Gt,95.389
+1989,total ,Gt,94.14
+1990,total ,Gt,93.552
+1991,total ,Gt,96.607
+1992,total ,Gt,96.99
+1993,total ,Gt,104.845
+1994,total ,Gt,111.415
+1995,total ,Gt,117.854
+1996,total ,Gt,122.052
+1997,total ,Gt,127.017
+1998,total ,Gt,127.153
+1999,total ,Gt,128.335
+2000,total ,Gt,132.969
+2001,total ,Gt,142.618
+2002,total ,Gt,150.416
+2003,total ,Gt,164.395
+2004,total ,Gt,179.83
+2005,total ,Gt,192.83
+2006,total ,Gt,210.146
+2007,total ,Gt,224.27
+2008,total ,Gt,230.029
+2009,total ,Gt,241.547
+2010,total ,Gt,259.177
+2011,total ,Gt,285.846
+2012,total ,Gt,299.029
+2013,total ,Gt,314.906
+2014,total ,Gt,321.64
+2015,total ,Gt,315.867
