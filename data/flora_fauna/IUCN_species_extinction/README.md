@@ -23,7 +23,7 @@ the expected number of extinctions given a background rate of 2 E / MSY.
 ## Source Information
 * **Source**: IUCN 2020. The IUCN Red List of Threatened Species. Version
    2020-2. https://www.iucnredlist.org. Downloaded on 09 July 2020.
-* **URL**: [https://www.iucnredlist.org/statistics](The complete URL address to the original dataset. )
+* **URL**: [https://www.iucnredlist.org/statistics](https://www.iucnredlist.org/statistics)
 * **Original License**: Original data is available directly for download via the IUCN website. License on
   aggregated statistics data is less clear. Contact must be made directly with IUCN for public 
   deposition of data tables.
