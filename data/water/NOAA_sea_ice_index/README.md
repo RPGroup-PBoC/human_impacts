@@ -13,7 +13,7 @@ Rate of change of Arctic sea ice extent in September (minimum yearly extent, rel
 * **Source Website**: National Snow & Ice Data Center (NSIDC)
 * **URL**: https://nsidc.org/data/g02135
 * **Original License**: The Use and Copyright page of the website states: "You may download and use photographs, imagery, or text from our Web site, unless limitations for its use are specifically stated. Please credit the National Snow and Ice Data Center as described below." The citation section states: "As a condition of use, you must cite the use of our data in your work with a formal citation. A citation acknowledges our data contributors, and allows us to track the use and impact of our data. It also helps us report data distribution activity to funding agencies, and to assist others who may contact us about data that are referenced in publications."
-Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, and A. K. Windnagel. 2017, updated daily. Sea Ice Index, Version 3. [Indicate subset used]. Boulder, Colorado USA. NSIDC: National Snow and Ice Data Center. doi: https://doi.org/10.7265/N5K072F8. [2020-08-08].
+Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, and A. K. Windnagel. 2017, updated daily. Sea Ice Index, Version 3. [Indicate subset used]. Boulder, Colorado USA. NSIDC: National Snow and Ice Data Center. doi: https://doi.org/10.7265/N5K072F8. [2020-Oct-19].
 * **Bias**: The data is available at NSIDC, a CoreTrustSeal Repository that maintains and distributes data on the cryosphere. These data were collected by the National Oceanic and Atmospheric Administration (NOAA) a U.S. Government Agency.
 
 ## Notes
