@@ -2,10 +2,10 @@
 # PIOMAS Arctic Sea Ice Volume Anomaly
 
 ## Description
-This dataset contains volumes of arctic sea ice for each month from 1979-present given in 10^3 km^3. The decadal anomaly trend is calculated from 1979-present.
+This dataset contains volumes of arctic sea ice for each month from 1979-present given in 10<sup>3</sup> km<sup>3</sup>. The decadal anomaly trend is calculated from 1979-present.
 
 ## Key Numbers
-Arctic Sea Ice Volume Trend (1979-2020): -3.0 x 10^11 m^3 / yr
+Arctic Sea Ice Volume Trend (1979-2020): -3.0 x 10<sup>11</sup> m<sup>3</sup> / yr
 
 ## Source Information
 * **Source Website**: PIOMAS Arctic Sea Ice Volume Reanalysis
@@ -14,4 +14,4 @@ Arctic Sea Ice Volume Trend (1979-2020): -3.0 x 10^11 m^3 / yr
 * **Bias**: These data are collected by the Polar Science Center at the University of Washington. No bias is readily apparent.
 
 ## Notes
-The raw data was processed by adding a month field at the top of the csv file. The decadal anomaly trend from 1979-present is given in Figure 1 of the webpage as -3.0 [1000 km^3 / decade] and was converted from 1000 km^3 / decade to m^3 / yr.
+The raw data was processed by adding a month field at the top of the csv file. The decadal anomaly trend from 1979-present is given in Figure 1 of the webpage as -3.0 [1000 km<sup>3</sup> / decade] and was converted from 1000 km<sup>3</sup> / decade to m<sup>3</sup> / yr.

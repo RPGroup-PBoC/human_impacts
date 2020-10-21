@@ -1,4 +1,4 @@
-,year,month,data-type,region,extent,area
+,year,month,data-type,region,extent_million_sq_km,area_million_sq_km
 0,1979,1,      Goddard,      N,15.41,12.41
 1,1980,1,      Goddard,      N,14.86,11.94
 2,1981,1,      Goddard,      N,14.91,11.91

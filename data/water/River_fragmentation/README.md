@@ -5,9 +5,9 @@
 An high-resolution (500 m) dataset of global rivers whose upstream catchment areas are greater than 10 km<sup>2</sup> or whose discharge is greater than 0.1 m<sup>3</sup> per second. This dataset thus contains a global river network of 35.9 million kilometers.
 
 ## Key Numbers
-* Volume in rivers that are not free-flowing: ≈ 6 x 10m<sup>11</sup> m<sup>3</sup>
+* Volume in rivers that are not free-flowing: ≈ 6 x 10<sup>11</sup> m<sup>3</sup>
 * Ratio of river volume in disrupted rivers / free-flowing rivers: ≈ 0.9
-* Volume in ocean-connected rivers that are not free-flowing: ≈ 4 x 10m<sup>11</sup> m<sup>3</sup>
+* Volume in ocean-connected rivers that are not free-flowing: ≈ 4 x 10<sup>11</sup> m<sup>3</sup>
 * Ratio of ocean-connected river volume in disrupted rivers / free-flowing rivers: ≈ 1.2
 
 ## Source Information
