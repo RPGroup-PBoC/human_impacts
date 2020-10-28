@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="144pt" version="1.1" viewBox="0 0 180 144" width="180pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 180 144 
+L 180 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.5 126 
+L 162 126 
+L 162 17.28 
+L 22.5 17.28 
+z
+" style="fill:#e3dcd0;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <!-- 1980 -->
+      <defs>
+       <path d="M 26.171875 0 
+L 26.171875 65.046875 
+L 14.75 65.046875 
+L 14.75 71.09375 
+L 35.84375 72.90625 
+L 35.84375 0 
+z
+" id="LucidaSansUnicode-49"/>
+       <path d="M 11.375 0.4375 
+L 11.375 8.59375 
+Q 20.5625 5.421875 27 5.421875 
+Q 35.984375 5.421875 41.03125 13.0625 
+Q 46.09375 20.703125 46.09375 34.328125 
+Q 38.765625 25.296875 29.4375 25.296875 
+Q 20.3125 25.296875 13.96875 32 
+Q 7.625 38.71875 7.625 48.390625 
+Q 7.625 59.46875 14.375 66.765625 
+Q 21.140625 74.078125 31.390625 74.078125 
+Q 43.171875 74.078125 49.953125 64.625 
+Q 56.734375 55.171875 56.734375 38.765625 
+Q 56.734375 28.328125 53.46875 19.109375 
+Q 50.203125 9.90625 44.671875 4.78125 
+Q 37.59375 -1.8125 26.078125 -1.8125 
+Q 20.40625 -1.8125 11.375 0.4375 
+z
+M 17.234375 50.046875 
+Q 17.234375 41.796875 20.984375 37.015625 
+Q 24.75 32.234375 31.15625 32.234375 
+Q 37.3125 32.234375 41.625 36.375 
+Q 45.953125 40.53125 45.953125 46.390625 
+Q 45.953125 55.609375 41.765625 61.25 
+Q 37.59375 66.890625 30.8125 66.890625 
+Q 24.46875 66.890625 20.84375 62.390625 
+Q 17.234375 57.90625 17.234375 50.046875 
+z
+" id="LucidaSansUnicode-57"/>
+       <path d="M 23 39.359375 
+Q 17.046875 43.5 14.71875 47.0625 
+Q 12.40625 50.640625 12.40625 55.671875 
+Q 12.40625 63.875 18.40625 69 
+Q 24.421875 74.125 34.078125 74.125 
+Q 43.015625 74.125 48.5625 69.78125 
+Q 54.109375 65.4375 54.109375 58.5 
+Q 54.109375 48 40.625 39.359375 
+Q 56.984375 31.34375 56.984375 18.703125 
+Q 56.984375 9.671875 50.140625 3.921875 
+Q 43.3125 -1.8125 32.5625 -1.8125 
+Q 21.828125 -1.8125 15.234375 3.578125 
+Q 8.640625 8.984375 8.640625 17.78125 
+Q 8.640625 30.765625 23 39.359375 
+z
+M 35.25 42.390625 
+Q 45.359375 49.03125 45.359375 57.171875 
+Q 45.359375 61.53125 41.96875 64.1875 
+Q 38.578125 66.84375 33.109375 66.84375 
+Q 27.78125 66.84375 24.453125 64.234375 
+Q 21.140625 61.625 21.140625 57.46875 
+Q 21.140625 53.421875 24.140625 50.1875 
+Q 27.15625 46.96875 35.25 42.390625 
+z
+M 28.21875 35.453125 
+Q 22.40625 30.953125 20.328125 27.609375 
+Q 18.265625 24.265625 18.265625 19.28125 
+Q 18.265625 13.09375 22.265625 9.25 
+Q 26.265625 5.421875 32.8125 5.421875 
+Q 39.109375 5.421875 43.09375 8.6875 
+Q 47.078125 11.96875 47.078125 17.1875 
+Q 47.078125 21.390625 44.609375 24.296875 
+Q 42.140625 27.203125 35.0625 31.390625 
+z
+" id="LucidaSansUnicode-56"/>
+       <path d="M 31.640625 -1.8125 
+Q 20.265625 -1.8125 13.296875 8.609375 
+Q 6.34375 19.046875 6.34375 36.140625 
+Q 6.34375 53.21875 13.296875 63.640625 
+Q 20.265625 74.078125 31.640625 74.078125 
+Q 43.0625 74.078125 50 63.671875 
+Q 56.9375 53.265625 56.9375 36.140625 
+Q 56.9375 19.046875 50 8.609375 
+Q 43.0625 -1.8125 31.640625 -1.8125 
+z
+M 31.640625 5.421875 
+Q 46.734375 5.421875 46.734375 36.140625 
+Q 46.734375 66.84375 31.640625 66.84375 
+Q 16.609375 66.84375 16.609375 36.140625 
+Q 16.609375 5.421875 31.640625 5.421875 
+z
+" id="LucidaSansUnicode-48"/>
+      </defs>
+      <g transform="translate(14.911875 134.125625)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-49"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-57"/>
+       <use x="126.464844" xlink:href="#LucidaSansUnicode-56"/>
+       <use x="189.697266" xlink:href="#LucidaSansUnicode-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- 1990 -->
+      <g transform="translate(53.661875 134.125625)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-49"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-57"/>
+       <use x="126.464844" xlink:href="#LucidaSansUnicode-57"/>
+       <use x="189.697266" xlink:href="#LucidaSansUnicode-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <!-- 2000 -->
+      <defs>
+       <path d="M 8.296875 0 
+L 8.296875 8.453125 
+Q 12.5 18.265625 25.296875 29.828125 
+L 30.8125 34.765625 
+Q 41.453125 44.390625 41.453125 53.859375 
+Q 41.453125 59.90625 37.8125 63.375 
+Q 34.1875 66.84375 27.78125 66.84375 
+Q 20.3125 66.84375 10.109375 61.03125 
+L 10.109375 69.53125 
+Q 19.734375 74.078125 29.25 74.078125 
+Q 39.40625 74.078125 45.53125 68.609375 
+Q 51.65625 63.140625 51.65625 54.109375 
+Q 51.65625 47.609375 48.546875 42.578125 
+Q 45.453125 37.546875 37.015625 30.375 
+L 33.296875 27.203125 
+Q 21.734375 17.390625 19.921875 8.453125 
+L 51.3125 8.453125 
+L 51.3125 0 
+z
+" id="LucidaSansUnicode-50"/>
+      </defs>
+      <g transform="translate(92.411875 134.125625)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-50"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-48"/>
+       <use x="126.464844" xlink:href="#LucidaSansUnicode-48"/>
+       <use x="189.697266" xlink:href="#LucidaSansUnicode-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <!-- 2010 -->
+      <g transform="translate(131.161875 134.125625)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-50"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-48"/>
+       <use x="126.464844" xlink:href="#LucidaSansUnicode-49"/>
+       <use x="189.697266" xlink:href="#LucidaSansUnicode-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- year -->
+     <defs>
+      <path d="M 12.703125 -19.28125 
+L 21.296875 0 
+L 0.78125 53.03125 
+L 11.1875 53.03125 
+L 26.375 13.09375 
+L 42.578125 53.03125 
+L 51.65625 53.03125 
+L 22.703125 -19.28125 
+z
+" id="LucidaSansUnicode-121"/>
+      <path d="M 48.484375 1.703125 
+Q 38.8125 -1.21875 31.9375 -1.21875 
+Q 20.171875 -1.21875 12.796875 6.5625 
+Q 5.421875 14.359375 5.421875 26.765625 
+Q 5.421875 38.8125 11.9375 46.53125 
+Q 18.453125 54.25 28.609375 54.25 
+Q 38.234375 54.25 43.484375 47.390625 
+Q 48.734375 40.53125 48.734375 27.9375 
+L 48.6875 25 
+L 15.234375 25 
+Q 17.328125 6.109375 33.734375 6.109375 
+Q 39.75 6.109375 48.484375 9.328125 
+z
+M 15.671875 32.234375 
+L 39.0625 32.234375 
+Q 39.0625 47.015625 28.03125 47.015625 
+Q 16.9375 47.015625 15.671875 32.234375 
+z
+" id="LucidaSansUnicode-101"/>
+      <path d="M 36.96875 6.734375 
+Q 28.328125 -1.21875 20.3125 -1.21875 
+Q 13.71875 -1.21875 9.375 2.90625 
+Q 5.03125 7.03125 5.03125 13.328125 
+Q 5.03125 22.015625 12.328125 26.671875 
+Q 19.625 31.34375 33.296875 31.34375 
+L 35.546875 31.34375 
+L 35.546875 37.75 
+Q 35.546875 46.96875 25.921875 46.96875 
+Q 18.453125 46.96875 9.625 42.28125 
+L 9.625 50.25 
+Q 19.34375 54.203125 27.9375 54.203125 
+Q 36.765625 54.203125 40.96875 50.171875 
+Q 45.171875 46.140625 45.171875 37.75 
+L 45.171875 13.71875 
+Q 45.171875 5.46875 50.25 5.46875 
+Q 50.875 5.46875 52.09375 5.671875 
+L 52.78125 0.34375 
+Q 49.515625 -1.21875 45.5625 -1.21875 
+Q 38.8125 -1.21875 36.96875 6.734375 
+z
+M 35.546875 11.96875 
+L 35.546875 25.6875 
+L 32.46875 25.78125 
+Q 24.46875 25.78125 19.5625 22.796875 
+Q 14.65625 19.828125 14.65625 14.890625 
+Q 14.65625 11.421875 17.09375 9.03125 
+Q 19.53125 6.640625 23.046875 6.640625 
+Q 29.046875 6.640625 35.546875 11.96875 
+z
+" id="LucidaSansUnicode-97"/>
+      <path d="M 9.625 0 
+L 9.625 53.03125 
+L 19.234375 53.03125 
+L 19.234375 43.0625 
+Q 24.953125 54.203125 35.84375 54.203125 
+Q 37.3125 54.203125 38.921875 53.953125 
+L 38.921875 44.96875 
+Q 36.421875 45.796875 34.515625 45.796875 
+Q 25.390625 45.796875 19.234375 34.96875 
+L 19.234375 0 
+z
+" id="LucidaSansUnicode-114"/>
+     </defs>
+     <g style="fill:#262626;" transform="translate(86.126719 143.908125)scale(0.06 -0.06)">
+      <use xlink:href="#LucidaSansUnicode-121"/>
+      <use x="52.246094" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="107.958984" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="163.183594" xlink:href="#LucidaSansUnicode-114"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_6">
+      <!-- 0.0 -->
+      <defs>
+       <path d="M 9.765625 0 
+L 9.765625 12.0625 
+L 21.828125 12.0625 
+L 21.828125 0 
+z
+" id="LucidaSansUnicode-46"/>
+      </defs>
+      <g transform="translate(9.513438 128.312813)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-48"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-46"/>
+       <use x="94.873047" xlink:href="#LucidaSansUnicode-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_7">
+      <!-- 0.2 -->
+      <g transform="translate(9.513438 108.54554)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-48"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-46"/>
+       <use x="94.873047" xlink:href="#LucidaSansUnicode-50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_8">
+      <!-- 0.4 -->
+      <defs>
+       <path d="M 37.640625 0 
+L 37.640625 20.453125 
+L 5.125 20.453125 
+L 5.125 27.734375 
+L 37.640625 72.265625 
+L 46.6875 72.265625 
+L 46.6875 28.328125 
+L 56.34375 28.328125 
+L 56.34375 20.453125 
+L 46.6875 20.453125 
+L 46.6875 0 
+z
+M 14.546875 28.328125 
+L 38.28125 28.328125 
+L 38.28125 60.453125 
+z
+" id="LucidaSansUnicode-52"/>
+      </defs>
+      <g transform="translate(9.513438 88.778267)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-48"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-46"/>
+       <use x="94.873047" xlink:href="#LucidaSansUnicode-52"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_9">
+      <!-- 0.6 -->
+      <defs>
+       <path d="M 17.1875 37.453125 
+Q 24.078125 46.390625 34.515625 46.390625 
+Q 44 46.390625 50.03125 40.109375 
+Q 56.0625 33.84375 56.0625 24.03125 
+Q 56.0625 12.75 49.296875 5.46875 
+Q 42.53125 -1.8125 32.078125 -1.8125 
+Q 20.171875 -1.8125 13.421875 7.828125 
+Q 6.6875 17.484375 6.6875 34.515625 
+Q 6.6875 57.46875 18.453125 68.21875 
+Q 24.859375 74.125 36.140625 74.125 
+Q 42.671875 74.125 52.34375 71.390625 
+L 52.34375 62.984375 
+Q 42.140625 66.890625 35.546875 66.890625 
+Q 17.1875 66.890625 17.1875 37.453125 
+z
+M 46.390625 22.125 
+Q 46.390625 30.125 42.671875 34.78125 
+Q 38.96875 39.453125 32.515625 39.453125 
+Q 26.375 39.453125 21.96875 35.34375 
+Q 17.578125 31.25 17.578125 25.484375 
+Q 17.578125 16.40625 21.75 10.90625 
+Q 25.921875 5.421875 32.8125 5.421875 
+Q 39.0625 5.421875 42.71875 9.90625 
+Q 46.390625 14.40625 46.390625 22.125 
+z
+" id="LucidaSansUnicode-54"/>
+      </defs>
+      <g transform="translate(9.513438 69.010994)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-48"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-46"/>
+       <use x="94.873047" xlink:href="#LucidaSansUnicode-54"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_10">
+      <!-- 0.8 -->
+      <g transform="translate(9.513438 49.243722)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-48"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-46"/>
+       <use x="94.873047" xlink:href="#LucidaSansUnicode-56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_11">
+      <!-- 1.0 -->
+      <g transform="translate(9.513438 29.476449)scale(0.06 -0.06)">
+       <use xlink:href="#LucidaSansUnicode-49"/>
+       <use x="63.232422" xlink:href="#LucidaSansUnicode-46"/>
+       <use x="94.873047" xlink:href="#LucidaSansUnicode-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- annual domestic -->
+     <defs>
+      <path d="M 9.625 0 
+L 9.625 53.03125 
+L 19.234375 53.03125 
+L 19.234375 43.0625 
+Q 26.859375 54.203125 37.890625 54.203125 
+Q 44.828125 54.203125 48.90625 49.828125 
+Q 52.984375 45.453125 52.984375 38.09375 
+L 52.984375 0 
+L 43.359375 0 
+L 43.359375 34.96875 
+Q 43.359375 40.875 41.625 43.390625 
+Q 39.890625 45.90625 35.890625 45.90625 
+Q 27.046875 45.90625 19.234375 34.328125 
+L 19.234375 0 
+z
+" id="LucidaSansUnicode-110"/>
+      <path d="M 42.78125 0 
+L 42.78125 9.96875 
+Q 35.109375 -1.21875 24.171875 -1.21875 
+Q 17.234375 -1.21875 13.125 3.140625 
+Q 9.03125 7.515625 9.03125 14.9375 
+L 9.03125 53.03125 
+L 18.65625 53.03125 
+L 18.65625 18.0625 
+Q 18.65625 12.109375 20.390625 9.59375 
+Q 22.125 7.078125 26.171875 7.078125 
+Q 34.96875 7.078125 42.78125 18.65625 
+L 42.78125 53.03125 
+L 52.390625 53.03125 
+L 52.390625 0 
+z
+" id="LucidaSansUnicode-117"/>
+      <path d="M 9.625 0 
+L 9.625 77.09375 
+L 19.234375 77.09375 
+L 19.234375 0 
+z
+" id="LucidaSansUnicode-108"/>
+      <path id="LucidaSansUnicode-32"/>
+      <path d="M 43.65625 0 
+L 43.65625 9.96875 
+Q 37.796875 -1.21875 25.984375 -1.21875 
+Q 16.40625 -1.21875 10.90625 5.765625 
+Q 5.421875 12.75 5.421875 24.859375 
+Q 5.421875 38.09375 11.640625 46.140625 
+Q 17.875 54.203125 28.03125 54.203125 
+Q 37.453125 54.203125 43.65625 46.96875 
+L 43.65625 77.09375 
+L 53.328125 77.09375 
+L 53.328125 0 
+z
+M 43.65625 40.375 
+Q 36.1875 46.96875 29.5 46.96875 
+Q 22.90625 46.96875 19.28125 41.453125 
+Q 15.671875 35.9375 15.671875 25.828125 
+Q 15.671875 7.234375 27.984375 7.234375 
+Q 35.984375 7.234375 43.65625 15.96875 
+z
+" id="LucidaSansUnicode-100"/>
+      <path d="M 30.71875 -1.21875 
+Q 19.046875 -1.21875 12.234375 6.25 
+Q 5.421875 13.71875 5.421875 26.515625 
+Q 5.421875 39.3125 12.234375 46.75 
+Q 19.046875 54.203125 30.71875 54.203125 
+Q 42.390625 54.203125 49.1875 46.75 
+Q 56 39.3125 56 26.515625 
+Q 56 13.71875 49.1875 6.25 
+Q 42.390625 -1.21875 30.71875 -1.21875 
+z
+M 30.71875 6 
+Q 37.890625 6 41.84375 11.375 
+Q 45.796875 16.75 45.796875 26.515625 
+Q 45.796875 36.28125 41.84375 41.625 
+Q 37.890625 46.96875 30.71875 46.96875 
+Q 23.53125 46.96875 19.59375 41.625 
+Q 15.671875 36.28125 15.671875 26.515625 
+Q 15.671875 16.75 19.59375 11.375 
+Q 23.53125 6 30.71875 6 
+z
+" id="LucidaSansUnicode-111"/>
+      <path d="M 9.625 0 
+L 9.625 53.03125 
+L 19.234375 53.03125 
+L 19.234375 43.0625 
+Q 26.265625 54.203125 37.3125 54.203125 
+Q 47.953125 54.203125 51.8125 43.0625 
+Q 58.640625 54.25 69.578125 54.25 
+Q 76.5625 54.25 80.4375 50.125 
+Q 84.328125 46 84.328125 38.578125 
+L 84.328125 0 
+L 74.65625 0 
+L 74.65625 37.0625 
+Q 74.65625 46.140625 67.484375 46.140625 
+Q 60.015625 46.140625 51.8125 35.546875 
+L 51.8125 0 
+L 42.140625 0 
+L 42.140625 37.0625 
+Q 42.140625 46.1875 34.8125 46.1875 
+Q 27.546875 46.1875 19.234375 35.546875 
+L 19.234375 0 
+z
+" id="LucidaSansUnicode-109"/>
+      <path d="M 7.671875 1.859375 
+L 7.671875 10.6875 
+Q 17.09375 6 24.078125 6 
+Q 28.21875 6 30.953125 8.25 
+Q 33.6875 10.5 33.6875 13.875 
+Q 33.6875 18.796875 26.03125 22.015625 
+L 20.40625 24.421875 
+Q 7.953125 29.59375 7.953125 39.3125 
+Q 7.953125 46.234375 12.859375 50.21875 
+Q 17.78125 54.203125 26.3125 54.203125 
+Q 30.765625 54.203125 37.3125 52.984375 
+L 39.3125 52.59375 
+L 39.3125 44.578125 
+Q 31.25 46.96875 26.46875 46.96875 
+Q 22.265625 46.96875 19.75 45.140625 
+Q 17.234375 43.3125 17.234375 40.234375 
+Q 17.234375 35.890625 24.265625 32.90625 
+L 28.90625 30.953125 
+Q 36.765625 27.640625 40.03125 23.953125 
+Q 43.3125 20.265625 43.3125 14.75 
+Q 43.3125 7.765625 37.796875 3.265625 
+Q 32.28125 -1.21875 23.6875 -1.21875 
+Q 17.09375 -1.21875 7.671875 1.859375 
+z
+" id="LucidaSansUnicode-115"/>
+      <path d="M 33.25 0 
+Q 28.8125 -1.21875 25.53125 -1.21875 
+Q 18.21875 -1.21875 14.109375 2.96875 
+Q 10.015625 7.171875 10.015625 14.65625 
+L 10.015625 45.796875 
+L 3.375 45.796875 
+L 3.375 53.03125 
+L 10.015625 53.03125 
+L 10.015625 62.640625 
+L 19.625 63.578125 
+L 19.625 53.03125 
+L 33.5 53.03125 
+L 33.5 45.796875 
+L 19.625 45.796875 
+L 19.625 16.40625 
+Q 19.625 6 28.609375 6 
+Q 30.515625 6 33.25 6.640625 
+z
+" id="LucidaSansUnicode-116"/>
+      <path d="M 9.625 0 
+L 9.625 53.03125 
+L 19.234375 53.03125 
+L 19.234375 0 
+z
+M 9.625 62.640625 
+L 9.625 72.265625 
+L 19.234375 72.265625 
+L 19.234375 62.640625 
+z
+" id="LucidaSansUnicode-105"/>
+      <path d="M 46.4375 1.609375 
+Q 37.109375 -1.21875 30.328125 -1.21875 
+Q 19.578125 -1.21875 12.5 6.734375 
+Q 5.421875 14.703125 5.421875 26.8125 
+Q 5.421875 39.75 12.421875 46.96875 
+Q 19.4375 54.203125 31.984375 54.203125 
+Q 38.1875 54.203125 45.84375 52.484375 
+L 45.84375 44.4375 
+Q 37.703125 46.828125 32.5625 46.828125 
+Q 25.140625 46.828125 20.703125 41.28125 
+Q 16.265625 35.75 16.265625 26.515625 
+Q 16.265625 17.578125 20.84375 12.0625 
+Q 25.4375 6.546875 32.859375 6.546875 
+Q 39.453125 6.546875 46.4375 9.90625 
+z
+" id="LucidaSansUnicode-99"/>
+     </defs>
+     <g style="fill:#262626;" transform="translate(-2.891438 95.61375)rotate(-90)scale(0.06 -0.06)">
+      <use xlink:href="#LucidaSansUnicode-97"/>
+      <use x="55.224609" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="117.285156" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="179.345703" xlink:href="#LucidaSansUnicode-117"/>
+      <use x="241.40625" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="296.630859" xlink:href="#LucidaSansUnicode-108"/>
+      <use x="325.537109" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="357.177734" xlink:href="#LucidaSansUnicode-100"/>
+      <use x="420.117188" xlink:href="#LucidaSansUnicode-111"/>
+      <use x="481.542969" xlink:href="#LucidaSansUnicode-109"/>
+      <use x="574.902344" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="630.615234" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="681.591797" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="718.994141" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="747.900391" xlink:href="#LucidaSansUnicode-99"/>
+     </g>
+     <!-- water consumption [10$^{14}$ L] -->
+     <defs>
+      <path d="M 15.765625 0 
+L 0.59375 53.03125 
+L 10.015625 53.03125 
+L 21.625 11.96875 
+L 34.1875 53.03125 
+L 43.796875 53.03125 
+L 54.78125 11.96875 
+L 68.109375 53.03125 
+L 76.375 53.03125 
+L 59.078125 0 
+L 49.421875 0 
+L 38.1875 41.0625 
+L 25.484375 0 
+z
+" id="LucidaSansUnicode-119"/>
+      <path d="M 9.625 -19.28125 
+L 9.625 53.03125 
+L 19.234375 53.03125 
+L 19.234375 43.0625 
+Q 25.140625 54.203125 36.96875 54.203125 
+Q 46.53125 54.203125 52.015625 47.21875 
+Q 57.515625 40.234375 57.515625 28.125 
+Q 57.515625 14.9375 51.28125 6.859375 
+Q 45.0625 -1.21875 34.90625 -1.21875 
+Q 25.484375 -1.21875 19.234375 6 
+L 19.234375 -19.28125 
+z
+M 19.234375 12.640625 
+Q 26.65625 6 33.40625 6 
+Q 40.046875 6 43.65625 11.546875 
+Q 47.265625 17.09375 47.265625 27.15625 
+Q 47.265625 45.796875 34.96875 45.796875 
+Q 26.90625 45.796875 19.234375 37.0625 
+z
+" id="LucidaSansUnicode-112"/>
+      <path d="M 9.625 -14.453125 
+L 9.625 77.09375 
+L 28.90625 77.09375 
+L 28.90625 69.875 
+L 18.0625 69.875 
+L 18.0625 -7.234375 
+L 28.90625 -7.234375 
+L 28.90625 -14.453125 
+z
+" id="LucidaSansUnicode-91"/>
+      <path d="M 30.203125 0 
+L 22.296875 0 
+L 22.296875 57 
+Q 20.09375 56 15.75 53.75 
+Q 11.40625 51.5 10.796875 51.203125 
+L 10.796875 58.5 
+L 28.796875 67.703125 
+L 30.203125 67.203125 
+z
+" id="STIXGeneral-Regular-120803"/>
+      <path d="M 48.90625 23.59375 
+L 45.59375 16.5 
+L 37.296875 16.5 
+L 37.296875 0 
+L 29.40625 0 
+L 29.40625 16.5 
+L 1.09375 16.5 
+L 1.09375 23.296875 
+L 32.296875 67.59375 
+L 37.296875 67.59375 
+L 37.296875 23.59375 
+z
+M 29.40625 23.59375 
+L 29.40625 51 
+L 10 23.59375 
+z
+" id="STIXGeneral-Regular-120806"/>
+      <path d="M 9.328125 0 
+L 9.328125 72.265625 
+L 19.578125 72.265625 
+L 19.578125 7.671875 
+L 52.09375 7.671875 
+L 52.09375 0 
+z
+" id="LucidaSansUnicode-76"/>
+      <path d="M 22.90625 77.09375 
+L 22.90625 -14.453125 
+L 3.609375 -14.453125 
+L 3.609375 -7.234375 
+L 14.453125 -7.234375 
+L 14.453125 69.875 
+L 3.609375 69.875 
+L 3.609375 77.09375 
+z
+" id="LucidaSansUnicode-93"/>
+     </defs>
+     <g style="fill:#262626;" transform="translate(4.313437 111.03)rotate(-90)scale(0.06 -0.06)">
+      <use transform="translate(0 0.370312)" xlink:href="#LucidaSansUnicode-119"/>
+      <use transform="translate(77.050781 0.370312)" xlink:href="#LucidaSansUnicode-97"/>
+      <use transform="translate(132.275391 0.370312)" xlink:href="#LucidaSansUnicode-116"/>
+      <use transform="translate(169.677734 0.370312)" xlink:href="#LucidaSansUnicode-101"/>
+      <use transform="translate(225.390625 0.370312)" xlink:href="#LucidaSansUnicode-114"/>
+      <use transform="translate(266.308594 0.370312)" xlink:href="#LucidaSansUnicode-32"/>
+      <use transform="translate(297.949219 0.370312)" xlink:href="#LucidaSansUnicode-99"/>
+      <use transform="translate(349.169922 0.370312)" xlink:href="#LucidaSansUnicode-111"/>
+      <use transform="translate(410.595703 0.370312)" xlink:href="#LucidaSansUnicode-110"/>
+      <use transform="translate(472.65625 0.370312)" xlink:href="#LucidaSansUnicode-115"/>
+      <use transform="translate(523.632812 0.370312)" xlink:href="#LucidaSansUnicode-117"/>
+      <use transform="translate(585.693359 0.370312)" xlink:href="#LucidaSansUnicode-109"/>
+      <use transform="translate(679.052734 0.370312)" xlink:href="#LucidaSansUnicode-112"/>
+      <use transform="translate(741.992188 0.370312)" xlink:href="#LucidaSansUnicode-116"/>
+      <use transform="translate(779.394531 0.370312)" xlink:href="#LucidaSansUnicode-105"/>
+      <use transform="translate(808.300781 0.370312)" xlink:href="#LucidaSansUnicode-111"/>
+      <use transform="translate(869.726562 0.370312)" xlink:href="#LucidaSansUnicode-110"/>
+      <use transform="translate(931.787109 0.370312)" xlink:href="#LucidaSansUnicode-32"/>
+      <use transform="translate(963.427734 0.370312)" xlink:href="#LucidaSansUnicode-91"/>
+      <use transform="translate(995.947266 0.370312)" xlink:href="#LucidaSansUnicode-49"/>
+      <use transform="translate(1059.179688 0.370312)" xlink:href="#LucidaSansUnicode-48"/>
+      <use transform="translate(1123.204805 36.607813)scale(0.7)" xlink:href="#STIXGeneral-Regular-120803"/>
+      <use transform="translate(1158.204794 36.607813)scale(0.7)" xlink:href="#STIXGeneral-Regular-120806"/>
+      <use transform="translate(1195.469627 0.370312)" xlink:href="#LucidaSansUnicode-32"/>
+      <use transform="translate(1227.110252 0.370312)" xlink:href="#LucidaSansUnicode-76"/>
+      <use transform="translate(1280.430565 0.370312)" xlink:href="#LucidaSansUnicode-93"/>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path clip-path="url(#p7e14efa83b)" d="M 22.5 17.28 
+L 162 17.28 
+" style="fill:none;stroke:#000000;stroke-width:0.5;"/>
+   </g>
+   <g id="LineCollection_2">
+    <path clip-path="url(#p7e14efa83b)" d="M 22.5 96.349091 
+L 162 96.349091 
+" style="fill:none;stroke:#000000;stroke-dasharray:3.2,0.8,0.5,0.8;stroke-dashoffset:0;stroke-width:0.5;"/>
+   </g>
+   <g id="LineCollection_3">
+    <path clip-path="url(#p7e14efa83b)" d="M 22.5 46.930909 
+L 162 46.930909 
+" style="fill:none;stroke:#000000;stroke-dasharray:1.85,0.8;stroke-dashoffset:0;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#p7e14efa83b)" d="M 22.5 93.779345 
+L 26.375 93.482836 
+L 30.25 92.988655 
+L 34.125 92.395636 
+L 38 91.703782 
+L 41.875 91.2096 
+L 45.75 90.616582 
+L 49.625 89.924727 
+L 53.5 89.232873 
+L 57.375 88.639855 
+L 61.25 87.750327 
+L 65.125 87.354982 
+L 69 86.663127 
+L 72.875 86.168945 
+L 76.75 85.575927 
+L 80.625 85.081745 
+L 84.5 84.389891 
+L 88.375 83.895709 
+L 92.25 83.401527 
+L 96.125 82.808509 
+L 100 81.820145 
+L 103.875 81.325964 
+L 107.75 80.831782 
+L 111.625 80.238764 
+L 115.5 79.546909 
+L 119.375 79.151564 
+L 123.25 78.558545 
+L 127.125 77.965527 
+L 131 77.273673 
+L 134.875 76.878327 
+L 138.75 76.285309 
+L 142.625 75.791127 
+L 146.5 75.099273 
+L 150.375 74.703927 
+L 154.25 74.209745 
+L 158.125 73.616727 
+L 162 72.924873 
+" style="fill:none;stroke:#738fc1;stroke-linecap:round;stroke-width:0.25;"/>
+    <defs>
+     <path d="M 0 0.5 
+C 0.132602 0.5 0.25979 0.447317 0.353553 0.353553 
+C 0.447317 0.25979 0.5 0.132602 0.5 0 
+C 0.5 -0.132602 0.447317 -0.25979 0.353553 -0.353553 
+C 0.25979 -0.447317 0.132602 -0.5 0 -0.5 
+C -0.132602 -0.5 -0.25979 -0.447317 -0.353553 -0.353553 
+C -0.447317 -0.25979 -0.5 -0.132602 -0.5 0 
+C -0.5 0.132602 -0.447317 0.25979 -0.353553 0.353553 
+C -0.25979 0.447317 -0.132602 0.5 0 0.5 
+z
+" id="m70719ae2ad" style="stroke:#738fc1;"/>
+    </defs>
+    <g clip-path="url(#p7e14efa83b)">
+     <use style="fill:#738fc1;stroke:#738fc1;" x="22.5" xlink:href="#m70719ae2ad" y="93.779345"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="26.375" xlink:href="#m70719ae2ad" y="93.482836"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="30.25" xlink:href="#m70719ae2ad" y="92.988655"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="34.125" xlink:href="#m70719ae2ad" y="92.395636"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="38" xlink:href="#m70719ae2ad" y="91.703782"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="41.875" xlink:href="#m70719ae2ad" y="91.2096"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="45.75" xlink:href="#m70719ae2ad" y="90.616582"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="49.625" xlink:href="#m70719ae2ad" y="89.924727"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="53.5" xlink:href="#m70719ae2ad" y="89.232873"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="57.375" xlink:href="#m70719ae2ad" y="88.639855"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="61.25" xlink:href="#m70719ae2ad" y="87.750327"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="65.125" xlink:href="#m70719ae2ad" y="87.354982"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="69" xlink:href="#m70719ae2ad" y="86.663127"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="72.875" xlink:href="#m70719ae2ad" y="86.168945"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="76.75" xlink:href="#m70719ae2ad" y="85.575927"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="80.625" xlink:href="#m70719ae2ad" y="85.081745"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="84.5" xlink:href="#m70719ae2ad" y="84.389891"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="88.375" xlink:href="#m70719ae2ad" y="83.895709"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="92.25" xlink:href="#m70719ae2ad" y="83.401527"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="96.125" xlink:href="#m70719ae2ad" y="82.808509"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="100" xlink:href="#m70719ae2ad" y="81.820145"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="103.875" xlink:href="#m70719ae2ad" y="81.325964"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="107.75" xlink:href="#m70719ae2ad" y="80.831782"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="111.625" xlink:href="#m70719ae2ad" y="80.238764"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="115.5" xlink:href="#m70719ae2ad" y="79.546909"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="119.375" xlink:href="#m70719ae2ad" y="79.151564"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="123.25" xlink:href="#m70719ae2ad" y="78.558545"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="127.125" xlink:href="#m70719ae2ad" y="77.965527"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="131" xlink:href="#m70719ae2ad" y="77.273673"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="134.875" xlink:href="#m70719ae2ad" y="76.878327"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="138.75" xlink:href="#m70719ae2ad" y="76.285309"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="142.625" xlink:href="#m70719ae2ad" y="75.791127"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="146.5" xlink:href="#m70719ae2ad" y="75.099273"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="150.375" xlink:href="#m70719ae2ad" y="74.703927"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="154.25" xlink:href="#m70719ae2ad" y="74.209745"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="158.125" xlink:href="#m70719ae2ad" y="73.616727"/>
+     <use style="fill:#738fc1;stroke:#738fc1;" x="162" xlink:href="#m70719ae2ad" y="72.924873"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.5 126 
+L 22.5 17.28 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 162 126 
+L 162 17.28 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 22.5 126 
+L 162 126 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 22.5 17.28 
+L 162 17.28 
+" style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 70.761719 50.613594 
+L 158.5 50.613594 
+Q 159.5 50.613594 159.5 49.613594 
+L 159.5 20.78 
+Q 159.5 19.78 158.5 19.78 
+L 70.761719 19.78 
+Q 69.761719 19.78 69.761719 20.78 
+L 69.761719 49.613594 
+Q 69.761719 50.613594 70.761719 50.613594 
+z
+" style="fill:#e3dcd0;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter;"/>
+    </g>
+    <g id="line2d_2">
+     <path d="M 71.761719 23.884688 
+L 81.761719 23.884688 
+" style="fill:none;stroke:#738fc1;stroke-linecap:round;stroke-width:0.25;"/>
+    </g>
+    <g id="line2d_3">
+     <g>
+      <use style="fill:#738fc1;stroke:#738fc1;" x="76.761719" xlink:href="#m70719ae2ad" y="23.884688"/>
+     </g>
+    </g>
+    <g id="text_13">
+     <!-- Qin et al. 2019 -->
+     <defs>
+      <path d="M 73.484375 -14.453125 
+Q 56.453125 -8.9375 44.921875 -1.3125 
+Q 40.328125 -1.8125 37.84375 -1.8125 
+Q 23.296875 -1.8125 14.1875 8.734375 
+Q 5.078125 19.28125 5.078125 36.140625 
+Q 5.078125 53.421875 14.28125 63.75 
+Q 23.484375 74.078125 38.875 74.078125 
+Q 54.296875 74.078125 63.46875 63.71875 
+Q 72.65625 53.375 72.65625 35.984375 
+Q 72.65625 11.078125 54.15625 1.515625 
+Q 66.609375 -3.953125 79.984375 -6.296875 
+z
+M 38.875 5.859375 
+Q 49.65625 5.859375 55.703125 13.859375 
+Q 61.765625 21.875 61.765625 36.140625 
+Q 61.765625 50.4375 55.703125 58.421875 
+Q 49.65625 66.40625 38.875 66.40625 
+Q 28.078125 66.40625 22.015625 58.421875 
+Q 15.96875 50.4375 15.96875 36.234375 
+Q 15.96875 21.921875 22.015625 13.890625 
+Q 28.078125 5.859375 38.875 5.859375 
+z
+" id="LucidaSansUnicode-81"/>
+     </defs>
+     <g style="fill:#262626;" transform="translate(85.761719 25.634688)scale(0.05 -0.05)">
+      <use xlink:href="#LucidaSansUnicode-81"/>
+      <use x="77.685547" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="106.591797" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="168.652344" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="200.292969" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="256.005859" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="293.408203" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="325.048828" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="380.273438" xlink:href="#LucidaSansUnicode-108"/>
+      <use x="409.179688" xlink:href="#LucidaSansUnicode-46"/>
+      <use x="440.820312" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="472.460938" xlink:href="#LucidaSansUnicode-50"/>
+      <use x="535.693359" xlink:href="#LucidaSansUnicode-48"/>
+      <use x="598.925781" xlink:href="#LucidaSansUnicode-49"/>
+      <use x="662.158203" xlink:href="#LucidaSansUnicode-57"/>
+     </g>
+    </g>
+    <g id="line2d_4">
+     <path d="M 71.761719 31.203438 
+L 81.761719 31.203438 
+" style="fill:none;stroke:#000000;stroke-width:0.5;"/>
+    </g>
+    <g id="text_14">
+     <!-- total estimated use -->
+     <g style="fill:#262626;" transform="translate(85.761719 32.953438)scale(0.05 -0.05)">
+      <use xlink:href="#LucidaSansUnicode-116"/>
+      <use x="37.402344" xlink:href="#LucidaSansUnicode-111"/>
+      <use x="98.828125" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="136.230469" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="191.455078" xlink:href="#LucidaSansUnicode-108"/>
+      <use x="220.361328" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="252.001953" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="307.714844" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="358.691406" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="396.09375" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="425" xlink:href="#LucidaSansUnicode-109"/>
+      <use x="518.359375" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="573.583984" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="610.986328" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="666.699219" xlink:href="#LucidaSansUnicode-100"/>
+      <use x="729.638672" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="761.279297" xlink:href="#LucidaSansUnicode-117"/>
+      <use x="823.339844" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="874.316406" xlink:href="#LucidaSansUnicode-101"/>
+     </g>
+    </g>
+    <g id="line2d_5">
+     <path d="M 71.761719 38.522188 
+L 81.761719 38.522188 
+" style="fill:none;stroke:#000000;stroke-dasharray:3.2,0.8,0.5,0.8;stroke-dashoffset:0;stroke-width:0.5;"/>
+    </g>
+    <g id="text_15">
+     <!-- estimated cooking &amp; drinking -->
+     <defs>
+      <path d="M 9.625 0 
+L 9.625 77.09375 
+L 19.234375 77.09375 
+L 19.234375 27.296875 
+L 41.703125 53.03125 
+L 52.046875 53.03125 
+L 30.609375 28.265625 
+L 56.5 0 
+L 44.1875 0 
+L 19.234375 27.203125 
+L 19.234375 0 
+z
+" id="LucidaSansUnicode-107"/>
+      <path d="M 9.8125 -17.625 
+L 10.9375 -9.28125 
+Q 19.28125 -13.234375 27.4375 -13.234375 
+Q 43.65625 -13.234375 43.65625 4 
+L 43.65625 12.359375 
+Q 41.15625 7.078125 36.546875 4.140625 
+Q 31.9375 1.21875 26.265625 1.21875 
+Q 16.65625 1.21875 11.03125 8.125 
+Q 5.421875 15.046875 5.421875 26.859375 
+Q 5.421875 38.96875 11.8125 46.578125 
+Q 18.21875 54.203125 28.375 54.203125 
+Q 37.25 54.203125 43.65625 46.96875 
+L 43.65625 53.03125 
+L 53.328125 53.03125 
+L 53.328125 14.453125 
+Q 53.328125 2 52.03125 -3.984375 
+Q 50.734375 -9.96875 47.171875 -13.765625 
+Q 40.875 -20.453125 27.484375 -20.453125 
+Q 18.3125 -20.453125 9.8125 -17.625 
+z
+M 43.65625 18.359375 
+L 43.65625 40.375 
+Q 37.3125 46.96875 29.828125 46.96875 
+Q 23.1875 46.96875 19.421875 41.640625 
+Q 15.671875 36.328125 15.671875 26.90625 
+Q 15.671875 9.625 27.9375 9.625 
+Q 36.28125 9.625 43.65625 18.359375 
+z
+" id="LucidaSansUnicode-103"/>
+      <path d="M 51.8125 0 
+L 48.25 4.296875 
+Q 40.234375 -1.8125 29.546875 -1.8125 
+Q 18.21875 -1.8125 10.90625 4.75 
+Q 3.609375 11.328125 3.609375 21.484375 
+Q 3.609375 38.1875 21.234375 44.140625 
+Q 16.359375 52.984375 16.359375 58.84375 
+Q 16.359375 65.234375 21.4375 69.65625 
+Q 26.515625 74.078125 33.84375 74.078125 
+Q 40.875 74.078125 45.4375 69.953125 
+Q 50 65.828125 50 59.46875 
+Q 50 48.640625 34.125 40.625 
+Q 41.40625 27.734375 51.078125 16.546875 
+Q 55.515625 23.046875 55.515625 34.90625 
+L 55.46875 38.421875 
+L 65.046875 38.421875 
+Q 65.046875 22.40625 55.46875 10.796875 
+Q 59.859375 5.21875 65.484375 0 
+z
+M 44.046875 9.859375 
+Q 33.796875 22.46875 24.515625 38.421875 
+Q 13.234375 33.9375 13.234375 23.828125 
+Q 13.234375 16.15625 18.4375 10.78125 
+Q 23.640625 5.421875 31.109375 5.421875 
+Q 37.890625 5.421875 44.046875 9.859375 
+z
+M 30.609375 46.734375 
+Q 40.96875 51.46875 40.96875 59.328125 
+Q 40.96875 62.75 38.890625 64.796875 
+Q 36.8125 66.84375 33.453125 66.84375 
+Q 30.078125 66.84375 28.046875 64.765625 
+Q 26.03125 62.703125 26.03125 59.28125 
+Q 26.03125 54.296875 30.609375 46.734375 
+z
+" id="LucidaSansUnicode-38"/>
+     </defs>
+     <g style="fill:#262626;" transform="translate(85.761719 40.272188)scale(0.05 -0.05)">
+      <use xlink:href="#LucidaSansUnicode-101"/>
+      <use x="55.712891" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="106.689453" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="144.091797" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="172.998047" xlink:href="#LucidaSansUnicode-109"/>
+      <use x="266.357422" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="321.582031" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="358.984375" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="414.697266" xlink:href="#LucidaSansUnicode-100"/>
+      <use x="477.636719" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="509.277344" xlink:href="#LucidaSansUnicode-99"/>
+      <use x="560.498047" xlink:href="#LucidaSansUnicode-111"/>
+      <use x="621.923828" xlink:href="#LucidaSansUnicode-111"/>
+      <use x="683.349609" xlink:href="#LucidaSansUnicode-107"/>
+      <use x="741.796875" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="770.703125" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="832.763672" xlink:href="#LucidaSansUnicode-103"/>
+      <use x="895.117188" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="926.757812" xlink:href="#LucidaSansUnicode-38"/>
+      <use x="996.484375" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="1028.125" xlink:href="#LucidaSansUnicode-100"/>
+      <use x="1091.064453" xlink:href="#LucidaSansUnicode-114"/>
+      <use x="1131.982422" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="1160.888672" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="1222.949219" xlink:href="#LucidaSansUnicode-107"/>
+      <use x="1281.396484" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="1310.302734" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="1372.363281" xlink:href="#LucidaSansUnicode-103"/>
+     </g>
+    </g>
+    <g id="line2d_6">
+     <path d="M 71.761719 45.899531 
+L 81.761719 45.899531 
+" style="fill:none;stroke:#000000;stroke-dasharray:1.85,0.8;stroke-dashoffset:0;stroke-width:0.5;"/>
+    </g>
+    <g id="text_16">
+     <!-- estimated sanitation use -->
+     <g style="fill:#262626;" transform="translate(85.761719 47.649531)scale(0.05 -0.05)">
+      <use xlink:href="#LucidaSansUnicode-101"/>
+      <use x="55.712891" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="106.689453" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="144.091797" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="172.998047" xlink:href="#LucidaSansUnicode-109"/>
+      <use x="266.357422" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="321.582031" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="358.984375" xlink:href="#LucidaSansUnicode-101"/>
+      <use x="414.697266" xlink:href="#LucidaSansUnicode-100"/>
+      <use x="477.636719" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="509.277344" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="560.253906" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="615.478516" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="677.539062" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="706.445312" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="743.847656" xlink:href="#LucidaSansUnicode-97"/>
+      <use x="799.072266" xlink:href="#LucidaSansUnicode-116"/>
+      <use x="836.474609" xlink:href="#LucidaSansUnicode-105"/>
+      <use x="865.380859" xlink:href="#LucidaSansUnicode-111"/>
+      <use x="926.806641" xlink:href="#LucidaSansUnicode-110"/>
+      <use x="988.867188" xlink:href="#LucidaSansUnicode-32"/>
+      <use x="1020.507812" xlink:href="#LucidaSansUnicode-117"/>
+      <use x="1082.568359" xlink:href="#LucidaSansUnicode-115"/>
+      <use x="1133.544922" xlink:href="#LucidaSansUnicode-101"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7e14efa83b">
+   <rect height="108.72" width="139.5" x="22.5" y="17.28"/>
+  </clipPath>
+ </defs>
+</svg>
