@@ -5,7 +5,7 @@
 The Sea Ice index provides satellite data for sea ice extent (the area containing > 15% ice) and area (calculated by multiplying the percentage of sea ice in each pixel by pixel area) in the northern and southern hemispheres from 1979-present. NOAA recommends using these data to look at long-term trends in sea ice cover.
 
 ## Key Numbers
-Rate of change in Arctic sea ice extent in March (maximum yearly extent, relative to 1981-2010 average): -4.04 x 10<sup>10</sup> m<sup>2</sup> / yr
+Rate of change of Arctic sea ice extent in March (maximum yearly extent, relative to 1981-2010 average): -4.04 x 10<sup>10</sup> m<sup>2</sup> / yr
 
 Rate of change of Arctic sea ice extent in September (minimum yearly extent, 1979-2020): -8.37 x 10<sup>10</sup> m<sup>2</sup> / yr
 
