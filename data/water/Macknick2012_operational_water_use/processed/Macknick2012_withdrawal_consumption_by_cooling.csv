@@ -1,0 +1,70 @@
+﻿category,fuel_type,cooling_type,cooling_technology,quantity,median,minimum,maximum,number_of_sources,units
+non-renewable,nuclear,cooling tower,generic,withdrawal,4167.73641,3028.328,9842.066,3,L/MWh
+non-renewable,nuclear,once-through,generic,withdrawal,167882.9335,94635.25,227124.6,4,L/MWh
+non-renewable,nuclear,cooling pond,generic,withdrawal,26687.1405,1892.705,49210.33,2,L/MWh
+non-renewable,natural gas,cooling tower,combined cycle,withdrawal,965.27955,567.8115,1071.27103,7,L/MWh
+non-renewable,natural gas,cooling tower,steam,withdrawal,4553.84823,3596.1395,5526.6986,2,L/MWh
+non-renewable,natural gas,cooling tower,combined cycle with CCS,withdrawal,1915.41746,1843.49467,2059.26304,3,L/MWh
+non-renewable,natural gas,once-through,combined cycle,withdrawal,43077.9658,28390.575,75708.2,2,L/MWh
+non-renewable,natural gas,once-through,steam,withdrawal,132489.35,37854.1,227124.6,1,L/MWh
+non-renewable,natural gas,cooling pond,combined cycle,withdrawal,22523.1895,22523.1895,22523.1895,1,L/MWh
+non-renewable,natural gas,dry cooling,combined cycle,withdrawal,7.57082,0,15.14164,2,L/MWh
+non-renewable,coal,cooling tower,generic,withdrawal,3804.33705,1892.705,4542.492,4,L/MWh
+non-renewable,coal,cooling tower,subcritical,withdrawal,2222.03567,1752.64483,2702.78274,8,L/MWh
+non-renewable,coal,cooling tower,supercritical,withdrawal,2399.94994,2203.10862,2536.2247,9,L/MWh
+non-renewable,coal,cooling tower,IGCC,withdrawal,1487.66613,1355.17678,2290.17305,12,L/MWh
+non-renewable,coal,cooling tower,subcritical with CCS,withdrawal,5030.80989,4633.34184,5485.05909,3,L/MWh
+non-renewable,coal,cooling tower,supercritical with CCS,withdrawal,4341.86527,4156.38018,4379.71937,4,L/MWh
+non-renewable,coal,cooling tower,IGCC with CCS,withdrawal,2430.23322,1813.21139,2808.77422,7,L/MWh
+non-renewable,coal,once-through,generic,withdrawal,137599.6535,75708.2,189270.5,4,L/MWh
+non-renewable,coal,once-through,subcritical,withdrawal,102539.1861,102380.1989,102633.8213,3,L/MWh
+non-renewable,coal,once-through,supercritical,withdrawal,85512.4119,85364.78091,85591.90551,3,L/MWh
+non-renewable,coal,cooling pond,generic,withdrawal,46276.63725,1135.623,90849.84,2,L/MWh
+non-renewable,coal,cooling pond,subcritical,withdrawal,67811.83474,67603.63719,67861.04507,3,L/MWh
+non-renewable,coal,cooling pond,supercritical,withdrawal,56955.27886,56766.00836,56996.91837,3,L/MWh
+renewable,biopower,cooling tower,steam,withdrawal,3323.58998,1892.705,5526.6986,2,L/MWh
+renewable,biopower,once-through,steam,withdrawal,132489.35,75708.2,189270.5,1,L/MWh
+renewable,biopower,cooling pond,steam,withdrawal,1703.4345,1135.623,2271.246,1,L/MWh
+non-renewable,nuclear,cooling tower,generic,consumption,2543.79552,2199.32321,3198.67145,6,L/MWh
+non-renewable,nuclear,once-through,generic,consumption,1018.27529,378.541,1514.164,4,L/MWh
+non-renewable,nuclear,cooling pond,generic,consumption,2309.1001,2119.8296,2725.4952,2,L/MWh
+non-renewable,natural gas,cooling tower,combined cycle,consumption,776.00905,492.1033,1135.623,6,L/MWh
+non-renewable,naturalgas,cooling tower,steam,consumption,3126.74866,2505.94142,4428.9297,4,L/MWh
+non-renewable,natural gas,cooling tower,combined cycle with CCS,consumption,1487.66613,1430.88498,1540.66187,2,L/MWh
+non-renewable,natural gas,once-through,combined cycle,consumption,378.541,113.5623,757.082,3,L/MWh
+non-renewable,natural gas,once-through,steam,consumption,908.4984,359.61395,1101.55431,1,L/MWh
+non-renewable,natural gas,cooling pond,combined cycle,consumption,908.4984,908.4984,908.4984,1,L/MWh
+non-renewable,natural gas,dry cooling,combined cycle,consumption,7.57082,0,15.14164,2,L/MWh
+non-renewable,coal,cooling tower,generic,consumption,2600.57667,1816.9968,4163.951,5,L/MWh
+non-renewable,coal,cooling tower,subcritical,consumption,1813.21139,1491.45154,2513.51224,7,L/MWh
+non-renewable,coal,cooling tower,supercritical,consumption,1866.20713,1684.50745,2248.53354,8,L/MWh
+non-renewable,coal,cooling tower,IGCC,consumption,1438.4558,1203.76038,1661.79499,8,L/MWh
+non-renewable,coal,cooling tower,subcritical with CCS,consumption,3486.36261,3406.869,3565.85622,2,L/MWh
+non-renewable,coal,cooling tower,supercritical with CCS,consumption,3202.45686,3085.10915,3433.36687,3,L/MWh
+non-renewable,coal,cooling tower,IGCC with CCS,consumption,2078.19009,1975.98402,2286.38764,4,L/MWh
+non-renewable,coal,once-through,generic,consumption,946.3525,378.541,1199.97497,4,L/MWh
+non-renewable,coal,once-through,subcritical,consumption,427.75133,268.76411,522.38658,3,L/MWh
+non-renewable,coal,once-through,supercritical,consumption,389.89723,242.26624,473.17625,3,L/MWh
+non-renewable,coal,cooling pond,generic,consumption,2063.04845,1135.623,2649.787,2,L/MWh
+non-renewable,coal,cooling pond,subcritical,consumption,2948.83439,2789.84717,3043.46964,3,L/MWh
+non-renewable,coal,cooling pond,supercritical,consumption,158.98722,15.14164,242.26624,3,L/MWh
+renewable,photovoltaic,N/A,utility scale PV,consumption,3.78541,0,18.92705,3,L/MWh
+renewable,wind,N/A,wind turbine,consumption,0,0,0,2,L/MWh
+renewable,concentrated solar power,cooling tower,trough,consumption,3429.58146,2744.42225,4198.01969,18,L/MWh
+renewable,concentrated solar power,cooling tower,power tower,consumption,2975.33226,2842.84291,3452.29392,4,L/MWh
+renewable,concentrated solar power,cooling tower,fresnel,consumption,3785.41,3785.41,3785.41,1,L/MWh
+renewable,concentrated solar power,dry cooling,trough,consumption,295.26198,162.77263,299.04739,11,L/MWh
+renewable,concentrated solar power,dry cooling,power tower,consumption,98.42066,98.42066,98.42066,1,L/MWh
+renewable,concentrated solar power,hybrid,trough,consumption,1279.46858,442.89297,1502.80777,3,L/MWh
+renewable,concentrated solar power,hybrid,power tower,consumption,643.5197,386.11182,1143.19382,2,L/MWh
+renewable,concentrated solar power,N/A,stirling,consumption,18.92705,15.14164,22.71246,2,L/MWh
+renewable,biopower,cooling tower,steam,consumption,2093.33173,1816.9968,3652.92065,4,L/MWh
+renewable,biopower,cooling tower,biogas,consumption,889.57135,889.57135,889.57135,1,L/MWh
+renewable,biopower,once-through,steam,consumption,1135.623,1135.623,1135.623,1,L/MWh
+renewable,biopower,cooling pond,steam,consumption,1476.3099,1135.623,1816.9968,1,L/MWh
+renewable,biopower,dry cooling,biogas,consumption,132.48935,132.48935,132.48935,1,L/MWh
+renewable,geothermal,cooling tower,flash,consumption,56.78115,18.92705,1366.53301,4,L/MWh
+renewable,geothermal,dry cooling,flash,consumption,18.92705,18.92705,18.92705,1,L/MWh
+renewable,geothermal,dry cooling,binary,consumption,1022.0607,1022.0607,1022.0607,1,L/MWh
+renewable,geothermal,dry cooling,EGS,consumption,1911.63205,1097.7689,2725.4952,1,L/MWh
+renewable,geothermal,hybrid,binary,consumption,1745.07401,836.57561,2649.787,2,L/MWh
