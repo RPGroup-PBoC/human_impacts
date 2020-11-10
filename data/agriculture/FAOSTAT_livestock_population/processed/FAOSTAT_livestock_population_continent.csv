@@ -1,0 +1,5426 @@
+region,animal,year,population_Mhd
+Africa,asses,1961,10.983905
+Africa,asses,1962,10.848117
+Africa,asses,1963,10.545587
+Africa,asses,1964,10.641537
+Africa,asses,1965,10.806639
+Africa,asses,1966,10.70034
+Africa,asses,1967,10.776091
+Africa,asses,1968,10.963237
+Africa,asses,1969,10.978545
+Africa,asses,1970,11.218074
+Africa,asses,1971,11.638443
+Africa,asses,1972,11.653665
+Africa,asses,1973,11.417408
+Africa,asses,1974,11.639614
+Africa,asses,1975,11.75428
+Africa,asses,1976,11.92463
+Africa,asses,1977,12.161065
+Africa,asses,1978,12.345788
+Africa,asses,1979,12.387306
+Africa,asses,1980,12.346009
+Africa,asses,1981,12.532693
+Africa,asses,1982,12.826492
+Africa,asses,1983,12.918164
+Africa,asses,1984,12.419819
+Africa,asses,1985,12.196994
+Africa,asses,1986,12.7101
+Africa,asses,1987,12.948001
+Africa,asses,1988,13.477616
+Africa,asses,1989,13.919289
+Africa,asses,1990,14.374374
+Africa,asses,1991,14.738618
+Africa,asses,1992,15.252982
+Africa,asses,1993,13.512886
+Africa,asses,1994,13.738898
+Africa,asses,1995,13.98517
+Africa,asses,1996,13.914103
+Africa,asses,1997,14.06382
+Africa,asses,1998,14.319684
+Africa,asses,1999,14.594411
+Africa,asses,2000,14.846544
+Africa,asses,2001,15.33997
+Africa,asses,2002,15.619036
+Africa,asses,2003,15.712334
+Africa,asses,2004,15.963535
+Africa,asses,2005,16.47277
+Africa,asses,2006,17.017752
+Africa,asses,2007,17.368804
+Africa,asses,2008,17.208177
+Africa,asses,2009,17.47151
+Africa,asses,2010,17.337821
+Africa,asses,2011,17.707916
+Africa,asses,2012,25.117872
+Africa,asses,2013,25.466626
+Africa,asses,2014,25.913013
+Africa,asses,2015,28.950172
+Africa,asses,2016,29.861718
+Africa,asses,2017,30.491234
+Africa,asses,2018,30.275505
+Africa,buffaloes,1961,1.50102
+Africa,buffaloes,1962,1.53002
+Africa,buffaloes,1963,1.55872
+Africa,buffaloes,1964,1.587723
+Africa,buffaloes,1965,1.617026
+Africa,buffaloes,1966,1.646023
+Africa,buffaloes,1967,1.675015
+Africa,buffaloes,1968,1.943026
+Africa,buffaloes,1969,1.976025
+Africa,buffaloes,1970,2.009025
+Africa,buffaloes,1971,2.058025
+Africa,buffaloes,1972,2.098025
+Africa,buffaloes,1973,2.135025
+Africa,buffaloes,1974,2.170025
+Africa,buffaloes,1975,2.204025
+Africa,buffaloes,1976,2.235625
+Africa,buffaloes,1977,2.266025
+Africa,buffaloes,1978,2.342025
+Africa,buffaloes,1979,2.321438
+Africa,buffaloes,1980,2.346608
+Africa,buffaloes,1981,2.370079
+Africa,buffaloes,1982,2.392965
+Africa,buffaloes,1983,2.322025
+Africa,buffaloes,1984,2.414025
+Africa,buffaloes,1985,2.429025
+Africa,buffaloes,1986,2.443025
+Africa,buffaloes,1987,2.454025
+Africa,buffaloes,1988,2.464025
+Africa,buffaloes,1989,2.548972
+Africa,buffaloes,1990,2.897492
+Africa,buffaloes,1991,2.526725
+Africa,buffaloes,1992,2.548225
+Africa,buffaloes,1993,2.570125
+Africa,buffaloes,1994,2.920416
+Africa,buffaloes,1995,3.017751
+Africa,buffaloes,1996,2.906675
+Africa,buffaloes,1997,3.095946
+Africa,buffaloes,1998,3.149454
+Africa,buffaloes,1999,3.329725
+Africa,buffaloes,2000,3.530025
+Africa,buffaloes,2001,3.532269
+Africa,buffaloes,2002,3.717025
+Africa,buffaloes,2003,3.777025
+Africa,buffaloes,2004,3.845025
+Africa,buffaloes,2005,3.885025
+Africa,buffaloes,2006,3.937025
+Africa,buffaloes,2007,4.104835
+Africa,buffaloes,2008,4.052674
+Africa,buffaloes,2009,3.838746
+Africa,buffaloes,2010,3.818261
+Africa,buffaloes,2011,3.983192
+Africa,buffaloes,2012,4.164953
+Africa,buffaloes,2013,3.915272
+Africa,buffaloes,2014,3.949287
+Africa,buffaloes,2015,3.701584
+Africa,buffaloes,2016,3.436841
+Africa,buffaloes,2017,3.432606
+Africa,buffaloes,2018,3.506086
+Africa,camels,1961,8.62634
+Africa,camels,1962,8.879222
+Africa,camels,1963,9.303808
+Africa,camels,1964,9.820092
+Africa,camels,1965,10.233311
+Africa,camels,1966,10.824268
+Africa,camels,1967,11.497476
+Africa,camels,1968,12.054395
+Africa,camels,1969,12.122693
+Africa,camels,1970,12.196197
+Africa,camels,1971,12.411025
+Africa,camels,1972,12.60648
+Africa,camels,1973,12.32782
+Africa,camels,1974,12.309719
+Africa,camels,1975,12.729023
+Africa,camels,1976,12.859505
+Africa,camels,1977,12.887475
+Africa,camels,1978,13.29705
+Africa,camels,1979,13.509523
+Africa,camels,1980,13.623494
+Africa,camels,1981,14.004892
+Africa,camels,1982,14.5177
+Africa,camels,1983,14.478795
+Africa,camels,1984,14.36514
+Africa,camels,1985,14.64188
+Africa,camels,1986,14.49911
+Africa,camels,1987,14.705232
+Africa,camels,1988,15.116072
+Africa,camels,1989,15.272312
+Africa,camels,1990,15.21935
+Africa,camels,1991,15.550184
+Africa,camels,1992,15.348966
+Africa,camels,1993,15.129281
+Africa,camels,1994,15.478221
+Africa,camels,1995,15.801497
+Africa,camels,1996,16.10367
+Africa,camels,1997,16.429427
+Africa,camels,1998,16.989234
+Africa,camels,1999,17.81564
+Africa,camels,2000,18.195016
+Africa,camels,2001,18.794523
+Africa,camels,2002,19.465265
+Africa,camels,2003,20.092766
+Africa,camels,2004,21.021239
+Africa,camels,2005,21.372347
+Africa,camels,2006,21.438115
+Africa,camels,2007,24.173314
+Africa,camels,2008,25.408487
+Africa,camels,2009,25.165042
+Africa,camels,2010,25.907114
+Africa,camels,2011,26.335529
+Africa,camels,2012,26.598448
+Africa,camels,2013,27.264042
+Africa,camels,2014,27.847594
+Africa,camels,2015,28.604337
+Africa,camels,2016,29.341049
+Africa,camels,2017,30.126799
+Africa,camels,2018,30.734142
+Africa,cattle,1961,122.537096
+Africa,cattle,1962,124.466332
+Africa,cattle,1963,126.462951
+Africa,cattle,1964,130.157876
+Africa,cattle,1965,134.024159
+Africa,cattle,1966,134.794695
+Africa,cattle,1967,138.997455
+Africa,cattle,1968,142.563636
+Africa,cattle,1969,145.602271
+Africa,cattle,1970,148.592035
+Africa,cattle,1971,150.742783
+Africa,cattle,1972,151.796561
+Africa,cattle,1973,152.857269
+Africa,cattle,1974,153.68065
+Africa,cattle,1975,156.458619
+Africa,cattle,1976,158.341559
+Africa,cattle,1977,161.860216
+Africa,cattle,1978,166.616766
+Africa,cattle,1979,171.602013
+Africa,cattle,1980,172.531828
+Africa,cattle,1981,174.438509
+Africa,cattle,1982,178.341863
+Africa,cattle,1983,179.8418
+Africa,cattle,1984,175.341822
+Africa,cattle,1985,176.510621
+Africa,cattle,1986,178.489196
+Africa,cattle,1987,176.994949
+Africa,cattle,1988,180.106199
+Africa,cattle,1989,185.050723
+Africa,cattle,1990,189.029404
+Africa,cattle,1991,192.073563
+Africa,cattle,1992,197.904846
+Africa,cattle,1993,199.190713
+Africa,cattle,1994,200.646899
+Africa,cattle,1995,206.023622
+Africa,cattle,1996,209.346085
+Africa,cattle,1997,215.797012
+Africa,cattle,1998,222.984516
+Africa,cattle,1999,232.456129
+Africa,cattle,2000,232.232254
+Africa,cattle,2001,236.342859
+Africa,cattle,2002,242.110778
+Africa,cattle,2003,247.549716
+Africa,cattle,2004,250.190066
+Africa,cattle,2005,258.892323
+Africa,cattle,2006,264.251804
+Africa,cattle,2007,277.049128
+Africa,cattle,2008,285.870174
+Africa,cattle,2009,291.245497
+Africa,cattle,2010,298.289199
+Africa,cattle,2011,304.852664
+Africa,cattle,2012,315.706373
+Africa,cattle,2013,321.280096
+Africa,cattle,2014,328.117679
+Africa,cattle,2015,335.858442
+Africa,cattle,2016,344.262012
+Africa,cattle,2017,346.238951
+Africa,cattle,2018,355.694137
+Africa,chickens,1961,274.20099999999996
+Africa,chickens,1962,282.82099999999997
+Africa,chickens,1963,292.008
+Africa,chickens,1964,305.707
+Africa,chickens,1965,316.576
+Africa,chickens,1966,330.808
+Africa,chickens,1967,344.97
+Africa,chickens,1968,359.19
+Africa,chickens,1969,377.21500000000003
+Africa,chickens,1970,395.27
+Africa,chickens,1971,411.666
+Africa,chickens,1972,426.904
+Africa,chickens,1973,445.104
+Africa,chickens,1974,446.998
+Africa,chickens,1975,465.42499999999995
+Africa,chickens,1976,486.343
+Africa,chickens,1977,510.70400000000006
+Africa,chickens,1978,520.123
+Africa,chickens,1979,539.212
+Africa,chickens,1980,556.2660000000001
+Africa,chickens,1981,576.868
+Africa,chickens,1982,606.139
+Africa,chickens,1983,625.045
+Africa,chickens,1984,655.655
+Africa,chickens,1985,694.643
+Africa,chickens,1986,737.332
+Africa,chickens,1987,765.334
+Africa,chickens,1988,795.157
+Africa,chickens,1989,822.412
+Africa,chickens,1990,907.901
+Africa,chickens,1991,917.473
+Africa,chickens,1992,937.7180000000001
+Africa,chickens,1993,935.3209999999999
+Africa,chickens,1994,966.776
+Africa,chickens,1995,1032.105
+Africa,chickens,1996,1048.868
+Africa,chickens,1997,1083.869
+Africa,chickens,1998,1152.337
+Africa,chickens,1999,1191.5439999999999
+Africa,chickens,2000,1196.964
+Africa,chickens,2001,1270.6090000000002
+Africa,chickens,2002,1320.7089999999998
+Africa,chickens,2003,1341.58
+Africa,chickens,2004,1333.027
+Africa,chickens,2005,1325.0120000000002
+Africa,chickens,2006,1358.316
+Africa,chickens,2007,1452.4250000000002
+Africa,chickens,2008,1519.2779999999998
+Africa,chickens,2009,1594.94
+Africa,chickens,2010,1678.604
+Africa,chickens,2011,1667.041
+Africa,chickens,2012,1731.5529999999999
+Africa,chickens,2013,1741.727
+Africa,chickens,2014,1785.546
+Africa,chickens,2015,1818.902
+Africa,chickens,2016,1877.221
+Africa,chickens,2017,1897.326
+Africa,chickens,2018,1882.382
+Africa,ducks,1961,6.231000000000001
+Africa,ducks,1962,6.3629999999999995
+Africa,ducks,1963,6.478000000000001
+Africa,ducks,1964,6.611
+Africa,ducks,1965,6.725
+Africa,ducks,1966,6.875
+Africa,ducks,1967,7.429
+Africa,ducks,1968,7.517
+Africa,ducks,1969,7.765000000000001
+Africa,ducks,1970,7.945
+Africa,ducks,1971,8.132
+Africa,ducks,1972,8.203999999999999
+Africa,ducks,1973,8.274999999999999
+Africa,ducks,1974,8.047
+Africa,ducks,1975,8.184000000000001
+Africa,ducks,1976,8.045
+Africa,ducks,1977,8.123999999999999
+Africa,ducks,1978,8.397
+Africa,ducks,1979,8.469000000000001
+Africa,ducks,1980,7.842999999999999
+Africa,ducks,1981,7.7780000000000005
+Africa,ducks,1982,9.109
+Africa,ducks,1983,10.089
+Africa,ducks,1984,10.706999999999999
+Africa,ducks,1985,11.501000000000001
+Africa,ducks,1986,11.938
+Africa,ducks,1987,11.644
+Africa,ducks,1988,12.16
+Africa,ducks,1989,12.349
+Africa,ducks,1990,12.871
+Africa,ducks,1991,15.372
+Africa,ducks,1992,17.343
+Africa,ducks,1993,19.863
+Africa,ducks,1994,22.781
+Africa,ducks,1995,24.726000000000003
+Africa,ducks,1996,25.079
+Africa,ducks,1997,25.428
+Africa,ducks,1998,15.757
+Africa,ducks,1999,15.994000000000002
+Africa,ducks,2000,17.095
+Africa,ducks,2001,17.624000000000002
+Africa,ducks,2002,17.929000000000002
+Africa,ducks,2003,17.779
+Africa,ducks,2004,13.12
+Africa,ducks,2005,13.857
+Africa,ducks,2006,15.584000000000001
+Africa,ducks,2007,12.765
+Africa,ducks,2008,16.8
+Africa,ducks,2009,16.052
+Africa,ducks,2010,18.427
+Africa,ducks,2011,16.827
+Africa,ducks,2012,19.535
+Africa,ducks,2013,21.676000000000002
+Africa,ducks,2014,22.797
+Africa,ducks,2015,22.479
+Africa,ducks,2016,21.709
+Africa,ducks,2017,22.465
+Africa,ducks,2018,22.4
+Africa,geese and guinea fowls,1961,3.882
+Africa,geese and guinea fowls,1962,3.9579999999999997
+Africa,geese and guinea fowls,1963,4.032
+Africa,geese and guinea fowls,1964,4.107
+Africa,geese and guinea fowls,1965,4.182
+Africa,geese and guinea fowls,1966,4.257000000000001
+Africa,geese and guinea fowls,1967,4.332
+Africa,geese and guinea fowls,1968,4.407
+Africa,geese and guinea fowls,1969,4.483
+Africa,geese and guinea fowls,1970,4.6080000000000005
+Africa,geese and guinea fowls,1971,4.683
+Africa,geese and guinea fowls,1972,4.758
+Africa,geese and guinea fowls,1973,4.832999999999999
+Africa,geese and guinea fowls,1974,4.707
+Africa,geese and guinea fowls,1975,4.9319999999999995
+Africa,geese and guinea fowls,1976,4.857
+Africa,geese and guinea fowls,1977,4.882
+Africa,geese and guinea fowls,1978,5.107
+Africa,geese and guinea fowls,1979,5.148
+Africa,geese and guinea fowls,1980,4.657
+Africa,geese and guinea fowls,1981,4.694
+Africa,geese and guinea fowls,1982,5.825
+Africa,geese and guinea fowls,1983,6.835
+Africa,geese and guinea fowls,1984,7.247
+Africa,geese and guinea fowls,1985,7.842999999999999
+Africa,geese and guinea fowls,1986,8.042
+Africa,geese and guinea fowls,1987,7.747000000000001
+Africa,geese and guinea fowls,1988,8.046
+Africa,geese and guinea fowls,1989,8.039
+Africa,geese and guinea fowls,1990,8.337000000000002
+Africa,geese and guinea fowls,1991,10.370000000000001
+Africa,geese and guinea fowls,1992,12.001
+Africa,geese and guinea fowls,1993,14.066
+Africa,geese and guinea fowls,1994,16.439
+Africa,geese and guinea fowls,1995,17.942
+Africa,geese and guinea fowls,1996,18.229
+Africa,geese and guinea fowls,1997,18.418
+Africa,geese and guinea fowls,1998,9.523
+Africa,geese and guinea fowls,1999,16.219
+Africa,geese and guinea fowls,2000,19.356
+Africa,geese and guinea fowls,2001,15.613
+Africa,geese and guinea fowls,2002,14.912999999999998
+Africa,geese and guinea fowls,2003,22.003999999999998
+Africa,geese and guinea fowls,2004,17.23
+Africa,geese and guinea fowls,2005,12.51
+Africa,geese and guinea fowls,2006,12.127
+Africa,geese and guinea fowls,2007,29.158
+Africa,geese and guinea fowls,2008,18.142
+Africa,geese and guinea fowls,2009,22.19
+Africa,geese and guinea fowls,2010,26.058999999999997
+Africa,geese and guinea fowls,2011,25.26
+Africa,geese and guinea fowls,2012,25.276
+Africa,geese and guinea fowls,2013,25.276
+Africa,geese and guinea fowls,2014,25.296
+Africa,geese and guinea fowls,2015,24.535
+Africa,geese and guinea fowls,2016,22.593
+Africa,geese and guinea fowls,2017,25.087000000000003
+Africa,geese and guinea fowls,2018,26.224999999999998
+Africa,goats,1961,94.254653
+Africa,goats,1962,94.491955
+Africa,goats,1963,96.875347
+Africa,goats,1964,98.441141
+Africa,goats,1965,101.041023
+Africa,goats,1966,103.917248
+Africa,goats,1967,108.262938
+Africa,goats,1968,111.341781
+Africa,goats,1969,113.33398
+Africa,goats,1970,115.410745
+Africa,goats,1971,116.12572
+Africa,goats,1972,117.104124
+Africa,goats,1973,113.876463
+Africa,goats,1974,115.459265
+Africa,goats,1975,120.004058
+Africa,goats,1976,122.842188
+Africa,goats,1977,127.919403
+Africa,goats,1978,135.448239
+Africa,goats,1979,137.641604
+Africa,goats,1980,141.108352
+Africa,goats,1981,142.184796
+Africa,goats,1982,145.242914
+Africa,goats,1983,148.998692
+Africa,goats,1984,144.783869
+Africa,goats,1985,149.19376
+Africa,goats,1986,155.119633
+Africa,goats,1987,160.99164
+Africa,goats,1988,168.458689
+Africa,goats,1989,174.981114
+Africa,goats,1990,176.785181
+Africa,goats,1991,183.615393
+Africa,goats,1992,186.532859
+Africa,goats,1993,186.102194
+Africa,goats,1994,198.3524
+Africa,goats,1995,205.985089
+Africa,goats,1996,213.034789
+Africa,goats,1997,221.344239
+Africa,goats,1998,228.492576
+Africa,goats,1999,235.649084
+Africa,goats,2000,243.790371
+Africa,goats,2001,254.896104
+Africa,goats,2002,262.433736
+Africa,goats,2003,270.335246
+Africa,goats,2004,282.067934
+Africa,goats,2005,291.283396
+Africa,goats,2006,293.509042
+Africa,goats,2007,320.306176
+Africa,goats,2008,332.443663
+Africa,goats,2009,338.357768
+Africa,goats,2010,348.911827
+Africa,goats,2011,356.512394
+Africa,goats,2012,372.825227
+Africa,goats,2013,389.093751
+Africa,goats,2014,397.094624
+Africa,goats,2015,401.894499
+Africa,goats,2016,415.132169
+Africa,goats,2017,426.257039
+Africa,goats,2018,438.110974
+Africa,horses,1961,3.493986
+Africa,horses,1962,3.485918
+Africa,horses,1963,3.463366
+Africa,horses,1964,3.522182
+Africa,horses,1965,3.640271
+Africa,horses,1966,3.616863
+Africa,horses,1967,3.642604
+Africa,horses,1968,3.587008
+Africa,horses,1969,3.66531
+Africa,horses,1970,3.695711
+Africa,horses,1971,3.680453
+Africa,horses,1972,3.553196
+Africa,horses,1973,3.506497
+Africa,horses,1974,3.539946
+Africa,horses,1975,3.555207
+Africa,horses,1976,3.57805
+Africa,horses,1977,3.628918
+Africa,horses,1978,3.653169
+Africa,horses,1979,3.673592
+Africa,horses,1980,3.630391
+Africa,horses,1981,3.861959
+Africa,horses,1982,3.972735
+Africa,horses,1983,4.254688
+Africa,horses,1984,4.050454
+Africa,horses,1985,4.239836
+Africa,horses,1986,4.322477
+Africa,horses,1987,4.40841
+Africa,horses,1988,4.503463
+Africa,horses,1989,4.53961
+Africa,horses,1990,5.412081
+Africa,horses,1991,5.513583
+Africa,horses,1992,5.557177
+Africa,horses,1993,3.993317
+Africa,horses,1994,4.075687
+Africa,horses,1995,4.126381
+Africa,horses,1996,4.159651
+Africa,horses,1997,4.201278
+Africa,horses,1998,4.27713
+Africa,horses,1999,4.309653
+Africa,horses,2000,4.290445
+Africa,horses,2001,4.579002
+Africa,horses,2002,4.817245
+Africa,horses,2003,4.927555
+Africa,horses,2004,5.001996
+Africa,horses,2005,5.157062
+Africa,horses,2006,5.265579
+Africa,horses,2007,5.547331
+Africa,horses,2008,5.628513
+Africa,horses,2009,5.888862
+Africa,horses,2010,6.021135
+Africa,horses,2011,5.95874
+Africa,horses,2012,5.933465
+Africa,horses,2013,5.984084
+Africa,horses,2014,6.0895
+Africa,horses,2015,6.807017
+Africa,horses,2016,6.979326
+Africa,horses,2017,7.112527
+Africa,horses,2018,6.491509
+Africa,mules,1961,1.836948
+Africa,mules,1962,1.897192
+Africa,mules,1963,1.86412
+Africa,mules,1964,2.000111
+Africa,mules,1965,1.950399
+Africa,mules,1966,1.979456
+Africa,mules,1967,2.043572
+Africa,mules,1968,2.062338
+Africa,mules,1969,2.08851
+Africa,mules,1970,2.087487
+Africa,mules,1971,2.076983
+Africa,mules,1972,2.07629
+Africa,mules,1973,2.076954
+Africa,mules,1974,2.082102
+Africa,mules,1975,2.100981
+Africa,mules,1976,2.113779
+Africa,mules,1977,2.138128
+Africa,mules,1978,2.172573
+Africa,mules,1979,2.216834
+Africa,mules,1980,1.137577
+Africa,mules,1981,1.143347
+Africa,mules,1982,1.152636
+Africa,mules,1983,1.214861
+Africa,mules,1984,1.1964
+Africa,mules,1985,1.224378
+Africa,mules,1986,1.259798
+Africa,mules,1987,1.305868
+Africa,mules,1988,1.30024
+Africa,mules,1989,1.313969
+Africa,mules,1990,1.341167
+Africa,mules,1991,1.365803
+Africa,mules,1992,1.375011
+Africa,mules,1993,1.37068
+Africa,mules,1994,1.36632
+Africa,mules,1995,0.97782
+Africa,mules,1996,0.95805
+Africa,mules,1997,0.954805
+Africa,mules,1998,0.96468
+Africa,mules,1999,0.940785
+Africa,mules,2000,0.899777
+Africa,mules,2001,0.939882
+Africa,mules,2002,1.036923
+Africa,mules,2003,0.976593
+Africa,mules,2004,1.012234
+Africa,mules,2005,1.010264
+Africa,mules,2006,1.026674
+Africa,mules,2007,1.064883
+Africa,mules,2008,1.063008
+Africa,mules,2009,1.047844
+Africa,mules,2010,0.706338
+Africa,mules,2011,1.005752
+Africa,mules,2012,0.977638
+Africa,mules,2013,0.979014
+Africa,mules,2014,1.014638
+Africa,mules,2015,0.98258
+Africa,mules,2016,0.951665
+Africa,mules,2017,0.948388
+Africa,mules,2018,0.884635
+Africa,"pigeons, other birds",1961,5.8
+Africa,"pigeons, other birds",1962,5.6
+Africa,"pigeons, other birds",1963,5.4
+Africa,"pigeons, other birds",1964,5.2
+Africa,"pigeons, other birds",1965,5.0
+Africa,"pigeons, other birds",1966,4.8
+Africa,"pigeons, other birds",1967,4.6
+Africa,"pigeons, other birds",1968,4.44
+Africa,"pigeons, other birds",1969,4.271999999999999
+Africa,"pigeons, other birds",1970,4.096
+Africa,"pigeons, other birds",1971,3.914
+Africa,"pigeons, other birds",1972,3.722
+Africa,"pigeons, other birds",1973,3.5239999999999996
+Africa,"pigeons, other birds",1974,3.318
+Africa,"pigeons, other birds",1975,3.1020000000000003
+Africa,"pigeons, other birds",1976,2.8800000000000003
+Africa,"pigeons, other birds",1977,2.65
+Africa,"pigeons, other birds",1978,2.4139999999999997
+Africa,"pigeons, other birds",1979,2.1679999999999997
+Africa,"pigeons, other birds",1980,2.214
+Africa,"pigeons, other birds",1981,3.4
+Africa,"pigeons, other birds",1982,5.3
+Africa,"pigeons, other birds",1983,7.356
+Africa,"pigeons, other birds",1984,8.453999999999999
+Africa,"pigeons, other birds",1985,8.712
+Africa,"pigeons, other birds",1986,8.975999999999999
+Africa,"pigeons, other birds",1987,9.245
+Africa,"pigeons, other birds",1988,9.520000000000001
+Africa,"pigeons, other birds",1989,9.801
+Africa,"pigeons, other birds",1990,10.092
+Africa,"pigeons, other birds",1991,21.471
+Africa,"pigeons, other birds",1992,24.932
+Africa,"pigeons, other birds",1993,28.943
+Africa,"pigeons, other birds",1994,33.607
+Africa,"pigeons, other birds",1995,36.963
+Africa,"pigeons, other birds",1996,35.033
+Africa,"pigeons, other birds",1997,36.511
+Africa,"pigeons, other birds",1998,12.652
+Africa,"pigeons, other birds",1999,13.033
+Africa,"pigeons, other birds",2000,13.148
+Africa,"pigeons, other birds",2001,13.159
+Africa,"pigeons, other birds",2002,13.270000000000001
+Africa,"pigeons, other birds",2003,13.285
+Africa,"pigeons, other birds",2004,13.29
+Africa,"pigeons, other birds",2005,13.295
+Africa,"pigeons, other birds",2006,13.299999999999999
+Africa,"pigeons, other birds",2007,13.31
+Africa,"pigeons, other birds",2008,13.32
+Africa,"pigeons, other birds",2009,13.33
+Africa,"pigeons, other birds",2010,13.385
+Africa,"pigeons, other birds",2011,13.385
+Africa,"pigeons, other birds",2012,13.435
+Africa,"pigeons, other birds",2013,13.435
+Africa,"pigeons, other birds",2014,13.384
+Africa,"pigeons, other birds",2015,12.947999999999999
+Africa,"pigeons, other birds",2016,11.858
+Africa,"pigeons, other birds",2017,11.744
+Africa,"pigeons, other birds",2018,11.457
+Africa,pigs,1961,5.667825
+Africa,pigs,1962,5.814898
+Africa,pigs,1963,5.960056
+Africa,pigs,1964,6.192182
+Africa,pigs,1965,6.172668
+Africa,pigs,1966,6.224684
+Africa,pigs,1967,6.32991
+Africa,pigs,1968,6.712698
+Africa,pigs,1969,7.113065
+Africa,pigs,1970,7.2084
+Africa,pigs,1971,7.379821
+Africa,pigs,1972,7.742941
+Africa,pigs,1973,7.820543
+Africa,pigs,1974,7.907838
+Africa,pigs,1975,8.144108
+Africa,pigs,1976,8.567008
+Africa,pigs,1977,9.001468
+Africa,pigs,1978,9.427969
+Africa,pigs,1979,9.68349
+Africa,pigs,1980,10.172746
+Africa,pigs,1981,10.738582
+Africa,pigs,1982,10.44903
+Africa,pigs,1983,10.564971
+Africa,pigs,1984,11.057503
+Africa,pigs,1985,11.968304
+Africa,pigs,1986,13.16229
+Africa,pigs,1987,13.752551
+Africa,pigs,1988,14.142038
+Africa,pigs,1989,15.35243
+Africa,pigs,1990,17.153331
+Africa,pigs,1991,17.60626
+Africa,pigs,1992,18.124868
+Africa,pigs,1993,18.447535
+Africa,pigs,1994,18.950551
+Africa,pigs,1995,19.556873
+Africa,pigs,1996,19.741236
+Africa,pigs,1997,20.380287
+Africa,pigs,1998,20.568916
+Africa,pigs,1999,20.520907
+Africa,pigs,2000,21.6668
+Africa,pigs,2001,21.391723
+Africa,pigs,2002,22.606046
+Africa,pigs,2003,22.320033
+Africa,pigs,2004,23.367163
+Africa,pigs,2005,24.497987
+Africa,pigs,2006,25.331208
+Africa,pigs,2007,26.667696
+Africa,pigs,2008,28.178382
+Africa,pigs,2009,29.368917
+Africa,pigs,2010,31.258408
+Africa,pigs,2011,31.157793
+Africa,pigs,2012,32.804914
+Africa,pigs,2013,33.107422
+Africa,pigs,2014,34.348171
+Africa,pigs,2015,35.449231
+Africa,pigs,2016,36.861228
+Africa,pigs,2017,37.377009
+Africa,pigs,2018,40.52525
+Africa,rabbits and hares,1961,2.78
+Africa,rabbits and hares,1962,2.7920000000000003
+Africa,rabbits and hares,1963,2.8040000000000003
+Africa,rabbits and hares,1964,2.812
+Africa,rabbits and hares,1965,3.021
+Africa,rabbits and hares,1966,3.149
+Africa,rabbits and hares,1967,3.157
+Africa,rabbits and hares,1968,3.165
+Africa,rabbits and hares,1969,3.177
+Africa,rabbits and hares,1970,3.1870000000000003
+Africa,rabbits and hares,1971,3.411
+Africa,rabbits and hares,1972,3.423
+Africa,rabbits and hares,1973,3.433
+Africa,rabbits and hares,1974,3.479
+Africa,rabbits and hares,1975,3.54
+Africa,rabbits and hares,1976,3.622
+Africa,rabbits and hares,1977,3.673
+Africa,rabbits and hares,1978,3.6879999999999997
+Africa,rabbits and hares,1979,3.725
+Africa,rabbits and hares,1980,3.767
+Africa,rabbits and hares,1981,4.71
+Africa,rabbits and hares,1982,5.444
+Africa,rabbits and hares,1983,6.172000000000001
+Africa,rabbits and hares,1984,7.614
+Africa,rabbits and hares,1985,7.9030000000000005
+Africa,rabbits and hares,1986,8.184000000000001
+Africa,rabbits and hares,1987,8.511
+Africa,rabbits and hares,1988,8.772
+Africa,rabbits and hares,1989,9.095
+Africa,rabbits and hares,1990,11.126000000000001
+Africa,rabbits and hares,1991,11.263
+Africa,rabbits and hares,1992,13.113
+Africa,rabbits and hares,1993,15.383000000000001
+Africa,rabbits and hares,1994,18.027
+Africa,rabbits and hares,1995,19.484
+Africa,rabbits and hares,1996,20.281
+Africa,rabbits and hares,1997,10.678999999999998
+Africa,rabbits and hares,1998,10.519
+Africa,rabbits and hares,1999,11.104
+Africa,rabbits and hares,2000,11.373
+Africa,rabbits and hares,2001,11.193
+Africa,rabbits and hares,2002,11.282
+Africa,rabbits and hares,2003,11.822
+Africa,rabbits and hares,2004,19.183
+Africa,rabbits and hares,2005,18.712
+Africa,rabbits and hares,2006,19.662
+Africa,rabbits and hares,2007,20.691000000000003
+Africa,rabbits and hares,2008,23.337
+Africa,rabbits and hares,2009,18.238
+Africa,rabbits and hares,2010,15.553
+Africa,rabbits and hares,2011,15.169
+Africa,rabbits and hares,2012,15.076
+Africa,rabbits and hares,2013,15.684
+Africa,rabbits and hares,2014,16.561
+Africa,rabbits and hares,2015,18.162000000000003
+Africa,rabbits and hares,2016,17.745
+Africa,rabbits and hares,2017,18.816
+Africa,rabbits and hares,2018,18.031
+Africa,sheep,1961,135.126153
+Africa,sheep,1962,133.23053
+Africa,sheep,1963,134.184178
+Africa,sheep,1964,137.296515
+Africa,sheep,1965,143.311749
+Africa,sheep,1966,150.837351
+Africa,sheep,1967,153.706728
+Africa,sheep,1968,157.983286
+Africa,sheep,1969,161.221845
+Africa,sheep,1970,159.25134
+Africa,sheep,1971,160.639846
+Africa,sheep,1972,156.82544
+Africa,sheep,1973,158.7044
+Africa,sheep,1974,158.247775
+Africa,sheep,1975,163.111673
+Africa,sheep,1976,163.26181
+Africa,sheep,1977,170.728069
+Africa,sheep,1978,174.353418
+Africa,sheep,1979,176.635374
+Africa,sheep,1980,184.759023
+Africa,sheep,1981,186.406579
+Africa,sheep,1982,187.434274
+Africa,sheep,1983,188.799089
+Africa,sheep,1984,185.419021
+Africa,sheep,1985,189.194909
+Africa,sheep,1986,190.135309
+Africa,sheep,1987,194.784669
+Africa,sheep,1988,197.288062
+Africa,sheep,1989,205.348424
+Africa,sheep,1990,207.363709
+Africa,sheep,1991,209.565246
+Africa,sheep,1992,211.5515
+Africa,sheep,1993,205.469083
+Africa,sheep,1994,216.063595
+Africa,sheep,1995,217.15906
+Africa,sheep,1996,224.008153
+Africa,sheep,1997,231.967371
+Africa,sheep,1998,240.077977
+Africa,sheep,1999,249.165671
+Africa,sheep,2000,253.069651
+Africa,sheep,2001,258.571721
+Africa,sheep,2002,265.060463
+Africa,sheep,2003,269.509751
+Africa,sheep,2004,278.626294
+Africa,sheep,2005,286.520226
+Africa,sheep,2006,291.286216
+Africa,sheep,2007,306.006654
+Africa,sheep,2008,310.006621
+Africa,sheep,2009,316.145242
+Africa,sheep,2010,322.9731
+Africa,sheep,2011,332.455736
+Africa,sheep,2012,341.826759
+Africa,sheep,2013,351.424269
+Africa,sheep,2014,360.308825
+Africa,sheep,2015,361.654674
+Africa,sheep,2016,372.246616
+Africa,sheep,2017,378.877605
+Africa,sheep,2018,383.954675
+Africa,turkeys,1961,1.213
+Africa,turkeys,1962,1.276
+Africa,turkeys,1963,1.339
+Africa,turkeys,1964,1.4040000000000001
+Africa,turkeys,1965,1.468
+Africa,turkeys,1966,1.5870000000000002
+Africa,turkeys,1967,1.597
+Africa,turkeys,1968,1.712
+Africa,turkeys,1969,1.828
+Africa,turkeys,1970,1.944
+Africa,turkeys,1971,2.057
+Africa,turkeys,1972,2.17
+Africa,turkeys,1973,2.283
+Africa,turkeys,1974,2.094
+Africa,turkeys,1975,2.2079999999999997
+Africa,turkeys,1976,2.109
+Africa,turkeys,1977,2.115
+Africa,turkeys,1978,2.376
+Africa,turkeys,1979,2.438
+Africa,turkeys,1980,2.1510000000000002
+Africa,turkeys,1981,2.2659999999999996
+Africa,turkeys,1982,2.18
+Africa,turkeys,1983,2.471
+Africa,turkeys,1984,2.669
+Africa,turkeys,1985,3.094
+Africa,turkeys,1986,3.326
+Africa,turkeys,1987,3.18
+Africa,turkeys,1988,3.5260000000000002
+Africa,turkeys,1989,3.699
+Africa,turkeys,1990,7.293
+Africa,turkeys,1991,7.423
+Africa,turkeys,1992,8.030000000000001
+Africa,turkeys,1993,8.919
+Africa,turkeys,1994,9.42
+Africa,turkeys,1995,9.440000000000001
+Africa,turkeys,1996,9.386000000000001
+Africa,turkeys,1997,10.331999999999999
+Africa,turkeys,1998,9.892
+Africa,turkeys,1999,10.522
+Africa,turkeys,2000,11.15
+Africa,turkeys,2001,12.004000000000001
+Africa,turkeys,2002,11.619000000000002
+Africa,turkeys,2003,11.141
+Africa,turkeys,2004,11.96
+Africa,turkeys,2005,12.804
+Africa,turkeys,2006,13.835999999999999
+Africa,turkeys,2007,17.209
+Africa,turkeys,2008,18.215
+Africa,turkeys,2009,19.09
+Africa,turkeys,2010,21.733999999999998
+Africa,turkeys,2011,22.07
+Africa,turkeys,2012,25.103
+Africa,turkeys,2013,26.416999999999998
+Africa,turkeys,2014,27.341
+Africa,turkeys,2015,26.199
+Africa,turkeys,2016,26.688
+Africa,turkeys,2017,26.134
+Africa,turkeys,2018,27.055
+Northern America,asses,1961,0.015
+Northern America,asses,1962,0.015
+Northern America,asses,1963,0.015
+Northern America,asses,1964,0.016
+Northern America,asses,1965,0.016
+Northern America,asses,1966,0.016003
+Northern America,asses,1967,0.018004
+Northern America,asses,1968,0.018004
+Northern America,asses,1969,0.018005
+Northern America,asses,1970,0.019006
+Northern America,asses,1971,0.019006
+Northern America,asses,1972,0.019006
+Northern America,asses,1973,0.020006
+Northern America,asses,1974,0.020007
+Northern America,asses,1975,0.020005
+Northern America,asses,1976,0.020004
+Northern America,asses,1977,0.021003
+Northern America,asses,1978,0.021004
+Northern America,asses,1979,0.021004
+Northern America,asses,1980,0.021004
+Northern America,asses,1981,0.023004
+Northern America,asses,1982,0.023005
+Northern America,asses,1983,0.023005
+Northern America,asses,1984,0.024005
+Northern America,asses,1985,0.024005
+Northern America,asses,1986,0.024005
+Northern America,asses,1987,0.024005
+Northern America,asses,1988,0.026005
+Northern America,asses,1989,0.055006
+Northern America,asses,1990,0.053006
+Northern America,asses,1991,0.052006
+Northern America,asses,1992,0.051006
+Northern America,asses,1993,0.052006
+Northern America,asses,1994,0.052006
+Northern America,asses,1995,0.052006
+Northern America,asses,1996,0.052005
+Northern America,asses,1997,0.052005
+Northern America,asses,1998,0.052005
+Northern America,asses,1999,0.052005
+Northern America,asses,2000,0.052005
+Northern America,asses,2001,0.052005
+Northern America,asses,2002,0.052005
+Northern America,asses,2003,0.052005
+Northern America,asses,2004,0.052005
+Northern America,asses,2005,0.052005
+Northern America,asses,2006,0.052005
+Northern America,asses,2007,0.052006
+Northern America,asses,2008,0.052006
+Northern America,asses,2009,0.052006
+Northern America,asses,2010,0.052006
+Northern America,asses,2011,0.052006
+Northern America,asses,2012,0.052006
+Northern America,asses,2013,0.052006
+Northern America,asses,2014,0.052006
+Northern America,asses,2015,0.051994
+Northern America,asses,2016,0.051983
+Northern America,asses,2017,0.051981
+Northern America,asses,2018,0.05198
+Northern America,cattle,1961,108.397595
+Northern America,cattle,1962,111.303419
+Northern America,cattle,1963,115.712395
+Northern America,cattle,1964,119.582867
+Northern America,cattle,1965,121.129832
+Northern America,cattle,1966,120.766055
+Northern America,cattle,1967,120.508118
+Northern America,cattle,1968,121.049805
+Northern America,cattle,1969,121.417314
+Northern America,cattle,1970,123.995901
+Northern America,cattle,1971,126.563887
+Northern America,cattle,1972,130.186785
+Northern America,cattle,1973,134.386698
+Northern America,cattle,1974,141.269481
+Northern America,cattle,1975,146.3065
+Northern America,cattle,1976,142.028492
+Northern America,cattle,1977,136.172489
+Northern America,cattle,1978,128.901495
+Northern America,cattle,1979,122.860635
+Northern America,cattle,1980,123.36865
+Northern America,cattle,1981,126.517708
+Northern America,cattle,1982,127.6067
+Northern America,cattle,1983,126.862688
+Northern America,cattle,1984,124.99005
+Northern America,cattle,1985,120.912112
+Northern America,cattle,1986,116.334315
+Northern America,cattle,1987,112.785293
+Northern America,cattle,1988,110.378921
+Northern America,cattle,1989,107.72517
+Northern America,cattle,1990,107.03717
+Northern America,cattle,1991,107.68257
+Northern America,cattle,1992,109.42572
+Northern America,cattle,1993,111.0365
+Northern America,cattle,1994,112.98622
+Northern America,cattle,1995,115.49455
+Northern America,cattle,1996,116.9505
+Northern America,cattle,1997,115.0679
+Northern America,cattle,1998,113.1045
+Northern America,cattle,1999,112.3269
+Northern America,cattle,2000,111.400933
+Northern America,cattle,2001,110.906334
+Northern America,cattle,2002,110.475143
+Northern America,cattle,2003,109.566663
+Northern America,cattle,2004,109.443663
+Northern America,cattle,2005,109.943654
+Northern America,cattle,2006,111.357156
+Northern America,cattle,2007,110.708669
+Northern America,cattle,2008,109.790234
+Northern America,cattle,2009,107.75174
+Northern America,cattle,2010,106.75195
+Northern America,cattle,2011,105.043163
+Northern America,cattle,2012,103.390993
+Northern America,cattle,2013,102.336016
+Northern America,cattle,2014,100.576843
+Northern America,cattle,2015,100.783851
+Northern America,cattle,2016,103.498838
+Northern America,cattle,2017,105.160441
+Northern America,cattle,2018,105.863844
+Northern America,chickens,1961,821.016
+Northern America,chickens,1962,847.087
+Northern America,chickens,1963,847.72
+Northern America,chickens,1964,863.5939999999999
+Northern America,chickens,1965,904.276
+Northern America,chickens,1966,926.914
+Northern America,chickens,1967,960.679
+Northern America,chickens,1968,966.0079999999999
+Northern America,chickens,1969,999.4739999999999
+Northern America,chickens,1970,1015.9929999999999
+Northern America,chickens,1971,1012.647
+Northern America,chickens,1972,1026.24
+Northern America,chickens,1973,997.917
+Northern America,chickens,1974,997.345
+Northern America,chickens,1975,969.035
+Northern America,chickens,1976,1013.329
+Northern America,chickens,1977,1044.071
+Northern America,chickens,1978,1092.847
+Northern America,chickens,1979,1158.7359999999999
+Northern America,chickens,1980,1146.5559999999998
+Northern America,chickens,1981,1173.883
+Northern America,chickens,1982,1164.4650000000001
+Northern America,chickens,1983,1157.3210000000001
+Northern America,chickens,1984,1181.2530000000002
+Northern America,chickens,1985,1210.4550000000002
+Northern America,chickens,1986,1243.3609999999999
+Northern America,chickens,1987,1321.721
+Northern America,chickens,1988,1338.792
+Northern America,chickens,1989,1385.087
+Northern America,chickens,1990,1443.085
+Northern America,chickens,1991,1501.07
+Northern America,chickens,1992,1548.0700000000002
+Northern America,chickens,1993,1613.06
+Northern America,chickens,1994,1690.055
+Northern America,chickens,1995,1747.056
+Northern America,chickens,1996,1803.0520000000001
+Northern America,chickens,1997,1844.0529999999999
+Northern America,chickens,1998,1866.054
+Northern America,chickens,1999,1940.055
+Northern America,chickens,2000,2018.056
+Northern America,chickens,2001,2058.062
+Northern America,chickens,2002,2100.0679999999998
+Northern America,chickens,2003,2080.072
+Northern America,chickens,2004,2125.0719999999997
+Northern America,chickens,2005,2150.072
+Northern America,chickens,2006,2155.078
+Northern America,chickens,2007,2170.082
+Northern America,chickens,2008,2180.0899999999997
+Northern America,chickens,2009,2091.0899999999997
+Northern America,chickens,2010,2121.09
+Northern America,chickens,2011,2096.69
+Northern America,chickens,2012,2095.69
+Northern America,chickens,2013,2112.4900000000002
+Northern America,chickens,2014,2149.99
+Northern America,chickens,2015,2173.756
+Northern America,chickens,2016,2143.498
+Northern America,chickens,2017,2143.136
+Northern America,chickens,2018,2144.06
+Northern America,ducks,1961,3.899
+Northern America,ducks,1962,3.8049999999999997
+Northern America,ducks,1963,4.0920000000000005
+Northern America,ducks,1964,3.999
+Northern America,ducks,1965,4.004
+Northern America,ducks,1966,4.011
+Northern America,ducks,1967,4.109
+Northern America,ducks,1968,4.123
+Northern America,ducks,1969,3.941
+Northern America,ducks,1970,3.954
+Northern America,ducks,1971,4.055
+Northern America,ducks,1972,4.181
+Northern America,ducks,1973,4.182
+Northern America,ducks,1974,3.982
+Northern America,ducks,1975,3.982
+Northern America,ducks,1976,4.789
+Northern America,ducks,1977,5.0889999999999995
+Northern America,ducks,1978,5.0889999999999995
+Northern America,ducks,1979,5.388999999999999
+Northern America,ducks,1980,5.388999999999999
+Northern America,ducks,1981,6.024
+Northern America,ducks,1982,6.424
+Northern America,ducks,1983,6.624
+Northern America,ducks,1984,6.624
+Northern America,ducks,1985,7.024
+Northern America,ducks,1986,7.324
+Northern America,ducks,1987,7.4799999999999995
+Northern America,ducks,1988,7.720000000000001
+Northern America,ducks,1989,7.25
+Northern America,ducks,1990,7.0200000000000005
+Northern America,ducks,1991,6.819999999999999
+Northern America,ducks,1992,6.5
+Northern America,ducks,1993,7.1000000000000005
+Northern America,ducks,1994,7.25
+Northern America,ducks,1995,7.0
+Northern America,ducks,1996,7.75
+Northern America,ducks,1997,8.35
+Northern America,ducks,1998,7.74
+Northern America,ducks,1999,7.74
+Northern America,ducks,2000,7.751
+Northern America,ducks,2001,9.051
+Northern America,ducks,2002,7.801
+Northern America,ducks,2003,7.851
+Northern America,ducks,2004,8.051
+Northern America,ducks,2005,8.051
+Northern America,ducks,2006,8.052
+Northern America,ducks,2007,8.051
+Northern America,ducks,2008,8.101
+Northern America,ducks,2009,8.051
+Northern America,ducks,2010,8.201
+Northern America,ducks,2011,8.351
+Northern America,ducks,2012,8.600999999999999
+Northern America,ducks,2013,8.751
+Northern America,ducks,2014,9.251000000000001
+Northern America,ducks,2015,9.029
+Northern America,ducks,2016,8.848999999999998
+Northern America,ducks,2017,8.806
+Northern America,ducks,2018,8.871
+Northern America,geese and guinea fowls,1961,0.314
+Northern America,geese and guinea fowls,1962,0.311
+Northern America,geese and guinea fowls,1963,0.332
+Northern America,geese and guinea fowls,1964,0.331
+Northern America,geese and guinea fowls,1965,0.331
+Northern America,geese and guinea fowls,1966,0.339
+Northern America,geese and guinea fowls,1967,0.348
+Northern America,geese and guinea fowls,1968,0.364
+Northern America,geese and guinea fowls,1969,0.377
+Northern America,geese and guinea fowls,1970,0.386
+Northern America,geese and guinea fowls,1971,0.417
+Northern America,geese and guinea fowls,1972,0.40900000000000003
+Northern America,geese and guinea fowls,1973,0.40900000000000003
+Northern America,geese and guinea fowls,1974,0.40900000000000003
+Northern America,geese and guinea fowls,1975,0.40900000000000003
+Northern America,geese and guinea fowls,1976,0.342
+Northern America,geese and guinea fowls,1977,0.342
+Northern America,geese and guinea fowls,1978,0.342
+Northern America,geese and guinea fowls,1979,0.342
+Northern America,geese and guinea fowls,1980,0.342
+Northern America,geese and guinea fowls,1981,0.486
+Northern America,geese and guinea fowls,1982,0.486
+Northern America,geese and guinea fowls,1983,0.486
+Northern America,geese and guinea fowls,1984,0.486
+Northern America,geese and guinea fowls,1985,0.486
+Northern America,geese and guinea fowls,1986,0.486
+Northern America,geese and guinea fowls,1987,0.66
+Northern America,geese and guinea fowls,1988,0.73
+Northern America,geese and guinea fowls,1989,0.53
+Northern America,geese and guinea fowls,1990,0.46
+Northern America,geese and guinea fowls,1991,0.27999999999999997
+Northern America,geese and guinea fowls,1992,0.215
+Northern America,geese and guinea fowls,1993,0.23
+Northern America,geese and guinea fowls,1994,0.25
+Northern America,geese and guinea fowls,1995,0.27999999999999997
+Northern America,geese and guinea fowls,1996,0.3
+Northern America,geese and guinea fowls,1997,0.3
+Northern America,geese and guinea fowls,1998,0.3
+Northern America,geese and guinea fowls,1999,0.3
+Northern America,geese and guinea fowls,2000,0.3
+Northern America,geese and guinea fowls,2001,0.3
+Northern America,geese and guinea fowls,2002,0.3
+Northern America,geese and guinea fowls,2003,0.3
+Northern America,geese and guinea fowls,2004,0.3
+Northern America,geese and guinea fowls,2005,0.3
+Northern America,geese and guinea fowls,2006,0.3
+Northern America,geese and guinea fowls,2007,0.3
+Northern America,geese and guinea fowls,2008,0.3
+Northern America,geese and guinea fowls,2009,0.31
+Northern America,geese and guinea fowls,2010,0.32
+Northern America,geese and guinea fowls,2011,0.33
+Northern America,geese and guinea fowls,2012,0.33
+Northern America,geese and guinea fowls,2013,0.35
+Northern America,geese and guinea fowls,2014,0.35
+Northern America,geese and guinea fowls,2015,0.34299999999999997
+Northern America,geese and guinea fowls,2016,0.325
+Northern America,geese and guinea fowls,2017,0.323
+Northern America,geese and guinea fowls,2018,0.324
+Northern America,goats,1961,3.4853
+Northern America,goats,1962,3.6598
+Northern America,goats,1963,3.6963
+Northern America,goats,1964,3.9183
+Northern America,goats,1965,4.07327
+Northern America,goats,1966,4.23625
+Northern America,goats,1967,3.98326
+Northern America,goats,1968,3.58723
+Northern America,goats,1969,3.23018
+Northern America,goats,1970,2.588167
+Northern America,goats,1971,2.15102
+Northern America,goats,1972,1.668188
+Northern America,goats,1973,1.793269
+Northern America,goats,1974,1.5793
+Northern America,goats,1975,1.36832
+Northern America,goats,1976,1.29045
+Northern America,goats,1977,1.42057
+Northern America,goats,1978,1.3766
+Northern America,goats,1979,1.38047
+Northern America,goats,1980,1.42253
+Northern America,goats,1981,1.40305
+Northern America,goats,1982,1.43357
+Northern America,goats,1983,1.44458
+Northern America,goats,1984,1.44558
+Northern America,goats,1985,1.57559
+Northern America,goats,1986,1.7963
+Northern America,goats,1987,1.8066
+Northern America,goats,1988,1.8268
+Northern America,goats,1989,1.8771
+Northern America,goats,1990,1.927945
+Northern America,goats,1991,1.85816
+Northern America,goats,1992,2.02812
+Northern America,goats,1993,1.9882
+Northern America,goats,1994,1.9883
+Northern America,goats,1995,1.8785
+Northern America,goats,1996,1.9288
+Northern America,goats,1997,1.6788
+Northern America,goats,1998,1.4293
+Northern America,goats,1999,2.2803
+Northern America,goats,2000,2.3303
+Northern America,goats,2001,2.4303
+Northern America,goats,2002,2.560766
+Northern America,goats,2003,2.5603
+Northern America,goats,2004,2.5553
+Northern America,goats,2005,2.7453
+Northern America,goats,2006,2.8673
+Northern America,goats,2007,3.0783
+Northern America,goats,2008,3.14835
+Northern America,goats,2009,3.09935
+Northern America,goats,2010,3.06835
+Northern America,goats,2011,3.02635
+Northern America,goats,2012,2.73335
+Northern America,goats,2013,2.66235
+Northern America,goats,2014,2.64135
+Northern America,goats,2015,2.680354
+Northern America,goats,2016,2.645383
+Northern America,goats,2017,2.657378
+Northern America,goats,2018,2.669386
+Northern America,horses,1961,2.92225
+Northern America,horses,1962,2.62625
+Northern America,horses,1963,2.280226
+Northern America,horses,1964,1.942082
+Northern America,horses,1965,3.138154
+Northern America,horses,1966,3.262727
+Northern America,horses,1967,3.479211
+Northern America,horses,1968,3.834827
+Northern America,horses,1969,4.11399
+Northern America,horses,1970,4.511313
+Northern America,horses,1971,4.919467
+Northern America,horses,1972,4.916244
+Northern America,horses,1973,4.94865
+Northern America,horses,1974,5.00066
+Northern America,horses,1975,5.05064
+Northern America,horses,1976,5.08569
+Northern America,horses,1977,5.09372
+Northern America,horses,1978,5.303765
+Northern America,horses,1979,5.3238
+Northern America,horses,1980,5.384
+Northern America,horses,1981,5.4019
+Northern America,horses,1982,5.4218
+Northern America,horses,1983,5.4597
+Northern America,horses,1984,5.4886
+Northern America,horses,1985,5.544689
+Northern America,horses,1986,5.54158
+Northern America,horses,1987,5.503323
+Northern America,horses,1988,5.626411
+Northern America,horses,1989,5.482915
+Northern America,horses,1990,5.484918
+Northern America,horses,1991,5.5199
+Northern America,horses,1992,5.4719
+Northern America,horses,1993,5.5009
+Northern America,horses,1994,5.461
+Northern America,horses,1995,5.511
+Northern America,horses,1996,5.5269
+Northern America,horses,1997,5.5709
+Northern America,horses,1998,5.6179
+Northern America,horses,1999,5.5509
+Northern America,horses,2000,5.626038
+Northern America,horses,2001,5.971031
+Northern America,horses,2002,6.386048
+Northern America,horses,2003,7.386062
+Northern America,horses,2004,8.38606
+Northern America,horses,2005,9.58606
+Northern America,horses,2006,9.886102
+Northern America,horses,2007,9.886102
+Northern America,horses,2008,9.891203
+Northern America,horses,2009,10.19118
+Northern America,horses,2010,10.401164
+Northern America,horses,2011,10.556155
+Northern America,horses,2012,10.658147
+Northern America,horses,2013,10.658135
+Northern America,horses,2014,10.669123
+Northern America,horses,2015,10.667851
+Northern America,horses,2016,10.852524
+Northern America,horses,2017,10.835453
+Northern America,horses,2018,10.878778
+Northern America,mules,1961,0.024
+Northern America,mules,1962,0.024
+Northern America,mules,1963,0.024
+Northern America,mules,1964,0.026
+Northern America,mules,1965,0.026
+Northern America,mules,1966,0.026009
+Northern America,mules,1967,0.028008
+Northern America,mules,1968,0.028007
+Northern America,mules,1969,0.028008
+Northern America,mules,1970,0.028008
+Northern America,mules,1971,0.028008
+Northern America,mules,1972,0.029008
+Northern America,mules,1973,0.029009
+Northern America,mules,1974,0.029009
+Northern America,mules,1975,0.029005
+Northern America,mules,1976,0.029005
+Northern America,mules,1977,0.030006
+Northern America,mules,1978,0.030006
+Northern America,mules,1979,0.030007
+Northern America,mules,1980,0.030007
+Northern America,mules,1981,0.030007
+Northern America,mules,1982,0.030007
+Northern America,mules,1983,0.032007
+Northern America,mules,1984,0.032007
+Northern America,mules,1985,0.032006
+Northern America,mules,1986,0.032006
+Northern America,mules,1987,0.032005
+Northern America,mules,1988,0.032005
+Northern America,mules,1989,0.032002
+Northern America,mules,1990,0.032002
+Northern America,mules,1991,0.032002
+Northern America,mules,1992,0.032002
+Northern America,mules,1993,0.032002
+Northern America,mules,1994,0.032001
+Northern America,mules,1995,0.032001
+Northern America,mules,1996,0.032001
+Northern America,mules,1997,0.032001
+Northern America,mules,1998,0.032001
+Northern America,mules,1999,0.032001
+Northern America,mules,2000,0.032001
+Northern America,mules,2001,0.032001
+Northern America,mules,2002,0.032001
+Northern America,mules,2003,0.032001
+Northern America,mules,2004,0.032001
+Northern America,mules,2005,0.032001
+Northern America,mules,2006,0.004001
+Northern America,mules,2007,0.004001
+Northern America,mules,2008,0.004001
+Northern America,mules,2009,0.004001
+Northern America,mules,2010,0.004001
+Northern America,mules,2011,0.004001
+Northern America,mules,2012,0.004001
+Northern America,mules,2013,0.004001
+Northern America,mules,2014,0.004001
+Northern America,mules,2015,0.004001
+Northern America,mules,2016,0.004001
+Northern America,mules,2017,0.004001
+Northern America,mules,2018,0.004296
+Northern America,pigs,1961,60.5625
+Northern America,pigs,1962,66.956683
+Northern America,pigs,1963,67.720564
+Northern America,pigs,1964,67.45368
+Northern America,pigs,1965,61.70374
+Northern America,pigs,1966,55.608758
+Northern America,pigs,1967,62.955003
+Northern America,pigs,1968,64.960017
+Northern America,pigs,1969,66.619046
+Northern America,pigs,1970,63.605814
+Northern America,pigs,1971,75.005901
+Northern America,pigs,1972,69.825653
+Northern America,pigs,1973,66.224576
+Northern America,pigs,1974,67.586425
+Northern America,pigs,1975,60.72351
+Northern America,pigs,1976,54.959863
+Northern America,pigs,1977,61.132148
+Northern America,pigs,1978,63.339408
+Northern America,pigs,1979,68.7205
+Northern America,pigs,1980,77.4107
+Northern America,pigs,1981,74.6538
+Northern America,pigs,1982,68.6699
+Northern America,pigs,1983,64.426
+Northern America,pigs,1984,67.0419
+Northern America,pigs,1985,64.648373
+Northern America,pigs,1986,62.283678
+Northern America,pigs,1987,60.920315
+Northern America,pigs,1988,65.186854
+Northern America,pigs,1989,66.41825
+Northern America,pigs,1990,64.181627
+Northern America,pigs,1991,67.82223
+Northern America,pigs,1992,68.79943
+Northern America,pigs,1993,68.6844
+Northern America,pigs,1994,70.2723
+Northern America,pigs,1995,69.4919
+Northern America,pigs,1996,67.7124
+Northern America,pigs,1997,72.6378
+Northern America,pigs,1998,74.1894
+Northern America,pigs,1999,71.7653
+Northern America,pigs,2000,72.0153
+Northern America,pigs,2001,73.2977
+Northern America,pigs,2002,73.9298
+Northern America,pigs,2003,75.1988
+Northern America,pigs,2004,75.1693
+Northern America,pigs,2005,75.7857
+Northern America,pigs,2006,76.5596
+Northern America,pigs,2007,76.5966
+Northern America,pigs,2008,80.8776
+Northern America,pigs,2009,77.353
+Northern America,pigs,2010,77.3908
+Northern America,pigs,2011,78.9766
+Northern America,pigs,2012,78.9948
+Northern America,pigs,2013,77.5204
+Northern America,pigs,2014,80.6121
+Northern America,pigs,2015,82.100105
+Northern America,pigs,2016,84.976215
+Northern America,pigs,2017,87.080712
+Northern America,pigs,2018,88.721009
+Northern America,sheep,1961,33.503008
+Northern America,sheep,1962,31.712008
+Northern America,sheep,1963,29.8574
+Northern America,sheep,1964,27.757353
+Northern America,sheep,1965,25.712508
+Northern America,sheep,1966,25.2598
+Northern America,sheep,1967,24.461708
+Northern America,sheep,1968,22.669008
+Northern America,sheep,1969,21.7676
+Northern America,sheep,1970,20.983308
+Northern America,sheep,1971,20.310038
+Northern America,sheep,1972,19.36306
+Northern America,sheep,1973,18.226494
+Northern America,sheep,1974,16.860452
+Northern America,sheep,1975,15.031992
+Northern America,sheep,1976,13.788803
+Northern America,sheep,1977,13.126922
+Northern America,sheep,1978,12.826373
+Northern America,sheep,1979,12.809137
+Northern America,sheep,1980,13.2041
+Northern America,sheep,1981,13.499911
+Northern America,sheep,1982,13.592061
+Northern America,sheep,1983,12.727926
+Northern America,sheep,1984,12.130429
+Northern America,sheep,1985,11.250567
+Northern America,sheep,1986,10.655545
+Northern America,sheep,1987,10.895122
+Northern America,sheep,1988,11.486714
+Northern America,sheep,1989,11.434812
+Northern America,sheep,1990,11.974503
+Northern America,sheep,1991,11.823805
+Northern America,sheep,1992,11.466905
+Northern America,sheep,1993,10.855504
+Northern America,sheep,1994,10.497304
+Northern America,sheep,1995,9.628304
+Northern America,sheep,1996,9.130003
+Northern America,sheep,1997,8.673803
+Northern America,sheep,1998,8.509003
+Northern America,sheep,1999,7.954002
+Northern America,sheep,2000,7.846038
+Northern America,sheep,2001,7.933716
+Northern America,sheep,2002,7.636006
+Northern America,sheep,2003,7.31595
+Northern America,sheep,2004,7.118616
+Northern America,sheep,2005,7.131962
+Northern America,sheep,2006,7.143197
+Northern America,sheep,2007,7.025938
+Northern America,sheep,2008,6.81924
+Northern America,sheep,2009,6.61035
+Northern America,sheep,2010,6.49505
+Northern America,sheep,2011,6.37965
+Northern America,sheep,2012,6.27795
+Northern America,sheep,2013,6.27265
+Northern America,sheep,2014,6.124689
+Northern America,sheep,2015,6.123053
+Northern America,sheep,2016,6.128529
+Northern America,sheep,2017,6.102297
+Northern America,sheep,2018,6.112691
+Northern America,turkeys,1961,110.996
+Northern America,turkeys,1962,94.837
+Northern America,turkeys,1963,96.849
+Northern America,turkeys,1964,103.992
+Northern America,turkeys,1965,109.10300000000001
+Northern America,turkeys,1966,120.285
+Northern America,turkeys,1967,130.214
+Northern America,turkeys,1968,110.312
+Northern America,turkeys,1969,110.629
+Northern America,turkeys,1970,120.739
+Northern America,turkeys,1971,123.957
+Northern America,turkeys,1972,132.76399999999998
+Northern America,turkeys,1973,136.531
+Northern America,turkeys,1974,136.609
+Northern America,turkeys,1975,127.86500000000001
+Northern America,turkeys,1976,144.02100000000002
+Northern America,turkeys,1977,140.49
+Northern America,turkeys,1978,142.713
+Northern America,turkeys,1979,161.08700000000002
+Northern America,turkeys,1980,170.631
+Northern America,turkeys,1981,175.19799999999998
+Northern America,turkeys,1982,169.987
+Northern America,turkeys,1983,175.386
+Northern America,turkeys,1984,176.04600000000002
+Northern America,turkeys,1985,190.62699999999998
+Northern America,turkeys,1986,212.732
+Northern America,turkeys,1987,246.338
+Northern America,turkeys,1988,247.021
+Northern America,turkeys,1989,266.294
+Northern America,turkeys,1990,286.745
+Northern America,turkeys,1991,290.10999999999996
+Northern America,turkeys,1992,295.68
+Northern America,turkeys,1993,293.25
+Northern America,turkeys,1994,292.285
+Northern America,turkeys,1995,298.25600000000003
+Northern America,turkeys,1996,308.413
+Northern America,turkeys,1997,306.651
+Northern America,turkeys,1998,291.303
+Northern America,turkeys,1999,275.39200000000005
+Northern America,turkeys,2000,275.866
+Northern America,turkeys,2001,279.13
+Northern America,turkeys,2002,281.377
+Northern America,turkeys,2003,275.156
+Northern America,turkeys,2004,261.507
+Northern America,turkeys,2005,255.266
+Northern America,turkeys,2006,261.934
+Northern America,turkeys,2007,272.428
+Northern America,turkeys,2008,278.968
+Northern America,turkeys,2009,252.959
+Northern America,turkeys,2010,249.588
+Northern America,turkeys,2011,254.0
+Northern America,turkeys,2012,259.0
+Northern America,turkeys,2013,245.7
+Northern America,turkeys,2014,243.2
+Northern America,turkeys,2015,238.80100000000002
+Northern America,turkeys,2016,249.699
+Northern America,turkeys,2017,250.88700000000003
+Northern America,turkeys,2018,250.44300000000004
+Central America,asses,1961,2.941541
+Central America,asses,1962,2.999931
+Central America,asses,1963,2.906729
+Central America,asses,1964,3.145355
+Central America,asses,1965,3.300126
+Central America,asses,1966,3.447502
+Central America,asses,1967,3.617
+Central America,asses,1968,3.39634
+Central America,asses,1969,3.373168
+Central America,asses,1970,3.561933
+Central America,asses,1971,3.334546
+Central America,asses,1972,3.368046
+Central America,asses,1973,3.402146
+Central America,asses,1974,3.310325
+Central America,asses,1975,3.32346
+Central America,asses,1976,3.362627
+Central America,asses,1977,3.326165
+Central America,asses,1978,3.290275
+Central America,asses,1979,3.277303
+Central America,asses,1980,3.2662
+Central America,asses,1981,3.227962
+Central America,asses,1982,3.2278
+Central America,asses,1983,3.2283
+Central America,asses,1984,3.2289
+Central America,asses,1985,3.2294
+Central America,asses,1986,3.2303
+Central America,asses,1987,3.2317
+Central America,asses,1988,3.233
+Central America,asses,1989,3.2343
+Central America,asses,1990,3.2355
+Central America,asses,1991,3.237
+Central America,asses,1992,3.2385
+Central America,asses,1993,3.24
+Central America,asses,1994,3.2504
+Central America,asses,1995,3.2809
+Central America,asses,1996,3.3012
+Central America,asses,1997,3.3015
+Central America,asses,1998,3.3016
+Central America,asses,1999,3.3017
+Central America,asses,2000,3.3022
+Central America,asses,2001,3.3123
+Central America,asses,2002,3.3126
+Central America,asses,2003,3.3127
+Central America,asses,2004,3.3128
+Central America,asses,2005,3.3128
+Central America,asses,2006,3.3128
+Central America,asses,2007,3.3128
+Central America,asses,2008,3.3139
+Central America,asses,2009,3.3143
+Central America,asses,2010,3.31336
+Central America,asses,2011,3.31348
+Central America,asses,2012,3.33345
+Central America,asses,2013,3.3335
+Central America,asses,2014,3.33441
+Central America,asses,2015,3.336042
+Central America,asses,2016,3.336333
+Central America,asses,2017,3.336727
+Central America,asses,2018,3.33779
+Central America,cattle,1961,23.500603
+Central America,cattle,1962,24.168593
+Central America,cattle,1963,25.183334
+Central America,cattle,1964,26.263308
+Central America,cattle,1965,27.34366
+Central America,cattle,1966,28.814927
+Central America,cattle,1967,29.428628
+Central America,cattle,1968,30.136465
+Central America,cattle,1969,30.742703
+Central America,cattle,1970,32.210873
+Central America,cattle,1971,31.584392
+Central America,cattle,1972,31.897958
+Central America,cattle,1973,31.917669
+Central America,cattle,1974,33.034382
+Central America,cattle,1975,34.404419
+Central America,cattle,1976,35.601197
+Central America,cattle,1977,36.772026
+Central America,cattle,1978,37.334859
+Central America,cattle,1979,37.490325
+Central America,cattle,1980,38.834998
+Central America,cattle,1981,40.186401
+Central America,cattle,1982,40.783094
+Central America,cattle,1983,41.685306
+Central America,cattle,1984,42.420851
+Central America,cattle,1985,43.344626
+Central America,cattle,1986,43.8411
+Central America,cattle,1987,42.418296
+Central America,cattle,1988,42.756789
+Central America,cattle,1989,45.153533
+Central America,cattle,1990,44.580904
+Central America,cattle,1991,43.669937
+Central America,cattle,1992,43.443025
+Central America,cattle,1993,44.4352
+Central America,cattle,1994,44.223838
+Central America,cattle,1995,42.690335
+Central America,cattle,1996,41.669884
+Central America,cattle,1997,42.119966
+Central America,cattle,1998,42.068418
+Central America,cattle,1999,41.56571
+Central America,cattle,2000,41.881835
+Central America,cattle,2001,42.445568
+Central America,cattle,2002,43.523555
+Central America,cattle,2003,43.71825
+Central America,cattle,2004,43.500853
+Central America,cattle,2005,43.620205
+Central America,cattle,2006,43.94505
+Central America,cattle,2007,44.520022
+Central America,cattle,2008,45.311178
+Central America,cattle,2009,46.20016
+Central America,cattle,2010,46.724407
+Central America,cattle,2011,47.283037
+Central America,cattle,2012,46.619867
+Central America,cattle,2013,47.194169
+Central America,cattle,2014,48.192462
+Central America,cattle,2015,49.030297
+Central America,cattle,2016,49.440927
+Central America,cattle,2017,49.907031
+Central America,cattle,2018,50.756236
+Central America,chickens,1961,80.667
+Central America,chickens,1962,82.73
+Central America,chickens,1963,99.168
+Central America,chickens,1964,104.651
+Central America,chickens,1965,109.77199999999999
+Central America,chickens,1966,120.935
+Central America,chickens,1967,141.654
+Central America,chickens,1968,155.04100000000003
+Central America,chickens,1969,160.81699999999998
+Central America,chickens,1970,165.02100000000002
+Central America,chickens,1971,150.284
+Central America,chickens,1972,155.516
+Central America,chickens,1973,163.61999999999998
+Central America,chickens,1974,166.167
+Central America,chickens,1975,171.496
+Central America,chickens,1976,173.573
+Central America,chickens,1977,182.221
+Central America,chickens,1978,186.806
+Central America,chickens,1979,204.696
+Central America,chickens,1980,217.393
+Central America,chickens,1981,220.167
+Central America,chickens,1982,224.879
+Central America,chickens,1983,231.572
+Central America,chickens,1984,243.076
+Central America,chickens,1985,260.492
+Central America,chickens,1986,258.68
+Central America,chickens,1987,270.56
+Central America,chickens,1988,281.623
+Central America,chickens,1989,286.39
+Central America,chickens,1990,285.00399999999996
+Central America,chickens,1991,295.68
+Central America,chickens,1992,296.86
+Central America,chickens,1993,369.762
+Central America,chickens,1994,371.37199999999996
+Central America,chickens,1995,406.198
+Central America,chickens,1996,408.711
+Central America,chickens,1997,431.325
+Central America,chickens,1998,434.278
+Central America,chickens,1999,462.034
+Central America,chickens,2000,471.0
+Central America,chickens,2001,495.993
+Central America,chickens,2002,521.413
+Central America,chickens,2003,536.708
+Central America,chickens,2004,562.121
+Central America,chickens,2005,598.044
+Central America,chickens,2006,632.284
+Central America,chickens,2007,634.5260000000001
+Central America,chickens,2008,640.4309999999999
+Central America,chickens,2009,647.158
+Central America,chickens,2010,659.267
+Central America,chickens,2011,665.242
+Central America,chickens,2012,677.809
+Central America,chickens,2013,685.9929999999999
+Central America,chickens,2014,694.2040000000001
+Central America,chickens,2015,705.021
+Central America,chickens,2016,722.456
+Central America,chickens,2017,731.765
+Central America,chickens,2018,746.495
+Central America,ducks,1961,1.066
+Central America,ducks,1962,1.166
+Central America,ducks,1963,1.27
+Central America,ducks,1964,1.3699999999999999
+Central America,ducks,1965,1.471
+Central America,ducks,1966,1.571
+Central America,ducks,1967,1.673
+Central America,ducks,1968,1.673
+Central America,ducks,1969,1.875
+Central America,ducks,1970,1.875
+Central America,ducks,1971,2.078
+Central America,ducks,1972,2.083
+Central America,ducks,1973,2.1380000000000003
+Central America,ducks,1974,2.313
+Central America,ducks,1975,2.548
+Central America,ducks,1976,3.548
+Central America,ducks,1977,3.863
+Central America,ducks,1978,4.202
+Central America,ducks,1979,4.569
+Central America,ducks,1980,4.967
+Central America,ducks,1981,5.391
+Central America,ducks,1982,5.844
+Central America,ducks,1983,5.938
+Central America,ducks,1984,6.04
+Central America,ducks,1985,6.1419999999999995
+Central America,ducks,1986,6.445
+Central America,ducks,1987,6.6499999999999995
+Central America,ducks,1988,6.855
+Central America,ducks,1989,7.0600000000000005
+Central America,ducks,1990,7.165
+Central America,ducks,1991,7.3740000000000006
+Central America,ducks,1992,7.575
+Central America,ducks,1993,7.779999999999999
+Central America,ducks,1994,8.01
+Central America,ducks,1995,8.11
+Central America,ducks,1996,8.21
+Central America,ducks,1997,8.21
+Central America,ducks,1998,8.21
+Central America,ducks,1999,8.21
+Central America,ducks,2000,8.200000000000001
+Central America,ducks,2001,8.299000000000001
+Central America,ducks,2002,8.28
+Central America,ducks,2003,8.271
+Central America,ducks,2004,8.262
+Central America,ducks,2005,8.241999999999999
+Central America,ducks,2006,8.272
+Central America,ducks,2007,8.317
+Central America,ducks,2008,8.317
+Central America,ducks,2009,8.312
+Central America,ducks,2010,8.413
+Central America,ducks,2011,8.466
+Central America,ducks,2012,8.468
+Central America,ducks,2013,8.478
+Central America,ducks,2014,8.482
+Central America,ducks,2015,8.486
+Central America,ducks,2016,8.581
+Central America,ducks,2017,8.597000000000001
+Central America,ducks,2018,8.626
+Central America,goats,1961,9.076788
+Central America,goats,1962,9.341992
+Central America,goats,1963,9.34735
+Central America,goats,1964,9.34229
+Central America,goats,1965,9.43538
+Central America,goats,1966,9.425711
+Central America,goats,1967,9.47783
+Central America,goats,1968,9.515395
+Central America,goats,1969,9.534674
+Central America,goats,1970,9.247152
+Central America,goats,1971,8.9486
+Central America,goats,1972,9.36189
+Central America,goats,1973,9.3036
+Central America,goats,1974,9.240139
+Central America,goats,1975,9.194062
+Central America,goats,1976,9.140706
+Central America,goats,1977,9.12374
+Central America,goats,1978,9.240979
+Central America,goats,1979,9.432649
+Central America,goats,1980,9.76301
+Central America,goats,1981,10.129851
+Central America,goats,1982,10.415798
+Central America,goats,1983,9.936426
+Central America,goats,1984,9.683027
+Central America,goats,1985,11.112874
+Central America,goats,1986,10.212651
+Central America,goats,1987,10.576122
+Central America,goats,1988,10.225097
+Central America,goats,1989,10.392087
+Central America,goats,1990,10.59833
+Central America,goats,1991,10.2114
+Central America,goats,1992,9.896121
+Central America,goats,1993,10.537051
+Central America,goats,1994,10.419622
+Central America,goats,1995,10.292443
+Central America,goats,1996,9.732521
+Central America,goats,1997,9.09063
+Central America,goats,1998,9.207887
+Central America,goats,1999,9.237065
+Central America,goats,2000,8.873971
+Central America,goats,2001,8.873276
+Central America,goats,2002,9.294844
+Central America,goats,2003,9.158233
+Central America,goats,2004,9.02032
+Central America,goats,2005,9.038569
+Central America,goats,2006,9.058924
+Central America,goats,2007,9.05375
+Central America,goats,2008,9.119929
+Central America,goats,2009,9.157487
+Central America,goats,2010,9.162136
+Central America,goats,2011,9.176266
+Central America,goats,2012,8.916224
+Central America,goats,2013,8.839243
+Central America,goats,2014,8.861109
+Central America,goats,2015,8.899264
+Central America,goats,2016,8.931184
+Central America,goats,2017,8.901435
+Central America,goats,2018,8.926311
+Central America,horses,1961,4.888775
+Central America,horses,1962,5.011165
+Central America,horses,1963,5.150739
+Central America,horses,1964,5.3456
+Central America,horses,1965,5.4396
+Central America,horses,1966,5.590563
+Central America,horses,1967,5.745
+Central America,horses,1968,5.899977
+Central America,horses,1969,6.263632
+Central America,horses,1970,6.599998
+Central America,horses,1971,6.810066
+Central America,horses,1972,6.774878
+Central America,horses,1973,6.815634
+Central America,horses,1974,7.08813
+Central America,horses,1975,7.200789
+Central America,horses,1976,7.278958
+Central America,horses,1977,7.199222
+Central America,horses,1978,7.171709
+Central America,horses,1979,7.12481
+Central America,horses,1980,7.0779
+Central America,horses,1981,7.002192
+Central America,horses,1982,7.005
+Central America,horses,1983,7.0082
+Central America,horses,1984,7.0094
+Central America,horses,1985,7.0115
+Central America,horses,1986,7.019
+Central America,horses,1987,7.038
+Central America,horses,1988,7.0486
+Central America,horses,1989,7.0625
+Central America,horses,1990,7.068
+Central America,horses,1991,7.079106
+Central America,horses,1992,7.0847
+Central America,horses,1993,7.0908
+Central America,horses,1994,7.10522
+Central America,horses,1995,7.1172
+Central America,horses,1996,7.1682
+Central America,horses,1997,7.1693
+Central America,horses,1998,7.1703
+Central America,horses,1999,7.1733
+Central America,horses,2000,7.1715
+Central America,horses,2001,7.153331
+Central America,horses,2002,7.1756
+Central America,horses,2003,7.1902
+Central America,horses,2004,7.19125
+Central America,horses,2005,7.19025
+Central America,horses,2006,7.2273
+Central America,horses,2007,7.2783
+Central America,horses,2008,7.2774
+Central America,horses,2009,7.2745
+Central America,horses,2010,7.2767
+Central America,horses,2011,7.273295
+Central America,horses,2012,7.2811
+Central America,horses,2013,7.2813
+Central America,horses,2014,7.28145
+Central America,horses,2015,7.279847
+Central America,horses,2016,7.297674
+Central America,horses,2017,7.296925
+Central America,horses,2018,7.300103
+Central America,mules,1961,1.783042
+Central America,mules,1962,2.37575
+Central America,mules,1963,1.902521
+Central America,mules,1964,1.973143
+Central America,mules,1965,2.063415
+Central America,mules,1966,2.12142
+Central America,mules,1967,2.2151
+Central America,mules,1968,2.984739
+Central America,mules,1969,2.951453
+Central America,mules,1970,3.377628
+Central America,mules,1971,3.425771
+Central America,mules,1972,3.453038
+Central America,mules,1973,3.482583
+Central America,mules,1974,3.484019
+Central America,mules,1975,3.486573
+Central America,mules,1976,3.492872
+Central America,mules,1977,3.459688
+Central America,mules,1978,3.425315
+Central America,mules,1979,3.392615
+Central America,mules,1980,3.31467
+Central America,mules,1981,3.314113
+Central America,mules,1982,3.31464
+Central America,mules,1983,3.31489
+Central America,mules,1984,3.3153
+Central America,mules,1985,3.31595
+Central America,mules,1986,3.3264
+Central America,mules,1987,3.3369
+Central America,mules,1988,3.3469
+Central America,mules,1989,3.3572
+Central America,mules,1990,3.3677
+Central America,mules,1991,3.37818
+Central America,mules,1992,3.3886
+Central America,mules,1993,3.3991
+Central America,mules,1994,3.4095
+Central America,mules,1995,3.4401
+Central America,mules,1996,3.4603
+Central America,mules,1997,3.4607
+Central America,mules,1998,3.4606
+Central America,mules,1999,3.4709
+Central America,mules,2000,3.4713
+Central America,mules,2001,3.470904
+Central America,mules,2002,3.4724
+Central America,mules,2003,3.47295
+Central America,mules,2004,3.47405
+Central America,mules,2005,3.47405
+Central America,mules,2006,3.47405
+Central America,mules,2007,3.47405
+Central America,mules,2008,3.4748
+Central America,mules,2009,3.47465
+Central America,mules,2010,3.4732
+Central America,mules,2011,3.472846
+Central America,mules,2012,3.4784
+Central America,mules,2013,3.47841
+Central America,mules,2014,3.47911
+Central America,mules,2015,3.480304
+Central America,mules,2016,3.479685
+Central America,mules,2017,3.479979
+Central America,mules,2018,3.480872
+Central America,pigs,1961,8.385574
+Central America,pigs,1962,9.144534
+Central America,pigs,1963,9.935906
+Central America,pigs,1964,10.695805
+Central America,pigs,1965,11.574039
+Central America,pigs,1966,11.648983
+Central America,pigs,1967,12.189175
+Central America,pigs,1968,12.526642
+Central America,pigs,1969,12.909257
+Central America,pigs,1970,13.350325
+Central America,pigs,1971,13.682552
+Central America,pigs,1972,14.507333
+Central America,pigs,1973,14.7502
+Central America,pigs,1974,14.962987
+Central America,pigs,1975,15.829531
+Central America,pigs,1976,16.646164
+Central America,pigs,1977,17.646212
+Central America,pigs,1978,18.377447
+Central America,pigs,1979,19.006736
+Central America,pigs,1980,19.440857
+Central America,pigs,1981,19.990845
+Central America,pigs,1982,20.502882
+Central America,pigs,1983,21.79775
+Central America,pigs,1984,22.051017
+Central America,pigs,1985,19.989222
+Central America,pigs,1986,21.176986
+Central America,pigs,1987,21.480535
+Central America,pigs,1988,18.665597
+Central America,pigs,1989,18.765324
+Central America,pigs,1990,18.200916
+Central America,pigs,1991,18.819236
+Central America,pigs,1992,19.590307
+Central America,pigs,1993,19.327243
+Central America,pigs,1994,19.05075
+Central America,pigs,1995,18.773761
+Central America,pigs,1996,18.236575
+Central America,pigs,1997,18.592976
+Central America,pigs,1998,17.970207
+Central America,pigs,1999,18.42349
+Central America,pigs,2000,18.586607
+Central America,pigs,2001,18.952493
+Central America,pigs,2002,19.308492
+Central America,pigs,2003,19.231913
+Central America,pigs,2004,19.843011
+Central America,pigs,2005,20.274051
+Central America,pigs,2006,19.96564
+Central America,pigs,2007,20.10672
+Central America,pigs,2008,20.113411
+Central America,pigs,2009,20.082023
+Central America,pigs,2010,20.277247
+Central America,pigs,2011,20.368082
+Central America,pigs,2012,20.744957
+Central America,pigs,2013,21.049162
+Central America,pigs,2014,21.019137
+Central America,pigs,2015,21.366926
+Central America,pigs,2016,21.754951
+Central America,pigs,2017,22.218065
+Central America,pigs,2018,22.941291
+Central America,rabbits and hares,1961,0.095
+Central America,rabbits and hares,1962,0.096
+Central America,rabbits and hares,1963,0.098
+Central America,rabbits and hares,1964,0.1
+Central America,rabbits and hares,1965,0.102
+Central America,rabbits and hares,1966,0.104
+Central America,rabbits and hares,1967,0.10500000000000001
+Central America,rabbits and hares,1968,0.106
+Central America,rabbits and hares,1969,0.108
+Central America,rabbits and hares,1970,0.11
+Central America,rabbits and hares,1971,0.112
+Central America,rabbits and hares,1972,0.114
+Central America,rabbits and hares,1973,0.155
+Central America,rabbits and hares,1974,0.237
+Central America,rabbits and hares,1975,0.718
+Central America,rabbits and hares,1976,0.791
+Central America,rabbits and hares,1977,1.074
+Central America,rabbits and hares,1978,1.1460000000000001
+Central America,rabbits and hares,1979,1.231
+Central America,rabbits and hares,1980,1.3190000000000002
+Central America,rabbits and hares,1981,1.3780000000000001
+Central America,rabbits and hares,1982,1.2049999999999998
+Central America,rabbits and hares,1983,1.159
+Central America,rabbits and hares,1984,1.118
+Central America,rabbits and hares,1985,1.1199999999999999
+Central America,rabbits and hares,1986,1.14
+Central America,rabbits and hares,1987,1.15
+Central America,rabbits and hares,1988,1.16
+Central America,rabbits and hares,1989,1.2
+Central America,rabbits and hares,1990,1.2
+Central America,rabbits and hares,1991,1.2
+Central America,rabbits and hares,1992,1.25
+Central America,rabbits and hares,1993,1.25
+Central America,rabbits and hares,1994,1.27
+Central America,rabbits and hares,1995,1.27
+Central America,rabbits and hares,1996,1.28
+Central America,rabbits and hares,1997,1.28
+Central America,rabbits and hares,1998,1.2899999999999998
+Central America,rabbits and hares,1999,1.2899999999999998
+Central America,rabbits and hares,2000,1.3
+Central America,rabbits and hares,2001,1.31
+Central America,rabbits and hares,2002,1.31
+Central America,rabbits and hares,2003,1.32
+Central America,rabbits and hares,2004,1.32
+Central America,rabbits and hares,2005,1.32
+Central America,rabbits and hares,2006,1.33
+Central America,rabbits and hares,2007,1.33
+Central America,rabbits and hares,2008,1.35
+Central America,rabbits and hares,2009,1.35
+Central America,rabbits and hares,2010,1.36
+Central America,rabbits and hares,2011,1.36
+Central America,rabbits and hares,2012,1.3699999999999999
+Central America,rabbits and hares,2013,1.3699999999999999
+Central America,rabbits and hares,2014,1.371
+Central America,rabbits and hares,2015,1.3760000000000001
+Central America,rabbits and hares,2016,1.3960000000000001
+Central America,rabbits and hares,2017,1.4009999999999998
+Central America,rabbits and hares,2018,1.407
+Central America,sheep,1961,6.543115
+Central America,sheep,1962,6.79944
+Central America,sheep,1963,6.440063
+Central America,sheep,1964,6.544334
+Central America,sheep,1965,6.8795
+Central America,sheep,1966,6.913817
+Central America,sheep,1967,7.3393
+Central America,sheep,1968,7.21664
+Central America,sheep,1969,7.269198
+Central America,sheep,1970,6.69695
+Central America,sheep,1971,6.685831
+Central America,sheep,1972,6.979129
+Central America,sheep,1973,6.991192
+Central America,sheep,1974,6.931461
+Central America,sheep,1975,6.88598
+Central America,sheep,1976,6.8756
+Central America,sheep,1977,6.925973
+Central America,sheep,1978,6.959559
+Central America,sheep,1979,7.021549
+Central America,sheep,1980,6.95475
+Central America,sheep,1981,6.896
+Central America,sheep,1982,6.995947
+Central America,sheep,1983,6.648187
+Central America,sheep,1984,6.49941
+Central America,sheep,1985,6.824732
+Central America,sheep,1986,6.174729
+Central America,sheep,1987,6.354912
+Central America,sheep,1988,6.214186
+Central America,sheep,1989,6.310416
+Central America,sheep,1990,6.3023
+Central America,sheep,1991,6.534305
+Central America,sheep,1992,6.574932
+Central America,sheep,1993,6.834608
+Central America,sheep,1994,6.986234
+Central America,sheep,1995,6.748009
+Central America,sheep,1996,6.762622
+Central America,sheep,1997,6.775718
+Central America,sheep,1998,6.234305
+Central America,sheep,1999,6.304764
+Central America,sheep,2000,6.316499
+Central America,sheep,2001,6.76781
+Central America,sheep,2002,6.943683
+Central America,sheep,2003,7.256024
+Central America,sheep,2004,7.519574
+Central America,sheep,2005,7.737433
+Central America,sheep,2006,7.877416
+Central America,sheep,2007,8.073138
+Central America,sheep,2008,8.354578
+Central America,sheep,2009,8.621879
+Central America,sheep,2010,8.712712
+Central America,sheep,2011,8.829386
+Central America,sheep,2012,9.023702
+Central America,sheep,2013,9.122497
+Central America,sheep,2014,9.200868
+Central America,sheep,2015,9.340364
+Central America,sheep,2016,9.428599
+Central America,sheep,2017,9.535403
+Central America,sheep,2018,9.326759
+Central America,turkeys,1961,6.043
+Central America,turkeys,1962,6.041
+Central America,turkeys,1963,6.041
+Central America,turkeys,1964,6.541
+Central America,turkeys,1965,6.542
+Central America,turkeys,1966,7.041
+Central America,turkeys,1967,7.041
+Central America,turkeys,1968,7.54
+Central America,turkeys,1969,7.539
+Central America,turkeys,1970,8.038
+Central America,turkeys,1971,8.036
+Central America,turkeys,1972,6.509
+Central America,turkeys,1973,7.072
+Central America,turkeys,1974,7.694999999999999
+Central America,turkeys,1975,8.384
+Central America,turkeys,1976,9.148
+Central America,turkeys,1977,9.337
+Central America,turkeys,1978,9.478
+Central America,turkeys,1979,9.501000000000001
+Central America,turkeys,1980,9.677
+Central America,turkeys,1981,9.865
+Central America,turkeys,1982,10.058
+Central America,turkeys,1983,10.266
+Central America,turkeys,1984,10.725999999999999
+Central America,turkeys,1985,11.26
+Central America,turkeys,1986,9.709000000000001
+Central America,turkeys,1987,8.982000000000001
+Central America,turkeys,1988,8.799
+Central America,turkeys,1989,7.098
+Central America,turkeys,1990,7.037
+Central America,turkeys,1991,6.3870000000000005
+Central America,turkeys,1992,4.038
+Central America,turkeys,1993,3.7390000000000003
+Central America,turkeys,1994,2.839
+Central America,turkeys,1995,3.3400000000000003
+Central America,turkeys,1996,3.3899999999999997
+Central America,turkeys,1997,3.3400000000000003
+Central America,turkeys,1998,4.762
+Central America,turkeys,1999,4.914
+Central America,turkeys,2000,4.983
+Central America,turkeys,2001,5.033
+Central America,turkeys,2002,4.988
+Central America,turkeys,2003,4.859999999999999
+Central America,turkeys,2004,4.821
+Central America,turkeys,2005,4.503
+Central America,turkeys,2006,4.642
+Central America,turkeys,2007,4.338
+Central America,turkeys,2008,4.258
+Central America,turkeys,2009,4.146000000000001
+Central America,turkeys,2010,4.096
+Central America,turkeys,2011,4.1419999999999995
+Central America,turkeys,2012,4.08
+Central America,turkeys,2013,3.851
+Central America,turkeys,2014,3.9859999999999998
+Central America,turkeys,2015,3.948
+Central America,turkeys,2016,3.81
+Central America,turkeys,2017,3.748
+Central America,turkeys,2018,3.8440000000000003
+South America,asses,1961,2.953428
+South America,asses,1962,3.023395
+South America,asses,1963,3.10433
+South America,asses,1964,3.226622
+South America,asses,1965,3.291001
+South America,asses,1966,3.497064
+South America,asses,1967,3.638779
+South America,asses,1968,3.724277
+South America,asses,1969,3.69594
+South America,asses,1970,3.733432
+South America,asses,1971,3.80091
+South America,asses,1972,3.82868
+South America,asses,1973,3.914979
+South America,asses,1974,4.087462
+South America,asses,1975,4.230561
+South America,asses,1976,4.045867
+South America,asses,1977,4.041599
+South America,asses,1978,3.971449
+South America,asses,1979,3.951067
+South America,asses,1980,3.93991
+South America,asses,1981,3.929759
+South America,asses,1982,3.889803
+South America,asses,1983,3.786948
+South America,asses,1984,3.799979
+South America,asses,1985,3.793334
+South America,asses,1986,3.800289
+South America,asses,1987,3.883543
+South America,asses,1988,3.919329
+South America,asses,1989,3.978236
+South America,asses,1990,3.967162
+South America,asses,1991,3.969519
+South America,asses,1992,3.960721
+South America,asses,1993,3.858244
+South America,asses,1994,3.867568
+South America,asses,1995,3.845025
+South America,asses,1996,3.715963
+South America,asses,1997,3.708577
+South America,asses,1998,3.67912
+South America,asses,1999,3.673771
+South America,asses,2000,3.572437
+South America,asses,2001,3.658445
+South America,asses,2002,3.509182
+South America,asses,2003,3.528076
+South America,asses,2004,3.499372
+South America,asses,2005,3.472916
+South America,asses,2006,3.521084
+South America,asses,2007,3.457583
+South America,asses,2008,3.360891
+South America,asses,2009,3.246602
+South America,asses,2010,3.178749
+South America,asses,2011,3.105963
+South America,asses,2012,3.000546
+South America,asses,2013,2.952283
+South America,asses,2014,2.957837
+South America,asses,2015,2.914144
+South America,asses,2016,2.920138
+South America,asses,2017,2.861866
+South America,asses,2018,2.843306
+South America,buffaloes,1961,0.063
+South America,buffaloes,1962,0.068
+South America,buffaloes,1963,0.061
+South America,buffaloes,1964,0.063
+South America,buffaloes,1965,0.082
+South America,buffaloes,1966,0.087
+South America,buffaloes,1967,0.091
+South America,buffaloes,1968,0.096
+South America,buffaloes,1969,0.106
+South America,buffaloes,1970,0.118
+South America,buffaloes,1971,0.129
+South America,buffaloes,1972,0.14
+South America,buffaloes,1973,0.159
+South America,buffaloes,1974,0.203
+South America,buffaloes,1975,0.267
+South America,buffaloes,1976,0.32
+South America,buffaloes,1977,0.343
+South America,buffaloes,1978,0.393
+South America,buffaloes,1979,0.474
+South America,buffaloes,1980,0.495
+South America,buffaloes,1981,0.542
+South America,buffaloes,1982,0.623574
+South America,buffaloes,1983,0.702182
+South America,buffaloes,1984,0.804478
+South America,buffaloes,1985,0.882642
+South America,buffaloes,1986,0.985339
+South America,buffaloes,1987,1.082613
+South America,buffaloes,1988,1.181889
+South America,buffaloes,1989,1.285618
+South America,buffaloes,1990,1.397662
+South America,buffaloes,1991,1.432807
+South America,buffaloes,1992,1.423873
+South America,buffaloes,1993,1.499676
+South America,buffaloes,1994,1.572059
+South America,buffaloes,1995,1.642672
+South America,buffaloes,1996,1.046776
+South America,buffaloes,1997,0.978502
+South America,buffaloes,1998,1.017786
+South America,buffaloes,1999,1.068707
+South America,buffaloes,2000,1.102976
+South America,buffaloes,2001,1.119219
+South America,buffaloes,2002,1.113765
+South America,buffaloes,2003,1.149123
+South America,buffaloes,2004,1.13388
+South America,buffaloes,2005,1.174044
+South America,buffaloes,2006,1.157422
+South America,buffaloes,2007,1.133008
+South America,buffaloes,2008,1.14728
+South America,buffaloes,2009,1.136028
+South America,buffaloes,2010,1.185232
+South America,buffaloes,2011,1.278835
+South America,buffaloes,2012,1.262641
+South America,buffaloes,2013,1.333027
+South America,buffaloes,2014,1.320295
+South America,buffaloes,2015,1.371353
+South America,buffaloes,2016,1.371875
+South America,buffaloes,2017,1.376012
+South America,buffaloes,2018,1.390971
+South America,"camelids, other",1961,5.295
+South America,"camelids, other",1962,5.445
+South America,"camelids, other",1963,5.65
+South America,"camelids, other",1964,5.915
+South America,"camelids, other",1965,6.176
+South America,"camelids, other",1966,6.179
+South America,"camelids, other",1967,6.069
+South America,"camelids, other",1968,6.252
+South America,"camelids, other",1969,6.6303
+South America,"camelids, other",1970,6.8732
+South America,"camelids, other",1971,6.468
+South America,"camelids, other",1972,6.24065
+South America,"camelids, other",1973,6.2856
+South America,"camelids, other",1974,6.345
+South America,"camelids, other",1975,6.2292
+South America,"camelids, other",1976,6.2187
+South America,"camelids, other",1977,5.7883
+South America,"camelids, other",1978,5.9219
+South America,"camelids, other",1979,5.922
+South America,"camelids, other",1980,5.843425
+South America,"camelids, other",1981,5.89125
+South America,"camelids, other",1982,5.99275
+South America,"camelids, other",1983,5.6654
+South America,"camelids, other",1984,5.0879
+South America,"camelids, other",1985,5.156
+South America,"camelids, other",1986,5.329521
+South America,"camelids, other",1987,5.377842
+South America,"camelids, other",1988,5.4552
+South America,"camelids, other",1989,5.4929
+South America,"camelids, other",1990,5.437048
+South America,"camelids, other",1991,5.383261
+South America,"camelids, other",1992,5.41721
+South America,"camelids, other",1993,5.423215
+South America,"camelids, other",1994,5.524184
+South America,"camelids, other",1995,5.621707
+South America,"camelids, other",1996,5.62489
+South America,"camelids, other",1997,5.645742
+South America,"camelids, other",1998,5.657371
+South America,"camelids, other",1999,6.096912
+South America,"camelids, other",2000,6.241029
+South America,"camelids, other",2001,6.245494
+South America,"camelids, other",2002,6.541385
+South America,"camelids, other",2003,6.63986
+South America,"camelids, other",2004,6.724764
+South America,"camelids, other",2005,7.252177
+South America,"camelids, other",2006,7.327884
+South America,"camelids, other",2007,7.46822
+South America,"camelids, other",2008,7.550043
+South America,"camelids, other",2009,8.186207
+South America,"camelids, other",2010,8.07209
+South America,"camelids, other",2011,8.626757
+South America,"camelids, other",2012,8.756914
+South America,"camelids, other",2013,8.837069
+South America,"camelids, other",2014,8.89414
+South America,"camelids, other",2015,8.865474
+South America,"camelids, other",2016,9.047619
+South America,"camelids, other",2017,9.017559
+South America,"camelids, other",2018,9.11866
+South America,cattle,1961,144.503265
+South America,cattle,1962,147.145578
+South America,cattle,1963,146.432368
+South America,cattle,1964,151.271583
+South America,cattle,1965,158.049697
+South America,cattle,1966,163.438064
+South America,cattle,1967,169.667056
+South America,cattle,1968,173.225958
+South America,cattle,1969,173.9522
+South America,cattle,1970,177.440444
+South America,cattle,1971,183.2547
+South America,cattle,1972,191.733843
+South America,cattle,1973,198.23014
+South America,cattle,1974,206.068115
+South America,cattle,1975,211.864211
+South America,cattle,1976,222.852922
+South America,cattle,1977,232.431883
+South America,cattle,1978,229.918082
+South America,cattle,1979,231.857501
+South America,cattle,1980,242.041667
+South America,cattle,1981,244.689652
+South America,cattle,1982,245.602441
+South America,cattle,1983,246.580963
+South America,cattle,1984,249.733439
+South America,cattle,1985,250.603216
+South America,cattle,1986,253.546348
+South America,cattle,1987,257.519833
+South America,cattle,1988,264.346685
+South America,cattle,1989,269.374604
+South America,cattle,1990,271.818065
+South America,cattle,1991,276.699725
+South America,cattle,1992,281.091116
+South America,cattle,1993,283.478151
+South America,cattle,1994,289.149902
+South America,cattle,1995,293.006405
+South America,cattle,1996,289.543824
+South America,cattle,1997,292.161154
+South America,cattle,1998,292.024758
+South America,cattle,1999,293.739715
+South America,cattle,2000,298.862495
+South America,cattle,2001,306.1049
+South America,cattle,2002,319.377749
+South America,cattle,2003,335.176812
+South America,cattle,2004,345.548745
+South America,cattle,2005,349.887123
+South America,cattle,2006,351.113478
+South America,cattle,2007,346.508036
+South America,cattle,2008,349.009836
+South America,cattle,2009,350.010294
+South America,cattle,2010,347.043414
+South America,cattle,2011,347.818285
+South America,cattle,2012,349.914654
+South America,cattle,2013,350.379638
+South America,cattle,2014,351.830886
+South America,cattle,2015,353.627072
+South America,cattle,2016,357.551522
+South America,cattle,2017,356.7946
+South America,cattle,2018,357.222668
+South America,chickens,1961,259.304
+South America,chickens,1962,264.407
+South America,chickens,1963,268.097
+South America,chickens,1964,288.891
+South America,chickens,1965,287.733
+South America,chickens,1966,287.844
+South America,chickens,1967,296.833
+South America,chickens,1968,313.318
+South America,chickens,1969,328.748
+South America,chickens,1970,342.364
+South America,chickens,1971,364.062
+South America,chickens,1972,410.839
+South America,chickens,1973,437.577
+South America,chickens,1974,456.07399999999996
+South America,chickens,1975,505.51500000000004
+South America,chickens,1976,550.1129999999999
+South America,chickens,1977,550.986
+South America,chickens,1978,564.001
+South America,chickens,1979,627.908
+South America,chickens,1980,726.6510000000001
+South America,chickens,1981,747.3290000000001
+South America,chickens,1982,774.451
+South America,chickens,1983,733.4340000000001
+South America,chickens,1984,755.0
+South America,chickens,1985,775.169
+South America,chickens,1986,831.924
+South America,chickens,1987,871.472
+South America,chickens,1988,873.784
+South America,chickens,1989,888.8960000000001
+South America,chickens,1990,915.732
+South America,chickens,1991,1006.283
+South America,chickens,1992,1068.2130000000002
+South America,chickens,1993,1104.506
+South America,chickens,1994,1176.6760000000002
+South America,chickens,1995,1253.287
+South America,chickens,1996,1286.682
+South America,chickens,1997,1350.668
+South America,chickens,1998,1396.613
+South America,chickens,1999,1468.6650000000002
+South America,chickens,2000,1557.7540000000001
+South America,chickens,2001,1626.087
+South America,chickens,2002,1625.125
+South America,chickens,2003,1672.1889999999999
+South America,chickens,2004,1718.642
+South America,chickens,2005,1798.1970000000001
+South America,chickens,2006,1817.8110000000001
+South America,chickens,2007,1954.9289999999999
+South America,chickens,2008,2096.849
+South America,chickens,2009,2153.825
+South America,chickens,2010,2229.06
+South America,chickens,2011,2214.3199999999997
+South America,chickens,2012,2219.695
+South America,chickens,2013,2222.293
+South America,chickens,2014,2355.3920000000003
+South America,chickens,2015,2410.6040000000003
+South America,chickens,2016,2447.239
+South America,chickens,2017,2565.083
+South America,chickens,2018,2611.687
+South America,ducks,1961,4.5649999999999995
+South America,ducks,1962,4.907
+South America,ducks,1963,5.216
+South America,ducks,1964,5.511
+South America,ducks,1965,5.742999999999999
+South America,ducks,1966,6.172000000000001
+South America,ducks,1967,5.879
+South America,ducks,1968,6.095
+South America,ducks,1969,6.078
+South America,ducks,1970,6.138
+South America,ducks,1971,6.063
+South America,ducks,1972,6.069
+South America,ducks,1973,6.328
+South America,ducks,1974,6.832000000000001
+South America,ducks,1975,6.983
+South America,ducks,1976,6.195
+South America,ducks,1977,6.295
+South America,ducks,1978,6.409
+South America,ducks,1979,6.7749999999999995
+South America,ducks,1980,7.005
+South America,ducks,1981,7.596
+South America,ducks,1982,8.434000000000001
+South America,ducks,1983,8.469000000000001
+South America,ducks,1984,8.969
+South America,ducks,1985,9.001
+South America,ducks,1986,9.258000000000001
+South America,ducks,1987,9.537
+South America,ducks,1988,9.373
+South America,ducks,1989,9.51
+South America,ducks,1990,9.715
+South America,ducks,1991,12.684000000000001
+South America,ducks,1992,12.354000000000001
+South America,ducks,1993,14.046
+South America,ducks,1994,15.624
+South America,ducks,1995,10.257
+South America,ducks,1996,8.056000000000001
+South America,ducks,1997,8.062
+South America,ducks,1998,7.782
+South America,ducks,1999,7.647
+South America,ducks,2000,7.556
+South America,ducks,2001,7.319
+South America,ducks,2002,7.849
+South America,ducks,2003,7.949
+South America,ducks,2004,7.941
+South America,ducks,2005,7.991
+South America,ducks,2006,8.134
+South America,ducks,2007,8.285
+South America,ducks,2008,8.298
+South America,ducks,2009,8.475999999999999
+South America,ducks,2010,8.969
+South America,ducks,2011,9.068
+South America,ducks,2012,9.332999999999998
+South America,ducks,2013,9.405999999999999
+South America,ducks,2014,9.655000000000001
+South America,ducks,2015,9.317
+South America,ducks,2016,9.2
+South America,ducks,2017,9.276
+South America,ducks,2018,9.305000000000001
+South America,geese and guinea fowls,1961,0.22
+South America,geese and guinea fowls,1962,0.23
+South America,geese and guinea fowls,1963,0.243
+South America,geese and guinea fowls,1964,0.256
+South America,geese and guinea fowls,1965,0.26699999999999996
+South America,geese and guinea fowls,1966,0.283
+South America,geese and guinea fowls,1967,0.22599999999999998
+South America,geese and guinea fowls,1968,0.235
+South America,geese and guinea fowls,1969,0.258
+South America,geese and guinea fowls,1970,0.254
+South America,geese and guinea fowls,1971,0.251
+South America,geese and guinea fowls,1972,0.21000000000000002
+South America,geese and guinea fowls,1973,0.213
+South America,geese and guinea fowls,1974,0.211
+South America,geese and guinea fowls,1975,0.213
+South America,geese and guinea fowls,1976,0.203
+South America,geese and guinea fowls,1977,0.199
+South America,geese and guinea fowls,1978,0.211
+South America,geese and guinea fowls,1979,0.22599999999999998
+South America,geese and guinea fowls,1980,0.23900000000000002
+South America,geese and guinea fowls,1981,0.231
+South America,geese and guinea fowls,1982,0.27799999999999997
+South America,geese and guinea fowls,1983,0.28400000000000003
+South America,geese and guinea fowls,1984,0.298
+South America,geese and guinea fowls,1985,0.299
+South America,geese and guinea fowls,1986,0.314
+South America,geese and guinea fowls,1987,0.315
+South America,geese and guinea fowls,1988,0.317
+South America,geese and guinea fowls,1989,0.308
+South America,geese and guinea fowls,1990,0.33
+South America,geese and guinea fowls,1991,0.273
+South America,geese and guinea fowls,1992,0.32
+South America,geese and guinea fowls,1993,0.331
+South America,geese and guinea fowls,1994,0.32
+South America,geese and guinea fowls,1995,0.30200000000000005
+South America,geese and guinea fowls,1996,0.28200000000000003
+South America,geese and guinea fowls,1997,0.285
+South America,geese and guinea fowls,1998,0.285
+South America,geese and guinea fowls,1999,0.29500000000000004
+South America,geese and guinea fowls,2000,0.3
+South America,geese and guinea fowls,2001,0.305
+South America,geese and guinea fowls,2002,0.315
+South America,geese and guinea fowls,2003,0.33
+South America,geese and guinea fowls,2004,0.335
+South America,geese and guinea fowls,2005,0.34
+South America,geese and guinea fowls,2006,0.345
+South America,geese and guinea fowls,2007,0.36000000000000004
+South America,geese and guinea fowls,2008,0.37
+South America,geese and guinea fowls,2009,0.37
+South America,geese and guinea fowls,2010,0.38
+South America,geese and guinea fowls,2011,0.38499999999999995
+South America,geese and guinea fowls,2012,0.39
+South America,geese and guinea fowls,2013,0.39
+South America,geese and guinea fowls,2014,0.391
+South America,geese and guinea fowls,2015,0.391
+South America,geese and guinea fowls,2016,0.40099999999999997
+South America,geese and guinea fowls,2017,0.40299999999999997
+South America,geese and guinea fowls,2018,0.40700000000000003
+South America,goats,1961,18.692321
+South America,goats,1962,18.9579
+South America,goats,1963,19.57145
+South America,goats,1964,19.544746
+South America,goats,1965,19.707201
+South America,goats,1966,19.861765
+South America,goats,1967,17.828982
+South America,goats,1968,17.988485
+South America,goats,1969,18.21714
+South America,goats,1970,18.395242
+South America,goats,1971,18.619493
+South America,goats,1972,19.178354
+South America,goats,1973,19.687317
+South America,goats,1974,19.680269
+South America,goats,1975,19.050751
+South America,goats,1976,19.312065
+South America,goats,1977,18.73365
+South America,goats,1978,18.667757
+South America,goats,1979,18.939982
+South America,goats,1980,18.075876
+South America,goats,1981,18.598751
+South America,goats,1982,18.802263
+South America,goats,1983,18.371923
+South America,goats,1984,19.096342
+South America,goats,1985,19.42
+South America,goats,1986,20.234463
+South America,goats,1987,20.687598
+South America,goats,1988,21.357918
+South America,goats,1989,21.733332
+South America,goats,1990,22.13233
+South America,goats,1991,22.697338
+South America,goats,1992,22.892095
+South America,goats,1993,21.742854
+South America,goats,1994,22.321791
+South America,goats,1995,21.680124
+South America,goats,1996,17.721625
+South America,goats,1997,18.468491
+South America,goats,1998,18.677248
+South America,goats,1999,19.262481
+South America,goats,2000,20.10575
+South America,goats,2001,20.23257
+South America,goats,2002,20.654817
+South America,goats,2003,21.066387
+South America,goats,2004,21.630848
+South America,goats,2005,21.976035
+South America,goats,2006,22.129721
+South America,goats,2007,21.270048
+South America,goats,2008,21.248146
+South America,goats,2009,21.1598
+South America,goats,2010,21.086308
+South America,goats,2011,21.355315
+South America,goats,2012,20.370638
+South America,goats,2013,20.58327
+South America,goats,2014,20.504529
+South America,goats,2015,21.613615
+South America,goats,2016,21.591941
+South America,goats,2017,22.218046
+South America,goats,2018,22.323764
+South America,horses,1961,12.237776
+South America,horses,1962,12.078026
+South America,horses,1963,12.118634
+South America,horses,1964,12.261756
+South America,horses,1965,12.31036
+South America,horses,1966,12.435859
+South America,horses,1967,12.528427
+South America,horses,1968,12.589701
+South America,horses,1969,11.892887
+South America,horses,1970,12.445623
+South America,horses,1971,12.463265
+South America,horses,1972,12.595244
+South America,horses,1973,12.827663
+South America,horses,1974,13.02853
+South America,horses,1975,13.306095
+South America,horses,1976,13.175402
+South America,horses,1977,12.585772
+South America,horses,1978,12.32039
+South America,horses,1979,12.609427
+South America,horses,1980,12.778648
+South America,horses,1981,13.054291
+South America,horses,1982,13.001572
+South America,horses,1983,13.050416
+South America,horses,1984,13.263836
+South America,horses,1985,13.527326
+South America,horses,1986,13.70876
+South America,horses,1987,13.876349
+South America,horses,1988,13.988285
+South America,horses,1989,14.508079
+South America,horses,1990,14.612859
+South America,horses,1991,14.740937
+South America,horses,1992,14.861064
+South America,horses,1993,14.97506
+South America,horses,1994,15.180859
+South America,horses,1995,15.329427
+South America,horses,1996,14.658371
+South America,horses,1997,14.896916
+South America,horses,1998,14.936278
+South America,horses,1999,15.26802
+South America,horses,2000,15.20204
+South America,horses,2001,15.503209
+South America,horses,2002,15.167313
+South America,horses,2003,15.266899
+South America,horses,2004,15.216359
+South America,horses,2005,15.171125
+South America,horses,2006,14.989247
+South America,horses,2007,14.849609
+South America,horses,2008,14.732413
+South America,horses,2009,14.748325
+South America,horses,2010,14.327975
+South America,horses,2011,14.14771
+South America,horses,2012,12.999996
+South America,horses,2013,12.804125
+South America,horses,2014,12.908463
+South America,horses,2015,11.794156
+South America,horses,2016,12.088654
+South America,horses,2017,11.994615
+South America,horses,2018,12.24233
+South America,mules,1961,2.513476
+South America,mules,1962,2.573339
+South America,mules,1963,2.642266
+South America,mules,1964,2.708363
+South America,mules,1965,2.746088
+South America,mules,1966,2.743287
+South America,mules,1967,2.714246
+South America,mules,1968,2.784098
+South America,mules,1969,2.7025
+South America,mules,1970,2.7052
+South America,mules,1971,2.7072
+South America,mules,1972,2.7598
+South America,mules,1973,2.790893
+South America,mules,1974,2.908196
+South America,mules,1975,2.986689
+South America,mules,1976,2.812653
+South America,mules,1977,2.718032
+South America,mules,1978,2.70253
+South America,mules,1979,2.80646
+South America,mules,1980,2.858518
+South America,mules,1981,3.008115
+South America,mules,1982,3.092778
+South America,mules,1983,3.102352
+South America,mules,1984,3.214337
+South America,mules,1985,3.218833
+South America,mules,1986,3.189943
+South America,mules,1987,3.237362
+South America,mules,1988,3.27871
+South America,mules,1989,3.321243
+South America,mules,1990,3.356164
+South America,mules,1991,3.369789
+South America,mules,1992,3.395117
+South America,mules,1993,3.345984
+South America,mules,1994,3.34327
+South America,mules,1995,3.303544
+South America,mules,1996,2.595778
+South America,mules,1997,2.580657
+South America,mules,1998,2.554562
+South America,mules,1999,2.592921
+South America,mules,2000,2.562596
+South America,mules,2001,2.574556
+South America,mules,2002,2.538185
+South America,mules,2003,2.519009
+South America,mules,2004,2.513789
+South America,mules,2005,2.49203
+South America,mules,2006,2.612882
+South America,mules,2007,2.59318
+South America,mules,2008,2.519429
+South America,mules,2009,2.48912
+South America,mules,2010,2.378741
+South America,mules,2011,2.20121
+South America,mules,2012,2.192046
+South America,mules,2013,2.176024
+South America,mules,2014,2.189443
+South America,mules,2015,2.188321
+South America,mules,2016,2.232746
+South America,mules,2017,2.244973
+South America,mules,2018,2.227653
+South America,pigs,1961,38.34738
+South America,pigs,1962,37.989062
+South America,pigs,1963,38.880488
+South America,pigs,1964,39.986776
+South America,pigs,1965,40.923916
+South America,pigs,1966,41.877611
+South America,pigs,1967,42.698762
+South America,pigs,1968,42.566178
+South America,pigs,1969,43.974439
+South America,pigs,1970,45.210566
+South America,pigs,1971,46.670918
+South America,pigs,1972,47.07553
+South America,pigs,1973,48.818994
+South America,pigs,1974,49.755404
+South America,pigs,1975,51.36385
+South America,pigs,1976,51.782234
+South America,pigs,1977,50.91403
+South America,pigs,1978,50.298852
+South America,pigs,1979,52.983432
+South America,pigs,1980,52.014356
+South America,pigs,1981,50.332737
+South America,pigs,1982,51.674234
+South America,pigs,1983,50.586449
+South America,pigs,1984,51.439634
+South America,pigs,1985,50.417663
+South America,pigs,1986,51.006531
+South America,pigs,1987,51.03017
+South America,pigs,1988,51.472009
+South America,pigs,1989,51.776701
+South America,pigs,1990,51.271268
+South America,pigs,1991,52.337969
+South America,pigs,1992,53.120395
+South America,pigs,1993,53.437371
+South America,pigs,1994,55.438938
+South America,pigs,1995,55.427727
+South America,pigs,1996,48.530313
+South America,pigs,1997,48.992412
+South America,pigs,1998,49.234373
+South America,pigs,1999,47.007775
+South America,pigs,2000,48.172557
+South America,pigs,2001,49.915071
+South America,pigs,2002,48.954124
+South America,pigs,2003,49.145987
+South America,pigs,2004,49.98192
+South America,pigs,2005,51.682135
+South America,pigs,2006,55.067229
+South America,pigs,2007,56.751021
+South America,pigs,2008,57.826609
+South America,pigs,2009,59.445251
+South America,pigs,2010,62.249126
+South America,pigs,2011,63.599193
+South America,pigs,2012,63.464066
+South America,pigs,2013,62.305053
+South America,pigs,2014,64.170202
+South America,pigs,2015,66.274969
+South America,pigs,2016,65.119796
+South America,pigs,2017,66.725454
+South America,pigs,2018,67.716966
+South America,rabbits and hares,1961,1.637
+South America,rabbits and hares,1962,1.659
+South America,rabbits and hares,1963,1.632
+South America,rabbits and hares,1964,1.657
+South America,rabbits and hares,1965,1.6789999999999998
+South America,rabbits and hares,1966,1.802
+South America,rabbits and hares,1967,1.7260000000000002
+South America,rabbits and hares,1968,1.701
+South America,rabbits and hares,1969,1.734
+South America,rabbits and hares,1970,1.769
+South America,rabbits and hares,1971,1.7979999999999998
+South America,rabbits and hares,1972,1.856
+South America,rabbits and hares,1973,1.914
+South America,rabbits and hares,1974,1.939
+South America,rabbits and hares,1975,1.967
+South America,rabbits and hares,1976,2.022
+South America,rabbits and hares,1977,2.0460000000000003
+South America,rabbits and hares,1978,2.084
+South America,rabbits and hares,1979,2.114
+South America,rabbits and hares,1980,2.297
+South America,rabbits and hares,1981,2.3249999999999997
+South America,rabbits and hares,1982,2.301
+South America,rabbits and hares,1983,2.3280000000000003
+South America,rabbits and hares,1984,2.321
+South America,rabbits and hares,1985,2.367
+South America,rabbits and hares,1986,2.561
+South America,rabbits and hares,1987,2.7369999999999997
+South America,rabbits and hares,1988,2.702
+South America,rabbits and hares,1989,3.414
+South America,rabbits and hares,1990,3.364
+South America,rabbits and hares,1991,3.342
+South America,rabbits and hares,1992,3.328
+South America,rabbits and hares,1993,3.352
+South America,rabbits and hares,1994,3.277
+South America,rabbits and hares,1995,3.238
+South America,rabbits and hares,1996,3.062
+South America,rabbits and hares,1997,3.075
+South America,rabbits and hares,1998,3.093
+South America,rabbits and hares,1999,3.197
+South America,rabbits and hares,2000,3.2279999999999998
+South America,rabbits and hares,2001,3.246
+South America,rabbits and hares,2002,3.2590000000000003
+South America,rabbits and hares,2003,3.4499999999999997
+South America,rabbits and hares,2004,3.489
+South America,rabbits and hares,2005,3.529
+South America,rabbits and hares,2006,3.59
+South America,rabbits and hares,2007,3.686
+South America,rabbits and hares,2008,3.748
+South America,rabbits and hares,2009,3.821
+South America,rabbits and hares,2010,4.086
+South America,rabbits and hares,2011,4.204000000000001
+South America,rabbits and hares,2012,4.23
+South America,rabbits and hares,2013,4.289000000000001
+South America,rabbits and hares,2014,4.204000000000001
+South America,rabbits and hares,2015,4.257000000000001
+South America,rabbits and hares,2016,4.314
+South America,rabbits and hares,2017,4.314
+South America,rabbits and hares,2018,4.329000000000001
+South America,"rodents, other",1961,20.657
+South America,"rodents, other",1962,20.86
+South America,"rodents, other",1963,21.066000000000003
+South America,"rodents, other",1964,21.275
+South America,"rodents, other",1965,21.32
+South America,"rodents, other",1966,21.346
+South America,"rodents, other",1967,21.082
+South America,"rodents, other",1968,20.942
+South America,"rodents, other",1969,20.879
+South America,"rodents, other",1970,20.987
+South America,"rodents, other",1971,20.997
+South America,"rodents, other",1972,21.1
+South America,"rodents, other",1973,20.887
+South America,"rodents, other",1974,21.092
+South America,"rodents, other",1975,21.605
+South America,"rodents, other",1976,21.625999999999998
+South America,"rodents, other",1977,21.642000000000003
+South America,"rodents, other",1978,21.66
+South America,"rodents, other",1979,21.674
+South America,"rodents, other",1980,21.692
+South America,"rodents, other",1981,21.707
+South America,"rodents, other",1982,21.722
+South America,"rodents, other",1983,21.762
+South America,"rodents, other",1984,21.862
+South America,"rodents, other",1985,21.862
+South America,"rodents, other",1986,22.37
+South America,"rodents, other",1987,22.38
+South America,"rodents, other",1988,22.39
+South America,"rodents, other",1989,22.4
+South America,"rodents, other",1990,22.41
+South America,"rodents, other",1991,22.91
+South America,"rodents, other",1992,22.915000000000003
+South America,"rodents, other",1993,22.915000000000003
+South America,"rodents, other",1994,22.915000000000003
+South America,"rodents, other",1995,22.915000000000003
+South America,"rodents, other",1996,22.915000000000003
+South America,"rodents, other",1997,22.915000000000003
+South America,"rodents, other",1998,18.915000000000003
+South America,"rodents, other",1999,14.92
+South America,"rodents, other",2000,15.42
+South America,"rodents, other",2001,15.620000000000001
+South America,"rodents, other",2002,15.92
+South America,"rodents, other",2003,16.225
+South America,"rodents, other",2004,16.424999999999997
+South America,"rodents, other",2005,16.925
+South America,"rodents, other",2006,16.925
+South America,"rodents, other",2007,17.425
+South America,"rodents, other",2008,17.925
+South America,"rodents, other",2009,18.225
+South America,"rodents, other",2010,18.425
+South America,"rodents, other",2011,18.425
+South America,"rodents, other",2012,18.925
+South America,"rodents, other",2013,18.925
+South America,"rodents, other",2014,18.925
+South America,"rodents, other",2015,18.949
+South America,"rodents, other",2016,18.947
+South America,"rodents, other",2017,19.116999999999997
+South America,"rodents, other",2018,19.188
+South America,sheep,1961,118.441402
+South America,sheep,1962,116.874327
+South America,sheep,1963,115.973854
+South America,sheep,1964,116.594098
+South America,sheep,1965,119.611068
+South America,sheep,1966,120.507663
+South America,sheep,1967,120.220794
+South America,sheep,1968,118.638385
+South America,sheep,1969,119.727536
+South America,sheep,1970,115.447105
+South America,sheep,1971,111.336353
+South America,sheep,1972,105.974013
+South America,sheep,1973,106.276417
+South America,sheep,1974,100.526187
+South America,sheep,1975,101.542594
+South America,sheep,1976,102.100046
+South America,sheep,1977,102.381334
+South America,sheep,1978,99.68654
+South America,sheep,1979,100.423327
+South America,sheep,1980,103.123847
+South America,sheep,1981,105.284489
+South America,sheep,1982,102.836078
+South America,sheep,1983,100.289199
+South America,sheep,1984,97.292173
+South America,sheep,1985,100.205415
+South America,sheep,1986,102.096493
+South America,sheep,1987,103.858754
+South America,sheep,1988,105.035701
+South America,sheep,1989,105.196689
+South America,sheep,1990,102.745983
+South America,sheep,1991,102.185817
+South America,sheep,1992,99.39159
+South America,sheep,1993,88.610691
+South America,sheep,1994,85.999789
+South America,sheep,1995,83.827245
+South America,sheep,1996,78.879703
+South America,sheep,1997,76.053533
+South America,sheep,1998,74.79909
+South America,sheep,1999,74.717053
+South America,sheep,2000,72.866555
+South America,sheep,2001,71.995187
+South America,sheep,2002,68.056865
+South America,sheep,2003,69.393062
+South America,sheep,2004,71.067454
+South America,sheep,2005,72.88076
+South America,sheep,2006,73.737605
+South America,sheep,2007,73.784318
+South America,sheep,2008,73.149042
+South America,sheep,2009,71.53605
+South America,sheep,2010,71.022883
+South America,sheep,2011,70.531202
+South America,sheep,2012,68.244917
+South America,sheep,2013,68.508108
+South America,sheep,2014,65.926623
+South America,sheep,2015,64.70983
+South America,sheep,2016,64.111244
+South America,sheep,2017,63.91035
+South America,sheep,2018,64.960567
+South America,turkeys,1961,1.629
+South America,turkeys,1962,1.73
+South America,turkeys,1963,1.866
+South America,turkeys,1964,1.9629999999999999
+South America,turkeys,1965,2.084
+South America,turkeys,1966,2.214
+South America,turkeys,1967,1.91
+South America,turkeys,1968,2.0010000000000003
+South America,turkeys,1969,2.093
+South America,turkeys,1970,2.1220000000000003
+South America,turkeys,1971,2.126
+South America,turkeys,1972,2.431
+South America,turkeys,1973,2.637
+South America,turkeys,1974,3.1710000000000003
+South America,turkeys,1975,3.226
+South America,turkeys,1976,2.8289999999999997
+South America,turkeys,1977,2.872
+South America,turkeys,1978,3.198
+South America,turkeys,1979,3.606
+South America,turkeys,1980,3.899
+South America,turkeys,1981,4.881
+South America,turkeys,1982,5.188
+South America,turkeys,1983,5.739
+South America,turkeys,1984,6.398
+South America,turkeys,1985,6.813
+South America,turkeys,1986,7.228
+South America,turkeys,1987,7.547
+South America,turkeys,1988,7.649
+South America,turkeys,1989,8.427
+South America,turkeys,1990,8.833
+South America,turkeys,1991,7.87
+South America,turkeys,1992,8.918000000000001
+South America,turkeys,1993,9.368
+South America,turkeys,1994,17.95
+South America,turkeys,1995,19.267
+South America,turkeys,1996,22.366
+South America,turkeys,1997,23.069
+South America,turkeys,1998,25.272
+South America,turkeys,1999,27.671
+South America,turkeys,2000,33.061
+South America,turkeys,2001,36.285
+South America,turkeys,2002,37.672
+South America,turkeys,2003,40.195
+South America,turkeys,2004,46.843
+South America,turkeys,2005,46.199999999999996
+South America,turkeys,2006,47.281
+South America,turkeys,2007,53.619
+South America,turkeys,2008,57.967999999999996
+South America,turkeys,2009,58.069
+South America,turkeys,2010,60.662
+South America,turkeys,2011,62.89699999999999
+South America,turkeys,2012,63.934000000000005
+South America,turkeys,2013,64.61600000000001
+South America,turkeys,2014,65.01
+South America,turkeys,2015,63.128
+South America,turkeys,2016,64.914
+South America,turkeys,2017,62.599000000000004
+South America,turkeys,2018,63.359
+Asia,asses,1961,16.372019
+Asia,asses,1962,15.063037
+Asia,asses,1963,15.183296
+Asia,asses,1964,15.577427
+Asia,asses,1965,16.116872
+Asia,asses,1966,16.59183
+Asia,asses,1967,16.859053
+Asia,asses,1968,17.24904
+Asia,asses,1969,17.397637
+Asia,asses,1970,17.632794
+Asia,asses,1971,18.178943
+Asia,asses,1972,18.283568
+Asia,asses,1973,18.080004
+Asia,asses,1974,18.208455
+Asia,asses,1975,18.056695
+Asia,asses,1976,17.869998
+Asia,asses,1977,17.543484
+Asia,asses,1978,17.450631
+Asia,asses,1979,17.310952
+Asia,asses,1980,17.280008
+Asia,asses,1981,17.643881
+Asia,asses,1982,18.307863
+Asia,asses,1983,18.867589
+Asia,asses,1984,19.22728
+Asia,asses,1985,19.769775
+Asia,asses,1986,20.202185
+Asia,asses,1987,20.399175
+Asia,asses,1988,20.462173
+Asia,asses,1989,20.570745
+Asia,asses,1990,20.373492
+Asia,asses,1991,20.251961
+Asia,asses,1992,20.414967
+Asia,asses,1993,20.088868
+Asia,asses,1994,20.149543
+Asia,asses,1995,20.37748
+Asia,asses,1996,19.668015
+Asia,asses,1997,18.638648
+Asia,asses,1998,18.709066
+Asia,asses,1999,18.932014
+Asia,asses,2000,18.601919
+Asia,asses,2001,18.436071
+Asia,asses,2002,18.95891
+Asia,asses,2003,18.679499
+Asia,asses,2004,18.433547
+Asia,asses,2005,17.934926
+Asia,asses,2006,17.677805
+Asia,asses,2007,17.523094
+Asia,asses,2008,16.878241
+Asia,asses,2009,15.53601
+Asia,asses,2010,15.383394
+Asia,asses,2011,15.236017
+Asia,asses,2012,15.005502
+Asia,asses,2013,14.722783
+Asia,asses,2014,14.708321
+Asia,asses,2015,14.363146
+Asia,asses,2016,13.974324
+Asia,asses,2017,12.983702
+Asia,asses,2018,13.119259
+Asia,buffaloes,1961,86.019158
+Asia,buffaloes,1962,86.951863
+Asia,buffaloes,1963,87.417333
+Asia,buffaloes,1964,91.010969
+Asia,buffaloes,1965,92.022025
+Asia,buffaloes,1966,96.477635
+Asia,buffaloes,1967,98.710727
+Asia,buffaloes,1968,101.664355
+Asia,buffaloes,1969,103.444902
+Asia,buffaloes,1970,104.474437
+Asia,buffaloes,1971,105.855906
+Asia,buffaloes,1972,106.73598
+Asia,buffaloes,1973,108.187155
+Asia,buffaloes,1974,110.012747
+Asia,buffaloes,1975,109.893271
+Asia,buffaloes,1976,110.616171
+Asia,buffaloes,1977,111.619684
+Asia,buffaloes,1978,113.290019
+Asia,buffaloes,1979,115.578674
+Asia,buffaloes,1980,118.085115
+Asia,buffaloes,1981,120.738422
+Asia,buffaloes,1982,123.988305
+Asia,buffaloes,1983,126.539656
+Asia,buffaloes,1984,129.427556
+Asia,buffaloes,1985,132.394631
+Asia,buffaloes,1986,137.823551
+Asia,buffaloes,1987,137.657858
+Asia,buffaloes,1988,139.411616
+Asia,buffaloes,1989,141.240563
+Asia,buffaloes,1990,143.302442
+Asia,buffaloes,1991,145.144572
+Asia,buffaloes,1992,148.358672
+Asia,buffaloes,1993,149.834792
+Asia,buffaloes,1994,151.74801
+Asia,buffaloes,1995,153.700736
+Asia,buffaloes,1996,155.073839
+Asia,buffaloes,1997,152.815109
+Asia,buffaloes,1998,156.27772
+Asia,buffaloes,1999,157.615193
+Asia,buffaloes,2000,159.383735
+Asia,buffaloes,2001,161.388335
+Asia,buffaloes,2002,163.663878
+Asia,buffaloes,2003,166.343094
+Asia,buffaloes,2004,168.750093
+Asia,buffaloes,2005,171.675348
+Asia,buffaloes,2006,175.277422
+Asia,buffaloes,2007,178.5683
+Asia,buffaloes,2008,180.202411
+Asia,buffaloes,2009,188.785794
+Asia,buffaloes,2010,188.634118
+Asia,buffaloes,2011,189.533629
+Asia,buffaloes,2012,190.602815
+Asia,buffaloes,2013,191.095886
+Asia,buffaloes,2014,192.399108
+Asia,buffaloes,2015,194.247695
+Asia,buffaloes,2016,197.382949
+Asia,buffaloes,2017,199.016864
+Asia,buffaloes,2018,201.258156
+Asia,camels,1961,4.016698
+Asia,camels,1962,3.995154
+Asia,camels,1963,4.021365
+Asia,camels,1964,4.045844
+Asia,camels,1965,4.102171
+Asia,camels,1966,4.149482
+Asia,camels,1967,4.121772
+Asia,camels,1968,4.156715
+Asia,camels,1969,4.16171
+Asia,camels,1970,4.165263
+Asia,camels,1971,4.16758
+Asia,camels,1972,4.19155
+Asia,camels,1973,4.219481
+Asia,camels,1974,4.188355
+Asia,camels,1975,4.125789
+Asia,camels,1976,4.117791
+Asia,camels,1977,4.092534
+Asia,camels,1978,4.100002
+Asia,camels,1979,4.10811
+Asia,camels,1980,4.127681
+Asia,camels,1981,4.171097
+Asia,camels,1982,4.261999
+Asia,camels,1983,4.32107
+Asia,camels,1984,4.279123
+Asia,camels,1985,4.214023
+Asia,camels,1986,4.212154
+Asia,camels,1987,4.254931
+Asia,camels,1988,4.264881
+Asia,camels,1989,4.299274
+Asia,camels,1990,4.401839
+Asia,camels,1991,4.334736
+Asia,camels,1992,4.568587
+Asia,camels,1993,4.51234
+Asia,camels,1994,4.4784
+Asia,camels,1995,4.490598
+Asia,camels,1996,4.189206
+Asia,camels,1997,4.065013
+Asia,camels,1998,3.964511
+Asia,camels,1999,3.844115
+Asia,camels,2000,3.74236
+Asia,camels,2001,3.657965
+Asia,camels,2002,3.492716
+Asia,camels,2003,3.511172
+Asia,camels,2004,3.540613
+Asia,camels,2005,3.578722
+Asia,camels,2006,3.799976
+Asia,camels,2007,3.850781
+Asia,camels,2008,3.851693
+Asia,camels,2009,3.935619
+Asia,camels,2010,3.865133
+Asia,camels,2011,3.9449
+Asia,camels,2012,3.972828
+Asia,camels,2013,4.150075
+Asia,camels,2014,4.379784
+Asia,camels,2015,4.492364
+Asia,camels,2016,4.591087
+Asia,camels,2017,4.693974
+Asia,camels,2018,4.784568
+Asia,cattle,1961,319.011559
+Asia,cattle,1962,315.793765
+Asia,cattle,1963,318.147178
+Asia,cattle,1964,324.471455
+Asia,cattle,1965,328.908498
+Asia,cattle,1966,331.18532
+Asia,cattle,1967,335.470154
+Asia,cattle,1968,339.472208
+Asia,cattle,1969,340.273599
+Asia,cattle,1970,341.219808
+Asia,cattle,1971,341.551852
+Asia,cattle,1972,342.613753
+Asia,cattle,1973,341.521806
+Asia,cattle,1974,343.12463
+Asia,cattle,1975,343.8473
+Asia,cattle,1976,344.635213
+Asia,cattle,1977,344.175485
+Asia,cattle,1978,349.931432
+Asia,cattle,1979,354.264432
+Asia,cattle,1980,346.902858
+Asia,cattle,1981,352.397399
+Asia,cattle,1982,358.694948
+Asia,cattle,1983,365.762863
+Asia,cattle,1984,369.242495
+Asia,cattle,1985,373.848579
+Asia,cattle,1986,381.126773
+Asia,cattle,1987,387.602779
+Asia,cattle,1988,391.480615
+Asia,cattle,1989,396.957594
+Asia,cattle,1990,399.953661
+Asia,cattle,1991,403.628442
+Asia,cattle,1992,431.802878
+Asia,cattle,1993,435.372122
+Asia,cattle,1994,441.353465
+Asia,cattle,1995,449.794359
+Asia,cattle,1996,457.679669
+Asia,cattle,1997,437.113667
+Asia,cattle,1998,441.373043
+Asia,cattle,1999,440.873061
+Asia,cattle,2000,441.780584
+Asia,cattle,2001,435.392949
+Asia,cattle,2002,429.03276
+Asia,cattle,2003,425.195624
+Asia,cattle,2004,430.047947
+Asia,cattle,2005,435.248531
+Asia,cattle,2006,445.44869
+Asia,cattle,2007,448.467368
+Asia,cattle,2008,451.397034
+Asia,cattle,2009,441.509033
+Asia,cattle,2010,442.042037
+Asia,cattle,2011,441.198437
+Asia,cattle,2012,441.595916
+Asia,cattle,2013,439.572002
+Asia,cattle,2014,439.436913
+Asia,cattle,2015,440.597664
+Asia,cattle,2016,447.231573
+Asia,cattle,2017,448.488144
+Asia,cattle,2018,454.810256
+Asia,chickens,1961,1090.8139999999999
+Asia,chickens,1962,1139.125
+Asia,chickens,1963,1187.345
+Asia,chickens,1964,1233.9119999999998
+Asia,chickens,1965,1278.1299999999999
+Asia,chickens,1966,1317.672
+Asia,chickens,1967,1395.2340000000002
+Asia,chickens,1968,1451.3069999999998
+Asia,chickens,1969,1511.9080000000001
+Asia,chickens,1970,1571.28
+Asia,chickens,1971,1611.321
+Asia,chickens,1972,1637.6390000000001
+Asia,chickens,1973,1677.724
+Asia,chickens,1974,1730.705
+Asia,chickens,1975,1733.048
+Asia,chickens,1976,1795.957
+Asia,chickens,1977,1864.5210000000002
+Asia,chickens,1978,2033.744
+Asia,chickens,1979,2112.426
+Asia,chickens,1980,2241.1020000000003
+Asia,chickens,1981,2387.665
+Asia,chickens,1982,2536.013
+Asia,chickens,1983,2731.3990000000003
+Asia,chickens,1984,2948.419
+Asia,chickens,1985,3119.573
+Asia,chickens,1986,3417.105
+Asia,chickens,1987,3710.13
+Asia,chickens,1988,3980.661
+Asia,chickens,1989,4221.374
+Asia,chickens,1990,4428.61
+Asia,chickens,1991,4753.604
+Asia,chickens,1992,5242.206
+Asia,chickens,1993,5626.133000000001
+Asia,chickens,1994,6139.972
+Asia,chickens,1995,6333.168
+Asia,chickens,1996,6871.485
+Asia,chickens,1997,7429.027999999999
+Asia,chickens,1998,6316.548
+Asia,chickens,1999,6605.8009999999995
+Asia,chickens,2000,7199.620000000001
+Asia,chickens,2001,7550.968
+Asia,chickens,2002,8368.384
+Asia,chickens,2003,8437.159
+Asia,chickens,2004,8888.782000000001
+Asia,chickens,2005,9198.788999999999
+Asia,chickens,2006,9422.534000000001
+Asia,chickens,2007,9840.058
+Asia,chickens,2008,10289.662999999999
+Asia,chickens,2009,10919.288999999999
+Asia,chickens,2010,11110.33
+Asia,chickens,2011,10837.859999999999
+Asia,chickens,2012,11292.377999999999
+Asia,chickens,2013,11608.307999999999
+Asia,chickens,2014,11641.668
+Asia,chickens,2015,12015.147
+Asia,chickens,2016,13011.682999999999
+Asia,chickens,2017,13212.654
+Asia,chickens,2018,13630.958
+Asia,ducks,1961,151.37800000000001
+Asia,ducks,1962,159.022
+Asia,ducks,1963,168.421
+Asia,ducks,1964,173.235
+Asia,ducks,1965,178.90200000000002
+Asia,ducks,1966,185.002
+Asia,ducks,1967,190.732
+Asia,ducks,1968,198.441
+Asia,ducks,1969,204.31199999999998
+Asia,ducks,1970,208.362
+Asia,ducks,1971,218.43099999999998
+Asia,ducks,1972,228.25799999999998
+Asia,ducks,1973,243.168
+Asia,ducks,1974,250.48199999999997
+Asia,ducks,1975,245.272
+Asia,ducks,1976,257.94899999999996
+Asia,ducks,1977,260.182
+Asia,ducks,1978,277.537
+Asia,ducks,1979,286.74699999999996
+Asia,ducks,1980,301.411
+Asia,ducks,1981,308.037
+Asia,ducks,1982,323.726
+Asia,ducks,1983,337.944
+Asia,ducks,1984,344.178
+Asia,ducks,1985,361.179
+Asia,ducks,1986,394.13599999999997
+Asia,ducks,1987,434.467
+Asia,ducks,1988,443.492
+Asia,ducks,1989,456.137
+Asia,ducks,1990,487.649
+Asia,ducks,1991,493.73699999999997
+Asia,ducks,1992,563.898
+Asia,ducks,1993,614.2760000000001
+Asia,ducks,1994,653.948
+Asia,ducks,1995,700.324
+Asia,ducks,1996,758.255
+Asia,ducks,1997,846.19
+Asia,ducks,1998,708.767
+Asia,ducks,1999,769.035
+Asia,ducks,2000,834.305
+Asia,ducks,2001,873.9050000000001
+Asia,ducks,2002,943.309
+Asia,ducks,2003,915.649
+Asia,ducks,2004,946.708
+Asia,ducks,2005,974.792
+Asia,ducks,2006,987.545
+Asia,ducks,2007,950.13
+Asia,ducks,2008,1000.9820000000001
+Asia,ducks,2009,1016.046
+Asia,ducks,2010,1064.353
+Asia,ducks,2011,972.814
+Asia,ducks,2012,995.459
+Asia,ducks,2013,973.503
+Asia,ducks,2014,936.249
+Asia,ducks,2015,954.9490000000001
+Asia,ducks,2016,992.285
+Asia,ducks,2017,981.422
+Asia,ducks,2018,992.001
+Asia,geese and guinea fowls,1961,18.683000000000003
+Asia,geese and guinea fowls,1962,19.711
+Asia,geese and guinea fowls,1963,21.762
+Asia,geese and guinea fowls,1964,23.819
+Asia,geese and guinea fowls,1965,25.878999999999998
+Asia,geese and guinea fowls,1966,26.98
+Asia,geese and guinea fowls,1967,29.101
+Asia,geese and guinea fowls,1968,30.991
+Asia,geese and guinea fowls,1969,33.256
+Asia,geese and guinea fowls,1970,35.354
+Asia,geese and guinea fowls,1971,36.505
+Asia,geese and guinea fowls,1972,39.549
+Asia,geese and guinea fowls,1973,41.755
+Asia,geese and guinea fowls,1974,42.94
+Asia,geese and guinea fowls,1975,45.028
+Asia,geese and guinea fowls,1976,46.747
+Asia,geese and guinea fowls,1977,47.813
+Asia,geese and guinea fowls,1978,50.034
+Asia,geese and guinea fowls,1979,52.276
+Asia,geese and guinea fowls,1980,54.263
+Asia,geese and guinea fowls,1981,56.393
+Asia,geese and guinea fowls,1982,58.324
+Asia,geese and guinea fowls,1983,60.815
+Asia,geese and guinea fowls,1984,62.094
+Asia,geese and guinea fowls,1985,64.84700000000001
+Asia,geese and guinea fowls,1986,71.956
+Asia,geese and guinea fowls,1987,81.209
+Asia,geese and guinea fowls,1988,92.80099999999999
+Asia,geese and guinea fowls,1989,96.374
+Asia,geese and guinea fowls,1990,109.686
+Asia,geese and guinea fowls,1991,126.911
+Asia,geese and guinea fowls,1992,137.374
+Asia,geese and guinea fowls,1993,167.815
+Asia,geese and guinea fowls,1994,183.49099999999999
+Asia,geese and guinea fowls,1995,208.374
+Asia,geese and guinea fowls,1996,193.312
+Asia,geese and guinea fowls,1997,220.78900000000002
+Asia,geese and guinea fowls,1998,185.516
+Asia,geese and guinea fowls,1999,193.541
+Asia,geese and guinea fowls,2000,207.989
+Asia,geese and guinea fowls,2001,212.762
+Asia,geese and guinea fowls,2002,239.846
+Asia,geese and guinea fowls,2003,232.86
+Asia,geese and guinea fowls,2004,265.887
+Asia,geese and guinea fowls,2005,282.991
+Asia,geese and guinea fowls,2006,297.517
+Asia,geese and guinea fowls,2007,247.463
+Asia,geese and guinea fowls,2008,307.32
+Asia,geese and guinea fowls,2009,320.274
+Asia,geese and guinea fowls,2010,332.432
+Asia,geese and guinea fowls,2011,285.50199999999995
+Asia,geese and guinea fowls,2012,297.692
+Asia,geese and guinea fowls,2013,293.072
+Asia,geese and guinea fowls,2014,281.705
+Asia,geese and guinea fowls,2015,298.566
+Asia,geese and guinea fowls,2016,317.96799999999996
+Asia,geese and guinea fowls,2017,314.376
+Asia,geese and guinea fowls,2018,318.408
+Asia,goats,1961,198.406213
+Asia,goats,1962,213.402786
+Asia,goats,1963,217.722084
+Asia,goats,1964,215.999976
+Asia,goats,1965,212.267645
+Asia,goats,1966,210.663232
+Asia,goats,1967,209.946718
+Asia,goats,1968,214.059984
+Asia,goats,1969,213.220733
+Asia,goats,1970,212.584141
+Asia,goats,1971,216.147868
+Asia,goats,1972,218.056563
+Asia,goats,1973,220.793043
+Asia,goats,1974,228.676475
+Asia,goats,1975,236.126051
+Asia,goats,1976,244.002086
+Asia,goats,1977,245.828537
+Asia,goats,1978,255.042944
+Asia,goats,1979,268.237683
+Asia,goats,1980,274.168197
+Asia,goats,1981,280.462739
+Asia,goats,1982,284.600608
+Asia,goats,1983,290.475054
+Asia,goats,1984,286.616169
+Asia,goats,1985,282.368132
+Asia,goats,1986,287.999788
+Asia,goats,1987,303.580242
+Asia,goats,1988,317.458358
+Asia,goats,1989,337.220145
+Asia,goats,1990,350.168883
+Asia,goats,1991,354.8479
+Asia,goats,1992,363.374761
+Asia,goats,1993,372.379654
+Asia,goats,1994,389.016776
+Asia,goats,1995,414.086873
+Asia,goats,1996,443.479925
+Asia,goats,1997,424.349185
+Asia,goats,1998,438.856031
+Asia,goats,1999,449.362975
+Asia,goats,2000,458.818501
+Asia,goats,2001,460.342979
+Asia,goats,2002,463.379129
+Asia,goats,2003,471.075905
+Asia,goats,2004,484.091644
+Asia,goats,2005,499.661309
+Asia,goats,2006,498.978363
+Asia,goats,2007,502.482482
+Asia,goats,2008,511.500716
+Asia,goats,2009,517.78248
+Asia,goats,2010,510.818344
+Asia,goats,2011,517.441123
+Asia,goats,2012,522.121653
+Asia,goats,2013,524.3053
+Asia,goats,2014,530.912317
+Asia,goats,2015,537.683456
+Asia,goats,2016,548.178161
+Asia,goats,2017,544.173571
+Asia,goats,2018,548.88304
+Asia,horses,1961,15.015524
+Asia,horses,1962,14.290192
+Asia,horses,1963,14.213967
+Asia,horses,1964,14.53739
+Asia,horses,1965,15.138184
+Asia,horses,1966,15.575567
+Asia,horses,1967,15.65013
+Asia,horses,1968,15.955052
+Asia,horses,1969,16.145737
+Asia,horses,1970,16.531597
+Asia,horses,1971,16.858201
+Asia,horses,1972,16.961761
+Asia,horses,1973,17.155411
+Asia,horses,1974,17.440186
+Asia,horses,1975,17.737939
+Asia,horses,1976,17.894486
+Asia,horses,1977,18.059798
+Asia,horses,1978,17.956158
+Asia,horses,1979,17.623795
+Asia,horses,1980,17.573502
+Asia,horses,1981,17.294071
+Asia,horses,1982,17.200551
+Asia,horses,1983,17.044521
+Asia,horses,1984,16.874421
+Asia,horses,1985,16.947782
+Asia,horses,1986,17.089181
+Asia,horses,1987,16.976701
+Asia,horses,1988,16.554498
+Asia,horses,1989,16.524935
+Asia,horses,1990,16.327953
+Asia,horses,1991,16.205187
+Asia,horses,1992,18.214663
+Asia,horses,1993,17.837046
+Asia,horses,1994,17.813727
+Asia,horses,1995,17.924945
+Asia,horses,1996,18.071174
+Asia,horses,1997,16.595095
+Asia,horses,1998,16.614804
+Asia,horses,1999,16.678359
+Asia,horses,2000,16.689251
+Asia,horses,2001,15.984492
+Asia,horses,2002,15.001226
+Asia,horses,2003,14.633489
+Asia,horses,2004,14.387486
+Asia,horses,2005,14.202549
+Asia,horses,2006,14.073
+Asia,horses,2007,14.07463
+Asia,horses,2008,13.946194
+Asia,horses,2009,12.671526
+Asia,horses,2010,12.134352
+Asia,horses,2011,12.252255
+Asia,horses,2012,12.09211
+Asia,horses,2013,12.12632
+Asia,horses,2014,12.609627
+Asia,horses,2015,13.037953
+Asia,horses,2016,13.372193
+Asia,horses,2017,13.445234
+Asia,horses,2018,13.56521
+Asia,mules,1961,2.136125
+Asia,mules,1962,2.020794
+Asia,mules,1963,2.035612
+Asia,mules,1964,2.051161
+Asia,mules,1965,2.084527
+Asia,mules,1966,2.149112
+Asia,mules,1967,2.199949
+Asia,mules,1968,2.425994
+Asia,mules,1969,2.648211
+Asia,mules,1970,2.853327
+Asia,mules,1971,2.976929
+Asia,mules,1972,3.167784
+Asia,mules,1973,3.419456
+Asia,mules,1974,3.656331
+Asia,mules,1975,3.845716
+Asia,mules,1976,4.078022
+Asia,mules,1977,4.319973
+Asia,mules,1978,4.455233
+Asia,mules,1979,4.603251
+Asia,mules,1980,4.782857
+Asia,mules,1981,4.917129
+Asia,mules,1982,5.083516
+Asia,mules,1983,5.212371
+Asia,mules,1984,5.322204
+Asia,mules,1985,5.47246
+Asia,mules,1986,5.65407
+Asia,mules,1987,5.807233
+Asia,mules,1988,5.943765
+Asia,mules,1989,6.069777
+Asia,mules,1990,6.101636
+Asia,mules,1991,6.187703
+Asia,mules,1992,6.292727
+Asia,mules,1993,6.287061
+Asia,mules,1994,6.163309
+Asia,mules,1995,6.212178
+Asia,mules,1996,6.15423
+Asia,mules,1997,5.524159
+Asia,mules,1998,5.517157
+Asia,mules,1999,5.491425
+Asia,mules,2000,5.424226
+Asia,mules,2001,5.25405
+Asia,mules,2002,5.085942
+Asia,mules,2003,4.922893
+Asia,mules,2004,4.678619
+Asia,mules,2005,4.46709
+Asia,mules,2006,4.216453
+Asia,mules,2007,4.054281
+Asia,mules,2008,3.595191
+Asia,mules,2009,2.818351
+Asia,mules,2010,2.537565
+Asia,mules,2011,2.350249
+Asia,mules,2012,2.236508
+Asia,mules,2013,2.030461
+Asia,mules,2014,2.035255
+Asia,mules,2015,1.829793
+Asia,mules,2016,1.716498
+Asia,mules,2017,1.526702
+Asia,mules,2018,1.498874
+Asia,"pigeons, other birds",1961,4.355
+Asia,"pigeons, other birds",1962,6.455
+Asia,"pigeons, other birds",1963,7.56
+Asia,"pigeons, other birds",1964,8.66
+Asia,"pigeons, other birds",1965,9.764999999999999
+Asia,"pigeons, other birds",1966,10.801
+Asia,"pigeons, other birds",1967,11.079
+Asia,"pigeons, other birds",1968,3.408
+Asia,"pigeons, other birds",1969,4.191000000000001
+Asia,"pigeons, other birds",1970,4.931
+Asia,"pigeons, other birds",1971,7.067
+Asia,"pigeons, other birds",1972,6.911
+Asia,"pigeons, other birds",1973,7.011
+Asia,"pigeons, other birds",1974,5.4
+Asia,"pigeons, other birds",1975,11.022
+Asia,"pigeons, other birds",1976,9.726
+Asia,"pigeons, other birds",1977,12.082
+Asia,"pigeons, other birds",1978,12.309000000000001
+Asia,"pigeons, other birds",1979,16.956
+Asia,"pigeons, other birds",1980,17.941
+Asia,"pigeons, other birds",1981,17.415
+Asia,"pigeons, other birds",1982,19.042
+Asia,"pigeons, other birds",1983,16.202
+Asia,"pigeons, other birds",1984,22.781
+Asia,"pigeons, other birds",1985,20.857
+Asia,"pigeons, other birds",1986,23.019000000000002
+Asia,"pigeons, other birds",1987,22.630999999999997
+Asia,"pigeons, other birds",1988,22.270000000000003
+Asia,"pigeons, other birds",1989,21.877
+Asia,"pigeons, other birds",1990,21.14
+Asia,"pigeons, other birds",1991,16.602
+Asia,"pigeons, other birds",1992,18.983
+Asia,"pigeons, other birds",1993,16.863
+Asia,"pigeons, other birds",1994,17.26
+Asia,"pigeons, other birds",1995,17.717
+Asia,"pigeons, other birds",1996,17.798000000000002
+Asia,"pigeons, other birds",1997,17.846
+Asia,"pigeons, other birds",1998,16.779
+Asia,"pigeons, other birds",1999,16.611
+Asia,"pigeons, other birds",2000,16.587999999999997
+Asia,"pigeons, other birds",2001,16.412
+Asia,"pigeons, other birds",2002,16.576
+Asia,"pigeons, other birds",2003,16.79
+Asia,"pigeons, other birds",2004,16.86
+Asia,"pigeons, other birds",2005,16.38
+Asia,"pigeons, other birds",2006,16.459999999999997
+Asia,"pigeons, other birds",2007,16.422
+Asia,"pigeons, other birds",2008,16.417
+Asia,"pigeons, other birds",2009,16.084
+Asia,"pigeons, other birds",2010,16.060000000000002
+Asia,"pigeons, other birds",2011,16.045
+Asia,"pigeons, other birds",2012,16.09
+Asia,"pigeons, other birds",2013,16.119
+Asia,"pigeons, other birds",2014,16.091
+Asia,"pigeons, other birds",2015,15.582
+Asia,"pigeons, other birds",2016,14.152
+Asia,"pigeons, other birds",2017,14.834
+Asia,"pigeons, other birds",2018,14.584
+Asia,pigs,1961,118.473813
+Asia,pigs,1962,116.026686
+Asia,pigs,1963,139.695281
+Asia,pigs,1964,171.851756
+Asia,pigs,1965,194.620482
+Asia,pigs,1966,211.415211
+Asia,pigs,1967,238.177588
+Asia,pigs,1968,236.640489
+Asia,pigs,1969,225.788632
+Asia,pigs,1970,223.027973
+Asia,pigs,1971,257.316452
+Asia,pigs,1972,303.853649
+Asia,pigs,1973,319.930015
+Asia,pigs,1974,313.162099
+Asia,pigs,1975,312.110672
+Asia,pigs,1976,329.822314
+Asia,pigs,1977,339.674346
+Asia,pigs,1978,348.800663
+Asia,pigs,1979,361.137152
+Asia,pigs,1980,381.967763
+Asia,pigs,1981,369.75108
+Asia,pigs,1982,360.662314
+Asia,pigs,1983,371.668226
+Asia,pigs,1984,371.149749
+Asia,pigs,1985,380.910357
+Asia,pigs,1986,407.219237
+Asia,pigs,1987,415.487071
+Asia,pigs,1988,405.200763
+Asia,pigs,1989,422.05706
+Asia,pigs,1990,429.833024
+Asia,pigs,1991,448.038095
+Asia,pigs,1992,464.734949
+Asia,pigs,1993,479.192542
+Asia,pigs,1994,489.188764
+Asia,pigs,1995,510.274883
+Asia,pigs,1996,538.706227
+Asia,pigs,1997,462.595708
+Asia,pigs,1998,498.431749
+Asia,pigs,1999,518.521683
+Asia,pigs,2000,529.107527
+Asia,pigs,2001,517.679737
+Asia,pigs,2002,524.001688
+Asia,pigs,2003,525.826058
+Asia,pigs,2004,523.158025
+Asia,pigs,2005,532.639095
+Asia,pigs,2006,545.265349
+Asia,pigs,2007,531.639159
+Asia,pigs,2008,551.320316
+Asia,pigs,2009,585.464081
+Asia,pigs,2010,582.511865
+Asia,pigs,2011,583.520187
+Asia,pigs,2012,595.868218
+Asia,pigs,2013,593.899117
+Asia,pigs,2014,595.458434
+Asia,pigs,2015,590.235655
+Asia,pigs,2016,579.981403
+Asia,pigs,2017,559.8428
+Asia,pigs,2018,559.919517
+Asia,rabbits and hares,1961,16.917
+Asia,rabbits and hares,1962,18.881999999999998
+Asia,rabbits and hares,1963,21.447
+Asia,rabbits and hares,1964,23.258999999999997
+Asia,rabbits and hares,1965,23.927
+Asia,rabbits and hares,1966,24.924000000000003
+Asia,rabbits and hares,1967,27.072
+Asia,rabbits and hares,1968,29.041
+Asia,rabbits and hares,1969,30.881
+Asia,rabbits and hares,1970,32.743
+Asia,rabbits and hares,1971,33.721000000000004
+Asia,rabbits and hares,1972,35.594
+Asia,rabbits and hares,1973,37.649
+Asia,rabbits and hares,1974,39.843
+Asia,rabbits and hares,1975,42.153999999999996
+Asia,rabbits and hares,1976,44.186
+Asia,rabbits and hares,1977,46.296
+Asia,rabbits and hares,1978,46.438
+Asia,rabbits and hares,1979,51.437
+Asia,rabbits and hares,1980,53.223
+Asia,rabbits and hares,1981,55.056
+Asia,rabbits and hares,1982,59.162
+Asia,rabbits and hares,1983,64.102
+Asia,rabbits and hares,1984,67.028
+Asia,rabbits and hares,1985,70.132
+Asia,rabbits and hares,1986,103.034
+Asia,rabbits and hares,1987,140.2
+Asia,rabbits and hares,1988,145.975
+Asia,rabbits and hares,1989,150.791
+Asia,rabbits and hares,1990,155.734
+Asia,rabbits and hares,1991,162.729
+Asia,rabbits and hares,1992,166.491
+Asia,rabbits and hares,1993,176.121
+Asia,rabbits and hares,1994,186.205
+Asia,rabbits and hares,1995,150.489
+Asia,rabbits and hares,1996,159.091
+Asia,rabbits and hares,1997,163.698
+Asia,rabbits and hares,1998,171.766
+Asia,rabbits and hares,1999,181.376
+Asia,rabbits and hares,2000,197.625
+Asia,rabbits and hares,2001,210.583
+Asia,rabbits and hares,2002,211.834
+Asia,rabbits and hares,2003,214.918
+Asia,rabbits and hares,2004,217.39700000000002
+Asia,rabbits and hares,2005,222.92999999999998
+Asia,rabbits and hares,2006,240.574
+Asia,rabbits and hares,2007,238.081
+Asia,rabbits and hares,2008,229.377
+Asia,rabbits and hares,2009,239.385
+Asia,rabbits and hares,2010,247.523
+Asia,rabbits and hares,2011,252.90099999999998
+Asia,rabbits and hares,2012,255.02399999999997
+Asia,rabbits and hares,2013,255.81300000000002
+Asia,rabbits and hares,2014,256.10699999999997
+Asia,rabbits and hares,2015,249.28900000000002
+Asia,rabbits and hares,2016,248.554
+Asia,rabbits and hares,2017,260.884
+Asia,rabbits and hares,2018,261.23
+Asia,sheep,1961,232.288994
+Asia,sheep,1962,229.536258
+Asia,sheep,1963,233.145936
+Asia,sheep,1964,243.763684
+Asia,sheep,1965,252.602916
+Asia,sheep,1966,259.677371
+Asia,sheep,1967,260.766892
+Asia,sheep,1968,269.784084
+Asia,sheep,1969,266.414974
+Asia,sheep,1970,263.917747
+Asia,sheep,1971,268.307222
+Asia,sheep,1972,260.662556
+Asia,sheep,1973,266.639419
+Asia,sheep,1974,277.515778
+Asia,sheep,1975,283.834045
+Asia,sheep,1976,290.309028
+Asia,sheep,1977,292.474198
+Asia,sheep,1978,300.830694
+Asia,sheep,1979,309.286657
+Asia,sheep,1980,318.331081
+Asia,sheep,1981,329.37239
+Asia,sheep,1982,338.883998
+Asia,sheep,1983,339.244126
+Asia,sheep,1984,328.600632
+Asia,sheep,1985,314.255385
+Asia,sheep,1986,314.459695
+Asia,sheep,1987,321.413779
+Asia,sheep,1988,328.762784
+Asia,sheep,1989,345.279457
+Asia,sheep,1990,350.027882
+Asia,sheep,1991,348.363766
+Asia,sheep,1992,421.200583
+Asia,sheep,1993,417.929756
+Asia,sheep,1994,417.937205
+Asia,sheep,1995,412.986587
+Asia,sheep,1996,412.16373
+Asia,sheep,1997,394.444339
+Asia,sheep,1998,400.965791
+Asia,sheep,1999,408.439918
+Asia,sheep,2000,413.523701
+Asia,sheep,2001,407.377725
+Asia,sheep,2002,402.736961
+Asia,sheep,2003,412.703531
+Asia,sheep,2004,428.239098
+Asia,sheep,2005,448.537464
+Asia,sheep,2006,458.176129
+Asia,sheep,2007,462.589001
+Asia,sheep,2008,460.398355
+Asia,sheep,2009,459.150106
+Asia,sheep,2010,456.108872
+Asia,sheep,2011,466.027316
+Asia,sheep,2012,472.361534
+Asia,sheep,2013,484.390969
+Asia,sheep,2014,475.950802
+Asia,sheep,2015,504.312088
+Asia,sheep,2016,512.289982
+Asia,sheep,2017,508.539208
+Asia,sheep,2018,514.986624
+Asia,turkeys,1961,3.5
+Asia,turkeys,1962,3.411
+Asia,turkeys,1963,3.5460000000000003
+Asia,turkeys,1964,3.522
+Asia,turkeys,1965,3.485
+Asia,turkeys,1966,3.763
+Asia,turkeys,1967,3.972
+Asia,turkeys,1968,4.071
+Asia,turkeys,1969,4.3340000000000005
+Asia,turkeys,1970,4.542
+Asia,turkeys,1971,5.253
+Asia,turkeys,1972,4.87
+Asia,turkeys,1973,5.315
+Asia,turkeys,1974,6.433999999999999
+Asia,turkeys,1975,7.019
+Asia,turkeys,1976,7.5
+Asia,turkeys,1977,8.625
+Asia,turkeys,1978,8.935
+Asia,turkeys,1979,9.446
+Asia,turkeys,1980,9.540999999999999
+Asia,turkeys,1981,7.305
+Asia,turkeys,1982,10.644
+Asia,turkeys,1983,13.121
+Asia,turkeys,1984,10.72
+Asia,turkeys,1985,10.319999999999999
+Asia,turkeys,1986,12.414
+Asia,turkeys,1987,11.783
+Asia,turkeys,1988,9.671000000000001
+Asia,turkeys,1989,7.751
+Asia,turkeys,1990,7.420000000000001
+Asia,turkeys,1991,8.614
+Asia,turkeys,1992,14.723999999999998
+Asia,turkeys,1993,14.636
+Asia,turkeys,1994,14.213
+Asia,turkeys,1995,13.202
+Asia,turkeys,1996,13.225999999999999
+Asia,turkeys,1997,15.424
+Asia,turkeys,1998,13.439
+Asia,turkeys,1999,13.865
+Asia,turkeys,2000,13.818
+Asia,turkeys,2001,13.431000000000001
+Asia,turkeys,2002,12.566
+Asia,turkeys,2003,13.907
+Asia,turkeys,2004,13.527000000000001
+Asia,turkeys,2005,13.437
+Asia,turkeys,2006,12.555
+Asia,turkeys,2007,12.504
+Asia,turkeys,2008,12.902000000000001
+Asia,turkeys,2009,12.122000000000002
+Asia,turkeys,2010,12.666
+Asia,turkeys,2011,12.593
+Asia,turkeys,2012,13.200999999999999
+Asia,turkeys,2013,14.030000000000001
+Asia,turkeys,2014,13.706
+Asia,turkeys,2015,14.909
+Asia,turkeys,2016,14.791
+Asia,turkeys,2017,15.049999999999999
+Asia,turkeys,2018,15.269
+Europe,asses,1961,3.348369
+Europe,asses,1962,3.300385
+Europe,asses,1963,3.261231
+Europe,asses,1964,3.155037
+Europe,asses,1965,2.876732
+Europe,asses,1966,2.675915
+Europe,asses,1967,2.643538
+Europe,asses,1968,2.596208
+Europe,asses,1969,2.513394
+Europe,asses,1970,2.324088
+Europe,asses,1971,2.296649
+Europe,asses,1972,2.180236
+Europe,asses,1973,2.11425
+Europe,asses,1974,2.035725
+Europe,asses,1975,1.972514
+Europe,asses,1976,1.913345
+Europe,asses,1977,1.835651
+Europe,asses,1978,1.761057
+Europe,asses,1979,1.719941
+Europe,asses,1980,1.668653
+Europe,asses,1981,1.625452
+Europe,asses,1982,1.601375
+Europe,asses,1983,1.540134
+Europe,asses,1984,1.511108
+Europe,asses,1985,1.45069
+Europe,asses,1986,1.420155
+Europe,asses,1987,1.398287
+Europe,asses,1988,1.343197
+Europe,asses,1989,1.317609
+Europe,asses,1990,1.347383
+Europe,asses,1991,1.205033
+Europe,asses,1992,0.90747
+Europe,asses,1993,0.880945
+Europe,asses,1994,0.851786
+Europe,asses,1995,0.810226
+Europe,asses,1996,0.810901
+Europe,asses,1997,0.813257
+Europe,asses,1998,0.739877
+Europe,asses,1999,0.741834
+Europe,asses,2000,0.717851
+Europe,asses,2001,0.691797
+Europe,asses,2002,0.624201
+Europe,asses,2003,0.59937
+Europe,asses,2004,0.560434
+Europe,asses,2005,0.539407
+Europe,asses,2006,0.514155
+Europe,asses,2007,0.493833
+Europe,asses,2008,0.473022
+Europe,asses,2009,0.455995
+Europe,asses,2010,0.44358
+Europe,asses,2011,0.442509
+Europe,asses,2012,0.421058
+Europe,asses,2013,0.407273
+Europe,asses,2014,0.39192
+Europe,asses,2015,0.393215
+Europe,asses,2016,0.387358
+Europe,asses,2017,0.377611
+Europe,asses,2018,0.39591
+Europe,buffaloes,1961,0.733129
+Europe,buffaloes,1962,0.74746
+Europe,buffaloes,1963,0.725798
+Europe,buffaloes,1964,0.694222
+Europe,buffaloes,1965,0.646804
+Europe,buffaloes,1966,0.678727
+Europe,buffaloes,1967,0.690224
+Europe,buffaloes,1968,0.691372
+Europe,buffaloes,1969,0.690996
+Europe,buffaloes,1970,0.654382
+Europe,buffaloes,1971,0.65859
+Europe,buffaloes,1972,0.652445
+Europe,buffaloes,1973,0.63582
+Europe,buffaloes,1974,0.650763
+Europe,buffaloes,1975,0.65822
+Europe,buffaloes,1976,0.641711
+Europe,buffaloes,1977,0.604244
+Europe,buffaloes,1978,0.604253
+Europe,buffaloes,1979,0.591276
+Europe,buffaloes,1980,0.558767
+Europe,buffaloes,1981,0.552941
+Europe,buffaloes,1982,0.528957
+Europe,buffaloes,1983,0.519982
+Europe,buffaloes,1984,0.518797
+Europe,buffaloes,1985,0.526851
+Europe,buffaloes,1986,0.568904
+Europe,buffaloes,1987,0.55883
+Europe,buffaloes,1988,0.556525
+Europe,buffaloes,1989,0.559867
+Europe,buffaloes,1990,0.578919
+Europe,buffaloes,1991,0.574486
+Europe,buffaloes,1992,0.154591
+Europe,buffaloes,1993,0.170076
+Europe,buffaloes,1994,0.161188
+Europe,buffaloes,1995,0.165289
+Europe,buffaloes,1996,0.205503
+Europe,buffaloes,1997,0.200146
+Europe,buffaloes,1998,0.206955
+Europe,buffaloes,1999,0.24939
+Europe,buffaloes,2000,0.232499
+Europe,buffaloes,2001,0.23488
+Europe,buffaloes,2002,0.244736
+Europe,buffaloes,2003,0.238762
+Europe,buffaloes,2004,0.279706
+Europe,buffaloes,2005,0.266096
+Europe,buffaloes,2006,0.229667
+Europe,buffaloes,2007,0.25705
+Europe,buffaloes,2008,0.332883
+Europe,buffaloes,2009,0.368548
+Europe,buffaloes,2010,0.390682
+Europe,buffaloes,2011,0.379568
+Europe,buffaloes,2012,0.37321
+Europe,buffaloes,2013,0.426285
+Europe,buffaloes,2014,0.395576
+Europe,buffaloes,2015,0.404846
+Europe,buffaloes,2016,0.415472
+Europe,buffaloes,2017,0.432724
+Europe,buffaloes,2018,0.439047
+Europe,camels,1961,0.2836
+Europe,camels,1962,0.2864
+Europe,camels,1963,0.2893
+Europe,camels,1964,0.2922
+Europe,camels,1965,0.247
+Europe,camels,1966,0.244
+Europe,camels,1967,0.251
+Europe,camels,1968,0.256
+Europe,camels,1969,0.263
+Europe,camels,1970,0.244
+Europe,camels,1971,0.2381
+Europe,camels,1972,0.236
+Europe,camels,1973,0.249
+Europe,camels,1974,0.245
+Europe,camels,1975,0.253
+Europe,camels,1976,0.247
+Europe,camels,1977,0.239
+Europe,camels,1978,0.237
+Europe,camels,1979,0.232
+Europe,camels,1980,0.237
+Europe,camels,1981,0.235
+Europe,camels,1982,0.238
+Europe,camels,1983,0.24
+Europe,camels,1984,0.246
+Europe,camels,1985,0.245
+Europe,camels,1986,0.254
+Europe,camels,1987,0.26
+Europe,camels,1988,0.3
+Europe,camels,1989,0.3
+Europe,camels,1990,0.263
+Europe,camels,1991,0.263
+Europe,camels,1992,0.01
+Europe,camels,1993,0.0103
+Europe,camels,1994,0.0104
+Europe,camels,1995,0.0105
+Europe,camels,1996,0.0108
+Europe,camels,1997,0.011
+Europe,camels,1998,0.011
+Europe,camels,1999,0.011
+Europe,camels,2000,0.01
+Europe,camels,2001,0.005944
+Europe,camels,2002,0.006079
+Europe,camels,2003,0.006939
+Europe,camels,2004,0.007392
+Europe,camels,2005,0.007404
+Europe,camels,2006,0.007089
+Europe,camels,2007,0.007185
+Europe,camels,2008,0.007156
+Europe,camels,2009,0.007022
+Europe,camels,2010,0.007243
+Europe,camels,2011,0.007297
+Europe,camels,2012,0.007492
+Europe,camels,2013,0.007508
+Europe,camels,2014,0.007425
+Europe,camels,2015,0.007414
+Europe,camels,2016,0.007338
+Europe,camels,2017,0.007171
+Europe,camels,2018,0.00656
+Europe,cattle,1961,192.288407
+Europe,cattle,1962,200.744521
+Europe,cattle,1963,204.032187
+Europe,cattle,1964,200.482999
+Europe,cattle,1965,204.026002
+Europe,cattle,1966,213.629939
+Europe,cattle,1967,219.591097
+Europe,cattle,1968,220.497352
+Europe,cattle,1969,218.603923
+Europe,cattle,1970,217.416401
+Europe,cattle,1971,220.983856
+Europe,cattle,1972,225.594195
+Europe,cattle,1973,232.347612
+Europe,cattle,1974,239.691046
+Europe,cattle,1975,243.033101
+Europe,cattle,1976,243.59844
+Europe,cattle,1977,243.034437
+Europe,cattle,1978,245.913242
+Europe,cattle,1979,248.040676
+Europe,cattle,1980,249.084317
+Europe,cattle,1981,247.470491
+Europe,cattle,1982,248.756562
+Europe,cattle,1983,248.198298
+Europe,cattle,1984,253.305208
+Europe,cattle,1985,253.829414
+Europe,cattle,1986,251.348624
+Europe,cattle,1987,249.204398
+Europe,cattle,1988,243.038032
+Europe,cattle,1989,244.513864
+Europe,cattle,1990,243.054195
+Europe,cattle,1991,235.955213
+Europe,cattle,1992,203.992796
+Europe,cattle,1993,194.499878
+Europe,cattle,1994,187.981517
+Europe,cattle,1995,178.182954
+Europe,cattle,1996,172.182899
+Europe,cattle,1997,164.052706
+Europe,cattle,1998,155.720662
+Europe,cattle,1999,150.415412
+Europe,cattle,2000,147.913969
+Europe,cattle,2001,143.461042
+Europe,cattle,2002,141.587741
+Europe,cattle,2003,139.046887
+Europe,cattle,2004,134.85254
+Europe,cattle,2005,131.348325
+Europe,cattle,2006,128.737713
+Europe,cattle,2007,128.551791
+Europe,cattle,2008,127.610204
+Europe,cattle,2009,125.966596
+Europe,cattle,2010,124.454093
+Europe,cattle,2011,121.288046
+Europe,cattle,2012,121.544162
+Europe,cattle,2013,121.74618
+Europe,cattle,2014,122.14562
+Europe,cattle,2015,121.970885
+Europe,cattle,2016,121.556825
+Europe,cattle,2017,120.790869
+Europe,cattle,2018,119.357517
+Europe,chickens,1961,1329.142
+Europe,chickens,1962,1378.938
+Europe,chickens,1963,1413.635
+Europe,chickens,1964,1376.167
+Europe,chickens,1965,1392.9180000000001
+Europe,chickens,1966,1399.6779999999999
+Europe,chickens,1967,1462.1100000000001
+Europe,chickens,1968,1509.98
+Europe,chickens,1969,1540.454
+Europe,chickens,1970,1644.3220000000001
+Europe,chickens,1971,1749.861
+Europe,chickens,1972,1789.986
+Europe,chickens,1973,1841.454
+Europe,chickens,1974,1905.122
+Europe,chickens,1975,1944.218
+Europe,chickens,1976,1936.3539999999998
+Europe,chickens,1977,1995.7800000000002
+Europe,chickens,1978,2074.303
+Europe,chickens,1979,2159.581
+Europe,chickens,1980,2197.969
+Europe,chickens,1981,2273.519
+Europe,chickens,1982,2310.322
+Europe,chickens,1983,2335.984
+Europe,chickens,1984,2342.93
+Europe,chickens,1985,2403.4610000000002
+Europe,chickens,1986,2417.224
+Europe,chickens,1987,2457.833
+Europe,chickens,1988,2486.932
+Europe,chickens,1989,2479.4339999999997
+Europe,chickens,1990,2459.5319999999997
+Europe,chickens,1991,2408.697
+Europe,chickens,1992,2163.5939999999996
+Europe,chickens,1993,2097.3250000000003
+Europe,chickens,1994,1952.5079999999998
+Europe,chickens,1995,1849.365
+Europe,chickens,1996,1856.7050000000002
+Europe,chickens,1997,1755.004
+Europe,chickens,1998,1745.946
+Europe,chickens,1999,1738.928
+Europe,chickens,2000,1709.842
+Europe,chickens,2001,1702.956
+Europe,chickens,2002,1843.4470000000001
+Europe,chickens,2003,1789.5939999999998
+Europe,chickens,2004,1773.478
+Europe,chickens,2005,1779.472
+Europe,chickens,2006,1803.1299999999999
+Europe,chickens,2007,1834.0669999999998
+Europe,chickens,2008,1854.516
+Europe,chickens,2009,1910.774
+Europe,chickens,2010,2047.792
+Europe,chickens,2011,2062.357
+Europe,chickens,2012,2059.107
+Europe,chickens,2013,2171.4950000000003
+Europe,chickens,2014,2082.666
+Europe,chickens,2015,2149.309
+Europe,chickens,2016,2209.448
+Europe,chickens,2017,2238.512
+Europe,chickens,2018,2260.795
+Europe,ducks,1961,25.794999999999998
+Europe,ducks,1962,25.374000000000002
+Europe,ducks,1963,24.273
+Europe,ducks,1964,24.926000000000002
+Europe,ducks,1965,25.419
+Europe,ducks,1966,25.657
+Europe,ducks,1967,26.651
+Europe,ducks,1968,26.803
+Europe,ducks,1969,25.491
+Europe,ducks,1970,27.584
+Europe,ducks,1971,27.962
+Europe,ducks,1972,26.658
+Europe,ducks,1973,27.428
+Europe,ducks,1974,28.137
+Europe,ducks,1975,27.722
+Europe,ducks,1976,26.296
+Europe,ducks,1977,25.755
+Europe,ducks,1978,25.735
+Europe,ducks,1979,26.966
+Europe,ducks,1980,24.763
+Europe,ducks,1981,24.745
+Europe,ducks,1982,25.597
+Europe,ducks,1983,27.415
+Europe,ducks,1984,27.198
+Europe,ducks,1985,29.025
+Europe,ducks,1986,31.107
+Europe,ducks,1987,31.915
+Europe,ducks,1988,32.684
+Europe,ducks,1989,34.801
+Europe,ducks,1990,36.287
+Europe,ducks,1991,38.803
+Europe,ducks,1992,60.23
+Europe,ducks,1993,55.174
+Europe,ducks,1994,52.455
+Europe,ducks,1995,51.272
+Europe,ducks,1996,47.668
+Europe,ducks,1997,49.819
+Europe,ducks,1998,51.001999999999995
+Europe,ducks,1999,54.245000000000005
+Europe,ducks,2000,55.928
+Europe,ducks,2001,55.894
+Europe,ducks,2002,62.361
+Europe,ducks,2003,61.705999999999996
+Europe,ducks,2004,63.190999999999995
+Europe,ducks,2005,68.46199999999999
+Europe,ducks,2006,72.90299999999999
+Europe,ducks,2007,75.554
+Europe,ducks,2008,75.999
+Europe,ducks,2009,74.583
+Europe,ducks,2010,85.70800000000001
+Europe,ducks,2011,87.302
+Europe,ducks,2012,85.263
+Europe,ducks,2013,86.288
+Europe,ducks,2014,87.585
+Europe,ducks,2015,90.567
+Europe,ducks,2016,77.105
+Europe,ducks,2017,77.82
+Europe,ducks,2018,81.829
+Europe,geese and guinea fowls,1961,13.449
+Europe,geese and guinea fowls,1962,13.433
+Europe,geese and guinea fowls,1963,12.024
+Europe,geese and guinea fowls,1964,12.318000000000001
+Europe,geese and guinea fowls,1965,12.765
+Europe,geese and guinea fowls,1966,12.53
+Europe,geese and guinea fowls,1967,13.918
+Europe,geese and guinea fowls,1968,14.197
+Europe,geese and guinea fowls,1969,13.977
+Europe,geese and guinea fowls,1970,13.869
+Europe,geese and guinea fowls,1971,14.349
+Europe,geese and guinea fowls,1972,12.587
+Europe,geese and guinea fowls,1973,13.202
+Europe,geese and guinea fowls,1974,12.938
+Europe,geese and guinea fowls,1975,12.116
+Europe,geese and guinea fowls,1976,10.864
+Europe,geese and guinea fowls,1977,10.921
+Europe,geese and guinea fowls,1978,11.443
+Europe,geese and guinea fowls,1979,10.61
+Europe,geese and guinea fowls,1980,9.672
+Europe,geese and guinea fowls,1981,9.921
+Europe,geese and guinea fowls,1982,11.158
+Europe,geese and guinea fowls,1983,11.302
+Europe,geese and guinea fowls,1984,11.004
+Europe,geese and guinea fowls,1985,11.469999999999999
+Europe,geese and guinea fowls,1986,11.657
+Europe,geese and guinea fowls,1987,11.638
+Europe,geese and guinea fowls,1988,11.781
+Europe,geese and guinea fowls,1989,12.132
+Europe,geese and guinea fowls,1990,12.654
+Europe,geese and guinea fowls,1991,11.927
+Europe,geese and guinea fowls,1992,28.362
+Europe,geese and guinea fowls,1993,26.324
+Europe,geese and guinea fowls,1994,25.435
+Europe,geese and guinea fowls,1995,24.132
+Europe,geese and guinea fowls,1996,23.448
+Europe,geese and guinea fowls,1997,22.296
+Europe,geese and guinea fowls,1998,21.516000000000002
+Europe,geese and guinea fowls,1999,21.731
+Europe,geese and guinea fowls,2000,21.912000000000003
+Europe,geese and guinea fowls,2001,22.035
+Europe,geese and guinea fowls,2002,30.669999999999998
+Europe,geese and guinea fowls,2003,30.449
+Europe,geese and guinea fowls,2004,30.404
+Europe,geese and guinea fowls,2005,30.141000000000002
+Europe,geese and guinea fowls,2006,26.810000000000002
+Europe,geese and guinea fowls,2007,29.348
+Europe,geese and guinea fowls,2008,28.276
+Europe,geese and guinea fowls,2009,28.046000000000003
+Europe,geese and guinea fowls,2010,31.537000000000003
+Europe,geese and guinea fowls,2011,28.502
+Europe,geese and guinea fowls,2012,27.803
+Europe,geese and guinea fowls,2013,28.267
+Europe,geese and guinea fowls,2014,30.809
+Europe,geese and guinea fowls,2015,31.209
+Europe,geese and guinea fowls,2016,19.601
+Europe,geese and guinea fowls,2017,19.07
+Europe,geese and guinea fowls,2018,19.994999999999997
+Europe,goats,1961,22.473699
+Europe,goats,1962,21.438777
+Europe,goats,1963,20.282161
+Europe,goats,1964,18.748321
+Europe,goats,1965,18.517561
+Europe,goats,1966,18.252234
+Europe,goats,1967,18.582012
+Europe,goats,1968,18.113063
+Europe,goats,1969,17.88372
+Europe,goats,1970,17.069877
+Europe,goats,1971,17.223199
+Europe,goats,1972,17.037653
+Europe,goats,1973,17.096809
+Europe,goats,1974,17.202215
+Europe,goats,1975,17.295338
+Europe,goats,1976,17.121832
+Europe,goats,1977,16.89926
+Europe,goats,1978,16.983447
+Europe,goats,1979,16.790666
+Europe,goats,1980,17.29446
+Europe,goats,1981,18.628585
+Europe,goats,1982,18.416003
+Europe,goats,1983,19.159469
+Europe,goats,1984,19.305349
+Europe,goats,1985,19.202136
+Europe,goats,1986,19.956099
+Europe,goats,1987,19.958877
+Europe,goats,1988,20.651233
+Europe,goats,1989,22.117514
+Europe,goats,1990,22.16813
+Europe,goats,1991,22.295874
+Europe,goats,1992,19.280888
+Europe,goats,1993,19.382732
+Europe,goats,1994,20.027996
+Europe,goats,1995,20.240434
+Europe,goats,1996,19.434972
+Europe,goats,1997,19.381316
+Europe,goats,1998,19.221664
+Europe,goats,1999,19.048257
+Europe,goats,2000,18.936789
+Europe,goats,2001,18.579706
+Europe,goats,2002,18.644785
+Europe,goats,2003,19.093906
+Europe,goats,2004,18.611094
+Europe,goats,2005,18.341764
+Europe,goats,2006,17.915841
+Europe,goats,2007,17.839984
+Europe,goats,2008,17.824907
+Europe,goats,2009,17.507367
+Europe,goats,2010,17.501497
+Europe,goats,2011,17.396018
+Europe,goats,2012,17.258714
+Europe,goats,2013,17.262152
+Europe,goats,2014,17.060801
+Europe,goats,2015,16.926889
+Europe,goats,2016,17.045697
+Europe,goats,2017,16.99549
+Europe,goats,2018,16.818666
+Europe,horses,1961,21.946619
+Europe,horses,1962,20.826766
+Europe,horses,1963,19.741024
+Europe,horses,1964,18.486645
+Europe,horses,1965,17.311751
+Europe,horses,1966,17.03921
+Europe,horses,1967,16.853971
+Europe,horses,1968,16.557992
+Europe,horses,1969,16.169292
+Europe,horses,1970,15.353099
+Europe,horses,1971,14.841402
+Europe,horses,1972,14.400049
+Europe,horses,1973,13.871012
+Europe,horses,1974,13.463279
+Europe,horses,1975,13.167048
+Europe,horses,1976,12.720263
+Europe,horses,1977,12.084079
+Europe,horses,1978,11.611835
+Europe,horses,1979,11.358476
+Europe,horses,1980,11.085632
+Europe,horses,1981,10.825161
+Europe,horses,1982,10.800247
+Europe,horses,1983,10.679885
+Europe,horses,1984,10.68882
+Europe,horses,1985,10.646108
+Europe,horses,1986,10.459961
+Europe,horses,1987,10.424922
+Europe,horses,1988,10.281291
+Europe,horses,1989,10.212212
+Europe,horses,1990,10.212057
+Europe,horses,1991,10.290358
+Europe,horses,1992,8.06142
+Europe,horses,1993,7.978617
+Europe,horses,1994,7.830031
+Europe,horses,1995,7.962328
+Europe,horses,1996,7.915791
+Europe,horses,1997,7.831292
+Europe,horses,1998,7.485107
+Europe,horses,1999,7.184837
+Europe,horses,2000,7.106547
+Europe,horses,2001,7.048955
+Europe,horses,2002,6.778138
+Europe,horses,2003,6.773652
+Europe,horses,2004,6.678121
+Europe,horses,2005,6.416315
+Europe,horses,2006,6.400398
+Europe,horses,2007,6.383118
+Europe,horses,2008,6.419242
+Europe,horses,2009,6.344331
+Europe,horses,2010,6.12805
+Europe,horses,2011,5.972834
+Europe,horses,2012,5.889372
+Europe,horses,2013,5.746641
+Europe,horses,2014,5.535359
+Europe,horses,2015,5.583885
+Europe,horses,2016,5.391641
+Europe,horses,2017,5.269891
+Europe,horses,2018,5.146939
+Europe,mules,1961,1.987695
+Europe,mules,1962,1.940358
+Europe,mules,1963,1.909225
+Europe,mules,1964,1.799276
+Europe,mules,1965,1.523969
+Europe,mules,1966,1.379701
+Europe,mules,1967,1.347052
+Europe,mules,1968,1.265672
+Europe,mules,1969,1.238612
+Europe,mules,1970,1.137643
+Europe,mules,1971,1.031757
+Europe,mules,1972,0.935318
+Europe,mules,1973,0.882328
+Europe,mules,1974,0.831827
+Europe,mules,1975,0.787863
+Europe,mules,1976,0.764882
+Europe,mules,1977,0.69427
+Europe,mules,1978,0.633962
+Europe,mules,1979,0.615935
+Europe,mules,1980,0.58597
+Europe,mules,1981,0.551035
+Europe,mules,1982,0.522399
+Europe,mules,1983,0.482861
+Europe,mules,1984,0.462199
+Europe,mules,1985,0.438435
+Europe,mules,1986,0.409016
+Europe,mules,1987,0.403559
+Europe,mules,1988,0.387349
+Europe,mules,1989,0.378696
+Europe,mules,1990,0.366894
+Europe,mules,1991,0.290257
+Europe,mules,1992,0.263739
+Europe,mules,1993,0.263248
+Europe,mules,1994,0.260084
+Europe,mules,1995,0.248354
+Europe,mules,1996,0.242863
+Europe,mules,1997,0.24033
+Europe,mules,1998,0.232299
+Europe,mules,1999,0.231746
+Europe,mules,2000,0.226923
+Europe,mules,2001,0.220489
+Europe,mules,2002,0.20984
+Europe,mules,2003,0.202132
+Europe,mules,2004,0.198472
+Europe,mules,2005,0.198488
+Europe,mules,2006,0.191636
+Europe,mules,2007,0.191416
+Europe,mules,2008,0.190314
+Europe,mules,2009,0.190157
+Europe,mules,2010,0.188583
+Europe,mules,2011,0.186415
+Europe,mules,2012,0.18335
+Europe,mules,2013,0.179287
+Europe,mules,2014,0.175221
+Europe,mules,2015,0.16961
+Europe,mules,2016,0.16512
+Europe,mules,2017,0.163948
+Europe,mules,2018,0.16427
+Europe,"pigeons, other birds",1961,3.9
+Europe,"pigeons, other birds",1962,3.9709999999999996
+Europe,"pigeons, other birds",1963,4.058
+Europe,"pigeons, other birds",1964,4.103
+Europe,"pigeons, other birds",1965,4.104
+Europe,"pigeons, other birds",1966,4.074999999999999
+Europe,"pigeons, other birds",1967,4.181
+Europe,"pigeons, other birds",1968,4.22
+Europe,"pigeons, other birds",1969,4.193
+Europe,"pigeons, other birds",1970,4.192
+Europe,"pigeons, other birds",1971,4.209
+Europe,"pigeons, other birds",1972,4.216
+Europe,"pigeons, other birds",1973,4.273
+Europe,"pigeons, other birds",1974,4.307
+Europe,"pigeons, other birds",1975,4.397
+Europe,"pigeons, other birds",1976,4.292
+Europe,"pigeons, other birds",1977,4.385
+Europe,"pigeons, other birds",1978,4.447
+Europe,"pigeons, other birds",1979,4.409
+Europe,"pigeons, other birds",1980,4.3629999999999995
+Europe,"pigeons, other birds",1981,4.394
+Europe,"pigeons, other birds",1982,4.175
+Europe,"pigeons, other birds",1983,4.377
+Europe,"pigeons, other birds",1984,4.401000000000001
+Europe,"pigeons, other birds",1985,3.965
+Europe,"pigeons, other birds",1986,3.928
+Europe,"pigeons, other birds",1987,3.9709999999999996
+Europe,"pigeons, other birds",1988,4.13
+Europe,"pigeons, other birds",1989,4.109
+Europe,"pigeons, other birds",1990,4.047000000000001
+Europe,"pigeons, other birds",1991,3.856
+Europe,"pigeons, other birds",1992,3.96
+Europe,"pigeons, other birds",1993,3.876
+Europe,"pigeons, other birds",1994,3.278
+Europe,"pigeons, other birds",1995,3.229
+Europe,"pigeons, other birds",1996,3.2
+Europe,"pigeons, other birds",1997,3.139
+Europe,"pigeons, other birds",1998,3.0860000000000003
+Europe,"pigeons, other birds",1999,3.064
+Europe,"pigeons, other birds",2000,3.0669999999999997
+Europe,"pigeons, other birds",2001,2.757
+Europe,"pigeons, other birds",2002,2.834
+Europe,"pigeons, other birds",2003,2.8449999999999998
+Europe,"pigeons, other birds",2004,2.4459999999999997
+Europe,"pigeons, other birds",2005,2.417
+Europe,"pigeons, other birds",2006,2.75
+Europe,"pigeons, other birds",2007,2.8
+Europe,"pigeons, other birds",2008,2.8
+Europe,"pigeons, other birds",2009,2.8
+Europe,"pigeons, other birds",2010,2.8
+Europe,"pigeons, other birds",2011,2.8
+Europe,"pigeons, other birds",2012,2.8
+Europe,"pigeons, other birds",2013,2.8
+Europe,"pigeons, other birds",2014,2.8
+Europe,"pigeons, other birds",2015,2.76
+Europe,"pigeons, other birds",2016,2.726
+Europe,"pigeons, other birds",2017,2.754
+Europe,"pigeons, other birds",2018,2.7529999999999997
+Europe,pigs,1961,168.115009
+Europe,pigs,1962,180.191456
+Europe,pigs,1963,178.722194
+Europe,pigs,1964,155.756537
+Europe,pigs,1965,173.897229
+Europe,pigs,1966,175.923365
+Europe,pigs,1967,177.59626
+Europe,pigs,1968,175.750021
+Europe,pigs,1969,173.199896
+Europe,pigs,1970,186.54847
+Europe,pigs,1971,209.671992
+Europe,pigs,1972,216.78834
+Europe,pigs,1973,217.150049
+Europe,pigs,1974,225.704255
+Europe,pigs,1975,229.292297
+Europe,pigs,1976,212.236632
+Europe,pigs,1977,224.110509
+Europe,pigs,1978,238.516995
+Europe,pigs,1979,244.711603
+Europe,pigs,1980,248.639429
+Europe,pigs,1981,247.560622
+Europe,pigs,1982,250.340374
+Europe,pigs,1983,249.881626
+Europe,pigs,1984,257.60876
+Europe,pigs,1985,257.677912
+Europe,pigs,1986,262.776406
+Europe,pigs,1987,265.029966
+Europe,pigs,1988,266.511696
+Europe,pigs,1989,262.563886
+Europe,pigs,1990,261.371933
+Europe,pigs,1991,256.178249
+Europe,pigs,1992,237.31438
+Europe,pigs,1993,227.333847
+Europe,pigs,1994,220.796334
+Europe,pigs,1995,213.477047
+Europe,pigs,1996,208.156737
+Europe,pigs,1997,203.261307
+Europe,pigs,1998,200.843054
+Europe,pigs,1999,205.225636
+Europe,pigs,2000,200.406363
+Europe,pigs,2001,191.83993
+Europe,pigs,2002,194.2731
+Europe,pigs,2003,197.675295
+Europe,pigs,2004,192.4236
+Europe,pigs,2005,190.484477
+Europe,pigs,2006,193.283394
+Europe,pigs,2007,198.006743
+Europe,pigs,2008,191.087794
+Europe,pigs,2009,187.25419
+Europe,pigs,2010,189.298802
+Europe,pigs,2011,187.232028
+Europe,pigs,2012,183.266717
+Europe,pigs,2013,182.677474
+Europe,pigs,2014,185.074654
+Europe,pigs,2015,186.915616
+Europe,pigs,2016,186.652399
+Europe,pigs,2017,187.44271
+Europe,pigs,2018,188.396851
+Europe,rabbits and hares,1961,76.597
+Europe,rabbits and hares,1962,77.933
+Europe,rabbits and hares,1963,78.234
+Europe,rabbits and hares,1964,77.387
+Europe,rabbits and hares,1965,78.773
+Europe,rabbits and hares,1966,80.203
+Europe,rabbits and hares,1967,81.072
+Europe,rabbits and hares,1968,84.678
+Europe,rabbits and hares,1969,88.574
+Europe,rabbits and hares,1970,92.663
+Europe,rabbits and hares,1971,99.577
+Europe,rabbits and hares,1972,110.012
+Europe,rabbits and hares,1973,113.64399999999999
+Europe,rabbits and hares,1974,120.753
+Europe,rabbits and hares,1975,123.1
+Europe,rabbits and hares,1976,116.846
+Europe,rabbits and hares,1977,118.129
+Europe,rabbits and hares,1978,120.64999999999999
+Europe,rabbits and hares,1979,126.82199999999999
+Europe,rabbits and hares,1980,126.08
+Europe,rabbits and hares,1981,125.51
+Europe,rabbits and hares,1982,127.86900000000001
+Europe,rabbits and hares,1983,126.76899999999999
+Europe,rabbits and hares,1984,125.326
+Europe,rabbits and hares,1985,123.881
+Europe,rabbits and hares,1986,127.56300000000002
+Europe,rabbits and hares,1987,130.267
+Europe,rabbits and hares,1988,134.897
+Europe,rabbits and hares,1989,128.82399999999998
+Europe,rabbits and hares,1990,208.642
+Europe,rabbits and hares,1991,145.513
+Europe,rabbits and hares,1992,35.053
+Europe,rabbits and hares,1993,30.234
+Europe,rabbits and hares,1994,29.58
+Europe,rabbits and hares,1995,26.208
+Europe,rabbits and hares,1996,24.636000000000003
+Europe,rabbits and hares,1997,23.819
+Europe,rabbits and hares,1998,23.18
+Europe,rabbits and hares,1999,23.654999999999998
+Europe,rabbits and hares,2000,23.399
+Europe,rabbits and hares,2001,23.433
+Europe,rabbits and hares,2002,23.926
+Europe,rabbits and hares,2003,24.141
+Europe,rabbits and hares,2004,23.291
+Europe,rabbits and hares,2005,22.627000000000002
+Europe,rabbits and hares,2006,23.040000000000003
+Europe,rabbits and hares,2007,23.114
+Europe,rabbits and hares,2008,22.634
+Europe,rabbits and hares,2009,22.65
+Europe,rabbits and hares,2010,23.004
+Europe,rabbits and hares,2011,22.921
+Europe,rabbits and hares,2012,23.469
+Europe,rabbits and hares,2013,23.414
+Europe,rabbits and hares,2014,23.256
+Europe,rabbits and hares,2015,23.234
+Europe,rabbits and hares,2016,23.609
+Europe,rabbits and hares,2017,23.006
+Europe,rabbits and hares,2018,22.893
+Europe,sheep,1961,266.732303
+Europe,sheep,1962,271.842841
+Europe,sheep,1963,270.769738
+Europe,sheep,1964,264.736899
+Europe,sheep,1965,257.863786
+Europe,sheep,1966,262.041274
+Europe,sheep,1967,267.836597
+Europe,sheep,1968,269.771268
+Europe,sheep,1969,269.192142
+Europe,sheep,1970,256.022454
+Europe,sheep,1971,261.89597
+Europe,sheep,1972,263.560886
+Europe,sheep,1973,263.489807
+Europe,sheep,1974,267.063804
+Europe,sheep,1975,269.840367
+Europe,sheep,1976,265.929024
+Europe,sheep,1977,257.056824
+Europe,sheep,1978,261.534259
+Europe,sheep,1979,264.645078
+Europe,sheep,1980,266.767923
+Europe,sheep,1981,266.22343
+Europe,sheep,1982,272.657054
+Europe,sheep,1983,275.002965
+Europe,sheep,1984,279.802611
+Europe,sheep,1985,278.637084
+Europe,sheep,1986,287.936772
+Europe,sheep,1987,290.568813
+Europe,sheep,1988,296.059466
+Europe,sheep,1989,297.768778
+Europe,sheep,1990,295.245015
+Europe,sheep,1991,287.271049
+Europe,sheep,1992,212.603762
+Europe,sheep,1993,203.175243
+Europe,sheep,1994,191.129595
+Europe,sheep,1995,178.254537
+Europe,sheep,1996,165.511933
+Europe,sheep,1997,160.387955
+Europe,sheep,1998,156.733023
+Europe,sheep,1999,151.535135
+Europe,sheep,2000,148.942604
+Europe,sheep,2001,137.871342
+Europe,sheep,2002,136.969544
+Europe,sheep,2003,137.134558
+Europe,sheep,2004,137.739189
+Europe,sheep,2005,137.547128
+Europe,sheep,2006,136.628505
+Europe,sheep,2007,136.016603
+Europe,sheep,2008,133.806714
+Europe,sheep,2009,131.608742
+Europe,sheep,2010,130.136097
+Europe,sheep,2011,127.667027
+Europe,sheep,2012,127.354665
+Europe,sheep,2013,129.324483
+Europe,sheep,2014,129.61657
+Europe,sheep,2015,130.846967
+Europe,sheep,2016,131.116191
+Europe,sheep,2017,132.308577
+Europe,sheep,2018,130.703609
+Europe,turkeys,1961,80.44900000000001
+Europe,turkeys,1962,66.358
+Europe,turkeys,1963,51.193000000000005
+Europe,turkeys,1964,35.903999999999996
+Europe,turkeys,1965,31.659
+Europe,turkeys,1966,31.266000000000002
+Europe,turkeys,1967,28.872
+Europe,turkeys,1968,29.016000000000002
+Europe,turkeys,1969,30.873
+Europe,turkeys,1970,40.772000000000006
+Europe,turkeys,1971,59.47
+Europe,turkeys,1972,63.809000000000005
+Europe,turkeys,1973,68.76599999999999
+Europe,turkeys,1974,75.047
+Europe,turkeys,1975,78.789
+Europe,turkeys,1976,61.584
+Europe,turkeys,1977,82.809
+Europe,turkeys,1978,99.819
+Europe,turkeys,1979,108.77499999999999
+Europe,turkeys,1980,116.648
+Europe,turkeys,1981,122.771
+Europe,turkeys,1982,122.905
+Europe,turkeys,1983,120.49300000000001
+Europe,turkeys,1984,119.89800000000001
+Europe,turkeys,1985,120.182
+Europe,turkeys,1986,122.271
+Europe,turkeys,1987,118.17099999999999
+Europe,turkeys,1988,120.722
+Europe,turkeys,1989,121.879
+Europe,turkeys,1990,120.589
+Europe,turkeys,1991,120.68299999999999
+Europe,turkeys,1992,94.17200000000001
+Europe,turkeys,1993,96.675
+Europe,turkeys,1994,101.745
+Europe,turkeys,1995,105.14800000000001
+Europe,turkeys,1996,108.634
+Europe,turkeys,1997,108.807
+Europe,turkeys,1998,109.27499999999999
+Europe,turkeys,1999,108.159
+Europe,turkeys,2000,108.131
+Europe,turkeys,2001,112.30900000000001
+Europe,turkeys,2002,120.91
+Europe,turkeys,2003,108.499
+Europe,turkeys,2004,104.056
+Europe,turkeys,2005,103.432
+Europe,turkeys,2006,102.56
+Europe,turkeys,2007,99.728
+Europe,turkeys,2008,99.35199999999999
+Europe,turkeys,2009,98.463
+Europe,turkeys,2010,97.32499999999999
+Europe,turkeys,2011,95.331
+Europe,turkeys,2012,95.544
+Europe,turkeys,2013,93.789
+Europe,turkeys,2014,93.681
+Europe,turkeys,2015,97.155
+Europe,turkeys,2016,103.80300000000001
+Europe,turkeys,2017,103.994
+Europe,turkeys,2018,105.17500000000001
+Oceania,asses,1961,0.011
+Oceania,asses,1962,0.011
+Oceania,asses,1963,0.0111
+Oceania,asses,1964,0.01115
+Oceania,asses,1965,0.01117
+Oceania,asses,1966,0.01123
+Oceania,asses,1967,0.0113
+Oceania,asses,1968,0.01135
+Oceania,asses,1969,0.0114
+Oceania,asses,1970,0.01148
+Oceania,asses,1971,0.01155
+Oceania,asses,1972,0.01163
+Oceania,asses,1973,0.01175
+Oceania,asses,1974,0.01185
+Oceania,asses,1975,0.012
+Oceania,asses,1976,0.012
+Oceania,asses,1977,0.012
+Oceania,asses,1978,0.012
+Oceania,asses,1979,0.0118
+Oceania,asses,1980,0.0115
+Oceania,asses,1981,0.0115
+Oceania,asses,1982,0.0115
+Oceania,asses,1983,0.0115
+Oceania,asses,1984,0.0115
+Oceania,asses,1985,0.0115
+Oceania,asses,1986,0.0115
+Oceania,asses,1987,0.009213
+Oceania,asses,1988,0.008401
+Oceania,asses,1989,0.008863
+Oceania,asses,1990,0.00931
+Oceania,asses,1991,0.009638
+Oceania,asses,1992,0.010378
+Oceania,asses,1993,0.009438
+Oceania,asses,1994,0.009
+Oceania,asses,1995,0.009
+Oceania,asses,1996,0.009
+Oceania,asses,1997,0.009
+Oceania,asses,1998,0.009
+Oceania,asses,1999,0.009
+Oceania,asses,2000,0.009
+Oceania,asses,2001,0.009
+Oceania,asses,2002,0.009
+Oceania,asses,2003,0.009
+Oceania,asses,2004,0.009
+Oceania,asses,2005,0.009
+Oceania,asses,2006,0.009
+Oceania,asses,2007,0.009
+Oceania,asses,2008,0.009
+Oceania,asses,2009,0.009
+Oceania,asses,2010,0.009
+Oceania,asses,2011,0.009
+Oceania,asses,2012,0.009
+Oceania,asses,2013,0.009
+Oceania,asses,2014,0.009
+Oceania,asses,2015,0.008957
+Oceania,asses,2016,0.00892
+Oceania,asses,2017,0.008928
+Oceania,asses,2018,0.008919
+Oceania,buffaloes,1961,0.0007
+Oceania,buffaloes,1962,0.000584
+Oceania,buffaloes,1963,0.001284
+Oceania,buffaloes,1964,0.000727
+Oceania,buffaloes,1965,0.000497
+Oceania,buffaloes,1966,0.000849
+Oceania,buffaloes,1967,0.000655
+Oceania,buffaloes,1968,0.00068
+Oceania,buffaloes,1969,0.000549
+Oceania,buffaloes,1970,0.0005
+Oceania,buffaloes,1971,0.000322
+Oceania,buffaloes,1972,0.000451
+Oceania,buffaloes,1973,0.000433
+Oceania,buffaloes,1974,0.000391
+Oceania,buffaloes,1975,0.000394
+Oceania,buffaloes,1976,0.000382
+Oceania,buffaloes,1977,0.000369
+Oceania,buffaloes,1978,0.000444
+Oceania,buffaloes,1979,0.000435
+Oceania,buffaloes,1980,0.000343
+Oceania,buffaloes,1981,0.00038
+Oceania,buffaloes,1982,0.000338
+Oceania,buffaloes,1983,0.000226
+Oceania,buffaloes,1984,0.00022
+Oceania,buffaloes,1985,0.000215
+Oceania,buffaloes,1986,0.000198
+Oceania,buffaloes,1987,0.000198
+Oceania,buffaloes,1988,0.000198
+Oceania,buffaloes,1989,0.000197
+Oceania,buffaloes,1990,0.000195
+Oceania,buffaloes,1991,6.5e-05
+Oceania,buffaloes,1992,6.5e-05
+Oceania,buffaloes,1993,6.5e-05
+Oceania,buffaloes,1994,6.5e-05
+Oceania,buffaloes,1995,0.000195
+Oceania,buffaloes,1996,0.000195
+Oceania,buffaloes,1997,0.000195
+Oceania,buffaloes,1998,0.000195
+Oceania,buffaloes,1999,0.000195
+Oceania,buffaloes,2000,0.000195
+Oceania,buffaloes,2001,0.000195
+Oceania,buffaloes,2002,0.000195
+Oceania,buffaloes,2003,0.000195
+Oceania,buffaloes,2004,0.000195
+Oceania,buffaloes,2005,0.000195
+Oceania,buffaloes,2006,0.000195
+Oceania,buffaloes,2007,0.00021
+Oceania,buffaloes,2008,0.00021
+Oceania,buffaloes,2009,0.00022
+Oceania,buffaloes,2010,0.00022
+Oceania,buffaloes,2011,0.000235
+Oceania,buffaloes,2012,0.000235
+Oceania,buffaloes,2013,0.000245
+Oceania,buffaloes,2014,0.000245
+Oceania,buffaloes,2015,0.000248
+Oceania,buffaloes,2016,0.000258
+Oceania,buffaloes,2017,0.000265
+Oceania,buffaloes,2018,0.000271
+Oceania,cattle,1961,24.091336
+Oceania,cattle,1962,24.953035
+Oceania,cattle,1963,25.584186
+Oceania,cattle,1964,26.093461
+Oceania,cattle,1965,25.980116
+Oceania,cattle,1966,25.537357
+Oceania,cattle,1967,26.440175
+Oceania,cattle,1968,27.911923
+Oceania,cattle,1969,29.684226
+Oceania,cattle,1970,31.42505
+Oceania,cattle,1971,32.873915
+Oceania,cattle,1972,36.524936
+Oceania,cattle,1973,38.57554
+Oceania,cattle,1974,40.719259
+Oceania,cattle,1975,42.681342
+Oceania,cattle,1976,43.062559
+Oceania,cattle,1977,40.886985
+Oceania,cattle,1978,38.369925
+Oceania,cattle,1979,35.76489
+Oceania,cattle,1980,34.955561
+Oceania,cattle,1981,33.833126
+Oceania,cattle,1982,33.085678
+Oceania,cattle,1983,30.75412
+Oceania,cattle,1984,30.588295
+Oceania,cattle,1985,31.32065
+Oceania,cattle,1986,32.38994
+Oceania,cattle,1987,30.588253
+Oceania,cattle,1988,30.591356
+Oceania,cattle,1989,30.938161
+Oceania,cattle,1990,31.880512
+Oceania,cattle,1991,32.451493
+Oceania,cattle,1992,32.727428
+Oceania,cattle,1993,33.104404
+Oceania,cattle,1994,35.387064
+Oceania,cattle,1995,35.778289
+Oceania,cattle,1996,36.163773
+Oceania,cattle,1997,36.693533
+Oceania,cattle,1998,36.474168
+Oceania,cattle,1999,36.290801
+Oceania,cattle,2000,37.352706
+Oceania,cattle,2001,37.745186
+Oceania,cattle,2002,38.246164
+Oceania,cattle,2003,37.114201
+Oceania,cattle,2004,37.793368
+Oceania,cattle,2005,38.010978
+Oceania,cattle,2006,38.71188
+Oceania,cattle,2007,38.441754
+Oceania,cattle,2008,37.784838
+Oceania,cattle,2009,38.609855
+Oceania,cattle,2010,37.343343
+Oceania,cattle,2011,39.281346
+Oceania,cattle,2012,39.352656
+Oceania,cattle,2013,40.239251
+Oceania,cattle,2014,40.246382
+Oceania,cattle,2015,37.952365
+Oceania,cattle,2016,35.620663
+Oceania,cattle,2017,36.832893
+Oceania,cattle,2018,37.015482
+Oceania,chickens,1961,26.304000000000002
+Oceania,chickens,1962,27.059
+Oceania,chickens,1963,27.313
+Oceania,chickens,1964,27.991
+Oceania,chickens,1965,28.948999999999998
+Oceania,chickens,1966,29.316
+Oceania,chickens,1967,29.647
+Oceania,chickens,1968,30.540000000000003
+Oceania,chickens,1969,31.842000000000002
+Oceania,chickens,1970,35.016
+Oceania,chickens,1971,37.875
+Oceania,chickens,1972,48.008
+Oceania,chickens,1973,50.965
+Oceania,chickens,1974,54.184000000000005
+Oceania,chickens,1975,51.419
+Oceania,chickens,1976,53.563
+Oceania,chickens,1977,54.514
+Oceania,chickens,1978,53.738
+Oceania,chickens,1979,53.78
+Oceania,chickens,1980,57.989
+Oceania,chickens,1981,59.66
+Oceania,chickens,1982,58.028999999999996
+Oceania,chickens,1983,61.628
+Oceania,chickens,1984,61.41
+Oceania,chickens,1985,64.989
+Oceania,chickens,1986,67.083
+Oceania,chickens,1987,71.878
+Oceania,chickens,1988,80.73700000000001
+Oceania,chickens,1989,69.078
+Oceania,chickens,1990,76.70200000000001
+Oceania,chickens,1991,72.407
+Oceania,chickens,1992,77.67
+Oceania,chickens,1993,86.102
+Oceania,chickens,1994,90.014
+Oceania,chickens,1995,87.956
+Oceania,chickens,1996,97.217
+Oceania,chickens,1997,103.45
+Oceania,chickens,1998,111.708
+Oceania,chickens,1999,114.939
+Oceania,chickens,2000,108.621
+Oceania,chickens,2001,114.392
+Oceania,chickens,2002,116.706
+Oceania,chickens,2003,115.258
+Oceania,chickens,2004,113.52199999999999
+Oceania,chickens,2005,106.605
+Oceania,chickens,2006,123.217
+Oceania,chickens,2007,128.952
+Oceania,chickens,2008,120.803
+Oceania,chickens,2009,125.73100000000001
+Oceania,chickens,2010,113.943
+Oceania,chickens,2011,122.087
+Oceania,chickens,2012,132.926
+Oceania,chickens,2013,130.96099999999998
+Oceania,chickens,2014,131.148
+Oceania,chickens,2015,123.35
+Oceania,chickens,2016,126.634
+Oceania,chickens,2017,132.74
+Oceania,chickens,2018,136.711
+Oceania,ducks,1961,0.41100000000000003
+Oceania,ducks,1962,0.41800000000000004
+Oceania,ducks,1963,0.414
+Oceania,ducks,1964,0.417
+Oceania,ducks,1965,0.42000000000000004
+Oceania,ducks,1966,0.432
+Oceania,ducks,1967,0.437
+Oceania,ducks,1968,0.429
+Oceania,ducks,1969,0.356
+Oceania,ducks,1970,0.34
+Oceania,ducks,1971,0.386
+Oceania,ducks,1972,0.402
+Oceania,ducks,1973,0.46900000000000003
+Oceania,ducks,1974,0.424
+Oceania,ducks,1975,0.335
+Oceania,ducks,1976,0.431
+Oceania,ducks,1977,0.38
+Oceania,ducks,1978,0.37
+Oceania,ducks,1979,0.45
+Oceania,ducks,1980,0.462
+Oceania,ducks,1981,0.537
+Oceania,ducks,1982,0.437
+Oceania,ducks,1983,0.503
+Oceania,ducks,1984,0.58
+Oceania,ducks,1985,0.432
+Oceania,ducks,1986,0.532
+Oceania,ducks,1987,0.597
+Oceania,ducks,1988,0.7919999999999999
+Oceania,ducks,1989,0.4
+Oceania,ducks,1990,0.412
+Oceania,ducks,1991,0.5109999999999999
+Oceania,ducks,1992,0.578
+Oceania,ducks,1993,0.549
+Oceania,ducks,1994,0.621
+Oceania,ducks,1995,0.631
+Oceania,ducks,1996,0.653
+Oceania,ducks,1997,0.6629999999999999
+Oceania,ducks,1998,0.7290000000000001
+Oceania,ducks,1999,0.6849999999999999
+Oceania,ducks,2000,0.8180000000000001
+Oceania,ducks,2001,1.063
+Oceania,ducks,2002,0.87
+Oceania,ducks,2003,0.9970000000000001
+Oceania,ducks,2004,1.256
+Oceania,ducks,2005,1.203
+Oceania,ducks,2006,1.064
+Oceania,ducks,2007,1.209
+Oceania,ducks,2008,1.5130000000000001
+Oceania,ducks,2009,1.787
+Oceania,ducks,2010,1.516
+Oceania,ducks,2011,1.3179999999999998
+Oceania,ducks,2012,1.4289999999999998
+Oceania,ducks,2013,1.428
+Oceania,ducks,2014,1.428
+Oceania,ducks,2015,1.494
+Oceania,ducks,2016,1.663
+Oceania,ducks,2017,1.6509999999999998
+Oceania,ducks,2018,1.689
+Oceania,geese and guinea fowls,1961,0.073
+Oceania,geese and guinea fowls,1962,0.075
+Oceania,geese and guinea fowls,1963,0.076
+Oceania,geese and guinea fowls,1964,0.078
+Oceania,geese and guinea fowls,1965,0.079
+Oceania,geese and guinea fowls,1966,0.082
+Oceania,geese and guinea fowls,1967,0.082
+Oceania,geese and guinea fowls,1968,0.085
+Oceania,geese and guinea fowls,1969,0.08399999999999999
+Oceania,geese and guinea fowls,1970,0.083
+Oceania,geese and guinea fowls,1971,0.083
+Oceania,geese and guinea fowls,1972,0.08600000000000001
+Oceania,geese and guinea fowls,1973,0.05
+Oceania,geese and guinea fowls,1974,0.05
+Oceania,geese and guinea fowls,1975,0.05
+Oceania,geese and guinea fowls,1976,0.05
+Oceania,geese and guinea fowls,1977,0.05
+Oceania,geese and guinea fowls,1978,0.049
+Oceania,geese and guinea fowls,1979,0.078
+Oceania,geese and guinea fowls,1980,0.07200000000000001
+Oceania,geese and guinea fowls,1981,0.147
+Oceania,geese and guinea fowls,1982,0.024
+Oceania,geese and guinea fowls,1983,0.04
+Oceania,geese and guinea fowls,1984,0.060000000000000005
+Oceania,geese and guinea fowls,1985,0.060000000000000005
+Oceania,geese and guinea fowls,1986,0.060000000000000005
+Oceania,geese and guinea fowls,1987,0.060000000000000005
+Oceania,geese and guinea fowls,1988,0.060000000000000005
+Oceania,geese and guinea fowls,1989,0.060000000000000005
+Oceania,geese and guinea fowls,1990,0.060000000000000005
+Oceania,geese and guinea fowls,1991,0.060000000000000005
+Oceania,geese and guinea fowls,1992,0.062
+Oceania,geese and guinea fowls,1993,0.063
+Oceania,geese and guinea fowls,1994,0.06499999999999999
+Oceania,geese and guinea fowls,1995,0.06499999999999999
+Oceania,geese and guinea fowls,1996,0.06499999999999999
+Oceania,geese and guinea fowls,1997,0.06499999999999999
+Oceania,geese and guinea fowls,1998,0.06499999999999999
+Oceania,geese and guinea fowls,1999,0.06499999999999999
+Oceania,geese and guinea fowls,2000,0.06499999999999999
+Oceania,geese and guinea fowls,2001,0.06499999999999999
+Oceania,geese and guinea fowls,2002,0.068
+Oceania,geese and guinea fowls,2003,0.068
+Oceania,geese and guinea fowls,2004,0.06999999999999999
+Oceania,geese and guinea fowls,2005,0.06999999999999999
+Oceania,geese and guinea fowls,2006,0.075
+Oceania,geese and guinea fowls,2007,0.08
+Oceania,geese and guinea fowls,2008,0.075
+Oceania,geese and guinea fowls,2009,0.08
+Oceania,geese and guinea fowls,2010,0.08
+Oceania,geese and guinea fowls,2011,0.08
+Oceania,geese and guinea fowls,2012,0.08
+Oceania,geese and guinea fowls,2013,0.082
+Oceania,geese and guinea fowls,2014,0.082
+Oceania,geese and guinea fowls,2015,0.083
+Oceania,geese and guinea fowls,2016,0.085
+Oceania,geese and guinea fowls,2017,0.085
+Oceania,geese and guinea fowls,2018,0.08600000000000001
+Oceania,goats,1961,0.30058
+Oceania,goats,1962,0.297703
+Oceania,goats,1963,0.325686
+Oceania,goats,1964,0.32617
+Oceania,goats,1965,0.32991
+Oceania,goats,1966,0.320235
+Oceania,goats,1967,0.284836
+Oceania,goats,1968,0.31043
+Oceania,goats,1969,0.314806
+Oceania,goats,1970,0.28753
+Oceania,goats,1971,0.319591
+Oceania,goats,1972,0.330948
+Oceania,goats,1973,0.350815
+Oceania,goats,1974,0.308887
+Oceania,goats,1975,0.311179
+Oceania,goats,1976,0.308291
+Oceania,goats,1977,0.262822
+Oceania,goats,1978,0.248046
+Oceania,goats,1979,0.271522
+Oceania,goats,1980,0.287773
+Oceania,goats,1981,0.356808
+Oceania,goats,1982,0.392125
+Oceania,goats,1983,0.57609
+Oceania,goats,1984,0.564702
+Oceania,goats,1985,0.790889
+Oceania,goats,1986,1.883708
+Oceania,goats,1987,2.245461
+Oceania,goats,1988,2.907952
+Oceania,goats,1989,2.78963
+Oceania,goats,1990,2.939193
+Oceania,goats,1991,2.810465
+Oceania,goats,1992,2.945252
+Oceania,goats,1993,2.55591
+Oceania,goats,1994,2.46246
+Oceania,goats,1995,2.203199
+Oceania,goats,1996,2.314299
+Oceania,goats,1997,2.346322
+Oceania,goats,1998,2.253419
+Oceania,goats,1999,2.065001
+Oceania,goats,2000,2.395756
+Oceania,goats,2001,2.615229
+Oceania,goats,2002,3.21881
+Oceania,goats,2003,2.986915
+Oceania,goats,2004,3.359986
+Oceania,goats,2005,3.852638
+Oceania,goats,2006,3.747607
+Oceania,goats,2007,2.929812
+Oceania,goats,2008,3.115488
+Oceania,goats,2009,3.802061
+Oceania,goats,2010,3.916993
+Oceania,goats,2011,3.909816
+Oceania,goats,2012,3.964921
+Oceania,goats,2013,3.955611
+Oceania,goats,2014,3.994246
+Oceania,goats,2015,4.008292
+Oceania,goats,2016,4.10271
+Oceania,goats,2017,4.038486
+Oceania,goats,2018,4.052647
+Oceania,horses,1961,0.710978
+Oceania,horses,1962,0.680811
+Oceania,horses,1963,0.666482
+Oceania,horses,1964,0.659193
+Oceania,horses,1965,0.652541
+Oceania,horses,1966,0.626821
+Oceania,horses,1967,0.607673
+Oceania,horses,1968,0.577214
+Oceania,horses,1969,0.585955
+Oceania,horses,1970,0.583394
+Oceania,horses,1971,0.577563
+Oceania,horses,1972,0.575831
+Oceania,horses,1973,0.570996
+Oceania,horses,1974,0.577579
+Oceania,horses,1975,0.550501
+Oceania,horses,1976,0.518852
+Oceania,horses,1977,0.54991
+Oceania,horses,1978,0.572397
+Oceania,horses,1979,0.612606
+Oceania,horses,1980,0.637775
+Oceania,horses,1981,0.644269
+Oceania,horses,1982,0.623014
+Oceania,horses,1983,0.617226
+Oceania,horses,1984,0.590477
+Oceania,horses,1985,0.58574
+Oceania,horses,1986,0.517421
+Oceania,horses,1987,0.47858
+Oceania,horses,1988,0.504
+Oceania,horses,1989,0.489027
+Oceania,horses,1990,0.474155
+Oceania,horses,1991,0.469479
+Oceania,horses,1992,0.453403
+Oceania,horses,1993,0.435832
+Oceania,horses,1994,0.394509
+Oceania,horses,1995,0.385318
+Oceania,horses,1996,0.374053
+Oceania,horses,1997,0.381568
+Oceania,horses,1998,0.371967
+Oceania,horses,1999,0.366286
+Oceania,horses,2000,0.369596
+Oceania,horses,2001,0.373099
+Oceania,horses,2002,0.372465
+Oceania,horses,2003,0.377017
+Oceania,horses,2004,0.37268
+Oceania,horses,2005,0.366657
+Oceania,horses,2006,0.402793
+Oceania,horses,2007,0.411336
+Oceania,horses,2008,0.403256
+Oceania,horses,2009,0.403607
+Oceania,horses,2010,0.404351
+Oceania,horses,2011,0.39829
+Oceania,horses,2012,0.404648
+Oceania,horses,2013,0.40545
+Oceania,horses,2014,0.402931
+Oceania,horses,2015,0.395012
+Oceania,horses,2016,0.384887
+Oceania,horses,2017,0.371189
+Oceania,horses,2018,0.360343
+Oceania,pigs,1961,3.105072
+Oceania,pigs,1962,3.192468
+Oceania,pigs,1963,3.090249
+Oceania,pigs,1964,3.131797
+Oceania,pigs,1965,3.291771
+Oceania,pigs,1966,3.345576
+Oceania,pigs,1967,3.355212
+Oceania,pigs,1968,3.646276
+Oceania,pigs,1969,3.803684
+Oceania,pigs,1970,4.003783
+Oceania,pigs,1971,4.18559
+Oceania,pigs,1972,4.739672
+Oceania,pigs,1973,4.838004
+Oceania,pigs,1974,4.104011
+Oceania,pigs,1975,3.782715
+Oceania,pigs,1976,3.819041
+Oceania,pigs,1977,3.958405
+Oceania,pigs,1978,3.979293
+Oceania,pigs,1979,4.062257
+Oceania,pigs,1980,4.31004
+Oceania,pigs,1981,4.274647
+Oceania,pigs,1982,4.24396
+Oceania,pigs,1983,4.381417
+Oceania,pigs,1984,4.458436
+Oceania,pigs,1985,4.535224
+Oceania,pigs,1986,4.594521
+Oceania,pigs,1987,4.688413
+Oceania,pigs,1988,4.788333
+Oceania,pigs,1989,4.733492
+Oceania,pigs,1990,4.70171
+Oceania,pigs,1991,4.563015
+Oceania,pigs,1992,4.933634
+Oceania,pigs,1993,4.896275
+Oceania,pigs,1994,5.159346
+Oceania,pigs,1995,5.166763
+Oceania,pigs,1996,5.089612
+Oceania,pigs,1997,5.143492
+Oceania,pigs,1998,5.349846
+Oceania,pigs,1999,5.250674
+Oceania,pigs,2000,5.131104
+Oceania,pigs,2001,5.534293
+Oceania,pigs,2002,5.816276
+Oceania,pigs,2003,5.569049
+Oceania,pigs,2004,5.484928
+Oceania,pigs,2005,5.432765
+Oceania,pigs,2006,5.642533
+Oceania,pigs,2007,5.577195
+Oceania,pigs,2008,5.340403
+Oceania,pigs,2009,5.253841
+Oceania,pigs,2010,5.322468
+Oceania,pigs,2011,5.365918
+Oceania,pigs,2012,5.252644
+Oceania,pigs,2013,5.159344
+Oceania,pigs,2014,5.358335
+Oceania,pigs,2015,5.312914
+Oceania,pigs,2016,5.423593
+Oceania,pigs,2017,5.65753
+Oceania,pigs,2018,5.745553
+Oceania,rabbits and hares,1986,0.004
+Oceania,rabbits and hares,1987,0.004
+Oceania,rabbits and hares,1990,0.0
+Oceania,rabbits and hares,1991,0.0
+Oceania,rabbits and hares,1992,0.0
+Oceania,rabbits and hares,1993,
+Oceania,rabbits and hares,1994,
+Oceania,rabbits and hares,1995,
+Oceania,rabbits and hares,1996,
+Oceania,rabbits and hares,1997,
+Oceania,rabbits and hares,1998,
+Oceania,rabbits and hares,1999,
+Oceania,rabbits and hares,2000,
+Oceania,rabbits and hares,2001,
+Oceania,rabbits and hares,2002,
+Oceania,rabbits and hares,2003,
+Oceania,rabbits and hares,2004,
+Oceania,rabbits and hares,2005,
+Oceania,rabbits and hares,2006,
+Oceania,rabbits and hares,2007,
+Oceania,rabbits and hares,2008,
+Oceania,rabbits and hares,2009,
+Oceania,rabbits and hares,2010,
+Oceania,rabbits and hares,2011,
+Oceania,rabbits and hares,2012,
+Oceania,rabbits and hares,2013,
+Oceania,rabbits and hares,2014,
+Oceania,rabbits and hares,2015,
+Oceania,rabbits and hares,2016,
+Oceania,rabbits and hares,2017,
+Oceania,rabbits and hares,2018,
+Oceania,sheep,1961,201.150492
+Oceania,sheep,1962,206.709297
+Oceania,sheep,1963,208.82491
+Oceania,sheep,1964,216.279986
+Oceania,sheep,1965,224.376438
+Oceania,sheep,1966,214.913914
+Oceania,sheep,1967,224.274552
+Oceania,sheep,1968,227.39339
+Oceania,sheep,1969,234.547205
+Oceania,sheep,1970,240.363368
+Oceania,sheep,1971,236.71243
+Oceania,sheep,1972,223.800105
+Oceania,sheep,1973,196.720633
+Oceania,sheep,1974,201.066524
+Oceania,sheep,1975,206.981201
+Oceania,sheep,1976,205.051468
+Oceania,sheep,1977,194.473234
+Oceania,sheep,1978,193.617273
+Oceania,sheep,1979,197.754198
+Oceania,sheep,1980,204.763797
+Oceania,sheep,1981,204.297986
+Oceania,sheep,1982,208.283882
+Oceania,sheep,1983,203.504663
+Oceania,sheep,1984,208.986082
+Oceania,sheep,1985,217.606981
+Oceania,sheep,1986,214.251433
+Oceania,sheep,1987,213.406754
+Oceania,sheep,1988,217.049332
+Oceania,sheep,1989,222.178532
+Oceania,sheep,1990,228.156168
+Oceania,sheep,1991,218.406787
+Oceania,sheep,1992,200.778546
+Oceania,sheep,1993,188.413604
+Oceania,sheep,1994,182.048356
+Oceania,sheep,1995,169.692492
+Oceania,sheep,1996,168.525092
+Oceania,sheep,1997,166.321038
+Oceania,sheep,1998,161.90742
+Oceania,sheep,1999,161.152228
+Oceania,sheep,2000,160.82834
+Oceania,sheep,2001,150.92624
+Oceania,sheep,2002,145.753737
+Oceania,sheep,2003,138.820228
+Oceania,sheep,2004,140.573516
+Oceania,sheep,2005,141.019438
+Oceania,sheep,2006,131.125242
+Oceania,sheep,2007,124.1874
+Oceania,sheep,2008,111.041604
+Oceania,sheep,2009,105.143867
+Oceania,sheep,2010,100.669116
+Oceania,sheep,2011,104.251132
+Oceania,sheep,2012,106.007852
+Oceania,sheep,2013,106.363302
+Oceania,sheep,2014,102.440819
+Oceania,sheep,2015,100.061912
+Oceania,sheep,2016,95.15845
+Oceania,sheep,2017,99.685961
+Oceania,sheep,2018,97.400824
+Oceania,turkeys,1961,0.24000000000000002
+Oceania,turkeys,1962,0.253
+Oceania,turkeys,1963,0.255
+Oceania,turkeys,1964,0.257
+Oceania,turkeys,1965,0.273
+Oceania,turkeys,1966,0.322
+Oceania,turkeys,1967,0.375
+Oceania,turkeys,1968,0.375
+Oceania,turkeys,1969,0.475
+Oceania,turkeys,1970,0.635
+Oceania,turkeys,1971,0.605
+Oceania,turkeys,1972,0.696
+Oceania,turkeys,1973,0.751
+Oceania,turkeys,1974,0.651
+Oceania,turkeys,1975,0.5199999999999999
+Oceania,turkeys,1976,0.443
+Oceania,turkeys,1977,0.49
+Oceania,turkeys,1978,0.442
+Oceania,turkeys,1979,0.588
+Oceania,turkeys,1980,1.1520000000000001
+Oceania,turkeys,1981,0.987
+Oceania,turkeys,1982,0.7829999999999999
+Oceania,turkeys,1983,0.554
+Oceania,turkeys,1984,0.634
+Oceania,turkeys,1985,0.756
+Oceania,turkeys,1986,0.683
+Oceania,turkeys,1987,1.3539999999999999
+Oceania,turkeys,1988,1.712
+Oceania,turkeys,1989,1.239
+Oceania,turkeys,1990,1.3719999999999999
+Oceania,turkeys,1991,1.595
+Oceania,turkeys,1992,1.456
+Oceania,turkeys,1993,1.206
+Oceania,turkeys,1994,0.969
+Oceania,turkeys,1995,1.1329999999999998
+Oceania,turkeys,1996,1.356
+Oceania,turkeys,1997,1.345
+Oceania,turkeys,1998,1.395
+Oceania,turkeys,1999,1.459
+Oceania,turkeys,2000,1.4929999999999999
+Oceania,turkeys,2001,0.861
+Oceania,turkeys,2002,0.7290000000000001
+Oceania,turkeys,2003,0.9219999999999999
+Oceania,turkeys,2004,0.832
+Oceania,turkeys,2005,0.7789999999999999
+Oceania,turkeys,2006,1.317
+Oceania,turkeys,2007,2.132
+Oceania,turkeys,2008,1.658
+Oceania,turkeys,2009,1.361
+Oceania,turkeys,2010,1.3639999999999999
+Oceania,turkeys,2011,1.368
+Oceania,turkeys,2012,1.371
+Oceania,turkeys,2013,1.375
+Oceania,turkeys,2014,1.377
+Oceania,turkeys,2015,1.377
+Oceania,turkeys,2016,1.375
+Oceania,turkeys,2017,1.38
+Oceania,turkeys,2018,1.361
