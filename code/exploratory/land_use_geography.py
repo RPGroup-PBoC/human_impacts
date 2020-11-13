@@ -6,26 +6,48 @@ import anthro.io
 import anthro.viz
 colors = anthro.viz.plotting_style()
 
-# Define the hardcoded data. 
-ag_total = 5E13
-ag_land_total = {'India':1.7E12/ag_total, 'USA':1.5E12/ag_total, 'China':1.4E12/ag_total, 'Russia':1.2E12/ag_total}
+cont_colors = {'Africa':colors['light_green'], 'Northern America':colors['light_red'],                
+               'Europe':'#4b4b4b', 'Central America':colors['purple'],
+               'South America':colors['dark_brown'],
+               'Asia':colors['blue'], 'Oceania':colors['dark_green']}
+cont_positions = {k:i for i, k in enumerate(cont_colors.keys())}
 
-ag_land_capita = {'Niue':2.5, 'Australia':1.9, 'Kazakhstan':1.6, 'Canada':1.3, 'Argentina':0.9}
+# Load the ag area data
+data = pd.read_csv('../../data/land/FAOSTAT_agriculture_landuse/processed/FAOSTAT_agricultural_landuse_by_region.csv')
+data = data[data['year'] == 2018]
+pop_data = pd.read_csv('../../data/anthropocentric/FAOSTAT_world_population/processed/FAOSTAT_population_by_region.csv')
+pop_data = pop_data[pop_data['year']==2018]
 
-fig, ax = plt.subplots(1, 2, figsize=(3, 1))
-for a in ax:
-    a.xaxis.set_tick_params(labelsize=6)
-    a.yaxis.set_tick_params(labelsize=6)
+# Compute the area per capita (m^2)
+data['area_m2'] = data['area_km2'] * 1E6
+dfs = []
+for g, d in data.groupby(['region']):
+    d = d.copy()
+    d['per_capita'] = d['area_km2'].values / (pop_data[pop_data['region']==g]['population_Mhd'].values[0] * 1E6)
+    dfs.append(d)
+data = pd.concat(dfs, sort=False)
+data['percent'] = data['area_m2'].values / data['area_m2'].sum()
+for k, v in cont_colors.items():
+    data.loc[data['region']==k, 'color'] = v
 
+# %% 
+# Make the pie chart
+data.sort_values('area_m2', inplace=True)
+fig, ax = plt.subplots(1, 1, figsize=(2.5, 2.5))
+ax.pie(data['area_m2'], colors=data['color'])
+circ = plt.Circle((0, 0), 0.6, color='white')
+ax.add_artist(circ)
+plt.savefig('./ag_land_donut.svg')
 
-iter = 0
-for k, v in ag_land_total.items():
-    ax[0].plot(iter, v, 'o', color=colors['red'], ms=3)
-    ax[0].vlines(iter, 0, v, lw=1, color=colors['red'])
-
-    iter +=1 
-ax[0].set_ylim([0, 0.04])
-ax[0].set_xticks([0, 1, 2, 3, 4])
-ax[0].set_xticklabels(list(ag_land_total.keys()), rotation=90, fontsize=6)
-plt.tight_layout()
+# Make the percapita plot
+fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
+ax.xaxis.set_tick_params(labelsize=6)
+ax.yaxis.set_tick_params(labelsize=6)
+# ax.set_ylim([3000, 95000])
+ax.set_ylabel('km$^2$ per capita', fontsize=6)
+for _, d in data.groupby(['region']):
+    ax.plot(cont_positions[_], d['per_capita'], 'o', ms=3, color=d['color'].values[0])
+    ax.vlines(cont_positions[_], 0, d['per_capita'], lw=0.5, color=d['color'].values[0])
+plt.savefig('./ag_land_per_capita.svg')
 # %%
+
