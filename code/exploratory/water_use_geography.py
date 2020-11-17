@@ -18,16 +18,16 @@ regions = ['Africa', 'Asia', 'Europe', 'Oceania',
 _colors = [cont_colors[k] for k in regions]
 _pos = [cont_positions[k] for k in regions]
 ag_total = [103E9, 841E9, 80E9, 10E9, 190E9, 52E9, 70E9]
-ag_capita = [85, 184, 107, 243, 466, 122, 400]
+ag_capita = [210, 420, 110, 416, 487, 185, 318]
 ag_df = pd.DataFrame(np.array([regions, ag_total, ag_capita, _colors]).T,
                     columns=['region', 'total', 'per_capita', 'color'])
 ind_total = [11E9, 178E9, 133E9, 2.7E9, 240E9, 13.4E9, 7E9]
-ind_capita = [8.6, 39, 178, 65, 590, 32, 40]
+ind_capita = [22, 90, 180, 110, 610, 61, 30]
 ind_df = pd.DataFrame(np.array([regions, ind_total, ind_capita, _colors]).T,
                     columns=['region', 'total', 'per_capita', 'color'])
 
 domestic_total = [21E9, 137E9, 68E9, 3.4e9, 65E9, 23E9, 15E9]
-domestic_capita = [16.5, 30, 91.2, 83, 160, 54, 86]
+domestic_capita = [42, 70, 93, 140, 170, 82, 68]
 domestic_df = pd.DataFrame(np.array([regions, domestic_total, domestic_capita, _colors]).T,
                     columns=['region', 'total', 'per_capita', 'color'])
 
@@ -48,7 +48,7 @@ ax.yaxis.set_tick_params(labelsize=6)
 for i, p in enumerate(_pos):
     ax.plot(p, ag_capita[i], 'o', ms=3, color=_colors[i])
     ax.vlines(p, 50, ag_capita[i], lw=0.5, color=_colors[i])
-ax.set_ylim([50, 500])
+ax.set_ylim([50, 550])
 plt.savefig('./agricultural_water_per_capita.svg')
 # Set up the pie chart. 
 # %%
