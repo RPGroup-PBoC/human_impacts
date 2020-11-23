@@ -1,0 +1,318 @@
+,sector,country,region,water_withdrawal_10^9_m^3/year
+2,Agricultural water withdrawal (10^9 m3/year),Costa Rica,Americas | Central America and Caribbean | Central America,2.302
+7,Agricultural water withdrawal (10^9 m3/year),Panama,Americas | Central America and Caribbean | Central America,0.4461
+8,Agricultural water withdrawal (10^9 m3/year),Cuba,Americas | Central America and Caribbean | Greater Antilles,4.519
+9,Agricultural water withdrawal (10^9 m3/year),Dominican Republic,Americas | Central America and Caribbean | Greater Antilles,7.563
+11,Agricultural water withdrawal (10^9 m3/year),Jamaica,Americas | Central America and Caribbean | Greater Antilles,0.114
+16,Agricultural water withdrawal (10^9 m3/year),Grenada,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.0021
+19,Agricultural water withdrawal (10^9 m3/year),Saint Vincent and the Grenadines,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.0
+21,Agricultural water withdrawal (10^9 m3/year),Canada,Americas | Northern America | Northern America,2.639
+22,Agricultural water withdrawal (10^9 m3/year),United States of America,Americas | Northern America | Northern America,176.2
+23,Agricultural water withdrawal (10^9 m3/year),Mexico,Americas | Northern America | Mexico,66.8
+29,Agricultural water withdrawal (10^9 m3/year),Peru,Americas | Southern America | Andean,13.1
+31,Agricultural water withdrawal (10^9 m3/year),Brazil,Americas | Southern America | Brazil,39.43
+36,Agricultural water withdrawal (10^9 m3/year),Algeria,World | Africa,6.671
+39,Agricultural water withdrawal (10^9 m3/year),Botswana,World | Africa,0.069
+48,Agricultural water withdrawal (10^9 m3/year),Côte d'Ivoire,World | Africa,0.6
+51,Agricultural water withdrawal (10^9 m3/year),Egypt,World | Africa,61.35
+55,Agricultural water withdrawal (10^9 m3/year),Ethiopia,World | Africa,9.687
+58,Agricultural water withdrawal (10^9 m3/year),Ghana,World | Africa,1.07
+61,Agricultural water withdrawal (10^9 m3/year),Kenya,World | Africa,3.234
+69,Agricultural water withdrawal (10^9 m3/year),Mauritius,World | Africa,0.344
+71,Agricultural water withdrawal (10^9 m3/year),Mozambique,World | Africa,1.076
+73,Agricultural water withdrawal (10^9 m3/year),Niger,World | Africa,1.536
+76,Agricultural water withdrawal (10^9 m3/year),Sao Tome and Principe,World | Africa,0.0256
+81,Agricultural water withdrawal (10^9 m3/year),South Africa,World | Africa,11.39
+85,Agricultural water withdrawal (10^9 m3/year),Tunisia,World | Africa,3.773
+89,Agricultural water withdrawal (10^9 m3/year),Zimbabwe,World | Africa,2.77
+91,Agricultural water withdrawal (10^9 m3/year),Armenia,World | Asia,2.127
+92,Agricultural water withdrawal (10^9 m3/year),Azerbaijan,World | Asia,9.27
+93,Agricultural water withdrawal (10^9 m3/year),Bahrain,World | Asia,0.1447
+98,Agricultural water withdrawal (10^9 m3/year),China,World | Asia,385.2
+102,Agricultural water withdrawal (10^9 m3/year),Indonesia,World | Asia,189.7
+104,Agricultural water withdrawal (10^9 m3/year),Iraq,World | Asia,35.27
+105,Agricultural water withdrawal (10^9 m3/year),Israel,World | Asia,1.249
+107,Agricultural water withdrawal (10^9 m3/year),Jordan,World | Asia,0.5547
+108,Agricultural water withdrawal (10^9 m3/year),Kazakhstan,World | Asia,15.12
+109,Agricultural water withdrawal (10^9 m3/year),Kuwait,World | Asia,0.7784
+111,Agricultural water withdrawal (10^9 m3/year),Lao People's Democratic Republic,World | Asia,7.02
+112,Agricultural water withdrawal (10^9 m3/year),Lebanon,World | Asia,0.7
+115,Agricultural water withdrawal (10^9 m3/year),Mongolia,World | Asia,0.2509
+118,Agricultural water withdrawal (10^9 m3/year),Oman,World | Asia,1.607
+120,Agricultural water withdrawal (10^9 m3/year),Palestine,World | Asia,0.162
+122,Agricultural water withdrawal (10^9 m3/year),Philippines,World | Asia,67.97
+123,Agricultural water withdrawal (10^9 m3/year),Qatar,World | Asia,0.2917
+125,Agricultural water withdrawal (10^9 m3/year),Saudi Arabia,World | Asia,19.2
+132,Agricultural water withdrawal (10^9 m3/year),Turkey,World | Asia,50.05
+135,Agricultural water withdrawal (10^9 m3/year),Uzbekistan,World | Asia,54.36
+138,Agricultural water withdrawal (10^9 m3/year),Albania,World | Europe,0.905
+141,Agricultural water withdrawal (10^9 m3/year),Belarus,World | Europe,0.431
+142,Agricultural water withdrawal (10^9 m3/year),Belgium,World | Europe,0.045
+144,Agricultural water withdrawal (10^9 m3/year),Bulgaria,World | Europe,0.8345
+145,Agricultural water withdrawal (10^9 m3/year),Croatia,World | Europe,0.076
+146,Agricultural water withdrawal (10^9 m3/year),Cyprus,World | Europe,0.184
+147,Agricultural water withdrawal (10^9 m3/year),Czechia,World | Europe,0.0466
+148,Agricultural water withdrawal (10^9 m3/year),Denmark,World | Europe,0.3267
+149,Agricultural water withdrawal (10^9 m3/year),Estonia,World | Europe,0.0045
+152,Agricultural water withdrawal (10^9 m3/year),France,World | Europe,3.113
+153,Agricultural water withdrawal (10^9 m3/year),Germany,World | Europe,0.2997
+154,Agricultural water withdrawal (10^9 m3/year),Greece,World | Europe,9.041
+156,Agricultural water withdrawal (10^9 m3/year),Hungary,World | Europe,0.5186
+157,Agricultural water withdrawal (10^9 m3/year),Iceland,World | Europe,3.0E-4
+159,Agricultural water withdrawal (10^9 m3/year),Italy,World | Europe,17.0
+160,Agricultural water withdrawal (10^9 m3/year),Latvia,World | Europe,0.0615
+162,Agricultural water withdrawal (10^9 m3/year),Lithuania,World | Europe,0.0589
+163,Agricultural water withdrawal (10^9 m3/year),Luxembourg,World | Europe,4.0E-4
+164,Agricultural water withdrawal (10^9 m3/year),Malta,World | Europe,0.0254
+167,Agricultural water withdrawal (10^9 m3/year),Netherlands,World | Europe,0.0765
+168,Agricultural water withdrawal (10^9 m3/year),North Macedonia,World | Europe,0.139
+170,Agricultural water withdrawal (10^9 m3/year),Poland,World | Europe,1.018
+172,Agricultural water withdrawal (10^9 m3/year),Republic of Moldova,World | Europe,0.042
+173,Agricultural water withdrawal (10^9 m3/year),Romania,World | Europe,1.491
+174,Agricultural water withdrawal (10^9 m3/year),Russian Federation,World | Europe,18.66
+176,Agricultural water withdrawal (10^9 m3/year),Serbia,World | Europe,0.6608
+177,Agricultural water withdrawal (10^9 m3/year),Slovakia,World | Europe,0.0316
+178,Agricultural water withdrawal (10^9 m3/year),Slovenia,World | Europe,0.0039
+179,Agricultural water withdrawal (10^9 m3/year),Spain,World | Europe,20.36
+180,Agricultural water withdrawal (10^9 m3/year),Sweden,World | Europe,0.075
+182,Agricultural water withdrawal (10^9 m3/year),Ukraine,World | Europe,3.206
+183,Agricultural water withdrawal (10^9 m3/year),United Kingdom,World | Europe,1.183
+184,Agricultural water withdrawal (10^9 m3/year),Australia,World | Oceania,10.5
+202,Industrial water withdrawal (10^9 m3/year),Costa Rica,Americas | Central America and Caribbean | Central America,0.24
+207,Industrial water withdrawal (10^9 m3/year),Panama,Americas | Central America and Caribbean | Central America,0.0062
+208,Industrial water withdrawal (10^9 m3/year),Cuba,Americas | Central America and Caribbean | Greater Antilles,0.74
+209,Industrial water withdrawal (10^9 m3/year),Dominican Republic,Americas | Central America and Caribbean | Greater Antilles,0.6599
+211,Industrial water withdrawal (10^9 m3/year),Jamaica,Americas | Central America and Caribbean | Greater Antilles,1.1
+216,Industrial water withdrawal (10^9 m3/year),Grenada,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.0
+219,Industrial water withdrawal (10^9 m3/year),Saint Vincent and the Grenadines,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,2.0E-6
+221,Industrial water withdrawal (10^9 m3/year),Canada,Americas | Northern America | Northern America,28.07
+222,Industrial water withdrawal (10^9 m3/year),United States of America,Americas | Northern America | Northern America,209.7
+223,Industrial water withdrawal (10^9 m3/year),Mexico,Americas | Northern America | Mexico,6.814
+227,Industrial water withdrawal (10^9 m3/year),Colombia,Americas | Southern America | Andean,3.73
+229,Industrial water withdrawal (10^9 m3/year),Peru,Americas | Southern America | Andean,0.2066
+231,Industrial water withdrawal (10^9 m3/year),Brazil,Americas | Southern America | Brazil,9.511
+236,Industrial water withdrawal (10^9 m3/year),Algeria,World | Africa,0.191
+239,Industrial water withdrawal (10^9 m3/year),Botswana,World | Africa,0.0234
+248,Industrial water withdrawal (10^9 m3/year),Côte d'Ivoire,World | Africa,0.242
+251,Industrial water withdrawal (10^9 m3/year),Egypt,World | Africa,5.4
+261,Industrial water withdrawal (10^9 m3/year),Kenya,World | Africa,0.303
+269,Industrial water withdrawal (10^9 m3/year),Mauritius,World | Africa,0.012
+271,Industrial water withdrawal (10^9 m3/year),Mozambique,World | Africa,0.025
+273,Industrial water withdrawal (10^9 m3/year),Niger,World | Africa,0.036
+276,Industrial water withdrawal (10^9 m3/year),Sao Tome and Principe,World | Africa,6.0E-4
+281,Industrial water withdrawal (10^9 m3/year),South Africa,World | Africa,4.1
+285,Industrial water withdrawal (10^9 m3/year),Tunisia,World | Africa,0.965
+289,Industrial water withdrawal (10^9 m3/year),Zimbabwe,World | Africa,0.0814
+291,Industrial water withdrawal (10^9 m3/year),Armenia,World | Asia,0.1224
+292,Industrial water withdrawal (10^9 m3/year),Azerbaijan,World | Asia,3.062
+293,Industrial water withdrawal (10^9 m3/year),Bahrain,World | Asia,0.0141
+298,Industrial water withdrawal (10^9 m3/year),China,World | Asia,133.5
+302,Industrial water withdrawal (10^9 m3/year),Indonesia,World | Asia,9.135
+304,Industrial water withdrawal (10^9 m3/year),Iraq,World | Asia,2.05
+305,Industrial water withdrawal (10^9 m3/year),Israel,World | Asia,0.072
+307,Industrial water withdrawal (10^9 m3/year),Jordan,World | Asia,0.0325
+308,Industrial water withdrawal (10^9 m3/year),Kazakhstan,World | Asia,6.984
+312,Industrial water withdrawal (10^9 m3/year),Lebanon,World | Asia,0.9
+315,Industrial water withdrawal (10^9 m3/year),Mongolia,World | Asia,0.1662
+318,Industrial water withdrawal (10^9 m3/year),Oman,World | Asia,0.135
+320,Industrial water withdrawal (10^9 m3/year),Palestine,World | Asia,0.032
+322,Industrial water withdrawal (10^9 m3/year),Philippines,World | Asia,15.85
+323,Industrial water withdrawal (10^9 m3/year),Qatar,World | Asia,0.1437
+325,Industrial water withdrawal (10^9 m3/year),Saudi Arabia,World | Asia,1.0
+332,Industrial water withdrawal (10^9 m3/year),Turkey,World | Asia,2.898
+335,Industrial water withdrawal (10^9 m3/year),Uzbekistan,World | Asia,2.13
+341,Industrial water withdrawal (10^9 m3/year),Belarus,World | Europe,0.443
+342,Industrial water withdrawal (10^9 m3/year),Belgium,World | Europe,3.21
+343,Industrial water withdrawal (10^9 m3/year),Bosnia and Herzegovina,World | Europe,0.0718
+344,Industrial water withdrawal (10^9 m3/year),Bulgaria,World | Europe,3.942
+345,Industrial water withdrawal (10^9 m3/year),Croatia,World | Europe,0.184
+346,Industrial water withdrawal (10^9 m3/year),Cyprus,World | Europe,0.017
+347,Industrial water withdrawal (10^9 m3/year),Czechia,World | Europe,0.9672
+348,Industrial water withdrawal (10^9 m3/year),Denmark,World | Europe,0.0329
+349,Industrial water withdrawal (10^9 m3/year),Estonia,World | Europe,1.721
+351,Industrial water withdrawal (10^9 m3/year),Finland,World | Europe,1.417
+352,Industrial water withdrawal (10^9 m3/year),France,World | Europe,18.15
+353,Industrial water withdrawal (10^9 m3/year),Germany,World | Europe,19.75
+354,Industrial water withdrawal (10^9 m3/year),Greece,World | Europe,0.2083
+356,Industrial water withdrawal (10^9 m3/year),Hungary,World | Europe,3.358
+357,Industrial water withdrawal (10^9 m3/year),Iceland,World | Europe,0.198
+359,Industrial water withdrawal (10^9 m3/year),Italy,World | Europe,7.7
+360,Industrial water withdrawal (10^9 m3/year),Latvia,World | Europe,0.0252
+362,Industrial water withdrawal (10^9 m3/year),Lithuania,World | Europe,0.0697
+363,Industrial water withdrawal (10^9 m3/year),Luxembourg,World | Europe,0.0016
+364,Industrial water withdrawal (10^9 m3/year),Malta,World | Europe,0.001
+367,Industrial water withdrawal (10^9 m3/year),Netherlands,World | Europe,14.74
+368,Industrial water withdrawal (10^9 m3/year),North Macedonia,World | Europe,0.107
+370,Industrial water withdrawal (10^9 m3/year),Poland,World | Europe,7.035
+372,Industrial water withdrawal (10^9 m3/year),Republic of Moldova,World | Europe,0.65
+373,Industrial water withdrawal (10^9 m3/year),Romania,World | Europe,4.234
+374,Industrial water withdrawal (10^9 m3/year),Russian Federation,World | Europe,28.04
+376,Industrial water withdrawal (10^9 m3/year),Serbia,World | Europe,4.057
+377,Industrial water withdrawal (10^9 m3/year),Slovakia,World | Europe,0.2312
+378,Industrial water withdrawal (10^9 m3/year),Slovenia,World | Europe,0.758
+379,Industrial water withdrawal (10^9 m3/year),Spain,World | Europe,5.966
+380,Industrial water withdrawal (10^9 m3/year),Sweden,World | Europe,1.345
+382,Industrial water withdrawal (10^9 m3/year),Ukraine,World | Europe,3.577
+383,Industrial water withdrawal (10^9 m3/year),United Kingdom,World | Europe,1.01
+384,Industrial water withdrawal (10^9 m3/year),Australia,World | Oceania,2.662
+402,Municipal water withdrawal (10^9 m3/year),Costa Rica,Americas | Central America and Caribbean | Central America,0.652
+407,Municipal water withdrawal (10^9 m3/year),Panama,Americas | Central America and Caribbean | Central America,0.7591
+408,Municipal water withdrawal (10^9 m3/year),Cuba,Americas | Central America and Caribbean | Greater Antilles,1.7
+411,Municipal water withdrawal (10^9 m3/year),Jamaica,Americas | Central America and Caribbean | Greater Antilles,0.14
+413,Municipal water withdrawal (10^9 m3/year),Bahamas,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.031
+416,Municipal water withdrawal (10^9 m3/year),Grenada,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.012
+419,Municipal water withdrawal (10^9 m3/year),Saint Vincent and the Grenadines,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.0085
+421,Municipal water withdrawal (10^9 m3/year),Canada,Americas | Northern America | Northern America,4.888
+422,Municipal water withdrawal (10^9 m3/year),United States of America,Americas | Northern America | Northern America,58.39
+423,Municipal water withdrawal (10^9 m3/year),Mexico,Americas | Northern America | Mexico,14.23
+427,Municipal water withdrawal (10^9 m3/year),Colombia,Americas | Southern America | Andean,3.49
+429,Municipal water withdrawal (10^9 m3/year),Peru,Americas | Southern America | Andean,2.797
+431,Municipal water withdrawal (10^9 m3/year),Brazil,Americas | Southern America | Brazil,16.74
+436,Municipal water withdrawal (10^9 m3/year),Algeria,World | Africa,3.6
+438,Municipal water withdrawal (10^9 m3/year),Benin,World | Africa,0.145
+439,Municipal water withdrawal (10^9 m3/year),Botswana,World | Africa,0.1006
+448,Municipal water withdrawal (10^9 m3/year),Côte d'Ivoire,World | Africa,0.32
+451,Municipal water withdrawal (10^9 m3/year),Egypt,World | Africa,10.75
+458,Municipal water withdrawal (10^9 m3/year),Ghana,World | Africa,0.2996
+461,Municipal water withdrawal (10^9 m3/year),Kenya,World | Africa,0.495
+469,Municipal water withdrawal (10^9 m3/year),Mauritius,World | Africa,0.26
+471,Municipal water withdrawal (10^9 m3/year),Mozambique,World | Africa,0.372
+473,Municipal water withdrawal (10^9 m3/year),Niger,World | Africa,0.1789
+476,Municipal water withdrawal (10^9 m3/year),Sao Tome and Principe,World | Africa,0.0147
+481,Municipal water withdrawal (10^9 m3/year),South Africa,World | Africa,3.89
+485,Municipal water withdrawal (10^9 m3/year),Tunisia,World | Africa,0.137
+489,Municipal water withdrawal (10^9 m3/year),Zimbabwe,World | Africa,0.4877
+491,Municipal water withdrawal (10^9 m3/year),Armenia,World | Asia,0.6164
+492,Municipal water withdrawal (10^9 m3/year),Azerbaijan,World | Asia,0.4496
+493,Municipal water withdrawal (10^9 m3/year),Bahrain,World | Asia,0.2756
+498,Municipal water withdrawal (10^9 m3/year),China,World | Asia,79.4
+502,Municipal water withdrawal (10^9 m3/year),Indonesia,World | Asia,23.8
+504,Municipal water withdrawal (10^9 m3/year),Iraq,World | Asia,1.23
+505,Municipal water withdrawal (10^9 m3/year),Israel,World | Asia,0.983
+507,Municipal water withdrawal (10^9 m3/year),Jordan,World | Asia,0.4569
+508,Municipal water withdrawal (10^9 m3/year),Kazakhstan,World | Asia,2.347
+512,Municipal water withdrawal (10^9 m3/year),Lebanon,World | Asia,0.24
+515,Municipal water withdrawal (10^9 m3/year),Mongolia,World | Asia,0.0453
+518,Municipal water withdrawal (10^9 m3/year),Oman,World | Asia,0.13
+520,Municipal water withdrawal (10^9 m3/year),Palestine,World | Asia,0.1812
+522,Municipal water withdrawal (10^9 m3/year),Philippines,World | Asia,8.929
+523,Municipal water withdrawal (10^9 m3/year),Qatar,World | Asia,0.4772
+524,Municipal water withdrawal (10^9 m3/year),Republic of Korea,World | Asia,6.672
+525,Municipal water withdrawal (10^9 m3/year),Saudi Arabia,World | Asia,3.15
+532,Municipal water withdrawal (10^9 m3/year),Turkey,World | Asia,5.839
+535,Municipal water withdrawal (10^9 m3/year),Uzbekistan,World | Asia,2.41
+538,Municipal water withdrawal (10^9 m3/year),Albania,World | Europe,0.283
+541,Municipal water withdrawal (10^9 m3/year),Belarus,World | Europe,0.523
+542,Municipal water withdrawal (10^9 m3/year),Belgium,World | Europe,0.739
+543,Municipal water withdrawal (10^9 m3/year),Bosnia and Herzegovina,World | Europe,0.3608
+544,Municipal water withdrawal (10^9 m3/year),Bulgaria,World | Europe,0.882
+545,Municipal water withdrawal (10^9 m3/year),Croatia,World | Europe,0.455
+546,Municipal water withdrawal (10^9 m3/year),Cyprus,World | Europe,0.11
+547,Municipal water withdrawal (10^9 m3/year),Czechia,World | Europe,0.6166
+548,Municipal water withdrawal (10^9 m3/year),Denmark,World | Europe,0.3815
+549,Municipal water withdrawal (10^9 m3/year),Estonia,World | Europe,0.0594
+551,Municipal water withdrawal (10^9 m3/year),Finland,World | Europe,0.4
+552,Municipal water withdrawal (10^9 m3/year),France,World | Europe,5.175
+553,Municipal water withdrawal (10^9 m3/year),Germany,World | Europe,4.388
+554,Municipal water withdrawal (10^9 m3/year),Greece,World | Europe,1.991
+556,Municipal water withdrawal (10^9 m3/year),Hungary,World | Europe,0.6245
+557,Municipal water withdrawal (10^9 m3/year),Iceland,World | Europe,0.08
+558,Municipal water withdrawal (10^9 m3/year),Ireland,World | Europe,0.631
+559,Municipal water withdrawal (10^9 m3/year),Italy,World | Europe,9.488
+560,Municipal water withdrawal (10^9 m3/year),Latvia,World | Europe,0.0944
+561,Municipal water withdrawal (10^9 m3/year),Liechtenstein,World | Europe,0.0079
+562,Municipal water withdrawal (10^9 m3/year),Lithuania,World | Europe,0.1304
+563,Municipal water withdrawal (10^9 m3/year),Luxembourg,World | Europe,0.0436
+564,Municipal water withdrawal (10^9 m3/year),Malta,World | Europe,0.0374
+567,Municipal water withdrawal (10^9 m3/year),Netherlands,World | Europe,1.26
+568,Municipal water withdrawal (10^9 m3/year),North Macedonia,World | Europe,0.2775
+569,Municipal water withdrawal (10^9 m3/year),Norway,World | Europe,0.7753
+570,Municipal water withdrawal (10^9 m3/year),Poland,World | Europe,2.028
+571,Municipal water withdrawal (10^9 m3/year),Portugal,World | Europe,0.9141
+572,Municipal water withdrawal (10^9 m3/year),Republic of Moldova,World | Europe,0.148
+573,Municipal water withdrawal (10^9 m3/year),Romania,World | Europe,1.048
+574,Municipal water withdrawal (10^9 m3/year),Russian Federation,World | Europe,17.71
+576,Municipal water withdrawal (10^9 m3/year),Serbia,World | Europe,0.6595
+577,Municipal water withdrawal (10^9 m3/year),Slovakia,World | Europe,0.2935
+578,Municipal water withdrawal (10^9 m3/year),Slovenia,World | Europe,0.1695
+579,Municipal water withdrawal (10^9 m3/year),Spain,World | Europe,4.89
+580,Municipal water withdrawal (10^9 m3/year),Sweden,World | Europe,0.955
+581,Municipal water withdrawal (10^9 m3/year),Switzerland,World | Europe,0.931
+582,Municipal water withdrawal (10^9 m3/year),Ukraine,World | Europe,2.397
+583,Municipal water withdrawal (10^9 m3/year),United Kingdom,World | Europe,6.227
+584,Municipal water withdrawal (10^9 m3/year),Australia,World | Oceania,3.392
+602,Total water withdrawal (10^9 m3/year),Costa Rica,Americas | Central America and Caribbean | Central America,3.194
+607,Total water withdrawal (10^9 m3/year),Panama,Americas | Central America and Caribbean | Central America,1.211
+608,Total water withdrawal (10^9 m3/year),Cuba,Americas | Central America and Caribbean | Greater Antilles,6.959
+611,Total water withdrawal (10^9 m3/year),Jamaica,Americas | Central America and Caribbean | Greater Antilles,1.354
+616,Total water withdrawal (10^9 m3/year),Grenada,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.0141
+619,Total water withdrawal (10^9 m3/year),Saint Vincent and the Grenadines,Americas | Central America and Caribbean | Lesser Antilles and Bahamas,0.0085
+621,Total water withdrawal (10^9 m3/year),Canada,Americas | Northern America | Northern America,35.6
+622,Total water withdrawal (10^9 m3/year),United States of America,Americas | Northern America | Northern America,444.3
+623,Total water withdrawal (10^9 m3/year),Mexico,Americas | Northern America | Mexico,87.84
+629,Total water withdrawal (10^9 m3/year),Peru,Americas | Southern America | Andean,16.1
+631,Total water withdrawal (10^9 m3/year),Brazil,Americas | Southern America | Brazil,65.68
+636,Total water withdrawal (10^9 m3/year),Algeria,World | Africa,10.46
+639,Total water withdrawal (10^9 m3/year),Botswana,World | Africa,0.193
+648,Total water withdrawal (10^9 m3/year),Côte d'Ivoire,World | Africa,1.162
+651,Total water withdrawal (10^9 m3/year),Egypt,World | Africa,77.5
+655,Total water withdrawal (10^9 m3/year),Ethiopia,World | Africa,10.55
+661,Total water withdrawal (10^9 m3/year),Kenya,World | Africa,4.032
+669,Total water withdrawal (10^9 m3/year),Mauritius,World | Africa,0.616
+671,Total water withdrawal (10^9 m3/year),Mozambique,World | Africa,1.473
+673,Total water withdrawal (10^9 m3/year),Niger,World | Africa,1.751
+676,Total water withdrawal (10^9 m3/year),Sao Tome and Principe,World | Africa,0.0409
+681,Total water withdrawal (10^9 m3/year),South Africa,World | Africa,19.38
+685,Total water withdrawal (10^9 m3/year),Tunisia,World | Africa,4.875
+689,Total water withdrawal (10^9 m3/year),Zimbabwe,World | Africa,3.339
+691,Total water withdrawal (10^9 m3/year),Armenia,World | Asia,2.866
+692,Total water withdrawal (10^9 m3/year),Azerbaijan,World | Asia,12.78
+693,Total water withdrawal (10^9 m3/year),Bahrain,World | Asia,0.4344
+698,Total water withdrawal (10^9 m3/year),China,World | Asia,598.1
+702,Total water withdrawal (10^9 m3/year),Indonesia,World | Asia,222.6
+704,Total water withdrawal (10^9 m3/year),Iraq,World | Asia,38.55
+705,Total water withdrawal (10^9 m3/year),Israel,World | Asia,2.304
+707,Total water withdrawal (10^9 m3/year),Jordan,World | Asia,1.044
+708,Total water withdrawal (10^9 m3/year),Kazakhstan,World | Asia,24.45
+712,Total water withdrawal (10^9 m3/year),Lebanon,World | Asia,1.84
+715,Total water withdrawal (10^9 m3/year),Mongolia,World | Asia,0.4624
+718,Total water withdrawal (10^9 m3/year),Oman,World | Asia,1.872
+720,Total water withdrawal (10^9 m3/year),Palestine,World | Asia,0.3752
+722,Total water withdrawal (10^9 m3/year),Philippines,World | Asia,92.75
+723,Total water withdrawal (10^9 m3/year),Qatar,World | Asia,0.9126
+725,Total water withdrawal (10^9 m3/year),Saudi Arabia,World | Asia,23.35
+726,Total water withdrawal (10^9 m3/year),Singapore,World | Asia,0.6594
+732,Total water withdrawal (10^9 m3/year),Turkey,World | Asia,58.79
+735,Total water withdrawal (10^9 m3/year),Uzbekistan,World | Asia,58.9
+741,Total water withdrawal (10^9 m3/year),Belarus,World | Europe,1.397
+742,Total water withdrawal (10^9 m3/year),Belgium,World | Europe,3.994
+744,Total water withdrawal (10^9 m3/year),Bulgaria,World | Europe,5.659
+745,Total water withdrawal (10^9 m3/year),Croatia,World | Europe,0.715
+746,Total water withdrawal (10^9 m3/year),Cyprus,World | Europe,0.311
+747,Total water withdrawal (10^9 m3/year),Czechia,World | Europe,1.63
+748,Total water withdrawal (10^9 m3/year),Denmark,World | Europe,0.7411
+749,Total water withdrawal (10^9 m3/year),Estonia,World | Europe,1.785
+752,Total water withdrawal (10^9 m3/year),France,World | Europe,26.44
+753,Total water withdrawal (10^9 m3/year),Germany,World | Europe,24.44
+754,Total water withdrawal (10^9 m3/year),Greece,World | Europe,11.24
+756,Total water withdrawal (10^9 m3/year),Hungary,World | Europe,4.501
+757,Total water withdrawal (10^9 m3/year),Iceland,World | Europe,0.26
+759,Total water withdrawal (10^9 m3/year),Italy,World | Europe,34.19
+760,Total water withdrawal (10^9 m3/year),Latvia,World | Europe,0.1811
+762,Total water withdrawal (10^9 m3/year),Lithuania,World | Europe,0.259
+763,Total water withdrawal (10^9 m3/year),Luxembourg,World | Europe,0.0456
+764,Total water withdrawal (10^9 m3/year),Malta,World | Europe,0.0638
+767,Total water withdrawal (10^9 m3/year),Netherlands,World | Europe,16.08
+768,Total water withdrawal (10^9 m3/year),North Macedonia,World | Europe,0.5235
+770,Total water withdrawal (10^9 m3/year),Poland,World | Europe,10.08
+772,Total water withdrawal (10^9 m3/year),Republic of Moldova,World | Europe,0.84
+773,Total water withdrawal (10^9 m3/year),Romania,World | Europe,6.773
+774,Total water withdrawal (10^9 m3/year),Russian Federation,World | Europe,64.41
+776,Total water withdrawal (10^9 m3/year),Serbia,World | Europe,5.377
+777,Total water withdrawal (10^9 m3/year),Slovakia,World | Europe,0.5563
+778,Total water withdrawal (10^9 m3/year),Slovenia,World | Europe,0.9314
+779,Total water withdrawal (10^9 m3/year),Spain,World | Europe,31.22
+780,Total water withdrawal (10^9 m3/year),Sweden,World | Europe,2.375
+782,Total water withdrawal (10^9 m3/year),Ukraine,World | Europe,9.18
+783,Total water withdrawal (10^9 m3/year),United Kingdom,World | Europe,8.42
+784,Total water withdrawal (10^9 m3/year),Australia,World | Oceania,16.55
