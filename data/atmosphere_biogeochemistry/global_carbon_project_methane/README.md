@@ -20,4 +20,6 @@ The data were processed by tidying Table 2 of the publication and retaining the 
 * Total anthropogenic sources (top-down):0.364 Gt CH<sub>4</sub> / yr,
 * Total anthropogenic sources (bottom-up): 0.38 Gt CH<sub>4</sub> / yr,
 * Total natural sources (top-down): 0.232 Gt CH<sub>4</sub> / yr,
-* Total natural sources (bottom-up): 0.367 Gt CH<sub>4</sub> / yr,
+* Total natural sources (bottom-up): 0.367 Gt CH<sub>4</sub> / yr.
+
+All regional data used in the original publication (Saunois et al., 2020) are available at https://doi.org/10.18160/GCP-CH4-2019, for both bottom-up and top-down estimates. Estimates are provided for 18 geographical regions, as well as three latitudinal bands (<30 N, 30 N - 60 N, 60 N - 90 N).
