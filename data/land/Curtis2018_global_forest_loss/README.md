@@ -24,4 +24,4 @@ This data reflects the drivers of global forest loss for the time period of
 
 ## Notes 
 * The data set for annual commodity-driven deforestation was digitize form the bar plot in Figure 3A. Values should be taken as approximate values only.
-* Data for fractional breakdown of drivers was computed from the reported fractions in Table 1. The text states that ≈ 5 Mha per year is deforested for commodity-driven forestation. Using the reported value of ≈ 25% of the total corresponds to commodity-driven deforestation, we can calculate that a total of ≈ 20 Mha of forest area is lost.
+* Data for fractional breakdown of drivers was computed from the reported fractions in Table 1. 

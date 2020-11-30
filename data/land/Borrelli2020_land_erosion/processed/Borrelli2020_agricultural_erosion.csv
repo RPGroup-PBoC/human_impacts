@@ -1,0 +1,6 @@
+﻿factor,quantity,units,value,pg_ref,year
+"agricultural lands (annual crops, permanent crops, managed pasture)",fraction of  total erosion,%,54,21996,2015
+"agricultural lands (annual crops, permanent crops, managed pasture)",erosion rate,Pg / yr,23.4,21996,2015
+"agricultural lands (annual crops, permanent crops, managed pasture)",confidence interval erosion rate,Pg / yr,"[+5.3,-4.1]",21996,2015
+total,erosion rate,Pg / yr,43,21995,2015
+total,confidence interval erosion rate,Pg /yr,"[+9.2, -7]",21995,2015

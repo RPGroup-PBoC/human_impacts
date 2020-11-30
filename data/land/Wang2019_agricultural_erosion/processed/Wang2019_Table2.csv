@@ -1,0 +1,27 @@
+﻿region,quantity,value,interquartile_uncertainty,units
+africa,cumulative erosion,3.34,1.16,1000 Pg
+africa,area-average cumulative erosion,0.12,0.04,Tg / km2
+oceania,cumulative erosion,0.33,0.1,1000 Pg
+oceania,area-average cumulative erosion,0.043,0.016,Tg / km2
+southeast asia,cumulative erosion,4.29,1.53,1000  Pg
+southeast asia,area-average cumulative erosion,1.19,0.42,Tg / km2
+south asia,cumulative erosion,4.73,1.69,1000 Pg
+south asia,area-average cumulative erosion,1.1,0.39,Tg / km2
+west asia,cumulative erosion,0.86,0.25,1000 Pg
+west asia,area-average cumulative erosion,0.15,0.042,Tg / km2
+central asia,cumulative erosion,0.35,0.12,1000 Pg
+central asia,area-average cumulative erosion,0.08,0.028,Tg / km2
+east asia,cumulative erosion,3.87,1.27,1000 Pg
+east asia,area-average cumulative erosion,0.43,0.14,Tg / km2
+north asia,cumulative erosion,0.094,0.03,1000 Pg
+north asia,area-average cumulative erosion,0.0073,0.0023,Tg / km2
+europe,cumulative erosion,2.49,0.75,1000 Pg
+europe,area-average cumulative erosion,0.29,0.089,Tg / km2
+south america,cumulative erosion,3.11,0.87,1000 Pg
+south america,area-average cumulative erosion,0.18,0.051,Tg / km2
+central america,cumulative erosion,2.78,0.97,1000 Pg
+central america,area-average cumulative erosion,1.21,0.42,Tg / km2
+north america,cumulative erosion,0.96,0.3,1000 Pg
+north america,area-average cumulative erosion,0.056,0.018,Tg / km2
+total,cumulative erosion,27.19,9.03,1000 Pg
+total,area-average cumulative erosion,0.22,0.075,Tg / km2
