@@ -1,7 +1,12 @@
-﻿driver,fraction,area_Mha,time_period
-deforestation,0.25,5,2001-2015
-shifting agriculture,0.21,4.2,2001-2015
-forestry,0.31,6.2,2001-2015
-wildfire,0.22,4.4,2001-2015
-urbranization,0.01,0.2,2001-2015
-total,1,20,2001-2015
+﻿driver,quantity,value,time_period,units
+deforestation,area loss,84.8,2001-2015,Mha
+deforestation,uncertainty,15.7,2001-2015,Mha
+shifting agriculture,area loss,75.36,2001-2015,Mha
+shifting agriculture,uncertainty,9.42,2001-2015,Mha
+forestry,area loss,81.7,2001-2015,Mha
+forestry,uncertainty,12.6,2001-2015,Mha
+wildfire,area loss,72.2,2001-2015,Mha
+wildfire,uncertainty,12.6,2001-2015,Mha
+urbanization,area loss,31.5,2001-2015,Mha
+urbanization,uncertainty,15.7,2001-2015,Mha
+total,area loss,314,2001-2015,Mha

@@ -12,7 +12,10 @@ Total 2015 erosion rate ≈ 4.3 (+9.2, -7) Pg / yr
 Agricultural 2015 erosion rate ≈ 23.4 (+5.3, -4.1) Pg / yr
 
 ## Source Information
-* **Source**: Borrelli, P., Robinson, D.A., Panagos, P., Lugato, E., Yang, J.E., Alewell, C., Wuepper, D., Montanarella, L., and Ballabio, C. Land use and climate change impacts on global soil erosion by water (2015-2070). 8.
+* **Source**: Borrelli, P., Robinson, D.A., Panagos, P., Lugato, E., Yang,
+ J.E., Alewell, C., Wuepper, D., Montanarella, L., and Ballabio, C. (2020).
+ Land use and climate change impacts on global soil erosion by water
+ (2015-2070). Proceedings of the National Academy of Sciences 117, 8.
 * **URL**: [DOI: 10.1073/pnas.2001403117](https://doi.org/10.1073/pnas.2001403117)
 * **Original License**: The article and results are released as an open access work. It is licensed under a CC-BY 4.0 license.
 * **Bias**: The work appears in a respected peer-reviewed article. All data and results are made publicly available either through the publisher or directly through the data sources. The authors declare no competing interest.
