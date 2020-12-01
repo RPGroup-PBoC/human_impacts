@@ -23,4 +23,6 @@ The Global Carbon Budget contains data on CO<sub>2</sub> emissions from fossil-f
 * **Bias**: These data are mostly from original publications but collected and curated by the Global Carbon Project, a Global Research Project of Future Earth and a research partner of the World Climate Research Programme. No inherent bias seems to be present.
 
 ## Notes
-The data were processed by converting the source tab "Global Carbon Budget" to csv. Please see the source data for more detailed information. Values are present in units of GtC / yr but can easily be converted to Gt CO<sub>2</sub> / yr as 1 gigatonne C = 3.664 billion tonnes of CO<sub>2</sub>.
+The global data were processed by converting the source tab "Global Carbon Budget" in `source/Global_Carbon_Budget_2019v1.0.xlsx` to csv. Please see the source data for more detailed information. Values are present in units of GtC / yr but can easily be converted to Gt CO<sub>2</sub> / yr as 1 gigatonne C = 3.664 billion tonnes of CO<sub>2</sub>.
+
+The regional data were processed by first converting the source tab "Territorial Emissions" in `source/National_Carbon_Emissions_2019v1.0.xlsx` to csv. This csv, containing the data at a national level, was then processed into `processed/regional_co2_data_processed.csv` using `code/get_regional_CO2.py`.
