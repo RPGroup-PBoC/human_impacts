@@ -19,18 +19,18 @@ africa,shifting agriculture,0.93,0.03,36.27,1.17,2001-2015
 africa,forestry,0.04,0.02,1.56,0.78,2001-2015
 africa,wildfire,0.005,0.05,0.195,1.95,2001-2015
 africa,urbanization,0.01,0.02,0.39,0.78,2001-2015
-Russia/China/South Asia,deforestation,0.02,0.02,1.28,1.28,2001-2015
-Russia/China/South Asia,shifting agriculture,0.01,0.01,0.64,0.64,2001-2015
-Russia/China/South Asia,forestry,0.38,0.12,24.32,7.68,2001-2015
-Russia/China/South Asia,wildfire,0.59,0.12,37.76,7.68,2001-2015
-Russia/China/South Asia,urbanization,0.005,0.005,0.32,0.32,2001-2015
-Southeast Asia,deforestation,0.61,0.13,23.79,5.07,2001-2015
-Southeast Asia,shifting agriculture,0.2,0.1,7.8,3.9,2001-2015
-Southeast Asia,forestry,0.14,0.06,5.46,2.34,2001-2015
-Southeast Asia,wildfire,0.02,0.06,0.78,2.34,2001-2015
-Southeast Asia,urbanization,0.05,0.05,1.95,1.95,2001-2015
-Australia/Oceania,deforestation,0.08,0.06,0.8,8,2001-2015
-Australia/Oceania,shifting agriculture,0.1,0.04,1,10,2001-2015
-Australia/Oceania,forestry,0.19,0.09,1.9,19,2001-2015
-Australia/Oceania,wildfire,0.62,0.14,6.2,62,2001-2015
-Australia/Oceania,urbanization,0.01,0.05,0.1,1,2001-2015
+russia/china/south asia,deforestation,0.02,0.02,1.28,1.28,2001-2015
+russia/china/south asia,shifting agriculture,0.01,0.01,0.64,0.64,2001-2015
+russia/china/south asia,forestry,0.38,0.12,24.32,7.68,2001-2015
+russia/china/south asia,wildfire,0.59,0.12,37.76,7.68,2001-2015
+russia/china/south asia,urbanization,0.005,0.005,0.32,0.32,2001-2015
+southeast asia,deforestation,0.61,0.13,23.79,5.07,2001-2015
+southeast asia,shifting agriculture,0.2,0.1,7.8,3.9,2001-2015
+southeast asia,forestry,0.14,0.06,5.46,2.34,2001-2015
+southeast asia,wildfire,0.02,0.06,0.78,2.34,2001-2015
+southeast asia,urbanization,0.05,0.05,1.95,1.95,2001-2015
+oceania,deforestation,0.08,0.06,0.8,8,2001-2015
+oceania,shifting agriculture,0.1,0.04,1,10,2001-2015
+oceania,forestry,0.19,0.09,1.9,19,2001-2015
+oceania,wildfire,0.62,0.14,6.2,62,2001-2015
+oceania,urbanization,0.01,0.05,0.1,1,2001-2015

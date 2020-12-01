@@ -1,0 +1,967 @@
+region,category,year,population_Mhd
+Africa,rural,1950,196.011057
+Africa,rural,1951,199.067336
+Africa,rural,1952,202.256422
+Africa,rural,1953,205.573743
+Africa,rural,1954,209.014346
+Africa,rural,1955,212.575808
+Africa,rural,1956,216.25624700000003
+Africa,rural,1957,220.05843
+Africa,rural,1958,223.97877799999998
+Africa,rural,1959,228.000498
+Africa,rural,1960,232.133581
+Africa,rural,1961,236.69867000000002
+Africa,rural,1962,241.40304700000002
+Africa,rural,1963,246.212023
+Africa,rural,1964,251.12517999999997
+Africa,rural,1965,256.122057
+Africa,rural,1966,261.308402
+Africa,rural,1967,266.74415899999997
+Africa,rural,1968,272.305004
+Africa,rural,1969,277.97997200000003
+Africa,rural,1970,283.821559
+Africa,rural,1971,289.695853
+Africa,rural,1972,295.64876
+Africa,rural,1973,301.765084
+Africa,rural,1974,308.132005
+Africa,rural,1975,314.699085
+Africa,rural,1976,321.46648999999996
+Africa,rural,1977,328.531101
+Africa,rural,1978,335.780696
+Africa,rural,1979,343.44612
+Africa,rural,1980,351.396255
+Africa,rural,1981,359.34549599999997
+Africa,rural,1982,367.455147
+Africa,rural,1983,375.657465
+Africa,rural,1984,383.8705
+Africa,rural,1985,392.074281
+Africa,rural,1986,400.32394500000004
+Africa,rural,1987,408.74526000000003
+Africa,rural,1988,417.292645
+Africa,rural,1989,425.91835199999997
+Africa,rural,1990,434.455748
+Africa,rural,1991,443.44876500000004
+Africa,rural,1992,452.53949400000005
+Africa,rural,1993,461.73785599999997
+Africa,rural,1994,471.280709
+Africa,rural,1995,481.09777699999995
+Africa,rural,1996,491.03715
+Africa,rural,1997,500.955548
+Africa,rural,1998,511.006395
+Africa,rural,1999,521.202265
+Africa,rural,2000,531.568392
+Africa,rural,2001,541.691634
+Africa,rural,2002,551.920837
+Africa,rural,2003,562.3428190000001
+Africa,rural,2004,572.973496
+Africa,rural,2005,583.724116
+Africa,rural,2006,594.7526330000001
+Africa,rural,2007,606.408989
+Africa,rural,2008,617.656517
+Africa,rural,2009,629.149675
+Africa,rural,2010,640.8592990000001
+Africa,rural,2011,652.8037730000001
+Africa,rural,2012,665.140073
+Africa,rural,2013,677.663811
+Africa,rural,2014,690.251653
+Africa,rural,2015,702.8388160000001
+Africa,rural,2016,715.396624
+Africa,rural,2017,727.896702
+Africa,rural,2018,740.318336
+Africa,urban,1950,32.658962
+Africa,urban,1951,34.209713
+Africa,urban,1952,35.856699
+Africa,urban,1953,37.604048
+Africa,urban,1954,39.457151
+Africa,urban,1955,41.419216999999996
+Africa,urban,1956,43.493947999999996
+Africa,urban,1957,45.680851000000004
+Africa,urban,1958,47.986483
+Africa,urban,1959,50.431047
+Africa,urban,1960,53.008425
+Africa,urban,1961,55.401408999999994
+Africa,urban,1962,57.906183999999996
+Africa,urban,1963,60.560089000000005
+Africa,urban,1964,63.366211
+Africa,urban,1965,66.348577
+Africa,urban,1966,69.41200500000001
+Africa,urban,1967,72.50371899999999
+Africa,urban,1968,75.744877
+Africa,urban,1969,79.139822
+Africa,urban,1970,82.63736999999999
+Africa,urban,1971,86.371404
+Africa,urban,1972,90.316401
+Africa,urban,1973,94.433791
+Africa,urban,1974,98.696201
+Africa,urban,1975,103.198989
+Africa,urban,1976,107.958271
+Africa,urban,1977,112.873078
+Africa,urban,1978,118.054096
+Africa,urban,1979,123.26121100000002
+Africa,urban,1980,128.61595400000002
+Africa,urban,1981,134.40220300000001
+Africa,urban,1982,140.455318
+Africa,urban,1983,146.82808500000002
+Africa,urban,1984,153.583203
+Africa,urban,1985,160.721947
+Africa,urban,1986,168.18166599999998
+Africa,urban,1987,175.823926
+Africa,urban,1988,183.66405600000002
+Africa,urban,1989,191.71366
+Africa,urban,1990,200.111296
+Africa,urban,1991,208.31434099999998
+Africa,urban,1992,216.681848
+Africa,urban,1993,225.17900600000002
+Africa,urban,1994,233.54009
+Africa,urban,1995,241.82418399999997
+Africa,urban,1996,250.183369
+Africa,urban,1997,258.79724100000004
+Africa,urban,1998,267.585841
+Africa,urban,1999,276.633762
+Africa,urban,2000,285.997612
+Africa,urban,2001,296.129294
+Africa,urban,2002,306.70176000000004
+Africa,urban,2003,317.67404700000003
+Africa,urban,2004,329.075105
+Africa,urban,2005,341.033592
+Africa,urban,2006,353.403533
+Africa,urban,2007,365.85697200000004
+Africa,urban,2008,379.48815299999995
+Africa,urban,2009,393.708979
+Africa,urban,2010,408.58704500000005
+Africa,urban,2011,424.13004000000006
+Africa,urban,2012,440.145195
+Africa,urban,2013,456.734381
+Africa,urban,2014,473.87813600000004
+Africa,urban,2015,491.531092
+Africa,urban,2016,509.68388600000003
+Africa,urban,2017,528.3713230000001
+Africa,urban,2018,547.6021820000001
+Asia,rural,1950,1141.4971269999999
+Asia,rural,1951,1161.072183
+Asia,rural,1952,1179.404283
+Asia,rural,1953,1196.554151
+Asia,rural,1954,1213.158211
+Asia,rural,1955,1229.742764
+Asia,rural,1956,1246.6841570000001
+Asia,rural,1957,1264.199836
+Asia,rural,1958,1282.307221
+Asia,rural,1959,1301.0172710000002
+Asia,rural,1960,1320.348078
+Asia,rural,1961,1340.235146
+Asia,rural,1962,1360.5892210000002
+Asia,rural,1963,1382.054331
+Asia,rural,1964,1405.036296
+Asia,rural,1965,1435.301258
+Asia,rural,1966,1467.44891
+Asia,rural,1967,1500.9486140000001
+Asia,rural,1968,1535.577945
+Asia,rural,1969,1570.674012
+Asia,rural,1970,1605.6450320000001
+Asia,rural,1971,1640.389228
+Asia,rural,1972,1674.197811
+Asia,rural,1973,1706.5240579999997
+Asia,rural,1974,1737.114735
+Asia,rural,1975,1768.7168010000003
+Asia,rural,1976,1798.443977
+Asia,rural,1977,1827.4762010000002
+Asia,rural,1978,1852.898234
+Asia,rural,1979,1874.912959
+Asia,rural,1980,1896.650036
+Asia,rural,1981,1918.280332
+Asia,rural,1982,1940.920295
+Asia,rural,1983,1965.437891
+Asia,rural,1984,1990.506082
+Asia,rural,1985,2016.327676
+Asia,rural,1986,2042.94002
+Asia,rural,1987,2070.175959
+Asia,rural,1988,2097.311547
+Asia,rural,1989,2123.307789
+Asia,rural,1990,2147.225747
+Asia,rural,1991,2168.794379
+Asia,rural,1992,2223.9982219999997
+Asia,rural,1993,2242.198953
+Asia,rural,1994,2258.711812
+Asia,rural,1995,2273.7852120000002
+Asia,rural,1996,2287.5479579999997
+Asia,rural,1997,2300.0259690000003
+Asia,rural,1998,2311.250367
+Asia,rural,1999,2321.509089
+Asia,rural,2000,2330.64832
+Asia,rural,2001,2334.925155
+Asia,rural,2002,2335.683436
+Asia,rural,2003,2335.646272
+Asia,rural,2004,2334.693907
+Asia,rural,2005,2332.853925
+Asia,rural,2006,2330.902959
+Asia,rural,2007,2328.55351
+Asia,rural,2008,2325.436692
+Asia,rural,2009,2321.731946
+Asia,rural,2010,2317.4099730000003
+Asia,rural,2011,2314.890048
+Asia,rural,2012,2312.473424
+Asia,rural,2013,2309.339171
+Asia,rural,2014,2305.2883890000003
+Asia,rural,2015,2300.024203
+Asia,rural,2016,2293.796971
+Asia,rural,2017,2286.704694
+Asia,rural,2018,2279.0025140000002
+Asia,urban,1950,237.30647799999997
+Asia,urban,1951,247.64773399999999
+Asia,urban,1952,257.276373
+Asia,urban,1953,267.047956
+Asia,urban,1954,277.080916
+Asia,urban,1955,287.442048
+Asia,urban,1956,298.17981299999997
+Asia,urban,1957,309.340015
+Asia,urban,1958,321.025299
+Asia,urban,1959,333.232376
+Asia,urban,1960,345.931563
+Asia,urban,1961,359.255424
+Asia,urban,1962,373.52775099999997
+Asia,urban,1963,388.542429
+Asia,urban,1964,404.430007
+Asia,urban,1965,415.749277
+Asia,urban,1966,428.067195
+Asia,urban,1967,441.64964699999996
+Asia,urban,1968,456.05961500000006
+Asia,urban,1969,471.03664699999996
+Asia,urban,1970,486.449811
+Asia,urban,1971,502.245471
+Asia,urban,1972,519.161555
+Asia,urban,1973,537.4408400000001
+Asia,urban,1974,557.032072
+Asia,urban,1975,575.010608
+Asia,urban,1976,594.081092
+Asia,urban,1977,613.183909
+Asia,urban,1978,635.754288
+Asia,urban,1979,662.326403
+Asia,urban,1980,690.3317910000001
+Asia,urban,1981,719.607421
+Asia,urban,1982,748.935659
+Asia,urban,1983,777.7465940000001
+Asia,urban,1984,807.702456
+Asia,urban,1985,838.739287
+Asia,urban,1986,871.012068
+Asia,urban,1987,904.354116
+Asia,urban,1988,938.438296
+Asia,urban,1989,972.8837619999999
+Asia,urban,1990,1007.58136
+Asia,urban,1991,1042.4221699999998
+Asia,urban,1992,1109.605873
+Asia,urban,1993,1144.5609029999998
+Asia,urban,1994,1179.8146179999999
+Asia,urban,1995,1215.521041
+Asia,urban,1996,1251.553111
+Asia,urban,1997,1287.807552
+Asia,urban,1998,1324.508143
+Asia,urban,1999,1361.680697
+Asia,urban,2000,1399.722305
+Asia,urban,2001,1442.499914
+Asia,urban,2002,1488.6860900000001
+Asia,urban,2003,1535.555468
+Asia,urban,2004,1583.177244
+Asia,urban,2005,1631.488737
+Asia,urban,2006,1679.6997079999999
+Asia,urban,2007,1728.1311870000002
+Asia,urban,2008,1777.2069809999998
+Asia,urban,2009,1826.817852
+Asia,urban,2010,1877.015239
+Asia,urban,2011,1925.390928
+Asia,urban,2012,1973.541307
+Asia,urban,2013,2022.052034
+Asia,urban,2014,2070.811266
+Asia,urban,2015,2119.873398
+Asia,urban,2016,2168.8797600000003
+Asia,urban,2017,2217.7236789999997
+Asia,urban,2018,2266.13058
+Central America,rural,1950,23.129928
+Central America,rural,1951,23.518067000000002
+Central America,rural,1952,23.928269
+Central America,rural,1953,24.357581
+Central America,rural,1954,24.801257
+Central America,rural,1955,25.256652
+Central America,rural,1956,25.720775
+Central America,rural,1957,26.192904000000002
+Central America,rural,1958,26.670046999999997
+Central America,rural,1959,27.151373
+Central America,rural,1960,27.634728000000003
+Central America,rural,1961,28.112247999999997
+Central America,rural,1962,28.591313
+Central America,rural,1963,29.066315000000003
+Central America,rural,1964,29.529634
+Central America,rural,1965,30.004764
+Central America,rural,1966,30.473539000000002
+Central America,rural,1967,30.936290999999997
+Central America,rural,1968,31.397540000000003
+Central America,rural,1969,31.865981
+Central America,rural,1970,32.354786
+Central America,rural,1971,32.877171000000004
+Central America,rural,1972,33.400581
+Central America,rural,1973,33.918853000000006
+Central America,rural,1974,34.421034999999996
+Central America,rural,1975,34.894651
+Central America,rural,1976,35.333098
+Central America,rural,1977,35.740842
+Central America,rural,1978,36.116953
+Central America,rural,1979,36.465009
+Central America,rural,1980,36.795083
+Central America,rural,1981,37.210728
+Central America,rural,1982,37.604355
+Central America,rural,1983,37.978004999999996
+Central America,rural,1984,38.331754
+Central America,rural,1985,38.656003999999996
+Central America,rural,1986,38.960854
+Central America,rural,1987,39.248535
+Central America,rural,1988,39.526352
+Central America,rural,1989,39.808932
+Central America,rural,1990,40.116295
+Central America,rural,1991,40.473427
+Central America,rural,1992,40.833178000000004
+Central America,rural,1993,41.155376000000004
+Central America,rural,1994,41.445215000000005
+Central America,rural,1995,41.705182
+Central America,rural,1996,42.01222
+Central America,rural,1997,42.33385
+Central America,rural,1998,42.628133
+Central America,rural,1999,42.935888
+Central America,rural,2000,43.191602
+Central America,rural,2001,43.369031
+Central America,rural,2002,43.511151
+Central America,rural,2003,43.64433
+Central America,rural,2004,43.785894
+Central America,rural,2005,43.947596999999995
+Central America,rural,2006,44.130859
+Central America,rural,2007,44.329086
+Central America,rural,2008,44.513809
+Central America,rural,2009,44.692147
+Central America,rural,2010,44.851238
+Central America,rural,2011,44.986303
+Central America,rural,2012,45.101039
+Central America,rural,2013,45.195523
+Central America,rural,2014,45.27143
+Central America,rural,2015,45.330806
+Central America,rural,2016,45.373886
+Central America,rural,2017,45.398571999999994
+Central America,rural,2018,45.404517999999996
+Central America,urban,1950,14.927276999999998
+Central America,urban,1951,15.626001
+Central America,urban,1952,16.370151
+Central America,urban,1953,17.157622
+Central America,urban,1954,17.988865
+Central America,urban,1955,18.863054
+Central America,urban,1956,19.780479999999997
+Central America,urban,1957,20.739969
+Central America,urban,1958,21.74331
+Central America,urban,1959,22.79082
+Central America,urban,1960,23.884391
+Central America,urban,1961,25.031723
+Central America,urban,1962,26.224937
+Central America,urban,1963,27.468756
+Central America,urban,1964,28.769914
+Central America,urban,1965,30.104864000000003
+Central America,urban,1966,31.486447
+Central America,urban,1967,32.915328
+Central America,urban,1968,34.400932
+Central America,urban,1969,35.953426
+Central America,urban,1970,37.570564000000005
+Central America,urban,1971,39.244248
+Central America,urban,1972,40.994987
+Central America,urban,1973,42.801379
+Central America,urban,1974,44.63668
+Central America,urban,1975,46.48488
+Central America,urban,1976,48.342964
+Central America,urban,1977,50.209767
+Central America,urban,1978,52.086812
+Central America,urban,1979,53.975559
+Central America,urban,1980,55.87019
+Central America,urban,1981,57.666686
+Central America,urban,1982,59.471410999999996
+Central America,urban,1983,61.285897
+Central America,urban,1984,63.114957
+Central America,urban,1985,64.973333
+Central America,urban,1986,66.847021
+Central America,urban,1987,68.736949
+Central America,urban,1988,70.656195
+Central America,urban,1989,72.61668399999999
+Central America,urban,1990,74.614825
+Central America,urban,1991,76.63472
+Central America,urban,1992,78.710921
+Central America,urban,1993,80.85141800000001
+Central America,urban,1994,83.00607099999999
+Central America,urban,1995,85.138899
+Central America,urban,1996,87.169211
+Central America,urban,1997,89.137072
+Central America,urban,1998,91.077167
+Central America,urban,1999,92.942908
+Central America,urban,2000,94.800624
+Central America,urban,2001,96.664222
+Central America,urban,2002,98.503174
+Central America,urban,2003,100.347111
+Central America,urban,2004,102.253913
+Central America,urban,2005,104.263961
+Central America,urban,2006,106.398068
+Central America,urban,2007,108.64278200000001
+Central America,urban,2008,110.983772
+Central America,urban,2009,113.349744
+Central America,urban,2010,115.705357
+Central America,urban,2011,118.042061
+Central America,urban,2012,120.36608500000001
+Central America,urban,2013,122.68001299999999
+Central America,urban,2014,124.991386
+Central America,urban,2015,127.304303
+Central America,urban,2016,129.61487
+Central America,urban,2017,131.917745
+Central America,urban,2018,134.211645
+Europe,rural,1950,281.661303
+Europe,rural,1951,281.233288
+Europe,rural,1952,281.040112
+Europe,rural,1953,280.92726600000003
+Europe,rural,1954,280.7675
+Europe,rural,1955,280.445946
+Europe,rural,1956,280.031431
+Europe,rural,1957,279.580167
+Europe,rural,1958,279.030508
+Europe,rural,1959,278.577293
+Europe,rural,1960,278.26903599999997
+Europe,rural,1961,277.863302
+Europe,rural,1962,277.463511
+Europe,rural,1963,276.780153
+Europe,rural,1964,275.903419
+Europe,rural,1965,274.758072
+Europe,rural,1966,273.399127
+Europe,rural,1967,271.85858199999996
+Europe,rural,1968,270.274484
+Europe,rural,1969,268.85051200000004
+Europe,rural,1970,267.428571
+Europe,rural,1971,266.03788399999996
+Europe,rural,1972,264.661806
+Europe,rural,1973,263.296634
+Europe,rural,1974,261.865632
+Europe,rural,1975,260.491406
+Europe,rural,1976,259.15893700000004
+Europe,rural,1977,257.748469
+Europe,rural,1978,256.246296
+Europe,rural,1979,254.98936099999997
+Europe,rural,1980,254.027957
+Europe,rural,1981,253.20209300000002
+Europe,rural,1982,252.75498199999998
+Europe,rural,1983,252.405269
+Europe,rural,1984,252.164902
+Europe,rural,1985,252.04916400000002
+Europe,rural,1986,251.856925
+Europe,rural,1987,251.43156800000003
+Europe,rural,1988,250.990058
+Europe,rural,1989,251.126736
+Europe,rural,1990,251.55594100000002
+Europe,rural,1991,251.73160499999997
+Europe,rural,1992,216.38522400000002
+Europe,rural,1993,215.98176600000002
+Europe,rural,1994,215.40082900000002
+Europe,rural,1995,214.7394
+Europe,rural,1996,213.978298
+Europe,rural,1997,213.13658900000001
+Europe,rural,1998,212.244936
+Europe,rural,1999,211.349735
+Europe,rural,2000,210.475818
+Europe,rural,2001,209.57458799999998
+Europe,rural,2002,208.404974
+Europe,rural,2003,207.204119
+Europe,rural,2004,206.023033
+Europe,rural,2005,204.857504
+Europe,rural,2006,203.73761000000002
+Europe,rural,2007,202.672608
+Europe,rural,2008,201.622694
+Europe,rural,2009,200.555404
+Europe,rural,2010,199.49093
+Europe,rural,2011,198.365242
+Europe,rural,2012,197.24071
+Europe,rural,2013,196.0579
+Europe,rural,2014,194.873493
+Europe,rural,2015,193.666746
+Europe,rural,2016,192.416993
+Europe,rural,2017,191.114577
+Europe,rural,2018,189.736785
+Europe,urban,1950,292.971701
+Europe,urban,1951,299.04850899999997
+Europe,urban,1952,305.367029
+Europe,urban,1953,311.902608
+Europe,urban,1954,318.646917
+Europe,urban,1955,325.622829
+Europe,urban,1956,332.715436
+Europe,urban,1957,339.86601
+Europe,urban,1958,347.170484
+Europe,urban,1959,354.493907
+Europe,urban,1960,361.839512
+Europe,urban,1961,369.45710299999996
+Europe,urban,1962,377.174923
+Europe,urban,1963,385.12484900000004
+Europe,urban,1964,393.007874
+Europe,urban,1965,400.752362
+Europe,urban,1966,408.232637
+Europe,urban,1967,415.46139900000003
+Europe,urban,1968,422.411291
+Europe,urban,1969,429.048683
+Europe,urban,1970,435.655115
+Europe,urban,1971,442.236001
+Europe,urban,1972,448.76782599999996
+Europe,urban,1973,455.215425
+Europe,urban,1974,461.59009199999997
+Europe,urban,1975,467.724005
+Europe,urban,1976,473.630538
+Europe,urban,1977,479.456513
+Europe,urban,1978,485.23405099999997
+Europe,urban,1979,490.653147
+Europe,urban,1980,495.68652199999997
+Europe,urban,1981,500.47460099999995
+Europe,urban,1982,504.77415199999996
+Europe,urban,1983,508.93080499999996
+Europe,urban,1984,513.017027
+Europe,urban,1985,517.064135
+Europe,urban,1986,521.305209
+Europe,urban,1987,525.839158
+Europe,urban,1988,530.293777
+Europe,urban,1989,533.863065
+Europe,urban,1990,536.677258
+Europe,urban,1991,539.2569139999999
+Europe,urban,1992,508.914867
+Europe,urban,1993,510.622352
+Europe,urban,1994,512.133094
+Europe,urban,1995,513.345193
+Europe,urban,1996,514.254212
+Europe,urban,1997,514.894427
+Europe,urban,1998,515.405124
+Europe,urban,1999,515.966998
+Europe,urban,2000,516.725121
+Europe,urban,2001,517.780135
+Europe,urban,2002,519.3492980000001
+Europe,urban,2003,521.192514
+Europe,urban,2004,523.229472
+Europe,urban,2005,525.432178
+Europe,urban,2006,527.793299
+Europe,urban,2007,530.291148
+Europe,urban,2008,532.851796
+Europe,urban,2009,535.355771
+Europe,urban,2010,537.67265
+Europe,urban,2011,539.812562
+Europe,urban,2012,541.7358320000001
+Europe,urban,2013,543.5632820000001
+Europe,urban,2014,545.337237
+Europe,urban,2015,547.147213
+Europe,urban,2016,549.030165
+Europe,urban,2017,550.9592759999999
+Europe,urban,2018,552.911225
+Northern America,rural,1950,73.18007899999999
+Northern America,rural,1951,73.122428
+Northern America,rural,1952,73.125188
+Northern America,rural,1953,73.197873
+Northern America,rural,1954,73.305108
+Northern America,rural,1955,73.42034600000001
+Northern America,rural,1956,73.52983400000001
+Northern America,rural,1957,73.672449
+Northern America,rural,1958,73.78108399999999
+Northern America,rural,1959,73.850386
+Northern America,rural,1960,73.951491
+Northern America,rural,1961,74.23300900000001
+Northern America,rural,1962,74.416912
+Northern America,rural,1963,74.540655
+Northern America,rural,1964,74.596559
+Northern America,rural,1965,74.58597
+Northern America,rural,1966,74.50616299999999
+Northern America,rural,1967,74.406734
+Northern America,rural,1968,74.257635
+Northern America,rural,1969,74.08539999999999
+Northern America,rural,1970,74.08610099999999
+Northern America,rural,1971,74.605589
+Northern America,rural,1972,75.253494
+Northern America,rural,1973,75.90768800000001
+Northern America,rural,1974,76.561127
+Northern America,rural,1975,77.212658
+Northern America,rural,1976,77.861082
+Northern America,rural,1977,78.47812499999999
+Northern America,rural,1978,79.09766
+Northern America,rural,1979,79.720014
+Northern America,rural,1980,80.238214
+Northern America,rural,1981,80.44210700000001
+Northern America,rural,1982,80.670813
+Northern America,rural,1983,80.90145000000001
+Northern America,rural,1984,81.131573
+Northern America,rural,1985,81.37305900000001
+Northern America,rural,1986,81.627091
+Northern America,rural,1987,81.925188
+Northern America,rural,1988,82.23095
+Northern America,rural,1989,82.543362
+Northern America,rural,1990,82.706181
+Northern America,rural,1991,82.41680199999999
+Northern America,rural,1992,82.069653
+Northern America,rural,1993,81.77109600000001
+Northern America,rural,1994,81.455583
+Northern America,rural,1995,81.155176
+Northern America,rural,1996,80.87830000000001
+Northern America,rural,1997,80.587508
+Northern America,rural,1998,80.28599
+Northern America,rural,1999,79.94677499999999
+Northern America,rural,2000,79.678432
+Northern America,rural,2001,79.661489
+Northern America,rural,2002,79.66384799999999
+Northern America,rural,2003,79.593028
+Northern America,rural,2004,79.561642
+Northern America,rural,2005,79.547369
+Northern America,rural,2006,79.54185399999999
+Northern America,rural,2007,79.51181599999998
+Northern America,rural,2008,79.473599
+Northern America,rural,2009,79.41217400000001
+Northern America,rural,2010,79.311867
+Northern America,rural,2011,79.16891199999999
+Northern America,rural,2012,79.020723
+Northern America,rural,2013,78.834593
+Northern America,rural,2014,78.61764
+Northern America,rural,2015,78.377319
+Northern America,rural,2016,78.116938
+Northern America,rural,2017,77.830451
+Northern America,rural,2018,77.519885
+Northern America,urban,1950,116.49821599999999
+Northern America,urban,1951,119.343012
+Northern America,urban,1952,122.483383
+Northern America,urban,1953,125.82683500000002
+Northern America,urban,1954,129.334932
+Northern America,urban,1955,132.969685
+Northern America,urban,1956,136.68953
+Northern America,urban,1957,140.409416
+Northern America,urban,1958,144.158983
+Northern America,urban,1959,147.91373699999997
+Northern America,urban,1960,151.57800699999999
+Northern America,urban,1961,154.980742
+Northern America,urban,1962,158.377473
+Northern America,urban,1963,161.70690399999998
+Northern America,urban,1964,164.954857
+Northern America,urban,1965,168.108435
+Northern America,urban,1966,171.15481599999998
+Northern America,urban,1967,174.05598799999999
+Northern America,urban,1968,176.893111
+Northern America,urban,1969,179.711266
+Northern America,urban,1970,182.36859400000003
+Northern America,urban,1971,184.53867000000002
+Northern America,urban,1972,186.60595099999998
+Northern America,urban,1973,188.691123
+Northern America,urban,1974,190.79106600000003
+Northern America,urban,1975,192.900327
+Northern America,urban,1976,195.027101
+Northern America,urban,1977,197.208819
+Northern America,urban,1978,199.40841600000002
+Northern America,urban,1979,201.619958
+Northern America,urban,1980,203.94746999999998
+Northern America,urban,1981,206.600558
+Northern America,urban,1982,209.24605599999998
+Northern America,urban,1983,211.91784
+Northern America,urban,1984,214.63326
+Northern America,urban,1985,217.391256
+Northern America,urban,1986,220.199904
+Northern America,urban,1987,223.027094
+Northern America,urban,1988,225.898663
+Northern America,urban,1989,228.799397
+Northern America,urban,1990,231.876533
+Northern America,urban,1991,235.41344299999997
+Northern America,urban,1992,239.02447600000002
+Northern America,urban,1993,242.653858
+Northern America,urban,1994,246.43663800000002
+Northern America,urban,1995,250.38179399999999
+Northern America,urban,1996,254.511282
+Northern America,urban,1997,258.823895
+Northern America,urban,1998,263.204371
+Northern America,urban,1999,267.525591
+Northern America,urban,2000,271.57058
+Northern America,urban,2001,275.107571
+Northern America,urban,2002,278.40534699999995
+Northern America,urban,2003,281.64377
+Northern America,urban,2004,284.84185999999994
+Northern America,urban,2005,288.114244
+Northern America,urban,2006,291.500808
+Northern America,urban,2007,294.99512500000003
+Northern America,urban,2008,298.516732
+Northern America,urban,2009,301.98531
+Northern America,urban,2010,305.34979100000004
+Northern America,urban,2011,308.594686
+Northern America,urban,2012,311.71195700000004
+Northern America,urban,2013,314.77471199999997
+Northern America,urban,2014,317.83669299999997
+Northern America,urban,2015,320.935833
+Northern America,urban,2016,324.078711
+Northern America,urban,2017,327.260679
+Northern America,urban,2018,330.47992800000003
+Oceania,rural,1950,4.741529
+Oceania,rural,1951,4.797617
+Oceania,rural,1952,4.848875
+Oceania,rural,1953,4.898244999999999
+Oceania,rural,1954,4.947430000000001
+Oceania,rural,1955,4.997626
+Oceania,rural,1956,5.047899
+Oceania,rural,1957,5.095091
+Oceania,rural,1958,5.143475
+Oceania,rural,1959,5.192079
+Oceania,rural,1960,5.240201
+Oceania,rural,1961,5.287326999999999
+Oceania,rural,1962,5.344556
+Oceania,rural,1963,5.402548
+Oceania,rural,1964,5.462741
+Oceania,rural,1965,5.526244
+Oceania,rural,1966,5.594021
+Oceania,rural,1967,5.6716690000000005
+Oceania,rural,1968,5.747736
+Oceania,rural,1969,5.819401
+Oceania,rural,1970,5.883576000000001
+Oceania,rural,1971,5.938251
+Oceania,rural,1972,6.019258
+Oceania,rural,1973,6.098655
+Oceania,rural,1974,6.177237
+Oceania,rural,1975,6.255159
+Oceania,rural,1976,6.333513
+Oceania,rural,1977,6.417273000000001
+Oceania,rural,1978,6.503177
+Oceania,rural,1979,6.592961
+Oceania,rural,1980,6.688619
+Oceania,rural,1981,6.793341000000001
+Oceania,rural,1982,6.931527
+Oceania,rural,1983,7.0737309999999995
+Oceania,rural,1984,7.217464
+Oceania,rural,1985,7.360473
+Oceania,rural,1986,7.499828999999999
+Oceania,rural,1987,7.63088
+Oceania,rural,1988,7.761750999999999
+Oceania,rural,1989,7.8947270000000005
+Oceania,rural,1990,8.030424
+Oceania,rural,1991,8.186072
+Oceania,rural,1992,8.362478
+Oceania,rural,1993,8.543654
+Oceania,rural,1994,8.727309
+Oceania,rural,1995,8.913467
+Oceania,rural,1996,9.101432
+Oceania,rural,1997,9.295942
+Oceania,rural,1998,9.493859
+Oceania,rural,1999,9.695233
+Oceania,rural,2000,9.900089999999999
+Oceania,rural,2001,10.100379
+Oceania,rural,2002,10.255578
+Oceania,rural,2003,10.414114
+Oceania,rural,2004,10.578126
+Oceania,rural,2005,10.749217
+Oceania,rural,2006,10.927999
+Oceania,rural,2007,11.117683
+Oceania,rural,2008,11.310699000000001
+Oceania,rural,2009,11.503706
+Oceania,rural,2010,11.694723
+Oceania,rural,2011,11.882268
+Oceania,rural,2012,12.065277
+Oceania,rural,2013,12.2465
+Oceania,rural,2014,12.426231
+Oceania,rural,2015,12.60539
+Oceania,rural,2016,12.783918
+Oceania,rural,2017,12.959749
+Oceania,rural,2018,13.132183
+Oceania,urban,1950,7.9062470000000005
+Oceania,urban,1951,8.173680000000001
+Oceania,urban,1952,8.426698
+Oceania,urban,1953,8.674216
+Oceania,urban,1954,8.923472
+Oceania,urban,1955,9.179086999999999
+Oceania,urban,1956,9.444919
+Oceania,urban,1957,9.723989999999999
+Oceania,urban,1958,10.009375
+Oceania,urban,1959,10.297571000000001
+Oceania,urban,1960,10.585023
+Oceania,urban,1961,10.87054
+Oceania,urban,1962,11.145608
+Oceania,urban,1963,11.427438
+Oceania,urban,1964,11.725392
+Oceania,urban,1965,12.044989
+Oceania,urban,1966,12.388591
+Oceania,urban,1967,12.74532
+Oceania,urban,1968,13.114123000000001
+Oceania,urban,1969,13.480404
+Oceania,urban,1970,13.834457999999998
+Oceania,urban,1971,14.175453
+Oceania,urban,1972,14.470445999999999
+Oceania,urban,1973,14.74741
+Oceania,urban,1974,15.007086
+Oceania,urban,1975,15.251695999999999
+Oceania,urban,1976,15.478407
+Oceania,urban,1977,15.684455999999999
+Oceania,urban,1978,15.884595000000001
+Oceania,urban,1979,16.092215
+Oceania,urban,1980,16.316449
+Oceania,urban,1981,16.558232
+Oceania,urban,1982,16.790815
+Oceania,urban,1983,17.039582
+Oceania,urban,1984,17.300048
+Oceania,urban,1985,17.568924
+Oceania,urban,1986,17.848569
+Oceania,urban,1987,18.144282
+Oceania,urban,1988,18.444979
+Oceania,urban,1989,18.744988
+Oceania,urban,1990,19.041037
+Oceania,urban,1991,19.315233
+Oceania,urban,1992,19.566553
+Oceania,urban,1993,19.809487
+Oceania,urban,1994,20.04479
+Oceania,urban,1995,20.271847
+Oceania,urban,1996,20.491595999999998
+Oceania,urban,1997,20.701163
+Oceania,urban,1998,20.907522
+Oceania,urban,1999,21.115431
+Oceania,urban,2000,21.329332
+Oceania,urban,2001,21.55647
+Oceania,urban,2002,21.838894
+Oceania,urban,2003,22.137546
+Oceania,urban,2004,22.462120000000002
+Oceania,urban,2005,22.81842
+Oceania,urban,2006,23.2105
+Oceania,urban,2007,23.629815
+Oceania,urban,2008,24.069067
+Oceania,urban,2009,24.510562
+Oceania,urban,2010,24.940843
+Oceania,urban,2011,25.355609
+Oceania,urban,2012,25.759169
+Oceania,urban,2013,26.152898
+Oceania,urban,2014,26.544158000000003
+Oceania,urban,2015,26.937590000000004
+Oceania,urban,2016,27.333514
+Oceania,urban,2017,27.731037
+Oceania,urban,2018,28.129029
+South America,rural,1950,65.15075999999999
+South America,rural,1951,65.93817
+South America,rural,1952,66.698702
+South America,rural,1953,67.43151
+South America,rural,1954,68.12951
+South America,rural,1955,68.794551
+South America,rural,1956,69.427937
+South America,rural,1957,70.040233
+South America,rural,1958,70.63301700000001
+South America,rural,1959,71.21524000000001
+South America,rural,1960,71.789895
+South America,rural,1961,72.439929
+South America,rural,1962,73.058982
+South America,rural,1963,73.653387
+South America,rural,1964,74.203588
+South America,rural,1965,74.825099
+South America,rural,1966,75.398211
+South America,rural,1967,75.921207
+South America,rural,1968,76.386924
+South America,rural,1969,76.796762
+South America,rural,1970,77.14252900000001
+South America,rural,1971,77.412825
+South America,rural,1972,77.62869
+South America,rural,1973,77.84935300000001
+South America,rural,1974,78.041725
+South America,rural,1975,78.192444
+South America,rural,1976,78.314356
+South America,rural,1977,78.389938
+South America,rural,1978,78.42797900000001
+South America,rural,1979,78.43769300000001
+South America,rural,1980,78.41434100000001
+South America,rural,1981,78.356477
+South America,rural,1982,78.30481999999999
+South America,rural,1983,78.25459599999999
+South America,rural,1984,78.15515400000001
+South America,rural,1985,78.002076
+South America,rural,1986,77.82016999999999
+South America,rural,1987,77.596191
+South America,rural,1988,77.317116
+South America,rural,1989,76.99471700000001
+South America,rural,1990,76.625028
+South America,rural,1991,76.245417
+South America,rural,1992,75.875603
+South America,rural,1993,75.482608
+South America,rural,1994,75.044135
+South America,rural,1995,74.572967
+South America,rural,1996,74.068079
+South America,rural,1997,73.417348
+South America,rural,1998,72.722825
+South America,rural,1999,71.996751
+South America,rural,2000,71.236822
+South America,rural,2001,71.011372
+South America,rural,2002,70.90159200000001
+South America,rural,2003,70.820308
+South America,rural,2004,70.709875
+South America,rural,2005,70.573792
+South America,rural,2006,70.40777299999999
+South America,rural,2007,70.21534100000001
+South America,rural,2008,70.038115
+South America,rural,2009,69.865739
+South America,rural,2010,69.682983
+South America,rural,2011,69.488168
+South America,rural,2012,69.293103
+South America,rural,2013,69.098625
+South America,rural,2014,68.892263
+South America,rural,2015,68.667877
+South America,rural,2016,68.42626700000001
+South America,rural,2017,68.168762
+South America,rural,2018,67.887786
+South America,urban,1950,48.634057
+South America,urban,1951,51.019048
+South America,urban,1952,53.5022
+South America,urban,1953,56.07670400000001
+South America,urban,1954,58.746853
+South America,urban,1955,61.512921999999996
+South America,urban,1956,64.381038
+South America,urban,1957,67.352917
+South America,urban,1958,70.443179
+South America,urban,1959,73.661088
+South America,urban,1960,77.018596
+South America,urban,1961,80.438707
+South America,urban,1962,84.019827
+South America,urban,1963,87.731475
+South America,urban,1964,91.5591
+South America,urban,1965,95.36072
+South America,urban,1966,99.251341
+South America,urban,1967,103.235164
+South America,urban,1968,107.30948300000001
+South America,urban,1969,111.463226
+South America,urban,1970,115.699584
+South America,urban,1971,120.022852
+South America,urban,1972,124.41761499999998
+South America,urban,1973,128.848402
+South America,urban,1974,133.381458
+South America,urban,1975,138.054489
+South America,urban,1976,142.857768
+South America,urban,1977,147.802766
+South America,urban,1978,152.883859
+South America,urban,1979,158.093145
+South America,urban,1980,163.43265300000002
+South America,urban,1981,168.905502
+South America,urban,1982,174.460818
+South America,urban,1983,180.073633
+South America,urban,1984,185.755482
+South America,urban,1985,191.48018100000002
+South America,urban,1986,197.209957
+South America,urban,1987,202.957026
+South America,urban,1988,208.730571
+South America,urban,1989,214.518946
+South America,urban,1990,220.32578700000002
+South America,urban,1991,226.105515
+South America,urban,1992,231.83275899999998
+South America,urban,1993,237.546504
+South America,urban,1994,243.27881000000002
+South America,urban,1995,249.022277
+South America,urban,1996,254.778802
+South America,urban,1997,260.652191
+South America,urban,1998,266.52543
+South America,urban,1999,272.366268
+South America,urban,2000,278.161939
+South America,urban,2001,283.340904
+South America,urban,2002,288.32366
+South America,urban,2003,293.19354100000004
+South America,urban,2004,298.005178
+South America,urban,2005,302.754731
+South America,urban,2006,307.44031
+South America,urban,2007,312.062531
+South America,urban,2008,316.602627
+South America,urban,2009,321.10204500000003
+South America,urban,2010,325.597221
+South America,urban,2011,330.097986
+South America,urban,2012,334.58304100000004
+South America,urban,2013,339.033009
+South America,urban,2014,343.433058
+South America,urban,2015,347.768234
+South America,urban,2016,352.031777
+South America,urban,2017,356.224855
+South America,urban,2018,360.352729

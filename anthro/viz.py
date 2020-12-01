@@ -160,6 +160,28 @@ def color_palette():
               'pale_red': '#F1D4C9', 'purple': '#AB85AC',
               'light_purple': '#D4C2D9', 'dark_green':'#7E9D90', 'dark_brown':'#905426'}
 
+def region_colors(positions=True):
+    """
+    Returns a dictionary mapping regions to their colors as presented in the 
+    snapshot.
+
+    Parameters
+    ----------
+    positions: bool
+        If True, a list of positions for plotting "per capita" breakdowns is also 
+        returned.
+    """
+    colors = color_palette()
+    regions = cont_colors = {'Africa':colors['light_green'], 'Northern America':colors['light_red'],                
+               'Europe':'#4b4b4b', 'Central America':colors['purple'],
+               'South America':colors['dark_brown'],
+               'Asia':colors['blue'], 'Oceania':colors['dark_green']}
+    pos = {k:i for i, k in enumerate(cont_colors.keys())}
+    if positions:
+        return [regions, pos]
+    else:
+        return  regions
+        
 def bokeh_theme():
     """A custom bokeh theme to match PBoC 2e colors"""
     theme_json = {'attrs':
