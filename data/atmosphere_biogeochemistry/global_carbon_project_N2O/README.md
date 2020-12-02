@@ -12,7 +12,7 @@ The Global Nitrous Oxide Budget contains data on N<sub>2</sub>O emissions from a
 ## Source Information
 * **Source Website**: Global Nitrous Oxide Budget 2020
 * **URL**: https://www.globalcarbonproject.org/nitrousoxidebudget/index.htm
-* **Original License**: Tian, H. et al. (2020). A comprehensive quantification of global nitrous oxide sources and sinks. _Nature_, 586, 248-256.
+* **Original License**: Tian, H., et al. (2020). A comprehensive quantification of global nitrous oxide sources and sinks. _Nature_, 586, 248-256.
 * **Bias**: These data are mostly from original publications but collected and curated in the above publication by the Global Carbon Project, a Global Research Project of Future Earth and a research partner of the World Climate Research Programme. No inherent bias seems to be present.
 
 ## Notes
