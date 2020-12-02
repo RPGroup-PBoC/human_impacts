@@ -1,6 +1,10 @@
 import pandas as pd
 import glob
 
+# Define groupings (i.e. renewables, fossil fuels, etc).
+renewables = ['WindGeneration', 'HydroGeneration', 'SolarGeneration','']
+
+
 YEAR = 2017
 for file in glob.glob('processed/*.csv'):
 	name = file.split('/')[1].split('.')[0]

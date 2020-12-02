@@ -5,14 +5,14 @@ import matplotlib.pyplot as plt
 import anthro.io
 import anthro.viz
 colors = anthro.viz.plotting_style()
+regions, positions = anthro.viz.region_colors()
 
-cont_colors = {'Africa':colors['light_green'], 'Northern America':colors['light_red'],                
-               'Europe':'#4b4b4b', 'Central America':colors['purple'],
-               'South America':colors['dark_brown'],
-               'Asia':colors['blue'], 'Oceania':colors['dark_green']}
-cont_positions = {k:i for i, k in enumerate(cont_colors.keys())}
+# Load the datasets
+total = pd.read_csv('../../../data/energy/EIA_global_energy_consumption/processed/EIA_TotalConsumption.csv')
+total.head()
 
 
+#%%
 # Define the data provided by @mason
 regions = ['Asia', 'Africa', 'Northern America', 'South America', 
             'Central America', 'Europe', 'Oceania']
