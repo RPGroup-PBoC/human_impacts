@@ -10,6 +10,7 @@ cement = pd.read_csv('./source/USGS_cement_by_country_tidy.csv')
 
 # Add associations to match the FAO region definitions  
 annotated_regions = []
+fao_localities = []
 for k in cement['locality'].values:
     if k == 'Bolivia':
         k = 'Bolivia (Plurinational State of)'
@@ -73,8 +74,9 @@ for k in cement['locality'].values:
         annotated_regions.append(region_dict[k.lower()]) 
     except KeyError:
         print(f"Locality {k} not found in region dictionary.")
-
+    fao_localities.append(k)
 cement['region'] = annotated_regions
+cement['fao_locality'] = fao_localities
 cement.to_csv('./processed/USGS_cement_by_region.csv', index=False)
 
 # %%
