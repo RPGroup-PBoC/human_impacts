@@ -52,6 +52,5 @@ for file in filenames:
 	name = file.split('/')[1].split('.')[0]
 	regional_data.to_csv(f'processed/{name}.csv', index=False)
 
-
-
+region_populations.to_csv('processed/EIA_population.csv', index=False)
 
