@@ -15,6 +15,12 @@ total_fossils.drop(columns=['NatGas_Watts', 'Oil_Watts', 'Coal_Watts'], inplace=
 totals = total_fossils[['year', 'Watts']].groupby('year').sum().reset_index().rename(columns={'Watts':'Total'})
 total_fossils = pd.merge(total_fossils, totals[['year', 'Total']], on='year', how='outer')
 total_fossils['Percentage'] = 100*total_fossils['Watts']/total_fossils['Total']
-total_fossils.drop(['Total'], axis=1, inplace=True)
+total_fossils.drop(['Total', 'Per Capita'], axis=1, inplace=True)
+
+total_fossils = pd.merge(total_fossils, population[['year', 'Country Group', 'population']], on=['year', 'Country Group'], how='inner')
+total_fossils['Per Capita'] = total_fossils['Watts']/total_fossils['population']
+total_fossils.drop(['population'], axis=1, inplace=True)
+total_fossils = total_fossils[total_fossils['year'] <= 2017]
+
 
 total_fossils.to_csv('processed/EIA_FossilFuelConsumption.csv')
