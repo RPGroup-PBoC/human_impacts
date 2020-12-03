@@ -155,6 +155,6 @@ data_tidy["Tg CO2 yr-1"] = data_tidy["Tg C yr-1"]*44.0/12.0
 data_tidy = data_tidy.melt(id_vars=data_tidy.columns[:2], 
                                 var_name="Emission Units", 
                                 value_name="Emissions")
-
+data_tidy["Emissions"] = round(data_tidy["Emissions"], 2)
 # # Save to file, stripped of index
 data_tidy.to_csv(r'regional_co2_data_processed.csv', index = False)
