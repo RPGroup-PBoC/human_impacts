@@ -9,7 +9,79 @@ regions, positions = anthro.viz.region_colors()
 
 # Load the datasets
 total = pd.read_csv('../../../data/energy/EIA_global_energy_consumption/processed/EIA_TotalConsumption.csv')
-total.head()
+total = total[total['year']==2017]
+renewables = pd.read_csv('../../../data/energy/EIA_global_energy_consumption/processed/EIA_RenewableGeneration.csv')
+renewables = renewables[renewables['year']==2017]
+fossils = pd.read_csv('../../../data/energy/EIA_global_energy_consumption/processed/EIA_FossilFuelConsumption.csv')
+fossils = fossils[fossils['year']==2017]
+nuclear = pd.read_csv('../../../data/energy/EIA_global_energy_consumption/processed/EIA_NuclearGeneration.csv')
+nuclear = nuclear[nuclear['year']==2017]
+for d in [total, renewables, fossils, nuclear]:
+    d['color'] = [regions[k] for k in d['Country Group'].values]
+    d['pos'] = [positions[k] for k in d['Country Group'].values]
+
+#%% Fossil fuel consumption
+fossils.sort_values('Watts', inplace=True)
+fig, ax = plt.subplots(1, 1, figsize=(2.5, 2.5))
+ax.pie(fossils['Watts'], colors=fossils['color'])
+circ = plt.Circle((0, 0), 0.6, color='white')
+ax.add_artist(circ)
+plt.savefig('../../../figures/regional_breakdowns/fossil_fuel_consumption_donut.svg')
+
+# Make the percapita plot
+fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
+ax.xaxis.set_tick_params(labelsize=6)
+ax.yaxis.set_tick_params(labelsize=6)
+ax.set_ylim([0, 3])
+ax.set_ylabel('per capita\n[1000 W]', fontsize=6)
+for g, d in fossils.groupby(['Country Group']):
+    ax.plot(positions[g], int(d['Per Capita']) / 1E3, 'o', ms=3, color=regions[g])
+    ax.vlines(positions[g], 0, int(d['Per Capita']) / 1E3, lw=0.5, color=regions[g])
+
+ax.set_yticks([0, 1, 2, 3])
+plt.savefig('../../../figures/regional_breakdowns/fossil_fuel_consumption_per_capita.svg')
+
+#%% renewables
+renewables.sort_values('Watts', inplace=True)
+fig, ax = plt.subplots(1, 1, figsize=(2.5, 2.5))
+ax.pie(renewables['Watts'], colors=renewables['color'])
+circ = plt.Circle((0, 0), 0.6, color='white')
+ax.add_artist(circ)
+plt.savefig('../../../figures/regional_breakdowns/renewables_consumption_donut.svg')
+
+# Make the percapita plot
+fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
+ax.xaxis.set_tick_params(labelsize=6)
+ax.yaxis.set_tick_params(labelsize=6)
+ax.set_ylim([0, 1.2])
+ax.set_ylabel('per capita\n[1000 W]', fontsize=6)
+for g, d in renewables.groupby(['Country Group']):
+    ax.plot(positions[g], int(d['Per Capita']) / 1E3, 'o', ms=3, color=regions[g])
+    ax.vlines(positions[g], 0, int(d['Per Capita']) / 1E3, lw=0.5, color=regions[g])
+
+ax.set_yticks([0, 0.25, 0.5, 0.75, 1])
+plt.savefig('../../../figures/regional_breakdowns/renewables_consumption_per_capita.svg')
+
+#%% Nuclear
+nuclear.sort_values('Watts', inplace=True)
+fig, ax = plt.subplots(1, 1, figsize=(2.5, 2.5))
+ax.pie(nuclear['Watts'], colors=nuclear['color'])
+circ = plt.Circle((0, 0), 0.6, color='white')
+ax.add_artist(circ)
+plt.savefig('../../../figures/regional_breakdowns/nuclear_generation_donut.svg')
+
+# Make the percapita plot
+fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
+ax.xaxis.set_tick_params(labelsize=6)
+ax.yaxis.set_tick_params(labelsize=6)
+ax.set_ylim([0, 1.2])
+ax.set_ylabel('per capita\n[1000 W]', fontsize=6)
+for g, d in nuclear.groupby(['Country Group']):
+    ax.plot(positions[g], int(d['Per Capita']) / 1E3, 'o', ms=3, color=regions[g])
+    ax.vlines(positions[g], 0, int(d['Per Capita']) / 1E3, lw=0.5, color=regions[g])
+
+ax.set_yticks([0, 0.25, 0.5, 0.75, 1])
+plt.savefig('../../../figures/regional_breakdowns/nuclear_generation_per_capita.svg')
 
 
 #%%
