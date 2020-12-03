@@ -1,78 +1,8 @@
-,region,population_1000_inhab
-0,Central America,4906.0
-1,Central America,4099.0
-2,Northern America,11485.0
-3,Northern America,10767.0
-4,Northern America,2890.0
-5,Caribbean,107.8
-6,Caribbean,109.9
-7,Northern America,36624.0
-8,Northern America,324459.0
-9,Central America,129163.0
-10,South America,49066.0
-11,South America,32165.0
-12,South America,209288.0
-13,Africa,41318.0
-14,Africa,2292.0
-15,Africa,24295.0
-16,Africa,97553.0
-17,Africa,49700.0
-18,Africa,1265.0
-19,Africa,29669.0
-20,Africa,21477.0
-21,Africa,204.3
-22,Africa,56717.0
-23,Africa,11532.0
-24,Africa,16530.0
-25,Asia,2930.0
-26,Asia,9828.0
-27,Asia,1493.0
-28,Asia,1441131.0
-29,Asia,263991.0
-30,Asia,38275.0
-31,Asia,8322.0
-32,Asia,9702.0
-33,Asia,18204.0
-34,Asia,6082.0
-35,Asia,3076.0
-36,Asia,4636.0
-37,Asia,4921.0
-38,Asia,104918.0
-39,Asia,2639.0
-40,Asia,32938.0
-41,Asia,80745.0
-42,Asia,31911.0
-43,Europe,9468.0
-44,Europe,11429.0
-45,Europe,3507.0
-46,Europe,7085.0
-47,Europe,4189.0
-48,Europe,1180.0
-49,Europe,10618.0
-50,Europe,5734.0
-51,Europe,1310.0
-52,Europe,5523.0
-53,Europe,64980.0
-54,Europe,82114.0
-55,Europe,11160.0
-56,Europe,9722.0
-57,Europe,335.0
-58,Europe,59360.0
-59,Europe,1950.0
-60,Europe,2890.0
-61,Europe,583.5
-62,Europe,430.8
-63,Europe,17036.0
-64,Europe,2083.0
-65,Europe,38171.0
-66,Europe,4051.0
-67,Europe,19679.0
-68,Europe,143990.0
-69,Europe,8791.0
-70,Europe,5448.0
-71,Europe,2080.0
-72,Europe,46354.0
-73,Europe,9911.0
-74,Europe,44223.0
-75,Europe,66182.0
-76,Oceania,24450.0
+region,population_1000_inhab,year
+Africa,352552.3,2013-2017
+Asia,2065742,2013-2017
+Central America,138168,2013-2017
+Europe,701567.3,2013-2017
+Northern America,386442,2013-2017
+Oceania,24450,2013-2017
+South America,290519,2013-2017
