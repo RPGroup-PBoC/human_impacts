@@ -8,11 +8,9 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 from matplotlib.path import Path
 from matplotlib.patches import BoxStyle
 from matplotlib.offsetbox import AnchoredText
-import geopandas as gpd
 import seaborn as sns
 import altair as alt
 import bokeh.io
-from . import geom
 
 # Style and useful function definitions.
 def titlebox(
