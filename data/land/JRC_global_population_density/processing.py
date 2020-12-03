@@ -4,6 +4,8 @@ import pandas as pd
 # Load the processed data
 data = pd.read_csv('./source/JRC_population_densities.csv')
 
+# Move "caribbean" to "northern america"
+data.loc[data['region'] == 'Caribbean', 'region'] = 'Northern America'
 
 # Remove nans and zeros. 
 data.dropna(inplace=True)
