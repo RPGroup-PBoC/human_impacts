@@ -9,6 +9,6 @@ data.loc[data['unit'].str.contains('1000'), 'population_Mhd'] *= 1000
 data.drop(columns=['unit', 'value'], inplace=True)
 data = data[data['animal']!='Beehives']
 data['animal'] = np.array([s.lower() for s in data['animal'].values])
-data.head()
+data.loc[data['region']=='Caribbean', 'region'] = 'Northern America'
 data.to_csv('./processed/FAOSTAT_livestock_population_continent.csv', index=False)
 # %%

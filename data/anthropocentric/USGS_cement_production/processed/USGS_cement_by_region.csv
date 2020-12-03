@@ -1,0 +1,806 @@
+locality,year,value,units,region,fao_locality
+Afghanistan,2013,52.0,kT,asia,Afghanistan
+Albania,2013,2000.0,kT,europe,Albania
+Algeria,2013,18500.0,kT,africa,Algeria
+Angola,2013,4000.0,kT,africa,Angola
+Argentina,2013,11892.0,kT,south america,Argentina
+Armenia,2013,431.0,kT,asia,Armenia
+Australia,2013,8400.0,kT,oceania,Australia
+Austria,2013,4385.0,kT,europe,Austria
+Azerbaijan,2013,2296.0,kT,asia,Azerbaijan
+Bahrain,2013,1300.0,kT,asia,Bahrain
+Bangladesh,2013,16780.0,kT,asia,Bangladesh
+Barbados,2013,160.0,kT,northern america,Barbados
+Belarus,2013,5057.0,kT,europe,Belarus
+Belgium,2013,6119.0,kT,europe,Belgium
+Benin,2013,1422.0,kT,africa,Benin
+Bhutan,2013,570.0,kT,asia,Bhutan
+Bolivia,2013,3061.0,kT,south america,Bolivia (Plurinational State of)
+Bosnia and Herzegovina,2013,882.0,kT,europe,Bosnia and Herzegovina
+Botswana,2013,15.0,kT,africa,Botswana
+Brazil,2013,69975.0,kT,south america,Brazil
+Brunei,2013,340.0,kT,asia,Brunei Darussalam
+Bulgaria,2013,1812.0,kT,europe,Bulgaria
+Burkina Faso,2013,580.0,kT,africa,Burkina Faso
+Burma,2013,1121.0,kT,asia,Myanmar
+Burundi,2013,100.0,kT,africa,Burundi
+Cambodia,2013,1060.0,kT,asia,Cambodia
+Cameroon,2013,1400.0,kT,africa,Cameroon
+Canada,2013,11611.0,kT,northern america,Canada
+Chad,2013,180.0,kT,africa,Chad
+Chile,2013,4880.0,kT,south america,Chile
+China,2013,2411000.0,kT,asia,"China, mainland"
+Colombia,2013,11252.0,kT,south america,Colombia
+Congo (Brazzaville),2013,250.0,kT,africa,Democratic Republic of the Congo
+Congo (Kinshasa),2013,447.0,kT,africa,Democratic Republic of the Congo
+Costa Rica,2013,1460.0,kT,central america,Costa Rica
+Côte d’Ivoire,2013,2300.0,kT,africa,Côte d'Ivoire
+Croatia,2013,2333.0,kT,europe,Croatia
+Cuba,2013,1659.0,kT,northern america,Cuba
+Cyprus,2013,855.0,kT,asia,Cyprus
+Czechia,2013,3211.0,kT,europe,Czechia
+Denmark,2013,1830.0,kT,europe,Denmark
+Djibouti,2013,150.0,kT,africa,Djibouti
+Dominican Republic,2013,4246.0,kT,northern america,Dominican Republic
+Ecuador,2013,6670.0,kT,south america,Ecuador
+Egypt,2013,50000.0,kT,africa,Egypt
+El Salvador,2013,1200.0,kT,central america,El Salvador
+Eritrea,2013,230.0,kT,africa,Eritrea
+Estonia,2013,457.0,kT,europe,Estonia
+Ethiopia,2013,4493.0,kT,africa,Ethiopia
+Fiji,2013,181.0,kT,oceania,Fiji
+Finland,2013,1300.0,kT,europe,Finland
+France,2013,18018.0,kT,europe,France
+French Guiana,2013,94.0,kT,south america,French Guyana
+Gabon,2013,170.0,kT,africa,Gabon
+Georgia,2013,1619.0,kT,asia,Georgia
+Germany,2013,31308.0,kT,europe,Germany
+Ghana,2013,4500.0,kT,africa,Ghana
+Greece,2013,5283.0,kT,europe,Greece
+Guadeloupe,2013,300.0,kT,northern america,Guadeloupe
+Guatemala,2013,2970.0,kT,central america,Guatemala
+Guinea,2013,377.0,kT,africa,Guinea
+Guyana,2013,,kT,south america,Guyana
+Haiti,2013,100.0,kT,northern america,Haiti
+Honduras,2013,1700.0,kT,central america,Honduras
+Hong Kong,2013,1768.0,kT,asia,"China, Hong Kong SAR"
+Hungary,2013,1350.0,kT,europe,Hungary
+India,2013,231000.0,kT,asia,India
+Indonesia,2013,56690.0,kT,asia,Indonesia
+Iran,2013,68700.0,kT,asia,Iran (Islamic Republic of)
+Iraq,2013,12000.0,kT,asia,Iraq
+Ireland,2013,2000.0,kT,europe,Ireland
+Israel,2013,6398.0,kT,asia,Israel
+Italy,2013,23100.0,kT,europe,Italy
+Jamaica,2013,825.0,kT,northern america,Jamaica
+Japan,2013,57962.0,kT,asia,Japan
+Jordan,2013,4200.0,kT,asia,Jordan
+Kazakhstan,2013,7072.0,kT,asia,Kazakhstan
+Kenya,2013,5059.0,kT,africa,Kenya
+North Korea,2013,6600.0,kT,asia,Democratic People's Republic of Korea
+South Korea,2013,47291.0,kT,asia,Republic of Korea
+Kosovo,2013,560.0,kT,europe,Serbia
+Kuwait,2013,3000.0,kT,asia,Kuwait
+Kyrgyzstan,2013,1676.0,kT,asia,Kyrgyzstan
+Laos,2013,2156.0,kT,asia,Lao People's Democratic Republic
+Latvia,2013,1000.0,kT,europe,Latvia
+Lebanon,2013,5831.0,kT,asia,Lebanon
+Liberia,2013,194.0,kT,africa,Liberia
+Libya,2013,2000.0,kT,africa,Libya
+Lithuania,2013,1070.0,kT,europe,Lithuania
+Luxembourg,2013,1093.0,kT,europe,Luxembourg
+Macau,2013,580.0,kT,asia,"China, mainland"
+Macedonia,2013,730.0,kT,europe,North Macedonia
+Madagascar,2013,230.0,kT,africa,Madagascar
+Malawi,2013,230.0,kT,africa,Malawi
+Malaysia,2013,22860.0,kT,asia,Malaysia
+Mali,2013,440.0,kT,africa,Mali
+Martinique,2013,150.0,kT,northern america,Martinique
+Mauritania,2013,690.0,kT,africa,Mauritania
+Mexico,2013,34612.0,kT,central america,Mexico
+Moldova,2013,1150.0,kT,europe,Republic of Moldova
+Mongolia,2013,259.0,kT,asia,Mongolia
+Morocco,2013,16870.0,kT,africa,Morocco
+Mozambique,2013,1299.0,kT,africa,Mozambique
+Namibia,2013,662.0,kT,africa,Namibia
+Nepal,2013,2990.0,kT,asia,Nepal
+Netherlands,2013,2050.0,kT,europe,Netherlands
+New Caledonia,2013,119.0,kT,oceania,New Caledonia
+New Zealand,2013,1200.0,kT,oceania,New Zealand
+Nicaragua,2013,650.0,kT,central america,Nicaragua
+Niger,2013,29.0,kT,africa,Niger
+Nigeria,2013,20000.0,kT,africa,Nigeria
+Norway,2013,1700.0,kT,europe,Norway
+Oman,2013,5800.0,kT,asia,Oman
+Pakistan,2013,31460.0,kT,asia,Pakistan
+Panama,2013,2370.0,kT,central america,Panama
+Papua New Guineae,2013,200.0,kT,oceania,Papua New Guinea
+Paraguay,2013,960.0,kT,south america,Paraguay
+Peru,2013,10527.0,kT,south america,Peru
+Philippines,2013,20150.0,kT,asia,Philippines
+Poland,2013,14539.0,kT,europe,Poland
+Portugal,2013,5000.0,kT,europe,Portugal
+Qatar,2013,5335.0,kT,asia,Qatar
+Reunion,2013,400.0,kT,africa,Réunion
+Romania,2013,7451.0,kT,europe,Romania
+Russia,2013,66503.0,kT,europe,Russian Federation
+Rwanda,2013,130.0,kT,africa,Rwanda
+Saudi Arabia,2013,56238.0,kT,asia,Saudi Arabia
+Senegal,2013,5191.0,kT,africa,Senegal
+Serbia,2013,1592.0,kT,europe,Serbia
+Sierra Leone,2013,313.0,kT,africa,Sierra Leone
+Slovakia,2013,3121.0,kT,europe,Slovakia
+Slovenia,2013,614.0,kT,europe,Slovenia
+South Africa,2013,12168.0,kT,africa,South Africa
+Spain,2013,13736.0,kT,europe,Spain
+Sri Lanka,2013,1929.0,kT,asia,Sri Lanka
+Sudan,2013,3538.0,kT,africa,Sudan
+Suriname,2013,131.0,kT,south america,Suriname
+Sweden,2013,2560.0,kT,europe,Sweden
+Switzerland,2013,4740.0,kT,europe,Switzerland
+Syria,2013,4000.0,kT,asia,Syrian Arab Republic
+Taiwan,2013,16554.0,kT,asia,"China, Taiwan Province of"
+Tajikistan,2013,384.0,kT,asia,Tajikistan
+Tanzania,2013,2346.0,kT,africa,United Republic of Tanzania
+Thailand,2013,35854.0,kT,asia,Thailand
+Togo,2013,1800.0,kT,africa,Togo
+Trinidad and Tobago,2013,802.0,kT,northern america,Trinidad and Tobago
+Tunisia,2013,7504.0,kT,africa,Tunisia
+Turkey,2013,71337.0,kT,asia,Turkey
+Turkmenistan,2013,2650.0,kT,asia,Turkmenistan
+Uganda,2013,2023.0,kT,africa,Uganda
+Ukraine,2013,9857.0,kT,europe,Ukraine
+United Arab Emirates,2013,15700.0,kT,asia,United Arab Emirates
+United Kingdom,2013,8203.0,kT,europe,United Kingdom of Great Britain and Northern Ireland
+United States,2013,77415.0,kT,northern america,United States of America
+Uruguay,2013,850.0,kT,south america,Uruguay
+Uzbekistan,2013,6990.0,kT,asia,Uzbekistan
+Venezuela,2013,8846.0,kT,south america,Venezuela (Bolivarian Republic of)
+Vietnam,2013,57516.0,kT,asia,Viet Nam
+Yemen,2013,3300.0,kT,asia,Yemen
+Zambia,2013,1810.0,kT,africa,Zambia
+Zimbabwe,2013,1190.0,kT,africa,Zimbabwe
+Afghanistan,2014,87.0,kT,asia,Afghanistan
+Albania,2014,1740.0,kT,europe,Albania
+Algeria,2014,21000.0,kT,africa,Algeria
+Angola,2014,5100.0,kT,africa,Angola
+Argentina,2014,11408.0,kT,south america,Argentina
+Armenia,2014,422.0,kT,asia,Armenia
+Australia,2014,9000.0,kT,oceania,Australia
+Austria,2014,4400.0,kT,europe,Austria
+Azerbaijan,2014,2941.0,kT,asia,Azerbaijan
+Bahrain,2014,1300.0,kT,asia,Bahrain
+Bangladesh,2014,17000.0,kT,asia,Bangladesh
+Barbados,2014,160.0,kT,northern america,Barbados
+Belarus,2014,5617.0,kT,europe,Belarus
+Belgium,2014,6364.0,kT,europe,Belgium
+Benin,2014,1396.0,kT,africa,Benin
+Bhutan,2014,690.0,kT,asia,Bhutan
+Bolivia,2014,3337.0,kT,south america,Bolivia (Plurinational State of)
+Bosnia and Herzegovina,2014,840.0,kT,europe,Bosnia and Herzegovina
+Botswana,2014,15.0,kT,africa,Botswana
+Brazil,2014,71254.0,kT,south america,Brazil
+Brunei,2014,240.0,kT,asia,Brunei Darussalam
+Bulgaria,2014,1785.0,kT,europe,Bulgaria
+Burkina Faso,2014,403.0,kT,africa,Burkina Faso
+Burma,2014,1317.0,kT,asia,Myanmar
+Burundi,2014,70.0,kT,africa,Burundi
+Cambodia,2014,1400.0,kT,asia,Cambodia
+Cameroon,2014,1300.0,kT,africa,Cameroon
+Canada,2014,11879.0,kT,northern america,Canada
+Chad,2014,200.0,kT,africa,Chad
+Chile,2014,4200.0,kT,south america,Chile
+China,2014,2492000.0,kT,asia,"China, mainland"
+Colombia,2014,12384.0,kT,south america,Colombia
+Congo (Brazzaville),2014,460.0,kT,africa,Democratic Republic of the Congo
+Congo (Kinshasa),2014,330.0,kT,africa,Democratic Republic of the Congo
+Costa Rica,2014,1500.0,kT,central america,Costa Rica
+Côte d’Ivoire,2014,2690.0,kT,africa,Côte d'Ivoire
+Croatia,2014,2359.0,kT,europe,Croatia
+Cuba,2014,1580.0,kT,northern america,Cuba
+Cyprus,2014,735.0,kT,asia,Cyprus
+Czechia,2014,3511.0,kT,europe,Czechia
+Denmark,2014,1876.0,kT,europe,Denmark
+Djibouti,2014,170.0,kT,africa,Djibouti
+Dominican Republic,2014,5018.0,kT,northern america,Dominican Republic
+Ecuador,2014,6600.0,kT,south america,Ecuador
+Egypt,2014,52080.0,kT,africa,Egypt
+El Salvador,2014,1000.0,kT,central america,El Salvador
+Eritrea,2014,230.0,kT,africa,Eritrea
+Estonia,2014,447.0,kT,europe,Estonia
+Ethiopia,2014,5424.0,kT,africa,Ethiopia
+Fiji,2014,188.0,kT,oceania,Fiji
+Finland,2014,1250.0,kT,europe,Finland
+France,2014,16400.0,kT,europe,France
+French Guiana,2014,87.0,kT,south america,French Guyana
+Gabon,2014,170.0,kT,africa,Gabon
+Georgia,2014,1626.0,kT,asia,Georgia
+Germany,2014,32099.0,kT,europe,Germany
+Ghana,2014,4500.0,kT,africa,Ghana
+Greece,2014,5105.0,kT,europe,Greece
+Guadeloupe,2014,300.0,kT,northern america,Guadeloupe
+Guatemala,2014,3500.0,kT,central america,Guatemala
+Guinea,2014,435.0,kT,africa,Guinea
+Guyana,2014,2.0,kT,south america,Guyana
+Haiti,2014,200.0,kT,northern america,Haiti
+Honduras,2014,1700.0,kT,central america,Honduras
+Hong Kong,2014,1900.0,kT,asia,"China, Hong Kong SAR"
+Hungary,2014,1530.0,kT,europe,Hungary
+India,2014,240000.0,kT,asia,India
+Indonesia,2014,56760.0,kT,asia,Indonesia
+Iran,2014,66700.0,kT,asia,Iran (Islamic Republic of)
+Iraq,2014,9000.0,kT,asia,Iraq
+Ireland,2014,2000.0,kT,europe,Ireland
+Israel,2014,6603.0,kT,asia,Israel
+Italy,2014,21400.0,kT,europe,Italy
+Jamaica,2014,830.0,kT,northern america,Jamaica
+Japan,2014,57913.0,kT,asia,Japan
+Jordan,2014,4400.0,kT,asia,Jordan
+Kazakhstan,2014,8140.0,kT,asia,Kazakhstan
+Kenya,2014,5883.0,kT,africa,Kenya
+North Korea,2014,6680.0,kT,asia,Democratic People's Republic of Korea
+South Korea,2014,47048.0,kT,asia,Republic of Korea
+Kosovo,2014,480.0,kT,europe,Serbia
+Kuwait,2014,3800.0,kT,asia,Kuwait
+Kyrgyzstan,2014,1730.0,kT,asia,Kyrgyzstan
+Laos,2014,2201.0,kT,asia,Lao People's Democratic Republic
+Latvia,2014,1100.0,kT,europe,Latvia
+Lebanon,2014,5517.0,kT,asia,Lebanon
+Liberia,2014,295.0,kT,africa,Liberia
+Libya,2014,7000.0,kT,africa,Libya
+Lithuania,2014,903.0,kT,europe,Lithuania
+Luxembourg,2014,1058.0,kT,europe,Luxembourg
+Macau,2014,590.0,kT,asia,"China, mainland"
+Macedonia,2014,660.0,kT,europe,North Macedonia
+Madagascar,2014,240.0,kT,africa,Madagascar
+Malawi,2014,270.0,kT,africa,Malawi
+Malaysia,2014,24280.0,kT,asia,Malaysia
+Mali,2014,660.0,kT,africa,Mali
+Martinique,2014,150.0,kT,northern america,Martinique
+Mauritania,2014,870.0,kT,africa,Mauritania
+Mexico,2014,36597.0,kT,central america,Mexico
+Moldova,2014,1220.0,kT,europe,Republic of Moldova
+Mongolia,2014,411.0,kT,asia,Mongolia
+Morocco,2014,15700.0,kT,africa,Morocco
+Mozambique,2014,1512.0,kT,africa,Mozambique
+Namibia,2014,731.0,kT,africa,Namibia
+Nepal,2014,3100.0,kT,asia,Nepal
+Netherlands,2014,2610.0,kT,europe,Netherlands
+New Caledonia,2014,106.0,kT,oceania,New Caledonia
+New Zealand,2014,1100.0,kT,oceania,New Zealand
+Nicaragua,2014,700.0,kT,central america,Nicaragua
+Niger,2014,21.0,kT,africa,Niger
+Nigeria,2014,20000.0,kT,africa,Nigeria
+Norway,2014,1700.0,kT,europe,Norway
+Oman,2014,5100.0,kT,asia,Oman
+Pakistan,2014,31960.0,kT,asia,Pakistan
+Panama,2014,2190.0,kT,central america,Panama
+Papua New Guineae,2014,200.0,kT,oceania,Papua New Guinea
+Paraguay,2014,1000.0,kT,south america,Paraguay
+Peru,2014,10676.0,kT,south america,Peru
+Philippines,2014,21305.0,kT,asia,Philippines
+Poland,2014,15534.0,kT,europe,Poland
+Portugal,2014,5400.0,kT,europe,Portugal
+Qatar,2014,6500.0,kT,asia,Qatar
+Reunion,2014,350.0,kT,africa,Réunion
+Romania,2014,7621.0,kT,europe,Romania
+Russia,2014,69139.0,kT,europe,Russian Federation
+Rwanda,2014,140.0,kT,africa,Rwanda
+Saudi Arabia,2014,57223.0,kT,asia,Saudi Arabia
+Senegal,2014,4899.0,kT,africa,Senegal
+Serbia,2014,1605.0,kT,europe,Serbia
+Sierra Leone,2014,336.0,kT,africa,Sierra Leone
+Slovakia,2014,3319.0,kT,europe,Slovakia
+Slovenia,2014,706.0,kT,europe,Slovenia
+South Africa,2014,12068.0,kT,africa,South Africa
+Spain,2014,14587.0,kT,europe,Spain
+Sri Lanka,2014,1885.0,kT,asia,Sri Lanka
+Sudan,2014,3478.0,kT,africa,Sudan
+Suriname,2014,130.0,kT,south america,Suriname
+Sweden,2014,2500.0,kT,europe,Sweden
+Switzerland,2014,4790.0,kT,europe,Switzerland
+Syria,2014,3800.0,kT,asia,Syrian Arab Republic
+Taiwan,2014,14592.0,kT,asia,"China, Taiwan Province of"
+Tajikistan,2014,1150.0,kT,asia,Tajikistan
+Tanzania,2014,2809.0,kT,africa,United Republic of Tanzania
+Thailand,2014,36150.0,kT,asia,Thailand
+Togo,2014,1700.0,kT,africa,Togo
+Trinidad and Tobago,2014,837.0,kT,northern america,Trinidad and Tobago
+Tunisia,2014,9127.0,kT,africa,Tunisia
+Turkey,2014,71239.0,kT,asia,Turkey
+Turkmenistan,2014,2900.0,kT,asia,Turkmenistan
+Uganda,2014,2141.0,kT,africa,Uganda
+Ukraine,2014,8636.0,kT,europe,Ukraine
+United Arab Emirates,2014,16000.0,kT,asia,United Arab Emirates
+United Kingdom,2014,8958.0,kT,europe,United Kingdom of Great Britain and Northern Ireland
+United States,2014,83124.0,kT,northern america,United States of America
+Uruguay,2014,820.0,kT,south america,Uruguay
+Uzbekistan,2014,7350.0,kT,asia,Uzbekistan
+Venezuela,2014,7940.0,kT,south america,Venezuela (Bolivarian Republic of)
+Vietnam,2014,60982.0,kT,asia,Viet Nam
+Yemen,2014,3100.0,kT,asia,Yemen
+Zambia,2014,1900.0,kT,africa,Zambia
+Zimbabwe,2014,1300.0,kT,africa,Zimbabwe
+Afghanistan,2015,70.0,kT,asia,Afghanistan
+Albania,2015,1980.0,kT,europe,Albania
+Algeria,2015,23000.0,kT,africa,Algeria
+Angola,2015,5200.0,kT,africa,Angola
+Argentina,2015,11000.0,kT,south america,Argentina
+Armenia,2015,417.0,kT,asia,Armenia
+Australia,2015,9500.0,kT,oceania,Australia
+Austria,2015,4810.0,kT,europe,Austria
+Azerbaijan,2015,2683.0,kT,asia,Azerbaijan
+Bahrain,2015,1300.0,kT,asia,Bahrain
+Bangladesh,2015,28000.0,kT,asia,Bangladesh
+Barbados,2015,160.0,kT,northern america,Barbados
+Belarus,2015,4638.0,kT,europe,Belarus
+Belgium,2015,6275.0,kT,europe,Belgium
+Benin,2015,1382.0,kT,africa,Benin
+Bhutan,2015,791.0,kT,asia,Bhutan
+Bolivia,2015,3468.0,kT,south america,Bolivia (Plurinational State of)
+Bosnia and Herzegovina,2015,808.0,kT,europe,Bosnia and Herzegovina
+Botswana,2015,15.0,kT,africa,Botswana
+Brazil,2015,65283.0,kT,south america,Brazil
+Brunei,2015,230.0,kT,asia,Brunei Darussalam
+Bulgaria,2015,2114.0,kT,europe,Bulgaria
+Burkina Faso,2015,263.0,kT,africa,Burkina Faso
+Burma,2015,989.0,kT,asia,Myanmar
+Burundi,2015,100.0,kT,africa,Burundi
+Cambodia,2015,1700.0,kT,asia,Cambodia
+Cameroon,2015,1600.0,kT,africa,Cameroon
+Canada,2015,12167.0,kT,northern america,Canada
+Chad,2015,200.0,kT,africa,Chad
+Chile,2015,4300.0,kT,south america,Chile
+China,2015,2359000.0,kT,asia,"China, mainland"
+Colombia,2015,13153.0,kT,south america,Colombia
+Congo (Brazzaville),2015,700.0,kT,africa,Democratic Republic of the Congo
+Congo (Kinshasa),2015,399.0,kT,africa,Democratic Republic of the Congo
+Costa Rica,2015,1600.0,kT,central america,Costa Rica
+Côte d’Ivoire,2015,3100.0,kT,africa,Côte d'Ivoire
+Croatia,2015,2340.0,kT,europe,Croatia
+Cuba,2015,1518.0,kT,northern america,Cuba
+Cyprus,2015,788.0,kT,asia,Cyprus
+Czechia,2015,3781.0,kT,europe,Czechia
+Denmark,2015,2023.0,kT,europe,Denmark
+Djibouti,2015,180.0,kT,africa,Djibouti
+Dominican Republic,2015,5181.0,kT,northern america,Dominican Republic
+Ecuador,2015,6200.0,kT,south america,Ecuador
+Egypt,2015,53940.0,kT,africa,Egypt
+El Salvador,2015,1000.0,kT,central america,El Salvador
+Eritrea,2015,200.0,kT,africa,Eritrea
+Estonia,2015,390.0,kT,europe,Estonia
+Ethiopia,2015,7500.0,kT,africa,Ethiopia
+Fiji,2015,204.0,kT,oceania,Fiji
+Finland,2015,1300.0,kT,europe,Finland
+France,2015,15600.0,kT,europe,France
+French Guiana,2015,76.0,kT,south america,French Guyana
+Gabon,2015,150.0,kT,africa,Gabon
+Georgia,2015,1759.0,kT,asia,Georgia
+Germany,2015,31150.0,kT,europe,Germany
+Ghana,2015,3830.0,kT,africa,Ghana
+Greece,2015,5289.0,kT,europe,Greece
+Guadeloupe,2015,300.0,kT,northern america,Guadeloupe
+Guatemala,2015,3500.0,kT,central america,Guatemala
+Guinea,2015,500.0,kT,africa,Guinea
+Guyana,2015,100.0,kT,south america,Guyana
+Haiti,2015,200.0,kT,northern america,Haiti
+Honduras,2015,1700.0,kT,central america,Honduras
+Hong Kong,2015,1900.0,kT,asia,"China, Hong Kong SAR"
+Hungary,2015,1570.0,kT,europe,Hungary
+India,2015,260000.0,kT,asia,India
+Indonesia,2015,59850.0,kT,asia,Indonesia
+Iran,2015,58600.0,kT,asia,Iran (Islamic Republic of)
+Iraq,2015,10000.0,kT,asia,Iraq
+Ireland,2015,2500.0,kT,europe,Ireland
+Israel,2015,6904.0,kT,asia,Israel
+Italy,2015,21000.0,kT,europe,Italy
+Jamaica,2015,808.0,kT,northern america,Jamaica
+Japan,2015,54827.0,kT,asia,Japan
+Jordan,2015,4500.0,kT,asia,Jordan
+Kazakhstan,2015,8729.0,kT,asia,Kazakhstan
+Kenya,2015,6353.0,kT,africa,Kenya
+North Korea,2015,6700.0,kT,asia,Democratic People's Republic of Korea
+South Korea,2015,52044.0,kT,asia,Republic of Korea
+Kosovo,2015,590.0,kT,europe,Serbia
+Kuwait,2015,4200.0,kT,asia,Kuwait
+Kyrgyzstan,2015,1496.0,kT,asia,Kyrgyzstan
+Laos,2015,3099.0,kT,asia,Lao People's Democratic Republic
+Latvia,2015,1100.0,kT,europe,Latvia
+Lebanon,2015,5043.0,kT,asia,Lebanon
+Liberia,2015,298.0,kT,africa,Liberia
+Libya,2015,5000.0,kT,africa,Libya
+Lithuania,2015,980.0,kT,europe,Lithuania
+Luxembourg,2015,1080.0,kT,europe,Luxembourg
+Macau,2015,600.0,kT,asia,"China, mainland"
+Macedonia,2015,672.0,kT,europe,North Macedonia
+Madagascar,2015,240.0,kT,africa,Madagascar
+Malawi,2015,280.0,kT,africa,Malawi
+Malaysia,2015,24710.0,kT,asia,Malaysia
+Mali,2015,630.0,kT,africa,Mali
+Martinique,2015,150.0,kT,northern america,Martinique
+Mauritania,2015,860.0,kT,africa,Mauritania
+Mexico,2015,39613.0,kT,central america,Mexico
+Moldova,2015,1045.0,kT,europe,Republic of Moldova
+Mongolia,2015,410.0,kT,asia,Mongolia
+Morocco,2015,16100.0,kT,africa,Morocco
+Mozambique,2015,1585.0,kT,africa,Mozambique
+Namibia,2015,796.0,kT,africa,Namibia
+Nepal,2015,3900.0,kT,asia,Nepal
+Netherlands,2015,2260.0,kT,europe,Netherlands
+New Caledonia,2015,112.0,kT,oceania,New Caledonia
+New Zealand,2015,1200.0,kT,oceania,New Zealand
+Nicaragua,2015,700.0,kT,central america,Nicaragua
+Niger,2015,51.0,kT,africa,Niger
+Nigeria,2015,21000.0,kT,africa,Nigeria
+Norway,2015,1800.0,kT,europe,Norway
+Oman,2015,5300.0,kT,asia,Oman
+Pakistan,2015,33232.0,kT,asia,Pakistan
+Panama,2015,2200.0,kT,central america,Panama
+Papua New Guineae,2015,200.0,kT,oceania,Papua New Guinea
+Paraguay,2015,1200.0,kT,south america,Paraguay
+Peru,2015,10410.0,kT,south america,Peru
+Philippines,2015,24050.0,kT,asia,Philippines
+Poland,2015,15206.0,kT,europe,Poland
+Portugal,2015,5600.0,kT,europe,Portugal
+Qatar,2015,6500.0,kT,asia,Qatar
+Reunion,2015,250.0,kT,africa,Réunion
+Romania,2015,8356.0,kT,europe,Romania
+Russia,2015,62104.0,kT,europe,Russian Federation
+Rwanda,2015,180.0,kT,africa,Rwanda
+Saudi Arabia,2015,61900.0,kT,asia,Saudi Arabia
+Senegal,2015,4615.0,kT,africa,Senegal
+Serbia,2015,1654.0,kT,europe,Serbia
+Sierra Leone,2015,324.0,kT,africa,Sierra Leone
+Slovakia,2015,3466.0,kT,europe,Slovakia
+Slovenia,2015,600.0,kT,europe,Slovenia
+South Africa,2015,12992.0,kT,africa,South Africa
+Spain,2015,15000.0,kT,europe,Spain
+Sri Lanka,2015,2287.0,kT,asia,Sri Lanka
+Sudan,2015,3708.0,kT,africa,Sudan
+Suriname,2015,160.0,kT,south america,Suriname
+Sweden,2015,2800.0,kT,europe,Sweden
+Switzerland,2015,4390.0,kT,europe,Switzerland
+Syria,2015,4000.0,kT,asia,Syrian Arab Republic
+Taiwan,2015,13445.0,kT,asia,"China, Taiwan Province of"
+Tajikistan,2015,1418.0,kT,asia,Tajikistan
+Tanzania,2015,3140.0,kT,africa,United Republic of Tanzania
+Thailand,2015,36216.0,kT,asia,Thailand
+Togo,2015,1500.0,kT,africa,Togo
+Trinidad and Tobago,2015,840.0,kT,northern america,Trinidad and Tobago
+Tunisia,2015,9516.0,kT,africa,Tunisia
+Turkey,2015,71419.0,kT,asia,Turkey
+Turkmenistan,2015,3300.0,kT,asia,Turkmenistan
+Uganda,2015,2340.0,kT,africa,Uganda
+Ukraine,2015,8511.0,kT,europe,Ukraine
+United Arab Emirates,2015,20000.0,kT,asia,United Arab Emirates
+United Kingdom,2015,9600.0,kT,europe,United Kingdom of Great Britain and Northern Ireland
+United States,2015,84940.0,kT,northern america,United States of America
+Uruguay,2015,730.0,kT,south america,Uruguay
+Uzbekistan,2015,7900.0,kT,asia,Uzbekistan
+Venezuela,2015,8210.0,kT,south america,Venezuela (Bolivarian Republic of)
+Vietnam,2015,67645.0,kT,asia,Viet Nam
+Yemen,2015,3100.0,kT,asia,Yemen
+Zambia,2015,1800.0,kT,africa,Zambia
+Zimbabwe,2015,1300.0,kT,africa,Zimbabwe
+Afghanistan,2016,101.0,kT,asia,Afghanistan
+Albania,2016,2000.0,kT,europe,Albania
+Algeria,2016,23000.0,kT,africa,Algeria
+Angola,2016,5000.0,kT,africa,Angola
+Argentina,2016,11000.0,kT,south america,Argentina
+Armenia,2016,267.0,kT,asia,Armenia
+Australia,2016,9600.0,kT,oceania,Australia
+Austria,2016,4600.0,kT,europe,Austria
+Azerbaijan,2016,2310.0,kT,asia,Azerbaijan
+Bahrain,2016,1400.0,kT,asia,Bahrain
+Bangladesh,2016,32000.0,kT,asia,Bangladesh
+Barbados,2016,160.0,kT,northern america,Barbados
+Belarus,2016,4503.0,kT,europe,Belarus
+Belgium,2016,6255.0,kT,europe,Belgium
+Benin,2016,1356.0,kT,africa,Benin
+Bhutan,2016,940.0,kT,asia,Bhutan
+Bolivia,2016,3601.0,kT,south america,Bolivia (Plurinational State of)
+Bosnia and Herzegovina,2016,841.0,kT,europe,Bosnia and Herzegovina
+Botswana,2016,15.0,kT,africa,Botswana
+Brazil,2016,57476.0,kT,south america,Brazil
+Brunei,2016,230.0,kT,asia,Brunei Darussalam
+Bulgaria,2016,1994.0,kT,europe,Bulgaria
+Burkina Faso,2016,300.0,kT,africa,Burkina Faso
+Burma,2016,2520.0,kT,asia,Myanmar
+Burundi,2016,100.0,kT,africa,Burundi
+Cambodia,2016,2100.0,kT,asia,Cambodia
+Cameroon,2016,2600.0,kT,africa,Cameroon
+Canada,2016,11870.0,kT,northern america,Canada
+Chad,2016,200.0,kT,africa,Chad
+Chile,2016,4200.0,kT,south america,Chile
+China,2016,2410000.0,kT,asia,"China, mainland"
+Colombia,2016,12495.0,kT,south america,Colombia
+Congo (Brazzaville),2016,950.0,kT,africa,Democratic Republic of the Congo
+Congo (Kinshasa),2016,253.0,kT,africa,Democratic Republic of the Congo
+Costa Rica,2016,1600.0,kT,central america,Costa Rica
+Côte d’Ivoire,2016,3600.0,kT,africa,Côte d'Ivoire
+Croatia,2016,2267.0,kT,europe,Croatia
+Cuba,2016,1493.0,kT,northern america,Cuba
+Cyprus,2016,1019.0,kT,asia,Cyprus
+Czechia,2016,3937.0,kT,europe,Czechia
+Denmark,2016,2260.0,kT,europe,Denmark
+Djibouti,2016,180.0,kT,africa,Djibouti
+Dominican Republic,2016,5171.0,kT,northern america,Dominican Republic
+Ecuador,2016,5600.0,kT,south america,Ecuador
+Egypt,2016,55000.0,kT,africa,Egypt
+El Salvador,2016,1000.0,kT,central america,El Salvador
+Eritrea,2016,200.0,kT,africa,Eritrea
+Estonia,2016,399.0,kT,europe,Estonia
+Ethiopia,2016,8300.0,kT,africa,Ethiopia
+Fiji,2016,219.0,kT,oceania,Fiji
+Finland,2016,1300.0,kT,europe,Finland
+France,2016,15900.0,kT,europe,France
+French Guiana,2016,91.0,kT,south america,French Guyana
+Gabon,2016,,kT,africa,Gabon
+Georgia,2016,1809.0,kT,asia,Georgia
+Germany,2016,32737.0,kT,europe,Germany
+Ghana,2016,4000.0,kT,africa,Ghana
+Greece,2016,6540.0,kT,europe,Greece
+Guadeloupe,2016,300.0,kT,northern america,Guadeloupe
+Guatemala,2016,3600.0,kT,central america,Guatemala
+Guinea,2016,500.0,kT,africa,Guinea
+Guyana,2016,400.0,kT,south america,Guyana
+Haiti,2016,200.0,kT,northern america,Haiti
+Honduras,2016,1700.0,kT,central america,Honduras
+Hong Kong,2016,1900.0,kT,asia,"China, Hong Kong SAR"
+Hungary,2016,1280.0,kT,europe,Hungary
+India,2016,280000.0,kT,asia,India
+Indonesia,2016,62000.0,kT,asia,Indonesia
+Iran,2016,55000.0,kT,asia,Iran (Islamic Republic of)
+Iraq,2016,10000.0,kT,asia,Iraq
+Ireland,2016,2500.0,kT,europe,Ireland
+Israel,2016,7150.0,kT,asia,Israel
+Italy,2016,19300.0,kT,europe,Italy
+Jamaica,2016,911.0,kT,northern america,Jamaica
+Japan,2016,53255.0,kT,asia,Japan
+Jordan,2016,4800.0,kT,asia,Jordan
+Kazakhstan,2016,9204.0,kT,asia,Kazakhstan
+Kenya,2016,6715.0,kT,africa,Kenya
+North Korea,2016,7080.0,kT,asia,Democratic People's Republic of Korea
+South Korea,2016,56747.0,kT,asia,Republic of Korea
+Kosovo,2016,710.0,kT,europe,Serbia
+Kuwait,2016,4200.0,kT,asia,Kuwait
+Kyrgyzstan,2016,1302.0,kT,asia,Kyrgyzstan
+Laos,2016,3398.0,kT,asia,Lao People's Democratic Republic
+Latvia,2016,1000.0,kT,europe,Latvia
+Lebanon,2016,5247.0,kT,asia,Lebanon
+Liberia,2016,241.0,kT,africa,Liberia
+Libya,2016,4300.0,kT,africa,Libya
+Lithuania,2016,1010.0,kT,europe,Lithuania
+Luxembourg,2016,1100.0,kT,europe,Luxembourg
+Macau,2016,,kT,asia,"China, mainland"
+Macedonia,2016,855.0,kT,europe,North Macedonia
+Madagascar,2016,240.0,kT,africa,Madagascar
+Malawi,2016,420.0,kT,africa,Malawi
+Malaysia,2016,22330.0,kT,asia,Malaysia
+Mali,2016,630.0,kT,africa,Mali
+Martinique,2016,150.0,kT,northern america,Martinique
+Mauritania,2016,880.0,kT,africa,Mauritania
+Mexico,2016,40577.0,kT,central america,Mexico
+Moldova,2016,975.0,kT,europe,Republic of Moldova
+Mongolia,2016,432.0,kT,asia,Mongolia
+Morocco,2016,15800.0,kT,africa,Morocco
+Mozambique,2016,2446.0,kT,africa,Mozambique
+Namibia,2016,778.0,kT,africa,Namibia
+Nepal,2016,4500.0,kT,asia,Nepal
+Netherlands,2016,2260.0,kT,europe,Netherlands
+New Caledonia,2016,112.0,kT,oceania,New Caledonia
+New Zealand,2016,900.0,kT,oceania,New Zealand
+Nicaragua,2016,700.0,kT,central america,Nicaragua
+Niger,2016,51.0,kT,africa,Niger
+Nigeria,2016,22000.0,kT,africa,Nigeria
+Norway,2016,1850.0,kT,europe,Norway
+Oman,2016,5500.0,kT,asia,Oman
+Pakistan,2016,37020.0,kT,asia,Pakistan
+Panama,2016,2200.0,kT,central america,Panama
+Papua New Guineae,2016,200.0,kT,oceania,Papua New Guinea
+Paraguay,2016,1300.0,kT,south america,Paraguay
+Peru,2016,10094.0,kT,south america,Peru
+Philippines,2016,25000.0,kT,asia,Philippines
+Poland,2016,15782.0,kT,europe,Poland
+Portugal,2016,4200.0,kT,europe,Portugal
+Qatar,2016,6500.0,kT,asia,Qatar
+Reunion,2016,250.0,kT,africa,Réunion
+Romania,2016,8038.0,kT,europe,Romania
+Russia,2016,54935.0,kT,europe,Russian Federation
+Rwanda,2016,350.0,kT,africa,Rwanda
+Saudi Arabia,2016,55943.0,kT,asia,Saudi Arabia
+Senegal,2016,5149.0,kT,africa,Senegal
+Serbia,2016,1801.0,kT,europe,Serbia
+Sierra Leone,2016,320.0,kT,africa,Sierra Leone
+Slovakia,2016,3518.0,kT,europe,Slovakia
+Slovenia,2016,700.0,kT,europe,Slovenia
+South Africa,2016,13000.0,kT,africa,South Africa
+Spain,2016,15000.0,kT,europe,Spain
+Sri Lanka,2016,2695.0,kT,asia,Sri Lanka
+Sudan,2016,4013.0,kT,africa,Sudan
+Suriname,2016,150.0,kT,south america,Suriname
+Sweden,2016,2800.0,kT,europe,Sweden
+Switzerland,2016,4710.0,kT,europe,Switzerland
+Syria,2016,2000.0,kT,asia,Syrian Arab Republic
+Taiwan,2016,12126.0,kT,asia,"China, Taiwan Province of"
+Tajikistan,2016,1361.0,kT,asia,Tajikistan
+Tanzania,2016,4071.0,kT,africa,United Republic of Tanzania
+Thailand,2016,39940.0,kT,asia,Thailand
+Togo,2016,1500.0,kT,africa,Togo
+Trinidad and Tobago,2016,721.0,kT,northern america,Trinidad and Tobago
+Tunisia,2016,9028.0,kT,africa,Tunisia
+Turkey,2016,75403.0,kT,asia,Turkey
+Turkmenistan,2016,3500.0,kT,asia,Turkmenistan
+Uganda,2016,2494.0,kT,africa,Uganda
+Ukraine,2016,9023.0,kT,europe,Ukraine
+United Arab Emirates,2016,22000.0,kT,asia,United Arab Emirates
+United Kingdom,2016,9400.0,kT,europe,United Kingdom of Great Britain and Northern Ireland
+United States,2016,85153.0,kT,northern america,United States of America
+Uruguay,2016,740.0,kT,south america,Uruguay
+Uzbekistan,2016,8300.0,kT,asia,Uzbekistan
+Venezuela,2016,7300.0,kT,south america,Venezuela (Bolivarian Republic of)
+Vietnam,2016,74457.0,kT,asia,Viet Nam
+Yemen,2016,2400.0,kT,asia,Yemen
+Zambia,2016,2000.0,kT,africa,Zambia
+Zimbabwe,2016,1500.0,kT,africa,Zimbabwe
+Afghanistan,2017,180.0,kT,asia,Afghanistan
+Albania,2017,2000.0,kT,europe,Albania
+Algeria,2017,26900.0,kT,africa,Algeria
+Angola,2017,5000.0,kT,africa,Angola
+Argentina,2017,11000.0,kT,south america,Argentina
+Armenia,2017,356.0,kT,asia,Armenia
+Australia,2017,9700.0,kT,oceania,Australia
+Austria,2017,4600.0,kT,europe,Austria
+Azerbaijan,2017,2955.0,kT,asia,Azerbaijan
+Bahrain,2017,1500.0,kT,asia,Bahrain
+Bangladesh,2017,28000.0,kT,asia,Bangladesh
+Barbados,2017,160.0,kT,northern america,Barbados
+Belarus,2017,4490.0,kT,europe,Belarus
+Belgium,2017,6380.0,kT,europe,Belgium
+Benin,2017,1360.0,kT,africa,Benin
+Bhutan,2017,894.0,kT,asia,Bhutan
+Bolivia,2017,3611.0,kT,south america,Bolivia (Plurinational State of)
+Bosnia and Herzegovina,2017,910.0,kT,europe,Bosnia and Herzegovina
+Botswana,2017,15.0,kT,africa,Botswana
+Brazil,2017,54004.0,kT,south america,Brazil
+Brunei,2017,230.0,kT,asia,Brunei Darussalam
+Bulgaria,2017,2117.0,kT,europe,Bulgaria
+Burkina Faso,2017,300.0,kT,africa,Burkina Faso
+Burma,2017,2430.0,kT,asia,Myanmar
+Burundi,2017,45.0,kT,africa,Burundi
+Cambodia,2017,2200.0,kT,asia,Cambodia
+Cameroon,2017,2600.0,kT,africa,Cameroon
+Canada,2017,12710.0,kT,northern america,Canada
+Chad,2017,250.0,kT,africa,Chad
+Chile,2017,4200.0,kT,south america,Chile
+China,2017,2331000.0,kT,asia,"China, mainland"
+Colombia,2017,12500.0,kT,south america,Colombia
+Congo (Brazzaville),2017,1050.0,kT,africa,Democratic Republic of the Congo
+Congo (Kinshasa),2017,900.0,kT,africa,Democratic Republic of the Congo
+Costa Rica,2017,1800.0,kT,central america,Costa Rica
+Côte d’Ivoire,2017,3600.0,kT,africa,Côte d'Ivoire
+Croatia,2017,2490.0,kT,europe,Croatia
+Cuba,2017,1431.0,kT,northern america,Cuba
+Cyprus,2017,1319.0,kT,asia,Cyprus
+Czechia,2017,4043.0,kT,europe,Czechia
+Denmark,2017,2360.0,kT,europe,Denmark
+Djibouti,2017,180.0,kT,africa,Djibouti
+Dominican Republic,2017,5254.0,kT,northern america,Dominican Republic
+Ecuador,2017,5700.0,kT,south america,Ecuador
+Egypt,2017,53000.0,kT,africa,Egypt
+El Salvador,2017,1000.0,kT,central america,El Salvador
+Eritrea,2017,210.0,kT,africa,Eritrea
+Estonia,2017,503.0,kT,europe,Estonia
+Ethiopia,2017,9000.0,kT,africa,Ethiopia
+Fiji,2017,141.0,kT,oceania,Fiji
+Finland,2017,1300.0,kT,europe,Finland
+France,2017,16000.0,kT,europe,France
+French Guiana,2017,80.0,kT,south america,French Guyana
+Gabon,2017,,kT,africa,Gabon
+Georgia,2017,1800.0,kT,asia,Georgia
+Germany,2017,33991.0,kT,europe,Germany
+Ghana,2017,3800.0,kT,africa,Ghana
+Greece,2017,6246.0,kT,europe,Greece
+Guadeloupe,2017,300.0,kT,northern america,Guadeloupe
+Guatemala,2017,3700.0,kT,central america,Guatemala
+Guinea,2017,500.0,kT,africa,Guinea
+Guyana,2017,400.0,kT,south america,Guyana
+Haiti,2017,200.0,kT,northern america,Haiti
+Honduras,2017,1700.0,kT,central america,Honduras
+Hong Kong,2017,1900.0,kT,asia,"China, Hong Kong SAR"
+Hungary,2017,1660.0,kT,europe,Hungary
+India,2017,281000.0,kT,asia,India
+Indonesia,2017,65000.0,kT,asia,Indonesia
+Iran,2017,55000.0,kT,asia,Iran (Islamic Republic of)
+Iraq,2017,10000.0,kT,asia,Iraq
+Ireland,2017,2500.0,kT,europe,Ireland
+Israel,2017,6361.0,kT,asia,Israel
+Italy,2017,20000.0,kT,europe,Italy
+Jamaica,2017,910.0,kT,northern america,Jamaica
+Japan,2017,55195.0,kT,asia,Japan
+Jordan,2017,5060.0,kT,asia,Jordan
+Kazakhstan,2017,9398.0,kT,asia,Kazakhstan
+Kenya,2017,6163.0,kT,africa,Kenya
+North Korea,2017,6840.0,kT,asia,Democratic People's Republic of Korea
+South Korea,2017,56500.0,kT,asia,Republic of Korea
+Kosovo,2017,840.0,kT,europe,Serbia
+Kuwait,2017,4200.0,kT,asia,Kuwait
+Kyrgyzstan,2017,1503.0,kT,asia,Kyrgyzstan
+Laos,2017,3870.0,kT,asia,Lao People's Democratic Republic
+Latvia,2017,500.0,kT,europe,Latvia
+Lebanon,2017,5149.0,kT,asia,Lebanon
+Liberia,2017,285.0,kT,africa,Liberia
+Libya,2017,5650.0,kT,africa,Libya
+Lithuania,2017,1023.0,kT,europe,Lithuania
+Luxembourg,2017,1100.0,kT,europe,Luxembourg
+Macau,2017,,kT,asia,"China, mainland"
+Macedonia,2017,901.0,kT,europe,North Macedonia
+Madagascar,2017,240.0,kT,africa,Madagascar
+Malawi,2017,420.0,kT,africa,Malawi
+Malaysia,2017,22000.0,kT,asia,Malaysia
+Mali,2017,630.0,kT,africa,Mali
+Martinique,2017,150.0,kT,northern america,Martinique
+Mauritania,2017,901.0,kT,africa,Mauritania
+Mexico,2017,41601.0,kT,central america,Mexico
+Moldova,2017,1116.0,kT,europe,Republic of Moldova
+Mongolia,2017,675.0,kT,asia,Mongolia
+Morocco,2017,16400.0,kT,africa,Morocco
+Mozambique,2017,2350.0,kT,africa,Mozambique
+Namibia,2017,780.0,kT,africa,Namibia
+Nepal,2017,4900.0,kT,asia,Nepal
+Netherlands,2017,2300.0,kT,europe,Netherlands
+New Caledonia,2017,104.0,kT,oceania,New Caledonia
+New Zealand,2017,360.0,kT,oceania,New Zealand
+Nicaragua,2017,900.0,kT,central america,Nicaragua
+Niger,2017,51.0,kT,africa,Niger
+Nigeria,2017,19000.0,kT,africa,Nigeria
+Norway,2017,1900.0,kT,europe,Norway
+Oman,2017,5300.0,kT,asia,Oman
+Pakistan,2017,38900.0,kT,asia,Pakistan
+Panama,2017,1900.0,kT,central america,Panama
+Papua New Guineae,2017,200.0,kT,oceania,Papua New Guinea
+Paraguay,2017,1400.0,kT,south america,Paraguay
+Peru,2017,9980.0,kT,south america,Peru
+Philippines,2017,26000.0,kT,asia,Philippines
+Poland,2017,17230.0,kT,europe,Poland
+Portugal,2017,4720.0,kT,europe,Portugal
+Qatar,2017,6500.0,kT,asia,Qatar
+Reunion,2017,300.0,kT,africa,Réunion
+Romania,2017,8509.0,kT,europe,Romania
+Russia,2017,54678.0,kT,europe,Russian Federation
+Rwanda,2017,390.0,kT,africa,Rwanda
+Saudi Arabia,2017,47134.0,kT,asia,Saudi Arabia
+Senegal,2017,5197.0,kT,africa,Senegal
+Serbia,2017,1908.0,kT,europe,Serbia
+Sierra Leone,2017,324.0,kT,africa,Sierra Leone
+Slovakia,2017,3782.0,kT,europe,Slovakia
+Slovenia,2017,660.0,kT,europe,Slovenia
+South Africa,2017,14000.0,kT,africa,South Africa
+Spain,2017,14500.0,kT,europe,Spain
+Sri Lanka,2017,2819.0,kT,asia,Sri Lanka
+Sudan,2017,4326.0,kT,africa,Sudan
+Suriname,2017,150.0,kT,south america,Suriname
+Sweden,2017,2800.0,kT,europe,Sweden
+Switzerland,2017,4500.0,kT,europe,Switzerland
+Syria,2017,2000.0,kT,asia,Syrian Arab Republic
+Taiwan,2017,10876.0,kT,asia,"China, Taiwan Province of"
+Tajikistan,2017,3100.0,kT,asia,Tajikistan
+Tanzania,2017,4200.0,kT,africa,United Republic of Tanzania
+Thailand,2017,33587.0,kT,asia,Thailand
+Togo,2017,1500.0,kT,africa,Togo
+Trinidad and Tobago,2017,670.0,kT,northern america,Trinidad and Tobago
+Tunisia,2017,8053.0,kT,africa,Tunisia
+Turkey,2017,80552.0,kT,asia,Turkey
+Turkmenistan,2017,3600.0,kT,asia,Turkmenistan
+Uganda,2017,2498.0,kT,africa,Uganda
+Ukraine,2017,9003.0,kT,europe,Ukraine
+United Arab Emirates,2017,23000.0,kT,asia,United Arab Emirates
+United Kingdom,2017,9500.0,kT,europe,United Kingdom of Great Britain and Northern Ireland
+United States,2017,86799.0,kT,northern america,United States of America
+Uruguay,2017,817.0,kT,south america,Uruguay
+Uzbekistan,2017,8490.0,kT,asia,Uzbekistan
+Venezuela,2017,8030.0,kT,south america,Venezuela (Bolivarian Republic of)
+Vietnam,2017,78843.0,kT,asia,Viet Nam
+Yemen,2017,2000.0,kT,asia,Yemen
+Zambia,2017,2100.0,kT,africa,Zambia
+Zimbabwe,2017,1750.0,kT,africa,Zimbabwe

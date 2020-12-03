@@ -18,6 +18,7 @@ proc_data_ = raw_data_.rename(columns = {'decimal' : 'date (decimal)',
                             'average_unc': 'mon. mean 1-sigma unc.',
                             'trend':'season-filtered fit',
                             'trend_unc': 'fit 1-sigma unc.'})
+proc_data_['date (decimal)'] = round(proc_data_['date (decimal)'], 3)
 
 data_tidy = proc_data_.melt(id_vars=proc_data_.columns[:3], 
                                 var_name="Reported value", 

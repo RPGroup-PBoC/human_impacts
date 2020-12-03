@@ -1,0 +1,806 @@
+﻿locality,year,value,units
+Afghanistan,2013,52,kT
+Albania,2013,2000,kT
+Algeria,2013,18500,kT
+Angola,2013,4000,kT
+Argentina,2013,11892,kT
+Armenia,2013,431,kT
+Australia,2013,8400,kT
+Austria,2013,4385,kT
+Azerbaijan,2013,2296,kT
+Bahrain,2013,1300,kT
+Bangladesh,2013,16780,kT
+Barbados,2013,160,kT
+Belarus,2013,5057,kT
+Belgium,2013,6119,kT
+Benin,2013,1422,kT
+Bhutan,2013,570,kT
+Bolivia,2013,3061,kT
+Bosnia and Herzegovina,2013,882,kT
+Botswana,2013,15,kT
+Brazil,2013,69975,kT
+Brunei,2013,340,kT
+Bulgaria,2013,1812,kT
+Burkina Faso,2013,580,kT
+Burma,2013,1121,kT
+Burundi,2013,100,kT
+Cambodia,2013,1060,kT
+Cameroon,2013,1400,kT
+Canada,2013,11611,kT
+Chad,2013,180,kT
+Chile,2013,4880,kT
+China,2013,2411000,kT
+Colombia,2013,11252,kT
+Congo (Brazzaville),2013,250,kT
+Congo (Kinshasa),2013,447,kT
+Costa Rica,2013,1460,kT
+Côte d’Ivoire,2013,2300,kT
+Croatia,2013,2333,kT
+Cuba,2013,1659,kT
+Cyprus,2013,855,kT
+Czechia,2013,3211,kT
+Denmark,2013,1830,kT
+Djibouti,2013,150,kT
+Dominican Republic,2013,4246,kT
+Ecuador,2013,6670,kT
+Egypt,2013,50000,kT
+El Salvador,2013,1200,kT
+Eritrea,2013,230,kT
+Estonia,2013,457,kT
+Ethiopia,2013,4493,kT
+Fiji,2013,181,kT
+Finland,2013,1300,kT
+France,2013,18018,kT
+French Guiana,2013,94,kT
+Gabon,2013,170,kT
+Georgia,2013,1619,kT
+Germany,2013,31308,kT
+Ghana,2013,4500,kT
+Greece,2013,5283,kT
+Guadeloupe,2013,300,kT
+Guatemala,2013,2970,kT
+Guinea,2013,377,kT
+Guyana,2013,,kT
+Haiti,2013,100,kT
+Honduras,2013,1700,kT
+Hong Kong,2013,1768,kT
+Hungary,2013,1350,kT
+India,2013,231000,kT
+Indonesia,2013,56690,kT
+Iran,2013,68700,kT
+Iraq,2013,12000,kT
+Ireland,2013,2000,kT
+Israel,2013,6398,kT
+Italy,2013,23100,kT
+Jamaica,2013,825,kT
+Japan,2013,57962,kT
+Jordan,2013,4200,kT
+Kazakhstan,2013,7072,kT
+Kenya,2013,5059,kT
+North Korea,2013,6600,kT
+South Korea,2013,47291,kT
+Kosovo,2013,560,kT
+Kuwait,2013,3000,kT
+Kyrgyzstan,2013,1676,kT
+Laos,2013,2156,kT
+Latvia,2013,1000,kT
+Lebanon,2013,5831,kT
+Liberia,2013,194,kT
+Libya,2013,2000,kT
+Lithuania,2013,1070,kT
+Luxembourg,2013,1093,kT
+Macau,2013,580,kT
+Macedonia,2013,730,kT
+Madagascar,2013,230,kT
+Malawi,2013,230,kT
+Malaysia,2013,22860,kT
+Mali,2013,440,kT
+Martinique,2013,150,kT
+Mauritania,2013,690,kT
+Mexico,2013,34612,kT
+Moldova,2013,1150,kT
+Mongolia,2013,259,kT
+Morocco,2013,16870,kT
+Mozambique,2013,1299,kT
+Namibia,2013,662,kT
+Nepal,2013,2990,kT
+Netherlands,2013,2050,kT
+New Caledonia,2013,119,kT
+New Zealand,2013,1200,kT
+Nicaragua,2013,650,kT
+Niger,2013,29,kT
+Nigeria,2013,20000,kT
+Norway,2013,1700,kT
+Oman,2013,5800,kT
+Pakistan,2013,31460,kT
+Panama,2013,2370,kT
+Papua New Guineae,2013,200,kT
+Paraguay,2013,960,kT
+Peru,2013,10527,kT
+Philippines,2013,20150,kT
+Poland,2013,14539,kT
+Portugal,2013,5000,kT
+Qatar,2013,5335,kT
+Reunion,2013,400,kT
+Romania,2013,7451,kT
+Russia,2013,66503,kT
+Rwanda,2013,130,kT
+Saudi Arabia,2013,56238,kT
+Senegal,2013,5191,kT
+Serbia,2013,1592,kT
+Sierra Leone,2013,313,kT
+Slovakia,2013,3121,kT
+Slovenia,2013,614,kT
+South Africa,2013,12168,kT
+Spain,2013,13736,kT
+Sri Lanka,2013,1929,kT
+Sudan,2013,3538,kT
+Suriname,2013,131,kT
+Sweden,2013,2560,kT
+Switzerland,2013,4740,kT
+Syria,2013,4000,kT
+Taiwan,2013,16554,kT
+Tajikistan,2013,384,kT
+Tanzania,2013,2346,kT
+Thailand,2013,35854,kT
+Togo,2013,1800,kT
+Trinidad and Tobago,2013,802,kT
+Tunisia,2013,7504,kT
+Turkey,2013,71337,kT
+Turkmenistan,2013,2650,kT
+Uganda,2013,2023,kT
+Ukraine,2013,9857,kT
+United Arab Emirates,2013,15700,kT
+United Kingdom,2013,8203,kT
+United States,2013,77415,kT
+Uruguay,2013,850,kT
+Uzbekistan,2013,6990,kT
+Venezuela,2013,8846,kT
+Vietnam,2013,57516,kT
+Yemen,2013,3300,kT
+Zambia,2013,1810,kT
+Zimbabwe,2013,1190,kT
+Afghanistan,2014,87,kT
+Albania,2014,1740,kT
+Algeria,2014,21000,kT
+Angola,2014,5100,kT
+Argentina,2014,11408,kT
+Armenia,2014,422,kT
+Australia,2014,9000,kT
+Austria,2014,4400,kT
+Azerbaijan,2014,2941,kT
+Bahrain,2014,1300,kT
+Bangladesh,2014,17000,kT
+Barbados,2014,160,kT
+Belarus,2014,5617,kT
+Belgium,2014,6364,kT
+Benin,2014,1396,kT
+Bhutan,2014,690,kT
+Bolivia,2014,3337,kT
+Bosnia and Herzegovina,2014,840,kT
+Botswana,2014,15,kT
+Brazil,2014,71254,kT
+Brunei,2014,240,kT
+Bulgaria,2014,1785,kT
+Burkina Faso,2014,403,kT
+Burma,2014,1317,kT
+Burundi,2014,70,kT
+Cambodia,2014,1400,kT
+Cameroon,2014,1300,kT
+Canada,2014,11879,kT
+Chad,2014,200,kT
+Chile,2014,4200,kT
+China,2014,2492000,kT
+Colombia,2014,12384,kT
+Congo (Brazzaville),2014,460,kT
+Congo (Kinshasa),2014,330,kT
+Costa Rica,2014,1500,kT
+Côte d’Ivoire,2014,2690,kT
+Croatia,2014,2359,kT
+Cuba,2014,1580,kT
+Cyprus,2014,735,kT
+Czechia,2014,3511,kT
+Denmark,2014,1876,kT
+Djibouti,2014,170,kT
+Dominican Republic,2014,5018,kT
+Ecuador,2014,6600,kT
+Egypt,2014,52080,kT
+El Salvador,2014,1000,kT
+Eritrea,2014,230,kT
+Estonia,2014,447,kT
+Ethiopia,2014,5424,kT
+Fiji,2014,188,kT
+Finland,2014,1250,kT
+France,2014,16400,kT
+French Guiana,2014,87,kT
+Gabon,2014,170,kT
+Georgia,2014,1626,kT
+Germany,2014,32099,kT
+Ghana,2014,4500,kT
+Greece,2014,5105,kT
+Guadeloupe,2014,300,kT
+Guatemala,2014,3500,kT
+Guinea,2014,435,kT
+Guyana,2014,2,kT
+Haiti,2014,200,kT
+Honduras,2014,1700,kT
+Hong Kong,2014,1900,kT
+Hungary,2014,1530,kT
+India,2014,240000,kT
+Indonesia,2014,56760,kT
+Iran,2014,66700,kT
+Iraq,2014,9000,kT
+Ireland,2014,2000,kT
+Israel,2014,6603,kT
+Italy,2014,21400,kT
+Jamaica,2014,830,kT
+Japan,2014,57913,kT
+Jordan,2014,4400,kT
+Kazakhstan,2014,8140,kT
+Kenya,2014,5883,kT
+North Korea,2014,6680,kT
+South Korea,2014,47048,kT
+Kosovo,2014,480,kT
+Kuwait,2014,3800,kT
+Kyrgyzstan,2014,1730,kT
+Laos,2014,2201,kT
+Latvia,2014,1100,kT
+Lebanon,2014,5517,kT
+Liberia,2014,295,kT
+Libya,2014,7000,kT
+Lithuania,2014,903,kT
+Luxembourg,2014,1058,kT
+Macau,2014,590,kT
+Macedonia,2014,660,kT
+Madagascar,2014,240,kT
+Malawi,2014,270,kT
+Malaysia,2014,24280,kT
+Mali,2014,660,kT
+Martinique,2014,150,kT
+Mauritania,2014,870,kT
+Mexico,2014,36597,kT
+Moldova,2014,1220,kT
+Mongolia,2014,411,kT
+Morocco,2014,15700,kT
+Mozambique,2014,1512,kT
+Namibia,2014,731,kT
+Nepal,2014,3100,kT
+Netherlands,2014,2610,kT
+New Caledonia,2014,106,kT
+New Zealand,2014,1100,kT
+Nicaragua,2014,700,kT
+Niger,2014,21,kT
+Nigeria,2014,20000,kT
+Norway,2014,1700,kT
+Oman,2014,5100,kT
+Pakistan,2014,31960,kT
+Panama,2014,2190,kT
+Papua New Guineae,2014,200,kT
+Paraguay,2014,1000,kT
+Peru,2014,10676,kT
+Philippines,2014,21305,kT
+Poland,2014,15534,kT
+Portugal,2014,5400,kT
+Qatar,2014,6500,kT
+Reunion,2014,350,kT
+Romania,2014,7621,kT
+Russia,2014,69139,kT
+Rwanda,2014,140,kT
+Saudi Arabia,2014,57223,kT
+Senegal,2014,4899,kT
+Serbia,2014,1605,kT
+Sierra Leone,2014,336,kT
+Slovakia,2014,3319,kT
+Slovenia,2014,706,kT
+South Africa,2014,12068,kT
+Spain,2014,14587,kT
+Sri Lanka,2014,1885,kT
+Sudan,2014,3478,kT
+Suriname,2014,130,kT
+Sweden,2014,2500,kT
+Switzerland,2014,4790,kT
+Syria,2014,3800,kT
+Taiwan,2014,14592,kT
+Tajikistan,2014,1150,kT
+Tanzania,2014,2809,kT
+Thailand,2014,36150,kT
+Togo,2014,1700,kT
+Trinidad and Tobago,2014,837,kT
+Tunisia,2014,9127,kT
+Turkey,2014,71239,kT
+Turkmenistan,2014,2900,kT
+Uganda,2014,2141,kT
+Ukraine,2014,8636,kT
+United Arab Emirates,2014,16000,kT
+United Kingdom,2014,8958,kT
+United States,2014,83124,kT
+Uruguay,2014,820,kT
+Uzbekistan,2014,7350,kT
+Venezuela,2014,7940,kT
+Vietnam,2014,60982,kT
+Yemen,2014,3100,kT
+Zambia,2014,1900,kT
+Zimbabwe,2014,1300,kT
+Afghanistan,2015,70,kT
+Albania,2015,1980,kT
+Algeria,2015,23000,kT
+Angola,2015,5200,kT
+Argentina,2015,11000,kT
+Armenia,2015,417,kT
+Australia,2015,9500,kT
+Austria,2015,4810,kT
+Azerbaijan,2015,2683,kT
+Bahrain,2015,1300,kT
+Bangladesh,2015,28000,kT
+Barbados,2015,160,kT
+Belarus,2015,4638,kT
+Belgium,2015,6275,kT
+Benin,2015,1382,kT
+Bhutan,2015,791,kT
+Bolivia,2015,3468,kT
+Bosnia and Herzegovina,2015,808,kT
+Botswana,2015,15,kT
+Brazil,2015,65283,kT
+Brunei,2015,230,kT
+Bulgaria,2015,2114,kT
+Burkina Faso,2015,263,kT
+Burma,2015,989,kT
+Burundi,2015,100,kT
+Cambodia,2015,1700,kT
+Cameroon,2015,1600,kT
+Canada,2015,12167,kT
+Chad,2015,200,kT
+Chile,2015,4300,kT
+China,2015,2359000,kT
+Colombia,2015,13153,kT
+Congo (Brazzaville),2015,700,kT
+Congo (Kinshasa),2015,399,kT
+Costa Rica,2015,1600,kT
+Côte d’Ivoire,2015,3100,kT
+Croatia,2015,2340,kT
+Cuba,2015,1518,kT
+Cyprus,2015,788,kT
+Czechia,2015,3781,kT
+Denmark,2015,2023,kT
+Djibouti,2015,180,kT
+Dominican Republic,2015,5181,kT
+Ecuador,2015,6200,kT
+Egypt,2015,53940,kT
+El Salvador,2015,1000,kT
+Eritrea,2015,200,kT
+Estonia,2015,390,kT
+Ethiopia,2015,7500,kT
+Fiji,2015,204,kT
+Finland,2015,1300,kT
+France,2015,15600,kT
+French Guiana,2015,76,kT
+Gabon,2015,150,kT
+Georgia,2015,1759,kT
+Germany,2015,31150,kT
+Ghana,2015,3830,kT
+Greece,2015,5289,kT
+Guadeloupe,2015,300,kT
+Guatemala,2015,3500,kT
+Guinea,2015,500,kT
+Guyana,2015,100,kT
+Haiti,2015,200,kT
+Honduras,2015,1700,kT
+Hong Kong,2015,1900,kT
+Hungary,2015,1570,kT
+India,2015,260000,kT
+Indonesia,2015,59850,kT
+Iran,2015,58600,kT
+Iraq,2015,10000,kT
+Ireland,2015,2500,kT
+Israel,2015,6904,kT
+Italy,2015,21000,kT
+Jamaica,2015,808,kT
+Japan,2015,54827,kT
+Jordan,2015,4500,kT
+Kazakhstan,2015,8729,kT
+Kenya,2015,6353,kT
+North Korea,2015,6700,kT
+South Korea,2015,52044,kT
+Kosovo,2015,590,kT
+Kuwait,2015,4200,kT
+Kyrgyzstan,2015,1496,kT
+Laos,2015,3099,kT
+Latvia,2015,1100,kT
+Lebanon,2015,5043,kT
+Liberia,2015,298,kT
+Libya,2015,5000,kT
+Lithuania,2015,980,kT
+Luxembourg,2015,1080,kT
+Macau,2015,600,kT
+Macedonia,2015,672,kT
+Madagascar,2015,240,kT
+Malawi,2015,280,kT
+Malaysia,2015,24710,kT
+Mali,2015,630,kT
+Martinique,2015,150,kT
+Mauritania,2015,860,kT
+Mexico,2015,39613,kT
+Moldova,2015,1045,kT
+Mongolia,2015,410,kT
+Morocco,2015,16100,kT
+Mozambique,2015,1585,kT
+Namibia,2015,796,kT
+Nepal,2015,3900,kT
+Netherlands,2015,2260,kT
+New Caledonia,2015,112,kT
+New Zealand,2015,1200,kT
+Nicaragua,2015,700,kT
+Niger,2015,51,kT
+Nigeria,2015,21000,kT
+Norway,2015,1800,kT
+Oman,2015,5300,kT
+Pakistan,2015,33232,kT
+Panama,2015,2200,kT
+Papua New Guineae,2015,200,kT
+Paraguay,2015,1200,kT
+Peru,2015,10410,kT
+Philippines,2015,24050,kT
+Poland,2015,15206,kT
+Portugal,2015,5600,kT
+Qatar,2015,6500,kT
+Reunion,2015,250,kT
+Romania,2015,8356,kT
+Russia,2015,62104,kT
+Rwanda,2015,180,kT
+Saudi Arabia,2015,61900,kT
+Senegal,2015,4615,kT
+Serbia,2015,1654,kT
+Sierra Leone,2015,324,kT
+Slovakia,2015,3466,kT
+Slovenia,2015,600,kT
+South Africa,2015,12992,kT
+Spain,2015,15000,kT
+Sri Lanka,2015,2287,kT
+Sudan,2015,3708,kT
+Suriname,2015,160,kT
+Sweden,2015,2800,kT
+Switzerland,2015,4390,kT
+Syria,2015,4000,kT
+Taiwan,2015,13445,kT
+Tajikistan,2015,1418,kT
+Tanzania,2015,3140,kT
+Thailand,2015,36216,kT
+Togo,2015,1500,kT
+Trinidad and Tobago,2015,840,kT
+Tunisia,2015,9516,kT
+Turkey,2015,71419,kT
+Turkmenistan,2015,3300,kT
+Uganda,2015,2340,kT
+Ukraine,2015,8511,kT
+United Arab Emirates,2015,20000,kT
+United Kingdom,2015,9600,kT
+United States,2015,84940,kT
+Uruguay,2015,730,kT
+Uzbekistan,2015,7900,kT
+Venezuela,2015,8210,kT
+Vietnam,2015,67645,kT
+Yemen,2015,3100,kT
+Zambia,2015,1800,kT
+Zimbabwe,2015,1300,kT
+Afghanistan,2016,101,kT
+Albania,2016,2000,kT
+Algeria,2016,23000,kT
+Angola,2016,5000,kT
+Argentina,2016,11000,kT
+Armenia,2016,267,kT
+Australia,2016,9600,kT
+Austria,2016,4600,kT
+Azerbaijan,2016,2310,kT
+Bahrain,2016,1400,kT
+Bangladesh,2016,32000,kT
+Barbados,2016,160,kT
+Belarus,2016,4503,kT
+Belgium,2016,6255,kT
+Benin,2016,1356,kT
+Bhutan,2016,940,kT
+Bolivia,2016,3601,kT
+Bosnia and Herzegovina,2016,841,kT
+Botswana,2016,15,kT
+Brazil,2016,57476,kT
+Brunei,2016,230,kT
+Bulgaria,2016,1994,kT
+Burkina Faso,2016,300,kT
+Burma,2016,2520,kT
+Burundi,2016,100,kT
+Cambodia,2016,2100,kT
+Cameroon,2016,2600,kT
+Canada,2016,11870,kT
+Chad,2016,200,kT
+Chile,2016,4200,kT
+China,2016,2410000,kT
+Colombia,2016,12495,kT
+Congo (Brazzaville),2016,950,kT
+Congo (Kinshasa),2016,253,kT
+Costa Rica,2016,1600,kT
+Côte d’Ivoire,2016,3600,kT
+Croatia,2016,2267,kT
+Cuba,2016,1493,kT
+Cyprus,2016,1019,kT
+Czechia,2016,3937,kT
+Denmark,2016,2260,kT
+Djibouti,2016,180,kT
+Dominican Republic,2016,5171,kT
+Ecuador,2016,5600,kT
+Egypt,2016,55000,kT
+El Salvador,2016,1000,kT
+Eritrea,2016,200,kT
+Estonia,2016,399,kT
+Ethiopia,2016,8300,kT
+Fiji,2016,219,kT
+Finland,2016,1300,kT
+France,2016,15900,kT
+French Guiana,2016,91,kT
+Gabon,2016,,kT
+Georgia,2016,1809,kT
+Germany,2016,32737,kT
+Ghana,2016,4000,kT
+Greece,2016,6540,kT
+Guadeloupe,2016,300,kT
+Guatemala,2016,3600,kT
+Guinea,2016,500,kT
+Guyana,2016,400,kT
+Haiti,2016,200,kT
+Honduras,2016,1700,kT
+Hong Kong,2016,1900,kT
+Hungary,2016,1280,kT
+India,2016,280000,kT
+Indonesia,2016,62000,kT
+Iran,2016,55000,kT
+Iraq,2016,10000,kT
+Ireland,2016,2500,kT
+Israel,2016,7150,kT
+Italy,2016,19300,kT
+Jamaica,2016,911,kT
+Japan,2016,53255,kT
+Jordan,2016,4800,kT
+Kazakhstan,2016,9204,kT
+Kenya,2016,6715,kT
+North Korea,2016,7080,kT
+South Korea,2016,56747,kT
+Kosovo,2016,710,kT
+Kuwait,2016,4200,kT
+Kyrgyzstan,2016,1302,kT
+Laos,2016,3398,kT
+Latvia,2016,1000,kT
+Lebanon,2016,5247,kT
+Liberia,2016,241,kT
+Libya,2016,4300,kT
+Lithuania,2016,1010,kT
+Luxembourg,2016,1100,kT
+Macau,2016,,kT
+Macedonia,2016,855,kT
+Madagascar,2016,240,kT
+Malawi,2016,420,kT
+Malaysia,2016,22330,kT
+Mali,2016,630,kT
+Martinique,2016,150,kT
+Mauritania,2016,880,kT
+Mexico,2016,40577,kT
+Moldova,2016,975,kT
+Mongolia,2016,432,kT
+Morocco,2016,15800,kT
+Mozambique,2016,2446,kT
+Namibia,2016,778,kT
+Nepal,2016,4500,kT
+Netherlands,2016,2260,kT
+New Caledonia,2016,112,kT
+New Zealand,2016,900,kT
+Nicaragua,2016,700,kT
+Niger,2016,51,kT
+Nigeria,2016,22000,kT
+Norway,2016,1850,kT
+Oman,2016,5500,kT
+Pakistan,2016,37020,kT
+Panama,2016,2200,kT
+Papua New Guineae,2016,200,kT
+Paraguay,2016,1300,kT
+Peru,2016,10094,kT
+Philippines,2016,25000,kT
+Poland,2016,15782,kT
+Portugal,2016,4200,kT
+Qatar,2016,6500,kT
+Reunion,2016,250,kT
+Romania,2016,8038,kT
+Russia,2016,54935,kT
+Rwanda,2016,350,kT
+Saudi Arabia,2016,55943,kT
+Senegal,2016,5149,kT
+Serbia,2016,1801,kT
+Sierra Leone,2016,320,kT
+Slovakia,2016,3518,kT
+Slovenia,2016,700,kT
+South Africa,2016,13000,kT
+Spain,2016,15000,kT
+Sri Lanka,2016,2695,kT
+Sudan,2016,4013,kT
+Suriname,2016,150,kT
+Sweden,2016,2800,kT
+Switzerland,2016,4710,kT
+Syria,2016,2000,kT
+Taiwan,2016,12126,kT
+Tajikistan,2016,1361,kT
+Tanzania,2016,4071,kT
+Thailand,2016,39940,kT
+Togo,2016,1500,kT
+Trinidad and Tobago,2016,721,kT
+Tunisia,2016,9028,kT
+Turkey,2016,75403,kT
+Turkmenistan,2016,3500,kT
+Uganda,2016,2494,kT
+Ukraine,2016,9023,kT
+United Arab Emirates,2016,22000,kT
+United Kingdom,2016,9400,kT
+United States,2016,85153,kT
+Uruguay,2016,740,kT
+Uzbekistan,2016,8300,kT
+Venezuela,2016,7300,kT
+Vietnam,2016,74457,kT
+Yemen,2016,2400,kT
+Zambia,2016,2000,kT
+Zimbabwe,2016,1500,kT
+Afghanistan,2017,180,kT
+Albania,2017,2000,kT
+Algeria,2017,26900,kT
+Angola,2017,5000,kT
+Argentina,2017,11000,kT
+Armenia,2017,356,kT
+Australia,2017,9700,kT
+Austria,2017,4600,kT
+Azerbaijan,2017,2955,kT
+Bahrain,2017,1500,kT
+Bangladesh,2017,28000,kT
+Barbados,2017,160,kT
+Belarus,2017,4490,kT
+Belgium,2017,6380,kT
+Benin,2017,1360,kT
+Bhutan,2017,894,kT
+Bolivia,2017,3611,kT
+Bosnia and Herzegovina,2017,910,kT
+Botswana,2017,15,kT
+Brazil,2017,54004,kT
+Brunei,2017,230,kT
+Bulgaria,2017,2117,kT
+Burkina Faso,2017,300,kT
+Burma,2017,2430,kT
+Burundi,2017,45,kT
+Cambodia,2017,2200,kT
+Cameroon,2017,2600,kT
+Canada,2017,12710,kT
+Chad,2017,250,kT
+Chile,2017,4200,kT
+China,2017,2331000,kT
+Colombia,2017,12500,kT
+Congo (Brazzaville),2017,1050,kT
+Congo (Kinshasa),2017,900,kT
+Costa Rica,2017,1800,kT
+Côte d’Ivoire,2017,3600,kT
+Croatia,2017,2490,kT
+Cuba,2017,1431,kT
+Cyprus,2017,1319,kT
+Czechia,2017,4043,kT
+Denmark,2017,2360,kT
+Djibouti,2017,180,kT
+Dominican Republic,2017,5254,kT
+Ecuador,2017,5700,kT
+Egypt,2017,53000,kT
+El Salvador,2017,1000,kT
+Eritrea,2017,210,kT
+Estonia,2017,503,kT
+Ethiopia,2017,9000,kT
+Fiji,2017,141,kT
+Finland,2017,1300,kT
+France,2017,16000,kT
+French Guiana,2017,80,kT
+Gabon,2017,,kT
+Georgia,2017,1800,kT
+Germany,2017,33991,kT
+Ghana,2017,3800,kT
+Greece,2017,6246,kT
+Guadeloupe,2017,300,kT
+Guatemala,2017,3700,kT
+Guinea,2017,500,kT
+Guyana,2017,400,kT
+Haiti,2017,200,kT
+Honduras,2017,1700,kT
+Hong Kong,2017,1900,kT
+Hungary,2017,1660,kT
+India,2017,281000,kT
+Indonesia,2017,65000,kT
+Iran,2017,55000,kT
+Iraq,2017,10000,kT
+Ireland,2017,2500,kT
+Israel,2017,6361,kT
+Italy,2017,20000,kT
+Jamaica,2017,910,kT
+Japan,2017,55195,kT
+Jordan,2017,5060,kT
+Kazakhstan,2017,9398,kT
+Kenya,2017,6163,kT
+North Korea,2017,6840,kT
+South Korea,2017,56500,kT
+Kosovo,2017,840,kT
+Kuwait,2017,4200,kT
+Kyrgyzstan,2017,1503,kT
+Laos,2017,3870,kT
+Latvia,2017,500,kT
+Lebanon,2017,5149,kT
+Liberia,2017,285,kT
+Libya,2017,5650,kT
+Lithuania,2017,1023,kT
+Luxembourg,2017,1100,kT
+Macau,2017,,kT
+Macedonia,2017,901,kT
+Madagascar,2017,240,kT
+Malawi,2017,420,kT
+Malaysia,2017,22000,kT
+Mali,2017,630,kT
+Martinique,2017,150,kT
+Mauritania,2017,901,kT
+Mexico,2017,41601,kT
+Moldova,2017,1116,kT
+Mongolia,2017,675,kT
+Morocco,2017,16400,kT
+Mozambique,2017,2350,kT
+Namibia,2017,780,kT
+Nepal,2017,4900,kT
+Netherlands,2017,2300,kT
+New Caledonia,2017,104,kT
+New Zealand,2017,360,kT
+Nicaragua,2017,900,kT
+Niger,2017,51,kT
+Nigeria,2017,19000,kT
+Norway,2017,1900,kT
+Oman,2017,5300,kT
+Pakistan,2017,38900,kT
+Panama,2017,1900,kT
+Papua New Guineae,2017,200,kT
+Paraguay,2017,1400,kT
+Peru,2017,9980,kT
+Philippines,2017,26000,kT
+Poland,2017,17230,kT
+Portugal,2017,4720,kT
+Qatar,2017,6500,kT
+Reunion,2017,300,kT
+Romania,2017,8509,kT
+Russia,2017,54678,kT
+Rwanda,2017,390,kT
+Saudi Arabia,2017,47134,kT
+Senegal,2017,5197,kT
+Serbia,2017,1908,kT
+Sierra Leone,2017,324,kT
+Slovakia,2017,3782,kT
+Slovenia,2017,660,kT
+South Africa,2017,14000,kT
+Spain,2017,14500,kT
+Sri Lanka,2017,2819,kT
+Sudan,2017,4326,kT
+Suriname,2017,150,kT
+Sweden,2017,2800,kT
+Switzerland,2017,4500,kT
+Syria,2017,2000,kT
+Taiwan,2017,10876,kT
+Tajikistan,2017,3100,kT
+Tanzania,2017,4200,kT
+Thailand,2017,33587,kT
+Togo,2017,1500,kT
+Trinidad and Tobago,2017,670,kT
+Tunisia,2017,8053,kT
+Turkey,2017,80552,kT
+Turkmenistan,2017,3600,kT
+Uganda,2017,2498,kT
+Ukraine,2017,9003,kT
+United Arab Emirates,2017,23000,kT
+United Kingdom,2017,9500,kT
+United States,2017,86799,kT
+Uruguay,2017,817,kT
+Uzbekistan,2017,8490,kT
+Venezuela,2017,8030,kT
+Vietnam,2017,78843,kT
+Yemen,2017,2000,kT
+Zambia,2017,2100,kT
+Zimbabwe,2017,1750,kT
