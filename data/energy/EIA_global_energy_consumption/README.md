@@ -26,6 +26,7 @@ to 2018.
 
 **2017 Energy Usage By Continental Region**
 |Region|Watts|Per Capita|Percentage|
+|:--:|:--:|:--:|:--:|
 |Africa| 6.6e+11| 530| 3.4%|
 |Asia| 9.7e+12| 2200| 50.1%|
 |Central America| 3.1e+11| 1800| 1.6%|
