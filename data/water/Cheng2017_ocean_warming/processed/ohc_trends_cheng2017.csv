@@ -1,0 +1,33 @@
+Time Period,Measure,Location,Units,Value
+1960-1991,Mean,OHC trend 0-700 m,10x22 J / yr,0.15
+1992-2015,Mean,OHC trend 0-700 m,10x22 J / yr,0.61
+1960-1991,95% error bar,OHC trend 0-700 m,10x22 J / yr,0.08
+1992-2015,95% error bar,OHC trend 0-700 m,10x22 J / yr,0.04
+1960-1991,Mean,OHC trend 700-2000 m,10x22 J / yr,0.04
+1992-2015,Mean,OHC trend 700-2000 m,10x22 J / yr,0.37
+1960-1991,95% error bar,OHC trend 700-2000 m,10x22 J / yr,0.08
+1992-2015,95% error bar,OHC trend 700-2000 m,10x22 J / yr,0.02
+1960-1991,Mean,OHC trend 2000- m,10x22 J / yr,0.0
+1992-2015,Mean,OHC trend 2000- m,10x22 J / yr,0.11
+1960-1991,95% error bar,OHC trend 2000- m,10x22 J / yr,0.04
+1992-2015,95% error bar,OHC trend 2000- m,10x22 J / yr,0.1
+1960-1991,Mean,OHC trend full-depth,10x22 J / yr,0.19
+1992-2015,Mean,OHC trend full-depth,10x22 J / yr,1.09
+1960-1991,95% error bar,OHC trend full-depth,10x22 J / yr,0.2
+1992-2015,95% error bar,OHC trend full-depth,10x22 J / yr,0.16
+1960-1991,Mean,OHC trend 0-700 m,TW,47.56
+1992-2015,Mean,OHC trend 0-700 m,TW,193.43
+1960-1991,95% error bar,OHC trend 0-700 m,TW,25.37
+1992-2015,95% error bar,OHC trend 0-700 m,TW,12.68
+1960-1991,Mean,OHC trend 700-2000 m,TW,12.68
+1992-2015,Mean,OHC trend 700-2000 m,TW,117.33
+1960-1991,95% error bar,OHC trend 700-2000 m,TW,25.37
+1992-2015,95% error bar,OHC trend 700-2000 m,TW,6.34
+1960-1991,Mean,OHC trend 2000- m,TW,0.0
+1992-2015,Mean,OHC trend 2000- m,TW,34.88
+1960-1991,95% error bar,OHC trend 2000- m,TW,12.68
+1992-2015,95% error bar,OHC trend 2000- m,TW,31.71
+1960-1991,Mean,OHC trend full-depth,TW,60.25
+1992-2015,Mean,OHC trend full-depth,TW,345.64
+1960-1991,95% error bar,OHC trend full-depth,TW,63.42
+1992-2015,95% error bar,OHC trend full-depth,TW,50.74
