@@ -79,7 +79,7 @@ z
 " style="fill:#4b4b4b;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p6b81058694)" d="M 92.25 122.166 
+    <path clip-path="url(#pe266d03948)" d="M 92.25 122.166 
 C 100.899864 122.166 109.196617 118.729372 115.312995 112.612995 
 C 121.429372 106.496617 124.866 98.199864 124.866 89.55 
 C 124.866 80.900136 121.429372 72.603383 115.312995 66.487005 
@@ -94,7 +94,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p6b81058694">
+  <clipPath id="pe266d03948">
    <rect height="135.9" width="135.9" x="24.3" y="21.6"/>
   </clipPath>
  </defs>
