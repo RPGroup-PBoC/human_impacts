@@ -1,0 +1,6481 @@
+,region,year,consumption_exajoules
+0,,1965,
+1,Canada,1965,0.0
+2,Mexico,1965,0.0
+3,US,1965,0.0
+4,Total North America,1965,0.0
+5,,1965,
+6,Argentina,1965,0.0
+7,Brazil,1965,0.0
+8,Chile,1965,0.0
+9,Colombia,1965,0.0
+10,Ecuador,1965,0.0
+11,Peru,1965,0.0
+12,Trinidad & Tobago,1965,0.0
+13,Venezuela,1965,0.0
+14,Central America,1965,0.0
+15,Other Caribbean,1965,0.0
+16,Other South America,1965,0.0
+17,Total S. & Cent. America,1965,0.0
+18,,1965,
+19,Austria,1965,0.0
+20,Belgium,1965,0.0
+21,Bulgaria,1965,0.0
+22,Croatia,1965,
+23,Cyprus,1965,0.0
+24,Czech Republic,1965,0.0
+25,Denmark,1965,0.0
+26,Estonia,1965,
+27,Finland,1965,0.0
+28,France,1965,0.0
+29,Germany,1965,0.0
+30,Greece,1965,0.0
+31,Hungary,1965,0.0
+32,Iceland,1965,0.0
+33,Ireland,1965,0.0
+34,Italy,1965,0.0
+35,Latvia,1965,
+36,Lithuania,1965,
+37,Luxembourg,1965,0.0
+38,Netherlands,1965,0.0
+39,North Macedonia,1965,
+40,Norway,1965,0.0
+41,Poland,1965,0.0
+42,Portugal,1965,0.0
+43,Romania,1965,0.0
+44,Slovakia,1965,0.0
+45,Slovenia,1965,
+46,Spain,1965,0.0
+47,Sweden,1965,0.0
+48,Switzerland,1965,0.0
+49,Turkey,1965,0.0
+50,Ukraine,1965,
+51,United Kingdom,1965,0.0
+52,Other Europe,1965,0.0
+53,Total Europe,1965,0.0
+54,,1965,
+55,Azerbaijan,1965,
+56,Belarus,1965,
+57,Kazakhstan,1965,
+58,Russian Federation,1965,
+59,Turkmenistan,1965,
+60,USSR,1965,0.0
+61,Uzbekistan,1965,
+62,Other CIS,1965,
+63,Total CIS,1965,0.0
+64,,1965,
+65,Iran,1965,0.0
+66,Iraq,1965,0.0
+67,Israel,1965,0.0
+68,Kuwait,1965,0.0
+69,Oman,1965,0.0
+70,Qatar,1965,0.0
+71,Saudi Arabia,1965,0.0
+72,United Arab Emirates,1965,0.0
+73,Other Middle East,1965,0.0
+74,Total Middle East,1965,0.0
+75,,1965,
+76,Algeria,1965,0.0
+77,Egypt,1965,0.0
+78,Morocco,1965,0.0
+79,South Africa,1965,0.0
+80,Eastern Africa,1965,0.0
+81,Middle Africa,1965,0.0
+82,Western Africa,1965,0.0
+83,Other Northern Africa,1965,0.0
+84,Other Southern Africa,1965,0.0
+85,Total Africa,1965,0.0
+86,,1965,
+87,Australia,1965,0.0
+88,Bangladesh,1965,0.0
+89,China,1965,0.0
+90,China Hong Kong SAR,1965,0.0
+91,India,1965,0.0
+92,Indonesia,1965,0.0
+93,Japan,1965,0.0
+94,Malaysia,1965,0.0
+95,New Zealand,1965,0.0
+96,Pakistan,1965,0.0
+97,Philippines,1965,0.0
+98,Singapore,1965,0.0
+99,South Korea,1965,0.0
+100,Sri Lanka,1965,0.0
+101,Taiwan,1965,0.0
+102,Thailand,1965,0.0
+103,Vietnam,1965,0.0
+104,Other Asia Pacific,1965,0.0
+105,Total Asia Pacific,1965,0.0
+106,,1965,
+107,Total World,1965,0.0
+108,,1966,
+109,Canada,1966,0.0
+110,Mexico,1966,0.0
+111,US,1966,0.0
+112,Total North America,1966,0.0
+113,,1966,
+114,Argentina,1966,0.0
+115,Brazil,1966,0.0
+116,Chile,1966,0.0
+117,Colombia,1966,0.0
+118,Ecuador,1966,0.0
+119,Peru,1966,0.0
+120,Trinidad & Tobago,1966,0.0
+121,Venezuela,1966,0.0
+122,Central America,1966,0.0
+123,Other Caribbean,1966,0.0
+124,Other South America,1966,0.0
+125,Total S. & Cent. America,1966,0.0
+126,,1966,
+127,Austria,1966,0.0
+128,Belgium,1966,0.0
+129,Bulgaria,1966,0.0
+130,Croatia,1966,
+131,Cyprus,1966,0.0
+132,Czech Republic,1966,0.0
+133,Denmark,1966,0.0
+134,Estonia,1966,
+135,Finland,1966,0.0
+136,France,1966,0.0
+137,Germany,1966,0.0
+138,Greece,1966,0.0
+139,Hungary,1966,0.0
+140,Iceland,1966,0.0
+141,Ireland,1966,0.0
+142,Italy,1966,0.0
+143,Latvia,1966,
+144,Lithuania,1966,
+145,Luxembourg,1966,0.0
+146,Netherlands,1966,0.0
+147,North Macedonia,1966,
+148,Norway,1966,0.0
+149,Poland,1966,0.0
+150,Portugal,1966,0.0
+151,Romania,1966,0.0
+152,Slovakia,1966,0.0
+153,Slovenia,1966,
+154,Spain,1966,0.0
+155,Sweden,1966,0.0
+156,Switzerland,1966,0.0
+157,Turkey,1966,0.0
+158,Ukraine,1966,
+159,United Kingdom,1966,0.0
+160,Other Europe,1966,0.0
+161,Total Europe,1966,0.0
+162,,1966,
+163,Azerbaijan,1966,
+164,Belarus,1966,
+165,Kazakhstan,1966,
+166,Russian Federation,1966,
+167,Turkmenistan,1966,
+168,USSR,1966,0.0
+169,Uzbekistan,1966,
+170,Other CIS,1966,
+171,Total CIS,1966,0.0
+172,,1966,
+173,Iran,1966,0.0
+174,Iraq,1966,0.0
+175,Israel,1966,0.0
+176,Kuwait,1966,0.0
+177,Oman,1966,0.0
+178,Qatar,1966,0.0
+179,Saudi Arabia,1966,0.0
+180,United Arab Emirates,1966,0.0
+181,Other Middle East,1966,0.0
+182,Total Middle East,1966,0.0
+183,,1966,
+184,Algeria,1966,0.0
+185,Egypt,1966,0.0
+186,Morocco,1966,0.0
+187,South Africa,1966,0.0
+188,Eastern Africa,1966,0.0
+189,Middle Africa,1966,0.0
+190,Western Africa,1966,0.0
+191,Other Northern Africa,1966,0.0
+192,Other Southern Africa,1966,0.0
+193,Total Africa,1966,0.0
+194,,1966,
+195,Australia,1966,0.0
+196,Bangladesh,1966,0.0
+197,China,1966,0.0
+198,China Hong Kong SAR,1966,0.0
+199,India,1966,0.0
+200,Indonesia,1966,0.0
+201,Japan,1966,0.0
+202,Malaysia,1966,0.0
+203,New Zealand,1966,0.0
+204,Pakistan,1966,0.0
+205,Philippines,1966,0.0
+206,Singapore,1966,0.0
+207,South Korea,1966,0.0
+208,Sri Lanka,1966,0.0
+209,Taiwan,1966,0.0
+210,Thailand,1966,0.0
+211,Vietnam,1966,0.0
+212,Other Asia Pacific,1966,0.0
+213,Total Asia Pacific,1966,0.0
+214,,1966,
+215,Total World,1966,0.0
+216,,1967,
+217,Canada,1967,0.0
+218,Mexico,1967,0.0
+219,US,1967,0.0
+220,Total North America,1967,0.0
+221,,1967,
+222,Argentina,1967,0.0
+223,Brazil,1967,0.0
+224,Chile,1967,0.0
+225,Colombia,1967,0.0
+226,Ecuador,1967,0.0
+227,Peru,1967,0.0
+228,Trinidad & Tobago,1967,0.0
+229,Venezuela,1967,0.0
+230,Central America,1967,0.0
+231,Other Caribbean,1967,0.0
+232,Other South America,1967,0.0
+233,Total S. & Cent. America,1967,0.0
+234,,1967,
+235,Austria,1967,0.0
+236,Belgium,1967,0.0
+237,Bulgaria,1967,0.0
+238,Croatia,1967,
+239,Cyprus,1967,0.0
+240,Czech Republic,1967,0.0
+241,Denmark,1967,0.0
+242,Estonia,1967,
+243,Finland,1967,0.0
+244,France,1967,0.0
+245,Germany,1967,0.0
+246,Greece,1967,0.0
+247,Hungary,1967,0.0
+248,Iceland,1967,0.0
+249,Ireland,1967,0.0
+250,Italy,1967,0.0
+251,Latvia,1967,
+252,Lithuania,1967,
+253,Luxembourg,1967,0.0
+254,Netherlands,1967,0.0
+255,North Macedonia,1967,
+256,Norway,1967,0.0
+257,Poland,1967,0.0
+258,Portugal,1967,0.0
+259,Romania,1967,0.0
+260,Slovakia,1967,0.0
+261,Slovenia,1967,
+262,Spain,1967,0.0
+263,Sweden,1967,0.0
+264,Switzerland,1967,0.0
+265,Turkey,1967,0.0
+266,Ukraine,1967,
+267,United Kingdom,1967,0.0
+268,Other Europe,1967,0.0
+269,Total Europe,1967,0.0
+270,,1967,
+271,Azerbaijan,1967,
+272,Belarus,1967,
+273,Kazakhstan,1967,
+274,Russian Federation,1967,
+275,Turkmenistan,1967,
+276,USSR,1967,0.0
+277,Uzbekistan,1967,
+278,Other CIS,1967,
+279,Total CIS,1967,0.0
+280,,1967,
+281,Iran,1967,0.0
+282,Iraq,1967,0.0
+283,Israel,1967,0.0
+284,Kuwait,1967,0.0
+285,Oman,1967,0.0
+286,Qatar,1967,0.0
+287,Saudi Arabia,1967,0.0
+288,United Arab Emirates,1967,0.0
+289,Other Middle East,1967,0.0
+290,Total Middle East,1967,0.0
+291,,1967,
+292,Algeria,1967,0.0
+293,Egypt,1967,0.0
+294,Morocco,1967,0.0
+295,South Africa,1967,0.0
+296,Eastern Africa,1967,0.0
+297,Middle Africa,1967,0.0
+298,Western Africa,1967,0.0
+299,Other Northern Africa,1967,0.0
+300,Other Southern Africa,1967,0.0
+301,Total Africa,1967,0.0
+302,,1967,
+303,Australia,1967,0.0
+304,Bangladesh,1967,0.0
+305,China,1967,0.0
+306,China Hong Kong SAR,1967,0.0
+307,India,1967,0.0
+308,Indonesia,1967,0.0
+309,Japan,1967,0.0
+310,Malaysia,1967,0.0
+311,New Zealand,1967,0.0
+312,Pakistan,1967,0.0
+313,Philippines,1967,0.0
+314,Singapore,1967,0.0
+315,South Korea,1967,0.0
+316,Sri Lanka,1967,0.0
+317,Taiwan,1967,0.0
+318,Thailand,1967,0.0
+319,Vietnam,1967,0.0
+320,Other Asia Pacific,1967,0.0
+321,Total Asia Pacific,1967,0.0
+322,,1967,
+323,Total World,1967,0.0
+324,,1968,
+325,Canada,1968,0.0
+326,Mexico,1968,0.0
+327,US,1968,0.0
+328,Total North America,1968,0.0
+329,,1968,
+330,Argentina,1968,0.0
+331,Brazil,1968,0.0
+332,Chile,1968,0.0
+333,Colombia,1968,0.0
+334,Ecuador,1968,0.0
+335,Peru,1968,0.0
+336,Trinidad & Tobago,1968,0.0
+337,Venezuela,1968,0.0
+338,Central America,1968,0.0
+339,Other Caribbean,1968,0.0
+340,Other South America,1968,0.0
+341,Total S. & Cent. America,1968,0.0
+342,,1968,
+343,Austria,1968,0.0
+344,Belgium,1968,0.0
+345,Bulgaria,1968,0.0
+346,Croatia,1968,
+347,Cyprus,1968,0.0
+348,Czech Republic,1968,0.0
+349,Denmark,1968,0.0
+350,Estonia,1968,
+351,Finland,1968,0.0
+352,France,1968,0.0
+353,Germany,1968,0.0
+354,Greece,1968,0.0
+355,Hungary,1968,0.0
+356,Iceland,1968,0.0
+357,Ireland,1968,0.0
+358,Italy,1968,0.0
+359,Latvia,1968,
+360,Lithuania,1968,
+361,Luxembourg,1968,0.0
+362,Netherlands,1968,0.0
+363,North Macedonia,1968,
+364,Norway,1968,0.0
+365,Poland,1968,0.0
+366,Portugal,1968,0.0
+367,Romania,1968,0.0
+368,Slovakia,1968,0.0
+369,Slovenia,1968,
+370,Spain,1968,0.0
+371,Sweden,1968,0.0
+372,Switzerland,1968,0.0
+373,Turkey,1968,0.0
+374,Ukraine,1968,
+375,United Kingdom,1968,0.0
+376,Other Europe,1968,0.0
+377,Total Europe,1968,0.0
+378,,1968,
+379,Azerbaijan,1968,
+380,Belarus,1968,
+381,Kazakhstan,1968,
+382,Russian Federation,1968,
+383,Turkmenistan,1968,
+384,USSR,1968,0.0
+385,Uzbekistan,1968,
+386,Other CIS,1968,
+387,Total CIS,1968,0.0
+388,,1968,
+389,Iran,1968,0.0
+390,Iraq,1968,0.0
+391,Israel,1968,0.0
+392,Kuwait,1968,0.0
+393,Oman,1968,0.0
+394,Qatar,1968,0.0
+395,Saudi Arabia,1968,0.0
+396,United Arab Emirates,1968,0.0
+397,Other Middle East,1968,0.0
+398,Total Middle East,1968,0.0
+399,,1968,
+400,Algeria,1968,0.0
+401,Egypt,1968,0.0
+402,Morocco,1968,0.0
+403,South Africa,1968,0.0
+404,Eastern Africa,1968,0.0
+405,Middle Africa,1968,0.0
+406,Western Africa,1968,0.0
+407,Other Northern Africa,1968,0.0
+408,Other Southern Africa,1968,0.0
+409,Total Africa,1968,0.0
+410,,1968,
+411,Australia,1968,0.0
+412,Bangladesh,1968,0.0
+413,China,1968,0.0
+414,China Hong Kong SAR,1968,0.0
+415,India,1968,0.0
+416,Indonesia,1968,0.0
+417,Japan,1968,0.0
+418,Malaysia,1968,0.0
+419,New Zealand,1968,0.0
+420,Pakistan,1968,0.0
+421,Philippines,1968,0.0
+422,Singapore,1968,0.0
+423,South Korea,1968,0.0
+424,Sri Lanka,1968,0.0
+425,Taiwan,1968,0.0
+426,Thailand,1968,0.0
+427,Vietnam,1968,0.0
+428,Other Asia Pacific,1968,0.0
+429,Total Asia Pacific,1968,0.0
+430,,1968,
+431,Total World,1968,0.0
+432,,1969,
+433,Canada,1969,0.0
+434,Mexico,1969,0.0
+435,US,1969,0.0
+436,Total North America,1969,0.0
+437,,1969,
+438,Argentina,1969,0.0
+439,Brazil,1969,0.0
+440,Chile,1969,0.0
+441,Colombia,1969,0.0
+442,Ecuador,1969,0.0
+443,Peru,1969,0.0
+444,Trinidad & Tobago,1969,0.0
+445,Venezuela,1969,0.0
+446,Central America,1969,0.0
+447,Other Caribbean,1969,0.0
+448,Other South America,1969,0.0
+449,Total S. & Cent. America,1969,0.0
+450,,1969,
+451,Austria,1969,0.0
+452,Belgium,1969,0.0
+453,Bulgaria,1969,0.0
+454,Croatia,1969,
+455,Cyprus,1969,0.0
+456,Czech Republic,1969,0.0
+457,Denmark,1969,0.0
+458,Estonia,1969,
+459,Finland,1969,0.0
+460,France,1969,0.0
+461,Germany,1969,0.0
+462,Greece,1969,0.0
+463,Hungary,1969,0.0
+464,Iceland,1969,0.0
+465,Ireland,1969,0.0
+466,Italy,1969,0.0
+467,Latvia,1969,
+468,Lithuania,1969,
+469,Luxembourg,1969,0.0
+470,Netherlands,1969,0.0
+471,North Macedonia,1969,
+472,Norway,1969,0.0
+473,Poland,1969,0.0
+474,Portugal,1969,0.0
+475,Romania,1969,0.0
+476,Slovakia,1969,0.0
+477,Slovenia,1969,
+478,Spain,1969,0.0
+479,Sweden,1969,0.0
+480,Switzerland,1969,0.0
+481,Turkey,1969,0.0
+482,Ukraine,1969,
+483,United Kingdom,1969,0.0
+484,Other Europe,1969,0.0
+485,Total Europe,1969,0.0
+486,,1969,
+487,Azerbaijan,1969,
+488,Belarus,1969,
+489,Kazakhstan,1969,
+490,Russian Federation,1969,
+491,Turkmenistan,1969,
+492,USSR,1969,0.0
+493,Uzbekistan,1969,
+494,Other CIS,1969,
+495,Total CIS,1969,0.0
+496,,1969,
+497,Iran,1969,0.0
+498,Iraq,1969,0.0
+499,Israel,1969,0.0
+500,Kuwait,1969,0.0
+501,Oman,1969,0.0
+502,Qatar,1969,0.0
+503,Saudi Arabia,1969,0.0
+504,United Arab Emirates,1969,0.0
+505,Other Middle East,1969,0.0
+506,Total Middle East,1969,0.0
+507,,1969,
+508,Algeria,1969,0.0
+509,Egypt,1969,0.0
+510,Morocco,1969,0.0
+511,South Africa,1969,0.0
+512,Eastern Africa,1969,0.0
+513,Middle Africa,1969,0.0
+514,Western Africa,1969,0.0
+515,Other Northern Africa,1969,0.0
+516,Other Southern Africa,1969,0.0
+517,Total Africa,1969,0.0
+518,,1969,
+519,Australia,1969,0.0
+520,Bangladesh,1969,0.0
+521,China,1969,0.0
+522,China Hong Kong SAR,1969,0.0
+523,India,1969,0.0
+524,Indonesia,1969,0.0
+525,Japan,1969,0.0
+526,Malaysia,1969,0.0
+527,New Zealand,1969,0.0
+528,Pakistan,1969,0.0
+529,Philippines,1969,0.0
+530,Singapore,1969,0.0
+531,South Korea,1969,0.0
+532,Sri Lanka,1969,0.0
+533,Taiwan,1969,0.0
+534,Thailand,1969,0.0
+535,Vietnam,1969,0.0
+536,Other Asia Pacific,1969,0.0
+537,Total Asia Pacific,1969,0.0
+538,,1969,
+539,Total World,1969,0.0
+540,,1970,
+541,Canada,1970,0.0
+542,Mexico,1970,0.0
+543,US,1970,0.0
+544,Total North America,1970,0.0
+545,,1970,
+546,Argentina,1970,0.0
+547,Brazil,1970,0.0
+548,Chile,1970,0.0
+549,Colombia,1970,0.0
+550,Ecuador,1970,0.0
+551,Peru,1970,0.0
+552,Trinidad & Tobago,1970,0.0
+553,Venezuela,1970,0.0
+554,Central America,1970,0.0
+555,Other Caribbean,1970,0.0
+556,Other South America,1970,0.0
+557,Total S. & Cent. America,1970,0.0
+558,,1970,
+559,Austria,1970,0.0
+560,Belgium,1970,0.0
+561,Bulgaria,1970,0.0
+562,Croatia,1970,
+563,Cyprus,1970,0.0
+564,Czech Republic,1970,0.0
+565,Denmark,1970,0.0
+566,Estonia,1970,
+567,Finland,1970,0.0
+568,France,1970,0.0
+569,Germany,1970,0.0
+570,Greece,1970,0.0
+571,Hungary,1970,0.0
+572,Iceland,1970,0.0
+573,Ireland,1970,0.0
+574,Italy,1970,0.0
+575,Latvia,1970,
+576,Lithuania,1970,
+577,Luxembourg,1970,0.0
+578,Netherlands,1970,0.0
+579,North Macedonia,1970,
+580,Norway,1970,0.0
+581,Poland,1970,0.0
+582,Portugal,1970,0.0
+583,Romania,1970,0.0
+584,Slovakia,1970,0.0
+585,Slovenia,1970,
+586,Spain,1970,0.0
+587,Sweden,1970,0.0
+588,Switzerland,1970,0.0
+589,Turkey,1970,0.0
+590,Ukraine,1970,
+591,United Kingdom,1970,0.0
+592,Other Europe,1970,0.0
+593,Total Europe,1970,0.0
+594,,1970,
+595,Azerbaijan,1970,
+596,Belarus,1970,
+597,Kazakhstan,1970,
+598,Russian Federation,1970,
+599,Turkmenistan,1970,
+600,USSR,1970,0.0
+601,Uzbekistan,1970,
+602,Other CIS,1970,
+603,Total CIS,1970,0.0
+604,,1970,
+605,Iran,1970,0.0
+606,Iraq,1970,0.0
+607,Israel,1970,0.0
+608,Kuwait,1970,0.0
+609,Oman,1970,0.0
+610,Qatar,1970,0.0
+611,Saudi Arabia,1970,0.0
+612,United Arab Emirates,1970,0.0
+613,Other Middle East,1970,0.0
+614,Total Middle East,1970,0.0
+615,,1970,
+616,Algeria,1970,0.0
+617,Egypt,1970,0.0
+618,Morocco,1970,0.0
+619,South Africa,1970,0.0
+620,Eastern Africa,1970,0.0
+621,Middle Africa,1970,0.0
+622,Western Africa,1970,0.0
+623,Other Northern Africa,1970,0.0
+624,Other Southern Africa,1970,0.0
+625,Total Africa,1970,0.0
+626,,1970,
+627,Australia,1970,0.0
+628,Bangladesh,1970,0.0
+629,China,1970,0.0
+630,China Hong Kong SAR,1970,0.0
+631,India,1970,0.0
+632,Indonesia,1970,0.0
+633,Japan,1970,0.0
+634,Malaysia,1970,0.0
+635,New Zealand,1970,0.0
+636,Pakistan,1970,0.0
+637,Philippines,1970,0.0
+638,Singapore,1970,0.0
+639,South Korea,1970,0.0
+640,Sri Lanka,1970,0.0
+641,Taiwan,1970,0.0
+642,Thailand,1970,0.0
+643,Vietnam,1970,0.0
+644,Other Asia Pacific,1970,0.0
+645,Total Asia Pacific,1970,0.0
+646,,1970,
+647,Total World,1970,0.0
+648,,1971,
+649,Canada,1971,0.0
+650,Mexico,1971,0.0
+651,US,1971,0.0
+652,Total North America,1971,0.0
+653,,1971,
+654,Argentina,1971,0.0
+655,Brazil,1971,0.0
+656,Chile,1971,0.0
+657,Colombia,1971,0.0
+658,Ecuador,1971,0.0
+659,Peru,1971,0.0
+660,Trinidad & Tobago,1971,0.0
+661,Venezuela,1971,0.0
+662,Central America,1971,0.0
+663,Other Caribbean,1971,0.0
+664,Other South America,1971,0.0
+665,Total S. & Cent. America,1971,0.0
+666,,1971,
+667,Austria,1971,0.0
+668,Belgium,1971,0.0
+669,Bulgaria,1971,0.0
+670,Croatia,1971,
+671,Cyprus,1971,0.0
+672,Czech Republic,1971,0.0
+673,Denmark,1971,0.0
+674,Estonia,1971,
+675,Finland,1971,0.0
+676,France,1971,0.0
+677,Germany,1971,0.0
+678,Greece,1971,0.0
+679,Hungary,1971,0.0
+680,Iceland,1971,0.0
+681,Ireland,1971,0.0
+682,Italy,1971,0.0
+683,Latvia,1971,
+684,Lithuania,1971,
+685,Luxembourg,1971,0.0
+686,Netherlands,1971,0.0
+687,North Macedonia,1971,
+688,Norway,1971,0.0
+689,Poland,1971,0.0
+690,Portugal,1971,0.0
+691,Romania,1971,0.0
+692,Slovakia,1971,0.0
+693,Slovenia,1971,
+694,Spain,1971,0.0
+695,Sweden,1971,0.0
+696,Switzerland,1971,0.0
+697,Turkey,1971,0.0
+698,Ukraine,1971,
+699,United Kingdom,1971,0.0
+700,Other Europe,1971,0.0
+701,Total Europe,1971,0.0
+702,,1971,
+703,Azerbaijan,1971,
+704,Belarus,1971,
+705,Kazakhstan,1971,
+706,Russian Federation,1971,
+707,Turkmenistan,1971,
+708,USSR,1971,0.0
+709,Uzbekistan,1971,
+710,Other CIS,1971,
+711,Total CIS,1971,0.0
+712,,1971,
+713,Iran,1971,0.0
+714,Iraq,1971,0.0
+715,Israel,1971,0.0
+716,Kuwait,1971,0.0
+717,Oman,1971,0.0
+718,Qatar,1971,0.0
+719,Saudi Arabia,1971,0.0
+720,United Arab Emirates,1971,0.0
+721,Other Middle East,1971,0.0
+722,Total Middle East,1971,0.0
+723,,1971,
+724,Algeria,1971,0.0
+725,Egypt,1971,0.0
+726,Morocco,1971,0.0
+727,South Africa,1971,0.0
+728,Eastern Africa,1971,0.0
+729,Middle Africa,1971,0.0
+730,Western Africa,1971,0.0
+731,Other Northern Africa,1971,0.0
+732,Other Southern Africa,1971,0.0
+733,Total Africa,1971,0.0
+734,,1971,
+735,Australia,1971,0.0
+736,Bangladesh,1971,0.0
+737,China,1971,0.0
+738,China Hong Kong SAR,1971,0.0
+739,India,1971,0.0
+740,Indonesia,1971,0.0
+741,Japan,1971,0.0
+742,Malaysia,1971,0.0
+743,New Zealand,1971,0.0
+744,Pakistan,1971,0.0
+745,Philippines,1971,0.0
+746,Singapore,1971,0.0
+747,South Korea,1971,0.0
+748,Sri Lanka,1971,0.0
+749,Taiwan,1971,0.0
+750,Thailand,1971,0.0
+751,Vietnam,1971,0.0
+752,Other Asia Pacific,1971,0.0
+753,Total Asia Pacific,1971,0.0
+754,,1971,
+755,Total World,1971,0.0
+756,,1972,
+757,Canada,1972,0.0
+758,Mexico,1972,0.0
+759,US,1972,0.0
+760,Total North America,1972,0.0
+761,,1972,
+762,Argentina,1972,0.0
+763,Brazil,1972,0.0
+764,Chile,1972,0.0
+765,Colombia,1972,0.0
+766,Ecuador,1972,0.0
+767,Peru,1972,0.0
+768,Trinidad & Tobago,1972,0.0
+769,Venezuela,1972,0.0
+770,Central America,1972,0.0
+771,Other Caribbean,1972,0.0
+772,Other South America,1972,0.0
+773,Total S. & Cent. America,1972,0.0
+774,,1972,
+775,Austria,1972,0.0
+776,Belgium,1972,0.0
+777,Bulgaria,1972,0.0
+778,Croatia,1972,
+779,Cyprus,1972,0.0
+780,Czech Republic,1972,0.0
+781,Denmark,1972,0.0
+782,Estonia,1972,
+783,Finland,1972,0.0
+784,France,1972,0.0
+785,Germany,1972,0.0
+786,Greece,1972,0.0
+787,Hungary,1972,0.0
+788,Iceland,1972,0.0
+789,Ireland,1972,0.0
+790,Italy,1972,0.0
+791,Latvia,1972,
+792,Lithuania,1972,
+793,Luxembourg,1972,0.0
+794,Netherlands,1972,0.0
+795,North Macedonia,1972,
+796,Norway,1972,0.0
+797,Poland,1972,0.0
+798,Portugal,1972,0.0
+799,Romania,1972,0.0
+800,Slovakia,1972,0.0
+801,Slovenia,1972,
+802,Spain,1972,0.0
+803,Sweden,1972,0.0
+804,Switzerland,1972,0.0
+805,Turkey,1972,0.0
+806,Ukraine,1972,
+807,United Kingdom,1972,0.0
+808,Other Europe,1972,0.0
+809,Total Europe,1972,0.0
+810,,1972,
+811,Azerbaijan,1972,
+812,Belarus,1972,
+813,Kazakhstan,1972,
+814,Russian Federation,1972,
+815,Turkmenistan,1972,
+816,USSR,1972,0.0
+817,Uzbekistan,1972,
+818,Other CIS,1972,
+819,Total CIS,1972,0.0
+820,,1972,
+821,Iran,1972,0.0
+822,Iraq,1972,0.0
+823,Israel,1972,0.0
+824,Kuwait,1972,0.0
+825,Oman,1972,0.0
+826,Qatar,1972,0.0
+827,Saudi Arabia,1972,0.0
+828,United Arab Emirates,1972,0.0
+829,Other Middle East,1972,0.0
+830,Total Middle East,1972,0.0
+831,,1972,
+832,Algeria,1972,0.0
+833,Egypt,1972,0.0
+834,Morocco,1972,0.0
+835,South Africa,1972,0.0
+836,Eastern Africa,1972,0.0
+837,Middle Africa,1972,0.0
+838,Western Africa,1972,0.0
+839,Other Northern Africa,1972,0.0
+840,Other Southern Africa,1972,0.0
+841,Total Africa,1972,0.0
+842,,1972,
+843,Australia,1972,0.0
+844,Bangladesh,1972,0.0
+845,China,1972,0.0
+846,China Hong Kong SAR,1972,0.0
+847,India,1972,0.0
+848,Indonesia,1972,0.0
+849,Japan,1972,0.0
+850,Malaysia,1972,0.0
+851,New Zealand,1972,0.0
+852,Pakistan,1972,0.0
+853,Philippines,1972,0.0
+854,Singapore,1972,0.0
+855,South Korea,1972,0.0
+856,Sri Lanka,1972,0.0
+857,Taiwan,1972,0.0
+858,Thailand,1972,0.0
+859,Vietnam,1972,0.0
+860,Other Asia Pacific,1972,0.0
+861,Total Asia Pacific,1972,0.0
+862,,1972,
+863,Total World,1972,0.0
+864,,1973,
+865,Canada,1973,0.0
+866,Mexico,1973,0.0
+867,US,1973,0.0
+868,Total North America,1973,0.0
+869,,1973,
+870,Argentina,1973,0.0
+871,Brazil,1973,0.0
+872,Chile,1973,0.0
+873,Colombia,1973,0.0
+874,Ecuador,1973,0.0
+875,Peru,1973,0.0
+876,Trinidad & Tobago,1973,0.0
+877,Venezuela,1973,0.0
+878,Central America,1973,0.0
+879,Other Caribbean,1973,0.0
+880,Other South America,1973,0.0
+881,Total S. & Cent. America,1973,0.0
+882,,1973,
+883,Austria,1973,0.0
+884,Belgium,1973,0.0
+885,Bulgaria,1973,0.0
+886,Croatia,1973,
+887,Cyprus,1973,0.0
+888,Czech Republic,1973,0.0
+889,Denmark,1973,0.0
+890,Estonia,1973,
+891,Finland,1973,0.0
+892,France,1973,0.0
+893,Germany,1973,0.0
+894,Greece,1973,0.0
+895,Hungary,1973,0.0
+896,Iceland,1973,0.0
+897,Ireland,1973,0.0
+898,Italy,1973,0.0
+899,Latvia,1973,
+900,Lithuania,1973,
+901,Luxembourg,1973,0.0
+902,Netherlands,1973,0.0
+903,North Macedonia,1973,
+904,Norway,1973,0.0
+905,Poland,1973,0.0
+906,Portugal,1973,0.0
+907,Romania,1973,0.0
+908,Slovakia,1973,0.0
+909,Slovenia,1973,
+910,Spain,1973,0.0
+911,Sweden,1973,0.0
+912,Switzerland,1973,0.0
+913,Turkey,1973,0.0
+914,Ukraine,1973,
+915,United Kingdom,1973,0.0
+916,Other Europe,1973,0.0
+917,Total Europe,1973,0.0
+918,,1973,
+919,Azerbaijan,1973,
+920,Belarus,1973,
+921,Kazakhstan,1973,
+922,Russian Federation,1973,
+923,Turkmenistan,1973,
+924,USSR,1973,0.0
+925,Uzbekistan,1973,
+926,Other CIS,1973,
+927,Total CIS,1973,0.0
+928,,1973,
+929,Iran,1973,0.0
+930,Iraq,1973,0.0
+931,Israel,1973,0.0
+932,Kuwait,1973,0.0
+933,Oman,1973,0.0
+934,Qatar,1973,0.0
+935,Saudi Arabia,1973,0.0
+936,United Arab Emirates,1973,0.0
+937,Other Middle East,1973,0.0
+938,Total Middle East,1973,0.0
+939,,1973,
+940,Algeria,1973,0.0
+941,Egypt,1973,0.0
+942,Morocco,1973,0.0
+943,South Africa,1973,0.0
+944,Eastern Africa,1973,0.0
+945,Middle Africa,1973,0.0
+946,Western Africa,1973,0.0
+947,Other Northern Africa,1973,0.0
+948,Other Southern Africa,1973,0.0
+949,Total Africa,1973,0.0
+950,,1973,
+951,Australia,1973,0.0
+952,Bangladesh,1973,0.0
+953,China,1973,0.0
+954,China Hong Kong SAR,1973,0.0
+955,India,1973,0.0
+956,Indonesia,1973,0.0
+957,Japan,1973,0.0
+958,Malaysia,1973,0.0
+959,New Zealand,1973,0.0
+960,Pakistan,1973,0.0
+961,Philippines,1973,0.0
+962,Singapore,1973,0.0
+963,South Korea,1973,0.0
+964,Sri Lanka,1973,0.0
+965,Taiwan,1973,0.0
+966,Thailand,1973,0.0
+967,Vietnam,1973,0.0
+968,Other Asia Pacific,1973,0.0
+969,Total Asia Pacific,1973,0.0
+970,,1973,
+971,Total World,1973,0.0
+972,,1974,
+973,Canada,1974,0.0
+974,Mexico,1974,0.0
+975,US,1974,0.0
+976,Total North America,1974,0.0
+977,,1974,
+978,Argentina,1974,0.0
+979,Brazil,1974,0.0
+980,Chile,1974,0.0
+981,Colombia,1974,0.0
+982,Ecuador,1974,0.0
+983,Peru,1974,0.0
+984,Trinidad & Tobago,1974,0.0
+985,Venezuela,1974,0.0
+986,Central America,1974,0.0
+987,Other Caribbean,1974,0.0
+988,Other South America,1974,0.0
+989,Total S. & Cent. America,1974,0.0
+990,,1974,
+991,Austria,1974,0.0
+992,Belgium,1974,0.0
+993,Bulgaria,1974,0.0
+994,Croatia,1974,
+995,Cyprus,1974,0.0
+996,Czech Republic,1974,0.0
+997,Denmark,1974,0.0
+998,Estonia,1974,
+999,Finland,1974,0.0
+1000,France,1974,0.0
+1001,Germany,1974,0.0
+1002,Greece,1974,0.0
+1003,Hungary,1974,0.0
+1004,Iceland,1974,0.0
+1005,Ireland,1974,0.0
+1006,Italy,1974,0.0
+1007,Latvia,1974,
+1008,Lithuania,1974,
+1009,Luxembourg,1974,0.0
+1010,Netherlands,1974,0.0
+1011,North Macedonia,1974,
+1012,Norway,1974,0.0
+1013,Poland,1974,0.0
+1014,Portugal,1974,0.0
+1015,Romania,1974,0.0
+1016,Slovakia,1974,0.0
+1017,Slovenia,1974,
+1018,Spain,1974,0.0
+1019,Sweden,1974,0.0
+1020,Switzerland,1974,0.0
+1021,Turkey,1974,0.0
+1022,Ukraine,1974,
+1023,United Kingdom,1974,0.0
+1024,Other Europe,1974,0.0
+1025,Total Europe,1974,0.0
+1026,,1974,
+1027,Azerbaijan,1974,
+1028,Belarus,1974,
+1029,Kazakhstan,1974,
+1030,Russian Federation,1974,
+1031,Turkmenistan,1974,
+1032,USSR,1974,0.0
+1033,Uzbekistan,1974,
+1034,Other CIS,1974,
+1035,Total CIS,1974,0.0
+1036,,1974,
+1037,Iran,1974,0.0
+1038,Iraq,1974,0.0
+1039,Israel,1974,0.0
+1040,Kuwait,1974,0.0
+1041,Oman,1974,0.0
+1042,Qatar,1974,0.0
+1043,Saudi Arabia,1974,0.0
+1044,United Arab Emirates,1974,0.0
+1045,Other Middle East,1974,0.0
+1046,Total Middle East,1974,0.0
+1047,,1974,
+1048,Algeria,1974,0.0
+1049,Egypt,1974,0.0
+1050,Morocco,1974,0.0
+1051,South Africa,1974,0.0
+1052,Eastern Africa,1974,0.0
+1053,Middle Africa,1974,0.0
+1054,Western Africa,1974,0.0
+1055,Other Northern Africa,1974,0.0
+1056,Other Southern Africa,1974,0.0
+1057,Total Africa,1974,0.0
+1058,,1974,
+1059,Australia,1974,0.0
+1060,Bangladesh,1974,0.0
+1061,China,1974,0.0
+1062,China Hong Kong SAR,1974,0.0
+1063,India,1974,0.0
+1064,Indonesia,1974,0.0
+1065,Japan,1974,0.0
+1066,Malaysia,1974,0.0
+1067,New Zealand,1974,0.0
+1068,Pakistan,1974,0.0
+1069,Philippines,1974,0.0
+1070,Singapore,1974,0.0
+1071,South Korea,1974,0.0
+1072,Sri Lanka,1974,0.0
+1073,Taiwan,1974,0.0
+1074,Thailand,1974,0.0
+1075,Vietnam,1974,0.0
+1076,Other Asia Pacific,1974,0.0
+1077,Total Asia Pacific,1974,0.0
+1078,,1974,
+1079,Total World,1974,0.0
+1080,,1975,
+1081,Canada,1975,0.0
+1082,Mexico,1975,0.0
+1083,US,1975,0.0
+1084,Total North America,1975,0.0
+1085,,1975,
+1086,Argentina,1975,0.0
+1087,Brazil,1975,0.0
+1088,Chile,1975,0.0
+1089,Colombia,1975,0.0
+1090,Ecuador,1975,0.0
+1091,Peru,1975,0.0
+1092,Trinidad & Tobago,1975,0.0
+1093,Venezuela,1975,0.0
+1094,Central America,1975,0.0
+1095,Other Caribbean,1975,0.0
+1096,Other South America,1975,0.0
+1097,Total S. & Cent. America,1975,0.0
+1098,,1975,
+1099,Austria,1975,0.0
+1100,Belgium,1975,0.0
+1101,Bulgaria,1975,0.0
+1102,Croatia,1975,
+1103,Cyprus,1975,0.0
+1104,Czech Republic,1975,0.0
+1105,Denmark,1975,0.0
+1106,Estonia,1975,
+1107,Finland,1975,0.0
+1108,France,1975,0.0
+1109,Germany,1975,0.0
+1110,Greece,1975,0.0
+1111,Hungary,1975,0.0
+1112,Iceland,1975,0.0
+1113,Ireland,1975,0.0
+1114,Italy,1975,0.0
+1115,Latvia,1975,
+1116,Lithuania,1975,
+1117,Luxembourg,1975,0.0
+1118,Netherlands,1975,0.0
+1119,North Macedonia,1975,
+1120,Norway,1975,0.0
+1121,Poland,1975,0.0
+1122,Portugal,1975,0.0
+1123,Romania,1975,0.0
+1124,Slovakia,1975,0.0
+1125,Slovenia,1975,
+1126,Spain,1975,0.0
+1127,Sweden,1975,0.0
+1128,Switzerland,1975,0.0
+1129,Turkey,1975,0.0
+1130,Ukraine,1975,
+1131,United Kingdom,1975,0.0
+1132,Other Europe,1975,0.0
+1133,Total Europe,1975,0.0
+1134,,1975,
+1135,Azerbaijan,1975,
+1136,Belarus,1975,
+1137,Kazakhstan,1975,
+1138,Russian Federation,1975,
+1139,Turkmenistan,1975,
+1140,USSR,1975,0.0
+1141,Uzbekistan,1975,
+1142,Other CIS,1975,
+1143,Total CIS,1975,0.0
+1144,,1975,
+1145,Iran,1975,0.0
+1146,Iraq,1975,0.0
+1147,Israel,1975,0.0
+1148,Kuwait,1975,0.0
+1149,Oman,1975,0.0
+1150,Qatar,1975,0.0
+1151,Saudi Arabia,1975,0.0
+1152,United Arab Emirates,1975,0.0
+1153,Other Middle East,1975,0.0
+1154,Total Middle East,1975,0.0
+1155,,1975,
+1156,Algeria,1975,0.0
+1157,Egypt,1975,0.0
+1158,Morocco,1975,0.0
+1159,South Africa,1975,0.0
+1160,Eastern Africa,1975,0.0
+1161,Middle Africa,1975,0.0
+1162,Western Africa,1975,0.0
+1163,Other Northern Africa,1975,0.0
+1164,Other Southern Africa,1975,0.0
+1165,Total Africa,1975,0.0
+1166,,1975,
+1167,Australia,1975,0.0
+1168,Bangladesh,1975,0.0
+1169,China,1975,0.0
+1170,China Hong Kong SAR,1975,0.0
+1171,India,1975,0.0
+1172,Indonesia,1975,0.0
+1173,Japan,1975,0.0
+1174,Malaysia,1975,0.0
+1175,New Zealand,1975,0.0
+1176,Pakistan,1975,0.0
+1177,Philippines,1975,0.0
+1178,Singapore,1975,0.0
+1179,South Korea,1975,0.0
+1180,Sri Lanka,1975,0.0
+1181,Taiwan,1975,0.0
+1182,Thailand,1975,0.0
+1183,Vietnam,1975,0.0
+1184,Other Asia Pacific,1975,0.0
+1185,Total Asia Pacific,1975,0.0
+1186,,1975,
+1187,Total World,1975,0.0
+1188,,1976,
+1189,Canada,1976,0.0
+1190,Mexico,1976,0.0
+1191,US,1976,0.0
+1192,Total North America,1976,0.0
+1193,,1976,
+1194,Argentina,1976,0.0
+1195,Brazil,1976,0.0
+1196,Chile,1976,0.0
+1197,Colombia,1976,0.0
+1198,Ecuador,1976,0.0
+1199,Peru,1976,0.0
+1200,Trinidad & Tobago,1976,0.0
+1201,Venezuela,1976,0.0
+1202,Central America,1976,0.0
+1203,Other Caribbean,1976,0.0
+1204,Other South America,1976,0.0
+1205,Total S. & Cent. America,1976,0.0
+1206,,1976,
+1207,Austria,1976,0.0
+1208,Belgium,1976,0.0
+1209,Bulgaria,1976,0.0
+1210,Croatia,1976,
+1211,Cyprus,1976,0.0
+1212,Czech Republic,1976,0.0
+1213,Denmark,1976,0.0
+1214,Estonia,1976,
+1215,Finland,1976,0.0
+1216,France,1976,0.0
+1217,Germany,1976,0.0
+1218,Greece,1976,0.0
+1219,Hungary,1976,0.0
+1220,Iceland,1976,0.0
+1221,Ireland,1976,0.0
+1222,Italy,1976,0.0
+1223,Latvia,1976,
+1224,Lithuania,1976,
+1225,Luxembourg,1976,0.0
+1226,Netherlands,1976,0.0
+1227,North Macedonia,1976,
+1228,Norway,1976,0.0
+1229,Poland,1976,0.0
+1230,Portugal,1976,0.0
+1231,Romania,1976,0.0
+1232,Slovakia,1976,0.0
+1233,Slovenia,1976,
+1234,Spain,1976,0.0
+1235,Sweden,1976,0.0
+1236,Switzerland,1976,0.0
+1237,Turkey,1976,0.0
+1238,Ukraine,1976,
+1239,United Kingdom,1976,0.0
+1240,Other Europe,1976,0.0
+1241,Total Europe,1976,0.0
+1242,,1976,
+1243,Azerbaijan,1976,
+1244,Belarus,1976,
+1245,Kazakhstan,1976,
+1246,Russian Federation,1976,
+1247,Turkmenistan,1976,
+1248,USSR,1976,0.0
+1249,Uzbekistan,1976,
+1250,Other CIS,1976,
+1251,Total CIS,1976,0.0
+1252,,1976,
+1253,Iran,1976,0.0
+1254,Iraq,1976,0.0
+1255,Israel,1976,0.0
+1256,Kuwait,1976,0.0
+1257,Oman,1976,0.0
+1258,Qatar,1976,0.0
+1259,Saudi Arabia,1976,0.0
+1260,United Arab Emirates,1976,0.0
+1261,Other Middle East,1976,0.0
+1262,Total Middle East,1976,0.0
+1263,,1976,
+1264,Algeria,1976,0.0
+1265,Egypt,1976,0.0
+1266,Morocco,1976,0.0
+1267,South Africa,1976,0.0
+1268,Eastern Africa,1976,0.0
+1269,Middle Africa,1976,0.0
+1270,Western Africa,1976,0.0
+1271,Other Northern Africa,1976,0.0
+1272,Other Southern Africa,1976,0.0
+1273,Total Africa,1976,0.0
+1274,,1976,
+1275,Australia,1976,0.0
+1276,Bangladesh,1976,0.0
+1277,China,1976,0.0
+1278,China Hong Kong SAR,1976,0.0
+1279,India,1976,0.0
+1280,Indonesia,1976,0.0
+1281,Japan,1976,0.0
+1282,Malaysia,1976,0.0
+1283,New Zealand,1976,0.0
+1284,Pakistan,1976,0.0
+1285,Philippines,1976,0.0
+1286,Singapore,1976,0.0
+1287,South Korea,1976,0.0
+1288,Sri Lanka,1976,0.0
+1289,Taiwan,1976,0.0
+1290,Thailand,1976,0.0
+1291,Vietnam,1976,0.0
+1292,Other Asia Pacific,1976,0.0
+1293,Total Asia Pacific,1976,0.0
+1294,,1976,
+1295,Total World,1976,0.0
+1296,,1977,
+1297,Canada,1977,0.0
+1298,Mexico,1977,0.0
+1299,US,1977,0.0
+1300,Total North America,1977,0.0
+1301,,1977,
+1302,Argentina,1977,0.0
+1303,Brazil,1977,0.0
+1304,Chile,1977,0.0
+1305,Colombia,1977,0.0
+1306,Ecuador,1977,0.0
+1307,Peru,1977,0.0
+1308,Trinidad & Tobago,1977,0.0
+1309,Venezuela,1977,0.0
+1310,Central America,1977,0.0
+1311,Other Caribbean,1977,0.0
+1312,Other South America,1977,0.0
+1313,Total S. & Cent. America,1977,0.0
+1314,,1977,
+1315,Austria,1977,0.0
+1316,Belgium,1977,0.0
+1317,Bulgaria,1977,0.0
+1318,Croatia,1977,
+1319,Cyprus,1977,0.0
+1320,Czech Republic,1977,0.0
+1321,Denmark,1977,0.0
+1322,Estonia,1977,
+1323,Finland,1977,0.0
+1324,France,1977,0.0
+1325,Germany,1977,0.0
+1326,Greece,1977,0.0
+1327,Hungary,1977,0.0
+1328,Iceland,1977,0.0
+1329,Ireland,1977,0.0
+1330,Italy,1977,0.0
+1331,Latvia,1977,
+1332,Lithuania,1977,
+1333,Luxembourg,1977,0.0
+1334,Netherlands,1977,0.0
+1335,North Macedonia,1977,
+1336,Norway,1977,0.0
+1337,Poland,1977,0.0
+1338,Portugal,1977,0.0
+1339,Romania,1977,0.0
+1340,Slovakia,1977,0.0
+1341,Slovenia,1977,
+1342,Spain,1977,0.0
+1343,Sweden,1977,0.0
+1344,Switzerland,1977,0.0
+1345,Turkey,1977,0.0
+1346,Ukraine,1977,
+1347,United Kingdom,1977,0.0
+1348,Other Europe,1977,0.0
+1349,Total Europe,1977,0.0
+1350,,1977,
+1351,Azerbaijan,1977,
+1352,Belarus,1977,
+1353,Kazakhstan,1977,
+1354,Russian Federation,1977,
+1355,Turkmenistan,1977,
+1356,USSR,1977,0.0
+1357,Uzbekistan,1977,
+1358,Other CIS,1977,
+1359,Total CIS,1977,0.0
+1360,,1977,
+1361,Iran,1977,0.0
+1362,Iraq,1977,0.0
+1363,Israel,1977,0.0
+1364,Kuwait,1977,0.0
+1365,Oman,1977,0.0
+1366,Qatar,1977,0.0
+1367,Saudi Arabia,1977,0.0
+1368,United Arab Emirates,1977,0.0
+1369,Other Middle East,1977,0.0
+1370,Total Middle East,1977,0.0
+1371,,1977,
+1372,Algeria,1977,0.0
+1373,Egypt,1977,0.0
+1374,Morocco,1977,0.0
+1375,South Africa,1977,0.0
+1376,Eastern Africa,1977,0.0
+1377,Middle Africa,1977,0.0
+1378,Western Africa,1977,0.0
+1379,Other Northern Africa,1977,0.0
+1380,Other Southern Africa,1977,0.0
+1381,Total Africa,1977,0.0
+1382,,1977,
+1383,Australia,1977,0.0
+1384,Bangladesh,1977,0.0
+1385,China,1977,0.0
+1386,China Hong Kong SAR,1977,0.0
+1387,India,1977,0.0
+1388,Indonesia,1977,0.0
+1389,Japan,1977,0.0
+1390,Malaysia,1977,0.0
+1391,New Zealand,1977,0.0
+1392,Pakistan,1977,0.0
+1393,Philippines,1977,0.0
+1394,Singapore,1977,0.0
+1395,South Korea,1977,0.0
+1396,Sri Lanka,1977,0.0
+1397,Taiwan,1977,0.0
+1398,Thailand,1977,0.0
+1399,Vietnam,1977,0.0
+1400,Other Asia Pacific,1977,0.0
+1401,Total Asia Pacific,1977,0.0
+1402,,1977,
+1403,Total World,1977,0.0
+1404,,1978,
+1405,Canada,1978,0.0
+1406,Mexico,1978,0.0
+1407,US,1978,0.0
+1408,Total North America,1978,0.0
+1409,,1978,
+1410,Argentina,1978,0.0
+1411,Brazil,1978,0.0
+1412,Chile,1978,0.0
+1413,Colombia,1978,0.0
+1414,Ecuador,1978,0.0
+1415,Peru,1978,0.0
+1416,Trinidad & Tobago,1978,0.0
+1417,Venezuela,1978,0.0
+1418,Central America,1978,0.0
+1419,Other Caribbean,1978,0.0
+1420,Other South America,1978,0.0
+1421,Total S. & Cent. America,1978,0.0
+1422,,1978,
+1423,Austria,1978,0.0
+1424,Belgium,1978,0.0
+1425,Bulgaria,1978,0.0
+1426,Croatia,1978,
+1427,Cyprus,1978,0.0
+1428,Czech Republic,1978,0.0
+1429,Denmark,1978,0.0
+1430,Estonia,1978,
+1431,Finland,1978,0.0
+1432,France,1978,0.0
+1433,Germany,1978,0.0
+1434,Greece,1978,0.0
+1435,Hungary,1978,0.0
+1436,Iceland,1978,0.0
+1437,Ireland,1978,0.0
+1438,Italy,1978,0.0
+1439,Latvia,1978,
+1440,Lithuania,1978,
+1441,Luxembourg,1978,0.0
+1442,Netherlands,1978,0.0
+1443,North Macedonia,1978,
+1444,Norway,1978,0.0
+1445,Poland,1978,0.0
+1446,Portugal,1978,0.0
+1447,Romania,1978,0.0
+1448,Slovakia,1978,0.0
+1449,Slovenia,1978,
+1450,Spain,1978,0.0
+1451,Sweden,1978,0.0
+1452,Switzerland,1978,0.0
+1453,Turkey,1978,0.0
+1454,Ukraine,1978,
+1455,United Kingdom,1978,0.0
+1456,Other Europe,1978,0.0
+1457,Total Europe,1978,0.0
+1458,,1978,
+1459,Azerbaijan,1978,
+1460,Belarus,1978,
+1461,Kazakhstan,1978,
+1462,Russian Federation,1978,
+1463,Turkmenistan,1978,
+1464,USSR,1978,0.0
+1465,Uzbekistan,1978,
+1466,Other CIS,1978,
+1467,Total CIS,1978,0.0
+1468,,1978,
+1469,Iran,1978,0.0
+1470,Iraq,1978,0.0
+1471,Israel,1978,0.0
+1472,Kuwait,1978,0.0
+1473,Oman,1978,0.0
+1474,Qatar,1978,0.0
+1475,Saudi Arabia,1978,0.0
+1476,United Arab Emirates,1978,0.0
+1477,Other Middle East,1978,0.0
+1478,Total Middle East,1978,0.0
+1479,,1978,
+1480,Algeria,1978,0.0
+1481,Egypt,1978,0.0
+1482,Morocco,1978,0.0
+1483,South Africa,1978,0.0
+1484,Eastern Africa,1978,0.0
+1485,Middle Africa,1978,0.0
+1486,Western Africa,1978,0.0
+1487,Other Northern Africa,1978,0.0
+1488,Other Southern Africa,1978,0.0
+1489,Total Africa,1978,0.0
+1490,,1978,
+1491,Australia,1978,0.0
+1492,Bangladesh,1978,0.0
+1493,China,1978,0.0
+1494,China Hong Kong SAR,1978,0.0
+1495,India,1978,0.0
+1496,Indonesia,1978,0.0
+1497,Japan,1978,0.0
+1498,Malaysia,1978,0.0
+1499,New Zealand,1978,0.0
+1500,Pakistan,1978,0.0
+1501,Philippines,1978,0.0
+1502,Singapore,1978,0.0
+1503,South Korea,1978,0.0
+1504,Sri Lanka,1978,0.0
+1505,Taiwan,1978,0.0
+1506,Thailand,1978,0.0
+1507,Vietnam,1978,0.0
+1508,Other Asia Pacific,1978,0.0
+1509,Total Asia Pacific,1978,0.0
+1510,,1978,
+1511,Total World,1978,0.0
+1512,,1979,
+1513,Canada,1979,0.0
+1514,Mexico,1979,0.0
+1515,US,1979,0.0
+1516,Total North America,1979,0.0
+1517,,1979,
+1518,Argentina,1979,0.0
+1519,Brazil,1979,0.0
+1520,Chile,1979,0.0
+1521,Colombia,1979,0.0
+1522,Ecuador,1979,0.0
+1523,Peru,1979,0.0
+1524,Trinidad & Tobago,1979,0.0
+1525,Venezuela,1979,0.0
+1526,Central America,1979,0.0
+1527,Other Caribbean,1979,0.0
+1528,Other South America,1979,0.0
+1529,Total S. & Cent. America,1979,0.0
+1530,,1979,
+1531,Austria,1979,0.0
+1532,Belgium,1979,0.0
+1533,Bulgaria,1979,0.0
+1534,Croatia,1979,
+1535,Cyprus,1979,0.0
+1536,Czech Republic,1979,0.0
+1537,Denmark,1979,0.0
+1538,Estonia,1979,
+1539,Finland,1979,0.0
+1540,France,1979,0.0
+1541,Germany,1979,0.0
+1542,Greece,1979,0.0
+1543,Hungary,1979,0.0
+1544,Iceland,1979,0.0
+1545,Ireland,1979,0.0
+1546,Italy,1979,0.0
+1547,Latvia,1979,
+1548,Lithuania,1979,
+1549,Luxembourg,1979,0.0
+1550,Netherlands,1979,0.0
+1551,North Macedonia,1979,
+1552,Norway,1979,0.0
+1553,Poland,1979,0.0
+1554,Portugal,1979,0.0
+1555,Romania,1979,0.0
+1556,Slovakia,1979,0.0
+1557,Slovenia,1979,
+1558,Spain,1979,0.0
+1559,Sweden,1979,0.0
+1560,Switzerland,1979,0.0
+1561,Turkey,1979,0.0
+1562,Ukraine,1979,
+1563,United Kingdom,1979,0.0
+1564,Other Europe,1979,0.0
+1565,Total Europe,1979,0.0
+1566,,1979,
+1567,Azerbaijan,1979,
+1568,Belarus,1979,
+1569,Kazakhstan,1979,
+1570,Russian Federation,1979,
+1571,Turkmenistan,1979,
+1572,USSR,1979,0.0
+1573,Uzbekistan,1979,
+1574,Other CIS,1979,
+1575,Total CIS,1979,0.0
+1576,,1979,
+1577,Iran,1979,0.0
+1578,Iraq,1979,0.0
+1579,Israel,1979,0.0
+1580,Kuwait,1979,0.0
+1581,Oman,1979,0.0
+1582,Qatar,1979,0.0
+1583,Saudi Arabia,1979,0.0
+1584,United Arab Emirates,1979,0.0
+1585,Other Middle East,1979,0.0
+1586,Total Middle East,1979,0.0
+1587,,1979,
+1588,Algeria,1979,0.0
+1589,Egypt,1979,0.0
+1590,Morocco,1979,0.0
+1591,South Africa,1979,0.0
+1592,Eastern Africa,1979,0.0
+1593,Middle Africa,1979,0.0
+1594,Western Africa,1979,0.0
+1595,Other Northern Africa,1979,0.0
+1596,Other Southern Africa,1979,0.0
+1597,Total Africa,1979,0.0
+1598,,1979,
+1599,Australia,1979,0.0
+1600,Bangladesh,1979,0.0
+1601,China,1979,0.0
+1602,China Hong Kong SAR,1979,0.0
+1603,India,1979,0.0
+1604,Indonesia,1979,0.0
+1605,Japan,1979,0.0
+1606,Malaysia,1979,0.0
+1607,New Zealand,1979,0.0
+1608,Pakistan,1979,0.0
+1609,Philippines,1979,0.0
+1610,Singapore,1979,0.0
+1611,South Korea,1979,0.0
+1612,Sri Lanka,1979,0.0
+1613,Taiwan,1979,0.0
+1614,Thailand,1979,0.0
+1615,Vietnam,1979,0.0
+1616,Other Asia Pacific,1979,0.0
+1617,Total Asia Pacific,1979,0.0
+1618,,1979,
+1619,Total World,1979,0.0
+1620,,1980,
+1621,Canada,1980,0.0
+1622,Mexico,1980,0.0
+1623,US,1980,0.0
+1624,Total North America,1980,0.0
+1625,,1980,
+1626,Argentina,1980,0.0
+1627,Brazil,1980,0.0
+1628,Chile,1980,0.0
+1629,Colombia,1980,0.0
+1630,Ecuador,1980,0.0
+1631,Peru,1980,0.0
+1632,Trinidad & Tobago,1980,0.0
+1633,Venezuela,1980,0.0
+1634,Central America,1980,0.0
+1635,Other Caribbean,1980,0.0
+1636,Other South America,1980,0.0
+1637,Total S. & Cent. America,1980,0.0
+1638,,1980,
+1639,Austria,1980,0.0
+1640,Belgium,1980,0.0
+1641,Bulgaria,1980,0.0
+1642,Croatia,1980,
+1643,Cyprus,1980,0.0
+1644,Czech Republic,1980,0.0
+1645,Denmark,1980,0.0
+1646,Estonia,1980,
+1647,Finland,1980,0.0
+1648,France,1980,0.0
+1649,Germany,1980,0.0
+1650,Greece,1980,0.0
+1651,Hungary,1980,0.0
+1652,Iceland,1980,0.0
+1653,Ireland,1980,0.0
+1654,Italy,1980,0.0
+1655,Latvia,1980,
+1656,Lithuania,1980,
+1657,Luxembourg,1980,0.0
+1658,Netherlands,1980,0.0
+1659,North Macedonia,1980,
+1660,Norway,1980,0.0
+1661,Poland,1980,0.0
+1662,Portugal,1980,0.0
+1663,Romania,1980,0.0
+1664,Slovakia,1980,0.0
+1665,Slovenia,1980,
+1666,Spain,1980,0.0
+1667,Sweden,1980,0.0
+1668,Switzerland,1980,0.0
+1669,Turkey,1980,0.0
+1670,Ukraine,1980,
+1671,United Kingdom,1980,0.0
+1672,Other Europe,1980,0.0
+1673,Total Europe,1980,0.0
+1674,,1980,
+1675,Azerbaijan,1980,
+1676,Belarus,1980,
+1677,Kazakhstan,1980,
+1678,Russian Federation,1980,
+1679,Turkmenistan,1980,
+1680,USSR,1980,0.0
+1681,Uzbekistan,1980,
+1682,Other CIS,1980,
+1683,Total CIS,1980,0.0
+1684,,1980,
+1685,Iran,1980,0.0
+1686,Iraq,1980,0.0
+1687,Israel,1980,0.0
+1688,Kuwait,1980,0.0
+1689,Oman,1980,0.0
+1690,Qatar,1980,0.0
+1691,Saudi Arabia,1980,0.0
+1692,United Arab Emirates,1980,0.0
+1693,Other Middle East,1980,0.0
+1694,Total Middle East,1980,0.0
+1695,,1980,
+1696,Algeria,1980,0.0
+1697,Egypt,1980,0.0
+1698,Morocco,1980,0.0
+1699,South Africa,1980,0.0
+1700,Eastern Africa,1980,0.0
+1701,Middle Africa,1980,0.0
+1702,Western Africa,1980,0.0
+1703,Other Northern Africa,1980,0.0
+1704,Other Southern Africa,1980,0.0
+1705,Total Africa,1980,0.0
+1706,,1980,
+1707,Australia,1980,0.0
+1708,Bangladesh,1980,0.0
+1709,China,1980,0.0
+1710,China Hong Kong SAR,1980,0.0
+1711,India,1980,0.0
+1712,Indonesia,1980,0.0
+1713,Japan,1980,0.0
+1714,Malaysia,1980,0.0
+1715,New Zealand,1980,0.0
+1716,Pakistan,1980,0.0
+1717,Philippines,1980,0.0
+1718,Singapore,1980,0.0
+1719,South Korea,1980,0.0
+1720,Sri Lanka,1980,0.0
+1721,Taiwan,1980,0.0
+1722,Thailand,1980,0.0
+1723,Vietnam,1980,0.0
+1724,Other Asia Pacific,1980,0.0
+1725,Total Asia Pacific,1980,0.0
+1726,,1980,
+1727,Total World,1980,0.0
+1728,,1981,
+1729,Canada,1981,0.0
+1730,Mexico,1981,0.0
+1731,US,1981,0.0
+1732,Total North America,1981,0.0
+1733,,1981,
+1734,Argentina,1981,0.0
+1735,Brazil,1981,0.0
+1736,Chile,1981,0.0
+1737,Colombia,1981,0.0
+1738,Ecuador,1981,0.0
+1739,Peru,1981,0.0
+1740,Trinidad & Tobago,1981,0.0
+1741,Venezuela,1981,0.0
+1742,Central America,1981,0.0
+1743,Other Caribbean,1981,0.0
+1744,Other South America,1981,0.0
+1745,Total S. & Cent. America,1981,0.0
+1746,,1981,
+1747,Austria,1981,0.0
+1748,Belgium,1981,0.0
+1749,Bulgaria,1981,0.0
+1750,Croatia,1981,
+1751,Cyprus,1981,0.0
+1752,Czech Republic,1981,0.0
+1753,Denmark,1981,0.0
+1754,Estonia,1981,
+1755,Finland,1981,0.0
+1756,France,1981,0.0
+1757,Germany,1981,0.0
+1758,Greece,1981,0.0
+1759,Hungary,1981,0.0
+1760,Iceland,1981,0.0
+1761,Ireland,1981,0.0
+1762,Italy,1981,0.0
+1763,Latvia,1981,
+1764,Lithuania,1981,
+1765,Luxembourg,1981,0.0
+1766,Netherlands,1981,0.0
+1767,North Macedonia,1981,
+1768,Norway,1981,0.0
+1769,Poland,1981,0.0
+1770,Portugal,1981,0.0
+1771,Romania,1981,0.0
+1772,Slovakia,1981,0.0
+1773,Slovenia,1981,
+1774,Spain,1981,0.0
+1775,Sweden,1981,0.0
+1776,Switzerland,1981,0.0
+1777,Turkey,1981,0.0
+1778,Ukraine,1981,
+1779,United Kingdom,1981,0.0
+1780,Other Europe,1981,0.0
+1781,Total Europe,1981,0.0
+1782,,1981,
+1783,Azerbaijan,1981,
+1784,Belarus,1981,
+1785,Kazakhstan,1981,
+1786,Russian Federation,1981,
+1787,Turkmenistan,1981,
+1788,USSR,1981,0.0
+1789,Uzbekistan,1981,
+1790,Other CIS,1981,
+1791,Total CIS,1981,0.0
+1792,,1981,
+1793,Iran,1981,0.0
+1794,Iraq,1981,0.0
+1795,Israel,1981,0.0
+1796,Kuwait,1981,0.0
+1797,Oman,1981,0.0
+1798,Qatar,1981,0.0
+1799,Saudi Arabia,1981,0.0
+1800,United Arab Emirates,1981,0.0
+1801,Other Middle East,1981,0.0
+1802,Total Middle East,1981,0.0
+1803,,1981,
+1804,Algeria,1981,0.0
+1805,Egypt,1981,0.0
+1806,Morocco,1981,0.0
+1807,South Africa,1981,0.0
+1808,Eastern Africa,1981,0.0
+1809,Middle Africa,1981,0.0
+1810,Western Africa,1981,0.0
+1811,Other Northern Africa,1981,0.0
+1812,Other Southern Africa,1981,0.0
+1813,Total Africa,1981,0.0
+1814,,1981,
+1815,Australia,1981,0.0
+1816,Bangladesh,1981,0.0
+1817,China,1981,0.0
+1818,China Hong Kong SAR,1981,0.0
+1819,India,1981,0.0
+1820,Indonesia,1981,0.0
+1821,Japan,1981,0.0
+1822,Malaysia,1981,0.0
+1823,New Zealand,1981,0.0
+1824,Pakistan,1981,0.0
+1825,Philippines,1981,0.0
+1826,Singapore,1981,0.0
+1827,South Korea,1981,0.0
+1828,Sri Lanka,1981,0.0
+1829,Taiwan,1981,0.0
+1830,Thailand,1981,0.0
+1831,Vietnam,1981,0.0
+1832,Other Asia Pacific,1981,0.0
+1833,Total Asia Pacific,1981,0.0
+1834,,1981,
+1835,Total World,1981,0.0
+1836,,1982,
+1837,Canada,1982,0.0
+1838,Mexico,1982,0.0
+1839,US,1982,0.0
+1840,Total North America,1982,0.0
+1841,,1982,
+1842,Argentina,1982,0.0
+1843,Brazil,1982,0.0
+1844,Chile,1982,0.0
+1845,Colombia,1982,0.0
+1846,Ecuador,1982,0.0
+1847,Peru,1982,0.0
+1848,Trinidad & Tobago,1982,0.0
+1849,Venezuela,1982,0.0
+1850,Central America,1982,0.0
+1851,Other Caribbean,1982,0.0
+1852,Other South America,1982,0.0
+1853,Total S. & Cent. America,1982,0.0
+1854,,1982,
+1855,Austria,1982,0.0
+1856,Belgium,1982,0.0
+1857,Bulgaria,1982,0.0
+1858,Croatia,1982,
+1859,Cyprus,1982,0.0
+1860,Czech Republic,1982,0.0
+1861,Denmark,1982,0.0
+1862,Estonia,1982,
+1863,Finland,1982,0.0
+1864,France,1982,0.0
+1865,Germany,1982,0.0
+1866,Greece,1982,0.0
+1867,Hungary,1982,0.0
+1868,Iceland,1982,0.0
+1869,Ireland,1982,0.0
+1870,Italy,1982,0.0
+1871,Latvia,1982,
+1872,Lithuania,1982,
+1873,Luxembourg,1982,0.0
+1874,Netherlands,1982,0.0
+1875,North Macedonia,1982,
+1876,Norway,1982,0.0
+1877,Poland,1982,0.0
+1878,Portugal,1982,0.0
+1879,Romania,1982,0.0
+1880,Slovakia,1982,0.0
+1881,Slovenia,1982,
+1882,Spain,1982,0.0
+1883,Sweden,1982,0.0
+1884,Switzerland,1982,0.0
+1885,Turkey,1982,0.0
+1886,Ukraine,1982,
+1887,United Kingdom,1982,0.0
+1888,Other Europe,1982,0.0
+1889,Total Europe,1982,0.0
+1890,,1982,
+1891,Azerbaijan,1982,
+1892,Belarus,1982,
+1893,Kazakhstan,1982,
+1894,Russian Federation,1982,
+1895,Turkmenistan,1982,
+1896,USSR,1982,0.0
+1897,Uzbekistan,1982,
+1898,Other CIS,1982,
+1899,Total CIS,1982,0.0
+1900,,1982,
+1901,Iran,1982,0.0
+1902,Iraq,1982,0.0
+1903,Israel,1982,0.0
+1904,Kuwait,1982,0.0
+1905,Oman,1982,0.0
+1906,Qatar,1982,0.0
+1907,Saudi Arabia,1982,0.0
+1908,United Arab Emirates,1982,0.0
+1909,Other Middle East,1982,0.0
+1910,Total Middle East,1982,0.0
+1911,,1982,
+1912,Algeria,1982,0.0
+1913,Egypt,1982,0.0
+1914,Morocco,1982,0.0
+1915,South Africa,1982,0.0
+1916,Eastern Africa,1982,0.0
+1917,Middle Africa,1982,0.0
+1918,Western Africa,1982,0.0
+1919,Other Northern Africa,1982,0.0
+1920,Other Southern Africa,1982,0.0
+1921,Total Africa,1982,0.0
+1922,,1982,
+1923,Australia,1982,0.0
+1924,Bangladesh,1982,0.0
+1925,China,1982,0.0
+1926,China Hong Kong SAR,1982,0.0
+1927,India,1982,0.0
+1928,Indonesia,1982,0.0
+1929,Japan,1982,0.0
+1930,Malaysia,1982,0.0
+1931,New Zealand,1982,0.0
+1932,Pakistan,1982,0.0
+1933,Philippines,1982,0.0
+1934,Singapore,1982,0.0
+1935,South Korea,1982,0.0
+1936,Sri Lanka,1982,0.0
+1937,Taiwan,1982,0.0
+1938,Thailand,1982,0.0
+1939,Vietnam,1982,0.0
+1940,Other Asia Pacific,1982,0.0
+1941,Total Asia Pacific,1982,0.0
+1942,,1982,
+1943,Total World,1982,0.0
+1944,,1983,
+1945,Canada,1983,0.0
+1946,Mexico,1983,0.0
+1947,US,1983,3e-05
+1948,Total North America,1983,3e-05
+1949,,1983,
+1950,Argentina,1983,0.0
+1951,Brazil,1983,0.0
+1952,Chile,1983,0.0
+1953,Colombia,1983,0.0
+1954,Ecuador,1983,0.0
+1955,Peru,1983,0.0
+1956,Trinidad & Tobago,1983,0.0
+1957,Venezuela,1983,0.0
+1958,Central America,1983,0.0
+1959,Other Caribbean,1983,0.0
+1960,Other South America,1983,0.0
+1961,Total S. & Cent. America,1983,0.0
+1962,,1983,
+1963,Austria,1983,0.0
+1964,Belgium,1983,0.0
+1965,Bulgaria,1983,0.0
+1966,Croatia,1983,
+1967,Cyprus,1983,0.0
+1968,Czech Republic,1983,0.0
+1969,Denmark,1983,0.0
+1970,Estonia,1983,
+1971,Finland,1983,0.0
+1972,France,1983,0.0
+1973,Germany,1983,0.0
+1974,Greece,1983,0.0
+1975,Hungary,1983,0.0
+1976,Iceland,1983,0.0
+1977,Ireland,1983,0.0
+1978,Italy,1983,0.0
+1979,Latvia,1983,
+1980,Lithuania,1983,
+1981,Luxembourg,1983,0.0
+1982,Netherlands,1983,0.0
+1983,North Macedonia,1983,
+1984,Norway,1983,0.0
+1985,Poland,1983,0.0
+1986,Portugal,1983,0.0
+1987,Romania,1983,0.0
+1988,Slovakia,1983,0.0
+1989,Slovenia,1983,
+1990,Spain,1983,0.0
+1991,Sweden,1983,0.0
+1992,Switzerland,1983,0.0
+1993,Turkey,1983,0.0
+1994,Ukraine,1983,
+1995,United Kingdom,1983,0.0
+1996,Other Europe,1983,0.0
+1997,Total Europe,1983,0.0
+1998,,1983,
+1999,Azerbaijan,1983,
+2000,Belarus,1983,
+2001,Kazakhstan,1983,
+2002,Russian Federation,1983,
+2003,Turkmenistan,1983,
+2004,USSR,1983,0.0
+2005,Uzbekistan,1983,
+2006,Other CIS,1983,
+2007,Total CIS,1983,0.0
+2008,,1983,
+2009,Iran,1983,0.0
+2010,Iraq,1983,0.0
+2011,Israel,1983,0.0
+2012,Kuwait,1983,0.0
+2013,Oman,1983,0.0
+2014,Qatar,1983,0.0
+2015,Saudi Arabia,1983,0.0
+2016,United Arab Emirates,1983,0.0
+2017,Other Middle East,1983,0.0
+2018,Total Middle East,1983,0.0
+2019,,1983,
+2020,Algeria,1983,0.0
+2021,Egypt,1983,0.0
+2022,Morocco,1983,0.0
+2023,South Africa,1983,0.0
+2024,Eastern Africa,1983,0.0
+2025,Middle Africa,1983,0.0
+2026,Western Africa,1983,0.0
+2027,Other Northern Africa,1983,0.0
+2028,Other Southern Africa,1983,0.0
+2029,Total Africa,1983,0.0
+2030,,1983,
+2031,Australia,1983,0.0
+2032,Bangladesh,1983,0.0
+2033,China,1983,0.0
+2034,China Hong Kong SAR,1983,0.0
+2035,India,1983,0.0
+2036,Indonesia,1983,0.0
+2037,Japan,1983,0.0
+2038,Malaysia,1983,0.0
+2039,New Zealand,1983,0.0
+2040,Pakistan,1983,0.0
+2041,Philippines,1983,0.0
+2042,Singapore,1983,0.0
+2043,South Korea,1983,0.0
+2044,Sri Lanka,1983,0.0
+2045,Taiwan,1983,0.0
+2046,Thailand,1983,0.0
+2047,Vietnam,1983,0.0
+2048,Other Asia Pacific,1983,0.0
+2049,Total Asia Pacific,1983,0.0
+2050,,1983,
+2051,Total World,1983,3e-05
+2052,,1984,
+2053,Canada,1984,0.0
+2054,Mexico,1984,0.0
+2055,US,1984,5.3010101010101016e-05
+2056,Total North America,1984,5.3010101010101016e-05
+2057,,1984,
+2058,Argentina,1984,0.0
+2059,Brazil,1984,0.0
+2060,Chile,1984,0.0
+2061,Colombia,1984,0.0
+2062,Ecuador,1984,0.0
+2063,Peru,1984,0.0
+2064,Trinidad & Tobago,1984,0.0
+2065,Venezuela,1984,0.0
+2066,Central America,1984,0.0
+2067,Other Caribbean,1984,0.0
+2068,Other South America,1984,0.0
+2069,Total S. & Cent. America,1984,0.0
+2070,,1984,
+2071,Austria,1984,0.0
+2072,Belgium,1984,0.0
+2073,Bulgaria,1984,0.0
+2074,Croatia,1984,
+2075,Cyprus,1984,0.0
+2076,Czech Republic,1984,0.0
+2077,Denmark,1984,0.0
+2078,Estonia,1984,
+2079,Finland,1984,0.0
+2080,France,1984,0.0
+2081,Germany,1984,0.0
+2082,Greece,1984,0.0
+2083,Hungary,1984,0.0
+2084,Iceland,1984,0.0
+2085,Ireland,1984,0.0
+2086,Italy,1984,0.0
+2087,Latvia,1984,
+2088,Lithuania,1984,
+2089,Luxembourg,1984,0.0
+2090,Netherlands,1984,0.0
+2091,North Macedonia,1984,
+2092,Norway,1984,0.0
+2093,Poland,1984,0.0
+2094,Portugal,1984,0.0
+2095,Romania,1984,0.0
+2096,Slovakia,1984,0.0
+2097,Slovenia,1984,
+2098,Spain,1984,0.0
+2099,Sweden,1984,0.0
+2100,Switzerland,1984,0.0
+2101,Turkey,1984,0.0
+2102,Ukraine,1984,
+2103,United Kingdom,1984,1.01010101010101e-05
+2104,Other Europe,1984,0.0
+2105,Total Europe,1984,1.01010101010101e-05
+2106,,1984,
+2107,Azerbaijan,1984,
+2108,Belarus,1984,
+2109,Kazakhstan,1984,
+2110,Russian Federation,1984,
+2111,Turkmenistan,1984,
+2112,USSR,1984,0.0
+2113,Uzbekistan,1984,
+2114,Other CIS,1984,
+2115,Total CIS,1984,0.0
+2116,,1984,
+2117,Iran,1984,0.0
+2118,Iraq,1984,0.0
+2119,Israel,1984,0.0
+2120,Kuwait,1984,0.0
+2121,Oman,1984,0.0
+2122,Qatar,1984,0.0
+2123,Saudi Arabia,1984,0.0
+2124,United Arab Emirates,1984,0.0
+2125,Other Middle East,1984,0.0
+2126,Total Middle East,1984,0.0
+2127,,1984,
+2128,Algeria,1984,0.0
+2129,Egypt,1984,0.0
+2130,Morocco,1984,0.0
+2131,South Africa,1984,0.0
+2132,Eastern Africa,1984,0.0
+2133,Middle Africa,1984,0.0
+2134,Western Africa,1984,0.0
+2135,Other Northern Africa,1984,0.0
+2136,Other Southern Africa,1984,0.0
+2137,Total Africa,1984,0.0
+2138,,1984,
+2139,Australia,1984,0.0
+2140,Bangladesh,1984,0.0
+2141,China,1984,0.0
+2142,China Hong Kong SAR,1984,0.0
+2143,India,1984,0.0
+2144,Indonesia,1984,0.0
+2145,Japan,1984,0.0
+2146,Malaysia,1984,0.0
+2147,New Zealand,1984,0.0
+2148,Pakistan,1984,0.0
+2149,Philippines,1984,0.0
+2150,Singapore,1984,0.0
+2151,South Korea,1984,0.0
+2152,Sri Lanka,1984,0.0
+2153,Taiwan,1984,0.0
+2154,Thailand,1984,0.0
+2155,Vietnam,1984,0.0
+2156,Other Asia Pacific,1984,0.0
+2157,Total Asia Pacific,1984,0.0
+2158,,1984,
+2159,Total World,1984,6.311111111111112e-05
+2160,,1985,
+2161,Canada,1985,0.0
+2162,Mexico,1985,0.0
+2163,US,1985,0.00010737373737373739
+2164,Total North America,1985,0.00010737373737373739
+2165,,1985,
+2166,Argentina,1985,0.0
+2167,Brazil,1985,0.0
+2168,Chile,1985,0.0
+2169,Colombia,1985,0.0
+2170,Ecuador,1985,0.0
+2171,Peru,1985,0.0
+2172,Trinidad & Tobago,1985,0.0
+2173,Venezuela,1985,0.0
+2174,Central America,1985,0.0
+2175,Other Caribbean,1985,0.0
+2176,Other South America,1985,0.0
+2177,Total S. & Cent. America,1985,0.0
+2178,,1985,
+2179,Austria,1985,0.0
+2180,Belgium,1985,0.0
+2181,Bulgaria,1985,0.0
+2182,Croatia,1985,
+2183,Cyprus,1985,0.0
+2184,Czech Republic,1985,0.0
+2185,Denmark,1985,0.0
+2186,Estonia,1985,0.0
+2187,Finland,1985,0.0
+2188,France,1985,0.0
+2189,Germany,1985,0.0
+2190,Greece,1985,0.0
+2191,Hungary,1985,0.0
+2192,Iceland,1985,0.0
+2193,Ireland,1985,0.0
+2194,Italy,1985,0.0
+2195,Latvia,1985,0.0
+2196,Lithuania,1985,0.0
+2197,Luxembourg,1985,0.0
+2198,Netherlands,1985,0.0
+2199,North Macedonia,1985,
+2200,Norway,1985,0.0
+2201,Poland,1985,0.0
+2202,Portugal,1985,0.0
+2203,Romania,1985,0.0
+2204,Slovakia,1985,0.0
+2205,Slovenia,1985,
+2206,Spain,1985,0.0
+2207,Sweden,1985,0.0
+2208,Switzerland,1985,0.0
+2209,Turkey,1985,0.0
+2210,Ukraine,1985,0.0
+2211,United Kingdom,1985,1.01010101010101e-05
+2212,Other Europe,1985,0.0
+2213,Total Europe,1985,1.01010101010101e-05
+2214,,1985,
+2215,Azerbaijan,1985,0.0
+2216,Belarus,1985,0.0
+2217,Kazakhstan,1985,0.0
+2218,Russian Federation,1985,0.0
+2219,Turkmenistan,1985,0.0
+2220,USSR,1985,
+2221,Uzbekistan,1985,0.0
+2222,Other CIS,1985,0.0
+2223,Total CIS,1985,0.0
+2224,,1985,
+2225,Iran,1985,0.0
+2226,Iraq,1985,0.0
+2227,Israel,1985,0.0
+2228,Kuwait,1985,0.0
+2229,Oman,1985,0.0
+2230,Qatar,1985,0.0
+2231,Saudi Arabia,1985,0.0
+2232,United Arab Emirates,1985,0.0
+2233,Other Middle East,1985,0.0
+2234,Total Middle East,1985,0.0
+2235,,1985,
+2236,Algeria,1985,0.0
+2237,Egypt,1985,0.0
+2238,Morocco,1985,0.0
+2239,South Africa,1985,0.0
+2240,Eastern Africa,1985,0.0
+2241,Middle Africa,1985,0.0
+2242,Western Africa,1985,0.0
+2243,Other Northern Africa,1985,0.0
+2244,Other Southern Africa,1985,0.0
+2245,Total Africa,1985,0.0
+2246,,1985,
+2247,Australia,1985,0.0
+2248,Bangladesh,1985,0.0
+2249,China,1985,0.0
+2250,China Hong Kong SAR,1985,0.0
+2251,India,1985,0.0
+2252,Indonesia,1985,0.0
+2253,Japan,1985,0.0
+2254,Malaysia,1985,0.0
+2255,New Zealand,1985,0.0
+2256,Pakistan,1985,0.0
+2257,Philippines,1985,0.0
+2258,Singapore,1985,0.0
+2259,South Korea,1985,0.0
+2260,Sri Lanka,1985,0.0
+2261,Taiwan,1985,0.0
+2262,Thailand,1985,0.0
+2263,Vietnam,1985,0.0
+2264,Other Asia Pacific,1985,0.0
+2265,Total Asia Pacific,1985,0.0
+2266,,1985,
+2267,Total World,1985,0.0001174747474747475
+2268,,1986,
+2269,Canada,1986,0.0
+2270,Mexico,1986,0.0
+2271,US,1986,0.00014173737373737375
+2272,Total North America,1986,0.00014173737373737375
+2273,,1986,
+2274,Argentina,1986,0.0
+2275,Brazil,1986,0.0
+2276,Chile,1986,0.0
+2277,Colombia,1986,0.0
+2278,Ecuador,1986,0.0
+2279,Peru,1986,0.0
+2280,Trinidad & Tobago,1986,0.0
+2281,Venezuela,1986,0.0
+2282,Central America,1986,0.0
+2283,Other Caribbean,1986,0.0
+2284,Other South America,1986,0.0
+2285,Total S. & Cent. America,1986,0.0
+2286,,1986,
+2287,Austria,1986,0.0
+2288,Belgium,1986,0.0
+2289,Bulgaria,1986,0.0
+2290,Croatia,1986,
+2291,Cyprus,1986,0.0
+2292,Czech Republic,1986,0.0
+2293,Denmark,1986,0.0
+2294,Estonia,1986,0.0
+2295,Finland,1986,0.0
+2296,France,1986,0.0
+2297,Germany,1986,0.0
+2298,Greece,1986,0.0
+2299,Hungary,1986,0.0
+2300,Iceland,1986,0.0
+2301,Ireland,1986,0.0
+2302,Italy,1986,0.0
+2303,Latvia,1986,0.0
+2304,Lithuania,1986,0.0
+2305,Luxembourg,1986,0.0
+2306,Netherlands,1986,0.0
+2307,North Macedonia,1986,
+2308,Norway,1986,0.0
+2309,Poland,1986,0.0
+2310,Portugal,1986,0.0
+2311,Romania,1986,0.0
+2312,Slovakia,1986,0.0
+2313,Slovenia,1986,
+2314,Spain,1986,0.0
+2315,Sweden,1986,0.0
+2316,Switzerland,1986,0.0
+2317,Turkey,1986,0.0
+2318,Ukraine,1986,0.0
+2319,United Kingdom,1986,1.01010101010101e-05
+2320,Other Europe,1986,0.0
+2321,Total Europe,1986,1.01010101010101e-05
+2322,,1986,
+2323,Azerbaijan,1986,0.0
+2324,Belarus,1986,0.0
+2325,Kazakhstan,1986,0.0
+2326,Russian Federation,1986,0.0
+2327,Turkmenistan,1986,0.0
+2328,USSR,1986,
+2329,Uzbekistan,1986,0.0
+2330,Other CIS,1986,0.0
+2331,Total CIS,1986,0.0
+2332,,1986,
+2333,Iran,1986,0.0
+2334,Iraq,1986,0.0
+2335,Israel,1986,0.0
+2336,Kuwait,1986,0.0
+2337,Oman,1986,0.0
+2338,Qatar,1986,0.0
+2339,Saudi Arabia,1986,0.0
+2340,United Arab Emirates,1986,0.0
+2341,Other Middle East,1986,0.0
+2342,Total Middle East,1986,0.0
+2343,,1986,
+2344,Algeria,1986,0.0
+2345,Egypt,1986,0.0
+2346,Morocco,1986,0.0
+2347,South Africa,1986,0.0
+2348,Eastern Africa,1986,0.0
+2349,Middle Africa,1986,0.0
+2350,Western Africa,1986,0.0
+2351,Other Northern Africa,1986,0.0
+2352,Other Southern Africa,1986,0.0
+2353,Total Africa,1986,0.0
+2354,,1986,
+2355,Australia,1986,0.0
+2356,Bangladesh,1986,0.0
+2357,China,1986,0.0
+2358,China Hong Kong SAR,1986,0.0
+2359,India,1986,0.0
+2360,Indonesia,1986,0.0
+2361,Japan,1986,0.0
+2362,Malaysia,1986,0.0
+2363,New Zealand,1986,0.0
+2364,Pakistan,1986,0.0
+2365,Philippines,1986,0.0
+2366,Singapore,1986,0.0
+2367,South Korea,1986,0.0
+2368,Sri Lanka,1986,0.0
+2369,Taiwan,1986,0.0
+2370,Thailand,1986,0.0
+2371,Vietnam,1986,0.0
+2372,Other Asia Pacific,1986,0.0
+2373,Total Asia Pacific,1986,0.0
+2374,,1986,
+2375,Total World,1986,0.00015183838383838385
+2376,,1987,
+2377,Canada,1987,0.0
+2378,Mexico,1987,0.0
+2379,US,1987,0.00010603030303030303
+2380,Total North America,1987,0.00010603030303030303
+2381,,1987,
+2382,Argentina,1987,0.0
+2383,Brazil,1987,0.0
+2384,Chile,1987,0.0
+2385,Colombia,1987,0.0
+2386,Ecuador,1987,0.0
+2387,Peru,1987,0.0
+2388,Trinidad & Tobago,1987,0.0
+2389,Venezuela,1987,0.0
+2390,Central America,1987,0.0
+2391,Other Caribbean,1987,0.0
+2392,Other South America,1987,0.0
+2393,Total S. & Cent. America,1987,0.0
+2394,,1987,
+2395,Austria,1987,0.0
+2396,Belgium,1987,0.0
+2397,Bulgaria,1987,0.0
+2398,Croatia,1987,
+2399,Cyprus,1987,0.0
+2400,Czech Republic,1987,0.0
+2401,Denmark,1987,0.0
+2402,Estonia,1987,0.0
+2403,Finland,1987,0.0
+2404,France,1987,0.0
+2405,Germany,1987,0.0
+2406,Greece,1987,0.0
+2407,Hungary,1987,0.0
+2408,Iceland,1987,0.0
+2409,Ireland,1987,0.0
+2410,Italy,1987,0.0
+2411,Latvia,1987,0.0
+2412,Lithuania,1987,0.0
+2413,Luxembourg,1987,0.0
+2414,Netherlands,1987,0.0
+2415,North Macedonia,1987,
+2416,Norway,1987,0.0
+2417,Poland,1987,0.0
+2418,Portugal,1987,0.0
+2419,Romania,1987,0.0
+2420,Slovakia,1987,0.0
+2421,Slovenia,1987,
+2422,Spain,1987,0.0
+2423,Sweden,1987,0.0
+2424,Switzerland,1987,0.0
+2425,Turkey,1987,0.0
+2426,Ukraine,1987,0.0
+2427,United Kingdom,1987,0.0
+2428,Other Europe,1987,0.0
+2429,Total Europe,1987,0.0
+2430,,1987,
+2431,Azerbaijan,1987,0.0
+2432,Belarus,1987,0.0
+2433,Kazakhstan,1987,0.0
+2434,Russian Federation,1987,0.0
+2435,Turkmenistan,1987,0.0
+2436,USSR,1987,
+2437,Uzbekistan,1987,0.0
+2438,Other CIS,1987,0.0
+2439,Total CIS,1987,0.0
+2440,,1987,
+2441,Iran,1987,0.0
+2442,Iraq,1987,0.0
+2443,Israel,1987,0.0
+2444,Kuwait,1987,0.0
+2445,Oman,1987,0.0
+2446,Qatar,1987,0.0
+2447,Saudi Arabia,1987,0.0
+2448,United Arab Emirates,1987,0.0
+2449,Other Middle East,1987,0.0
+2450,Total Middle East,1987,0.0
+2451,,1987,
+2452,Algeria,1987,0.0
+2453,Egypt,1987,0.0
+2454,Morocco,1987,0.0
+2455,South Africa,1987,0.0
+2456,Eastern Africa,1987,0.0
+2457,Middle Africa,1987,0.0
+2458,Western Africa,1987,0.0
+2459,Other Northern Africa,1987,0.0
+2460,Other Southern Africa,1987,0.0
+2461,Total Africa,1987,0.0
+2462,,1987,
+2463,Australia,1987,0.0
+2464,Bangladesh,1987,0.0
+2465,China,1987,0.0
+2466,China Hong Kong SAR,1987,0.0
+2467,India,1987,0.0
+2468,Indonesia,1987,0.0
+2469,Japan,1987,0.0
+2470,Malaysia,1987,0.0
+2471,New Zealand,1987,0.0
+2472,Pakistan,1987,0.0
+2473,Philippines,1987,0.0
+2474,Singapore,1987,0.0
+2475,South Korea,1987,0.0
+2476,Sri Lanka,1987,0.0
+2477,Taiwan,1987,0.0
+2478,Thailand,1987,0.0
+2479,Vietnam,1987,0.0
+2480,Other Asia Pacific,1987,0.0
+2481,Total Asia Pacific,1987,0.0
+2482,,1987,
+2483,Total World,1987,0.00010603030303030303
+2484,,1988,
+2485,Canada,1988,0.0
+2486,Mexico,1988,0.0
+2487,US,1988,9.185858585858587e-05
+2488,Total North America,1988,9.185858585858587e-05
+2489,,1988,
+2490,Argentina,1988,0.0
+2491,Brazil,1988,0.0
+2492,Chile,1988,0.0
+2493,Colombia,1988,0.0
+2494,Ecuador,1988,0.0
+2495,Peru,1988,0.0
+2496,Trinidad & Tobago,1988,0.0
+2497,Venezuela,1988,0.0
+2498,Central America,1988,0.0
+2499,Other Caribbean,1988,0.0
+2500,Other South America,1988,0.0
+2501,Total S. & Cent. America,1988,0.0
+2502,,1988,
+2503,Austria,1988,0.0
+2504,Belgium,1988,0.0
+2505,Bulgaria,1988,0.0
+2506,Croatia,1988,
+2507,Cyprus,1988,0.0
+2508,Czech Republic,1988,0.0
+2509,Denmark,1988,0.0
+2510,Estonia,1988,0.0
+2511,Finland,1988,0.0
+2512,France,1988,0.0
+2513,Germany,1988,0.0
+2514,Greece,1988,0.0
+2515,Hungary,1988,0.0
+2516,Iceland,1988,0.0
+2517,Ireland,1988,0.0
+2518,Italy,1988,0.0
+2519,Latvia,1988,0.0
+2520,Lithuania,1988,0.0
+2521,Luxembourg,1988,0.0
+2522,Netherlands,1988,0.0
+2523,North Macedonia,1988,
+2524,Norway,1988,0.0
+2525,Poland,1988,0.0
+2526,Portugal,1988,0.0
+2527,Romania,1988,0.0
+2528,Slovakia,1988,0.0
+2529,Slovenia,1988,
+2530,Spain,1988,0.0
+2531,Sweden,1988,0.0
+2532,Switzerland,1988,0.0
+2533,Turkey,1988,0.0
+2534,Ukraine,1988,0.0
+2535,United Kingdom,1988,1.01010101010101e-05
+2536,Other Europe,1988,0.0
+2537,Total Europe,1988,1.01010101010101e-05
+2538,,1988,
+2539,Azerbaijan,1988,0.0
+2540,Belarus,1988,0.0
+2541,Kazakhstan,1988,0.0
+2542,Russian Federation,1988,0.0
+2543,Turkmenistan,1988,0.0
+2544,USSR,1988,
+2545,Uzbekistan,1988,0.0
+2546,Other CIS,1988,0.0
+2547,Total CIS,1988,0.0
+2548,,1988,
+2549,Iran,1988,0.0
+2550,Iraq,1988,0.0
+2551,Israel,1988,0.0
+2552,Kuwait,1988,0.0
+2553,Oman,1988,0.0
+2554,Qatar,1988,0.0
+2555,Saudi Arabia,1988,0.0
+2556,United Arab Emirates,1988,0.0
+2557,Other Middle East,1988,0.0
+2558,Total Middle East,1988,0.0
+2559,,1988,
+2560,Algeria,1988,0.0
+2561,Egypt,1988,0.0
+2562,Morocco,1988,0.0
+2563,South Africa,1988,0.0
+2564,Eastern Africa,1988,0.0
+2565,Middle Africa,1988,0.0
+2566,Western Africa,1988,0.0
+2567,Other Northern Africa,1988,0.0
+2568,Other Southern Africa,1988,0.0
+2569,Total Africa,1988,0.0
+2570,,1988,
+2571,Australia,1988,0.0
+2572,Bangladesh,1988,0.0
+2573,China,1988,0.0
+2574,China Hong Kong SAR,1988,0.0
+2575,India,1988,0.0
+2576,Indonesia,1988,0.0
+2577,Japan,1988,0.0
+2578,Malaysia,1988,0.0
+2579,New Zealand,1988,0.0
+2580,Pakistan,1988,0.0
+2581,Philippines,1988,0.0
+2582,Singapore,1988,0.0
+2583,South Korea,1988,0.0
+2584,Sri Lanka,1988,0.0
+2585,Taiwan,1988,0.0
+2586,Thailand,1988,0.0
+2587,Vietnam,1988,0.0
+2588,Other Asia Pacific,1988,0.0
+2589,Total Asia Pacific,1988,0.0
+2590,,1988,
+2591,Total World,1988,0.00010195959595959598
+2592,,1989,
+2593,Canada,1989,0.0
+2594,Mexico,1989,0.0
+2595,US,1989,0.0025313232323232325
+2596,Total North America,1989,0.0025313232323232325
+2597,,1989,
+2598,Argentina,1989,0.0
+2599,Brazil,1989,0.0
+2600,Chile,1989,0.0
+2601,Colombia,1989,0.0
+2602,Ecuador,1989,0.0
+2603,Peru,1989,0.0
+2604,Trinidad & Tobago,1989,0.0
+2605,Venezuela,1989,0.0
+2606,Central America,1989,0.0
+2607,Other Caribbean,1989,0.0
+2608,Other South America,1989,0.0
+2609,Total S. & Cent. America,1989,0.0
+2610,,1989,
+2611,Austria,1989,0.0
+2612,Belgium,1989,0.0
+2613,Bulgaria,1989,0.0
+2614,Croatia,1989,
+2615,Cyprus,1989,0.0
+2616,Czech Republic,1989,0.0
+2617,Denmark,1989,0.0
+2618,Estonia,1989,0.0
+2619,Finland,1989,0.0
+2620,France,1989,0.0
+2621,Germany,1989,0.0
+2622,Greece,1989,0.0
+2623,Hungary,1989,0.0
+2624,Iceland,1989,0.0
+2625,Ireland,1989,0.0
+2626,Italy,1989,2.02020202020202e-05
+2627,Latvia,1989,0.0
+2628,Lithuania,1989,0.0
+2629,Luxembourg,1989,0.0
+2630,Netherlands,1989,0.0
+2631,North Macedonia,1989,
+2632,Norway,1989,0.0
+2633,Poland,1989,0.0
+2634,Portugal,1989,1.01010101010101e-05
+2635,Romania,1989,0.0
+2636,Slovakia,1989,0.0
+2637,Slovenia,1989,
+2638,Spain,1989,6.060606060606061e-05
+2639,Sweden,1989,0.0
+2640,Switzerland,1989,0.0
+2641,Turkey,1989,0.0
+2642,Ukraine,1989,0.0
+2643,United Kingdom,1989,0.0
+2644,Other Europe,1989,0.0
+2645,Total Europe,1989,9.090909090909092e-05
+2646,,1989,
+2647,Azerbaijan,1989,0.0
+2648,Belarus,1989,0.0
+2649,Kazakhstan,1989,0.0
+2650,Russian Federation,1989,0.0
+2651,Turkmenistan,1989,0.0
+2652,USSR,1989,
+2653,Uzbekistan,1989,0.0
+2654,Other CIS,1989,0.0
+2655,Total CIS,1989,0.0
+2656,,1989,
+2657,Iran,1989,0.0
+2658,Iraq,1989,0.0
+2659,Israel,1989,0.0
+2660,Kuwait,1989,0.0
+2661,Oman,1989,0.0
+2662,Qatar,1989,0.0
+2663,Saudi Arabia,1989,0.0
+2664,United Arab Emirates,1989,0.0
+2665,Other Middle East,1989,0.0
+2666,Total Middle East,1989,0.0
+2667,,1989,
+2668,Algeria,1989,0.0
+2669,Egypt,1989,0.0
+2670,Morocco,1989,0.0
+2671,South Africa,1989,0.0
+2672,Eastern Africa,1989,0.0
+2673,Middle Africa,1989,0.0
+2674,Western Africa,1989,0.0
+2675,Other Northern Africa,1989,0.0
+2676,Other Southern Africa,1989,0.0
+2677,Total Africa,1989,0.0
+2678,,1989,
+2679,Australia,1989,0.0
+2680,Bangladesh,1989,0.0
+2681,China,1989,0.0
+2682,China Hong Kong SAR,1989,0.0
+2683,India,1989,0.0
+2684,Indonesia,1989,0.0
+2685,Japan,1989,0.0
+2686,Malaysia,1989,0.0
+2687,New Zealand,1989,0.0
+2688,Pakistan,1989,0.0
+2689,Philippines,1989,0.0
+2690,Singapore,1989,0.0
+2691,South Korea,1989,0.0
+2692,Sri Lanka,1989,0.0
+2693,Taiwan,1989,0.0
+2694,Thailand,1989,0.0
+2695,Vietnam,1989,0.0
+2696,Other Asia Pacific,1989,0.0
+2697,Total Asia Pacific,1989,0.0
+2698,,1989,
+2699,Total World,1989,0.0026222323232323232
+2700,,1990,
+2701,Canada,1990,0.0
+2702,Mexico,1990,1e-05
+2703,US,1990,0.0037079494949494958
+2704,Total North America,1990,0.003717949494949496
+2705,,1990,
+2706,Argentina,1990,0.0
+2707,Brazil,1990,0.0
+2708,Chile,1990,0.0
+2709,Colombia,1990,0.0
+2710,Ecuador,1990,0.0
+2711,Peru,1990,0.0
+2712,Trinidad & Tobago,1990,0.0
+2713,Venezuela,1990,0.0
+2714,Central America,1990,0.0
+2715,Other Caribbean,1990,0.0
+2716,Other South America,1990,0.0
+2717,Total S. & Cent. America,1990,0.0
+2718,,1990,
+2719,Austria,1990,0.0
+2720,Belgium,1990,0.0
+2721,Bulgaria,1990,0.0
+2722,Croatia,1990,0.0
+2723,Cyprus,1990,0.0
+2724,Czech Republic,1990,0.0
+2725,Denmark,1990,0.0
+2726,Estonia,1990,0.0
+2727,Finland,1990,5e-06
+2728,France,1990,0.0
+2729,Germany,1990,1e-05
+2730,Greece,1990,0.0
+2731,Hungary,1990,0.0
+2732,Iceland,1990,0.0
+2733,Ireland,1990,0.0
+2734,Italy,1990,4e-05
+2735,Latvia,1990,0.0
+2736,Lithuania,1990,0.0
+2737,Luxembourg,1990,0.0
+2738,Netherlands,1990,0.0
+2739,North Macedonia,1990,0.0
+2740,Norway,1990,0.0
+2741,Poland,1990,0.0
+2742,Portugal,1990,0.0
+2743,Romania,1990,0.0
+2744,Slovakia,1990,0.0
+2745,Slovenia,1990,0.0
+2746,Spain,1990,6e-05
+2747,Sweden,1990,0.0
+2748,Switzerland,1990,1e-05
+2749,Turkey,1990,0.0
+2750,Ukraine,1990,0.0
+2751,United Kingdom,1990,0.0
+2752,Other Europe,1990,0.0
+2753,Total Europe,1990,0.000125
+2754,,1990,
+2755,Azerbaijan,1990,0.0
+2756,Belarus,1990,0.0
+2757,Kazakhstan,1990,0.0
+2758,Russian Federation,1990,0.0
+2759,Turkmenistan,1990,0.0
+2760,USSR,1990,
+2761,Uzbekistan,1990,0.0
+2762,Other CIS,1990,0.0
+2763,Total CIS,1990,0.0
+2764,,1990,
+2765,Iran,1990,0.0
+2766,Iraq,1990,0.0
+2767,Israel,1990,0.0
+2768,Kuwait,1990,0.0
+2769,Oman,1990,0.0
+2770,Qatar,1990,0.0
+2771,Saudi Arabia,1990,0.0
+2772,United Arab Emirates,1990,0.0
+2773,Other Middle East,1990,0.0
+2774,Total Middle East,1990,0.0
+2775,,1990,
+2776,Algeria,1990,0.0
+2777,Egypt,1990,0.0
+2778,Morocco,1990,0.0
+2779,South Africa,1990,0.0
+2780,Eastern Africa,1990,0.0
+2781,Middle Africa,1990,0.0
+2782,Western Africa,1990,0.0
+2783,Other Northern Africa,1990,0.0
+2784,Other Southern Africa,1990,0.0
+2785,Total Africa,1990,0.0
+2786,,1990,
+2787,Australia,1990,0.0
+2788,Bangladesh,1990,0.0
+2789,China,1990,2e-05
+2790,China Hong Kong SAR,1990,0.0
+2791,India,1990,0.0
+2792,Indonesia,1990,0.0
+2793,Japan,1990,1e-05
+2794,Malaysia,1990,0.0
+2795,New Zealand,1990,0.0
+2796,Pakistan,1990,0.0
+2797,Philippines,1990,0.0
+2798,Singapore,1990,0.0
+2799,South Korea,1990,1e-05
+2800,Sri Lanka,1990,0.0
+2801,Taiwan,1990,0.0
+2802,Thailand,1990,0.0
+2803,Vietnam,1990,0.0
+2804,Other Asia Pacific,1990,0.0
+2805,Total Asia Pacific,1990,4e-05
+2806,,1990,
+2807,Total World,1990,0.0038829494949494956
+2808,,1991,
+2809,Canada,1991,0.0
+2810,Mexico,1991,2e-05
+2811,US,1991,0.004782528729674543
+2812,Total North America,1991,0.004802528729674543
+2813,,1991,
+2814,Argentina,1991,0.0
+2815,Brazil,1991,0.0
+2816,Chile,1991,0.0
+2817,Colombia,1991,0.0
+2818,Ecuador,1991,0.0
+2819,Peru,1991,0.0
+2820,Trinidad & Tobago,1991,0.0
+2821,Venezuela,1991,0.0
+2822,Central America,1991,0.0
+2823,Other Caribbean,1991,0.0
+2824,Other South America,1991,0.0
+2825,Total S. & Cent. America,1991,0.0
+2826,,1991,
+2827,Austria,1991,0.0
+2828,Belgium,1991,0.0
+2829,Bulgaria,1991,0.0
+2830,Croatia,1991,0.0
+2831,Cyprus,1991,0.0
+2832,Czech Republic,1991,0.0
+2833,Denmark,1991,0.0
+2834,Estonia,1991,0.0
+2835,Finland,1991,5e-06
+2836,France,1991,0.0
+2837,Germany,1991,1e-05
+2838,Greece,1991,0.0
+2839,Hungary,1991,0.0
+2840,Iceland,1991,0.0
+2841,Ireland,1991,0.0
+2842,Italy,1991,5e-05
+2843,Latvia,1991,0.0
+2844,Lithuania,1991,0.0
+2845,Luxembourg,1991,0.0
+2846,Netherlands,1991,0.0
+2847,North Macedonia,1991,0.0
+2848,Norway,1991,0.0
+2849,Poland,1991,0.0
+2850,Portugal,1991,0.0
+2851,Romania,1991,0.0
+2852,Slovakia,1991,0.0
+2853,Slovenia,1991,0.0
+2854,Spain,1991,7.000000000000001e-05
+2855,Sweden,1991,0.0
+2856,Switzerland,1991,2e-05
+2857,Turkey,1991,0.0
+2858,Ukraine,1991,0.0
+2859,United Kingdom,1991,0.0
+2860,Other Europe,1991,0.0
+2861,Total Europe,1991,0.000155
+2862,,1991,
+2863,Azerbaijan,1991,0.0
+2864,Belarus,1991,0.0
+2865,Kazakhstan,1991,0.0
+2866,Russian Federation,1991,0.0
+2867,Turkmenistan,1991,0.0
+2868,USSR,1991,
+2869,Uzbekistan,1991,0.0
+2870,Other CIS,1991,0.0
+2871,Total CIS,1991,0.0
+2872,,1991,
+2873,Iran,1991,0.0
+2874,Iraq,1991,0.0
+2875,Israel,1991,0.0
+2876,Kuwait,1991,0.0
+2877,Oman,1991,0.0
+2878,Qatar,1991,0.0
+2879,Saudi Arabia,1991,0.0
+2880,United Arab Emirates,1991,0.0
+2881,Other Middle East,1991,0.0
+2882,Total Middle East,1991,0.0
+2883,,1991,
+2884,Algeria,1991,0.0
+2885,Egypt,1991,0.0
+2886,Morocco,1991,0.0
+2887,South Africa,1991,0.0
+2888,Eastern Africa,1991,0.0
+2889,Middle Africa,1991,0.0
+2890,Western Africa,1991,0.0
+2891,Other Northern Africa,1991,0.0
+2892,Other Southern Africa,1991,0.0
+2893,Total Africa,1991,0.0
+2894,,1991,
+2895,Australia,1991,5.450000000000001e-05
+2896,Bangladesh,1991,0.0
+2897,China,1991,2e-05
+2898,China Hong Kong SAR,1991,0.0
+2899,India,1991,0.0
+2900,Indonesia,1991,0.0
+2901,Japan,1991,1e-05
+2902,Malaysia,1991,0.0
+2903,New Zealand,1991,0.0
+2904,Pakistan,1991,0.0
+2905,Philippines,1991,0.0
+2906,Singapore,1991,0.0
+2907,South Korea,1991,1e-05
+2908,Sri Lanka,1991,0.0
+2909,Taiwan,1991,0.0
+2910,Thailand,1991,0.0
+2911,Vietnam,1991,0.0
+2912,Other Asia Pacific,1991,0.0
+2913,Total Asia Pacific,1991,9.450000000000002e-05
+2914,,1991,
+2915,Total World,1991,0.005052028729674543
+2916,,1992,
+2917,Canada,1992,2.052632e-05
+2918,Mexico,1992,3e-05
+2919,US,1992,0.004088444774882213
+2920,Total North America,1992,0.004138971094882213
+2921,,1992,
+2922,Argentina,1992,0.0
+2923,Brazil,1992,0.0
+2924,Chile,1992,0.0
+2925,Colombia,1992,0.0
+2926,Ecuador,1992,0.0
+2927,Peru,1992,0.0
+2928,Trinidad & Tobago,1992,0.0
+2929,Venezuela,1992,0.0
+2930,Central America,1992,0.0
+2931,Other Caribbean,1992,0.0
+2932,Other South America,1992,0.0
+2933,Total S. & Cent. America,1992,0.0
+2934,,1992,
+2935,Austria,1992,0.0
+2936,Belgium,1992,0.0
+2937,Bulgaria,1992,0.0
+2938,Croatia,1992,0.0
+2939,Cyprus,1992,0.0
+2940,Czech Republic,1992,0.0
+2941,Denmark,1992,0.0
+2942,Estonia,1992,0.0
+2943,Finland,1992,5.999999999999999e-06
+2944,France,1992,1.4880000000000002e-05
+2945,Germany,1992,4e-05
+2946,Greece,1992,0.0
+2947,Hungary,1992,0.0
+2948,Iceland,1992,0.0
+2949,Ireland,1992,0.0
+2950,Italy,1992,9e-05
+2951,Latvia,1992,0.0
+2952,Lithuania,1992,0.0
+2953,Luxembourg,1992,0.0
+2954,Netherlands,1992,1e-05
+2955,North Macedonia,1992,0.0
+2956,Norway,1992,0.0
+2957,Poland,1992,0.0
+2958,Portugal,1992,0.0
+2959,Romania,1992,0.0
+2960,Slovakia,1992,0.0
+2961,Slovenia,1992,0.0
+2962,Spain,1992,8e-05
+2963,Sweden,1992,0.0
+2964,Switzerland,1992,3e-05
+2965,Turkey,1992,0.0
+2966,Ukraine,1992,0.0
+2967,United Kingdom,1992,0.0
+2968,Other Europe,1992,0.0
+2969,Total Europe,1992,0.00027088000000000004
+2970,,1992,
+2971,Azerbaijan,1992,0.0
+2972,Belarus,1992,0.0
+2973,Kazakhstan,1992,0.0
+2974,Russian Federation,1992,0.0
+2975,Turkmenistan,1992,0.0
+2976,USSR,1992,
+2977,Uzbekistan,1992,0.0
+2978,Other CIS,1992,0.0
+2979,Total CIS,1992,0.0
+2980,,1992,
+2981,Iran,1992,0.0
+2982,Iraq,1992,0.0
+2983,Israel,1992,0.0
+2984,Kuwait,1992,0.0
+2985,Oman,1992,0.0
+2986,Qatar,1992,0.0
+2987,Saudi Arabia,1992,0.0
+2988,United Arab Emirates,1992,0.0
+2989,Other Middle East,1992,0.0
+2990,Total Middle East,1992,0.0
+2991,,1992,
+2992,Algeria,1992,0.0
+2993,Egypt,1992,0.0
+2994,Morocco,1992,0.0
+2995,South Africa,1992,0.0
+2996,Eastern Africa,1992,0.0
+2997,Middle Africa,1992,0.0
+2998,Western Africa,1992,0.0
+2999,Other Northern Africa,1992,0.0
+3000,Other Southern Africa,1992,0.0
+3001,Total Africa,1992,0.0
+3002,,1992,
+3003,Australia,1992,0.00012100000000000001
+3004,Bangladesh,1992,0.0
+3005,China,1992,3e-05
+3006,China Hong Kong SAR,1992,0.0
+3007,India,1992,0.0
+3008,Indonesia,1992,0.0
+3009,Japan,1992,0.000105
+3010,Malaysia,1992,0.0
+3011,New Zealand,1992,0.0
+3012,Pakistan,1992,0.0
+3013,Philippines,1992,0.0
+3014,Singapore,1992,0.0
+3015,South Korea,1992,2e-05
+3016,Sri Lanka,1992,0.0
+3017,Taiwan,1992,0.0
+3018,Thailand,1992,0.0
+3019,Vietnam,1992,0.0
+3020,Other Asia Pacific,1992,0.0
+3021,Total Asia Pacific,1992,0.000276
+3022,,1992,
+3023,Total World,1992,0.004685851094882214
+3024,,1993,
+3025,Canada,1993,2.052632e-05
+3026,Mexico,1993,4e-05
+3027,US,1993,0.004751618920299379
+3028,Total North America,1993,0.00481214524029938
+3029,,1993,
+3030,Argentina,1993,0.0
+3031,Brazil,1993,0.0
+3032,Chile,1993,0.0
+3033,Colombia,1993,0.0
+3034,Ecuador,1993,0.0
+3035,Peru,1993,0.0
+3036,Trinidad & Tobago,1993,0.0
+3037,Venezuela,1993,0.0
+3038,Central America,1993,0.0
+3039,Other Caribbean,1993,0.0
+3040,Other South America,1993,0.0
+3041,Total S. & Cent. America,1993,0.0
+3042,,1993,
+3043,Austria,1993,1e-05
+3044,Belgium,1993,0.0
+3045,Bulgaria,1993,0.0
+3046,Croatia,1993,0.0
+3047,Cyprus,1993,0.0
+3048,Czech Republic,1993,0.0
+3049,Denmark,1993,0.0
+3050,Estonia,1993,0.0
+3051,Finland,1993,7e-06
+3052,France,1993,1.6829999999999996e-05
+3053,Germany,1993,3e-05
+3054,Greece,1993,0.0
+3055,Hungary,1993,0.0
+3056,Iceland,1993,0.0
+3057,Ireland,1993,0.0
+3058,Italy,1993,0.00010999999999999999
+3059,Latvia,1993,0.0
+3060,Lithuania,1993,0.0
+3061,Luxembourg,1993,0.0
+3062,Netherlands,1993,1e-05
+3063,North Macedonia,1993,0.0
+3064,Norway,1993,0.0
+3065,Poland,1993,0.0
+3066,Portugal,1993,0.0
+3067,Romania,1993,0.0
+3068,Slovakia,1993,0.0
+3069,Slovenia,1993,0.0
+3070,Spain,1993,9e-05
+3071,Sweden,1993,1e-05
+3072,Switzerland,1993,4e-05
+3073,Turkey,1993,0.0
+3074,Ukraine,1993,0.0
+3075,United Kingdom,1993,0.0
+3076,Other Europe,1993,0.0
+3077,Total Europe,1993,0.00032383
+3078,,1993,
+3079,Azerbaijan,1993,0.0
+3080,Belarus,1993,0.0
+3081,Kazakhstan,1993,0.0
+3082,Russian Federation,1993,0.0
+3083,Turkmenistan,1993,0.0
+3084,USSR,1993,
+3085,Uzbekistan,1993,0.0
+3086,Other CIS,1993,0.0
+3087,Total CIS,1993,0.0
+3088,,1993,
+3089,Iran,1993,0.0
+3090,Iraq,1993,0.0
+3091,Israel,1993,0.0
+3092,Kuwait,1993,0.0
+3093,Oman,1993,0.0
+3094,Qatar,1993,0.0
+3095,Saudi Arabia,1993,0.0
+3096,United Arab Emirates,1993,0.0
+3097,Other Middle East,1993,0.0
+3098,Total Middle East,1993,0.0
+3099,,1993,
+3100,Algeria,1993,0.0
+3101,Egypt,1993,0.0
+3102,Morocco,1993,0.0
+3103,South Africa,1993,0.0
+3104,Eastern Africa,1993,0.0
+3105,Middle Africa,1993,0.0
+3106,Western Africa,1993,0.0
+3107,Other Northern Africa,1993,0.0
+3108,Other Southern Africa,1993,0.0
+3109,Total Africa,1993,0.0
+3110,,1993,
+3111,Australia,1993,0.00014600000000000003
+3112,Bangladesh,1993,0.0
+3113,China,1993,4e-05
+3114,China Hong Kong SAR,1993,0.0
+3115,India,1993,0.0
+3116,Indonesia,1993,0.0
+3117,Japan,1993,0.000225
+3118,Malaysia,1993,0.0
+3119,New Zealand,1993,0.0
+3120,Pakistan,1993,0.0
+3121,Philippines,1993,0.0
+3122,Singapore,1993,0.0
+3123,South Korea,1993,2e-05
+3124,Sri Lanka,1993,0.0
+3125,Taiwan,1993,0.0
+3126,Thailand,1993,0.0
+3127,Vietnam,1993,0.0
+3128,Other Asia Pacific,1993,0.0
+3129,Total Asia Pacific,1993,0.000431
+3130,,1993,
+3131,Total World,1993,0.005566975240299379
+3132,,1994,
+3133,Canada,1994,2.052632e-05
+3134,Mexico,1994,5e-05
+3135,US,1994,0.005018727933602809
+3136,Total North America,1994,0.005089254253602809
+3137,,1994,
+3138,Argentina,1994,0.0
+3139,Brazil,1994,0.0
+3140,Chile,1994,0.0
+3141,Colombia,1994,0.0
+3142,Ecuador,1994,0.0
+3143,Peru,1994,0.0
+3144,Trinidad & Tobago,1994,0.0
+3145,Venezuela,1994,0.0
+3146,Central America,1994,0.0
+3147,Other Caribbean,1994,0.0
+3148,Other South America,1994,0.0
+3149,Total S. & Cent. America,1994,0.0
+3150,,1994,
+3151,Austria,1994,1e-05
+3152,Belgium,1994,0.0
+3153,Bulgaria,1994,0.0
+3154,Croatia,1994,0.0
+3155,Cyprus,1994,0.0
+3156,Czech Republic,1994,0.0
+3157,Denmark,1994,0.0
+3158,Estonia,1994,0.0
+3159,Finland,1994,8.000000000000001e-06
+3160,France,1994,1.8785000000000004e-05
+3161,Germany,1994,7.000000000000001e-05
+3162,Greece,1994,0.0
+3163,Hungary,1994,0.0
+3164,Iceland,1994,0.0
+3165,Ireland,1994,0.0
+3166,Italy,1994,0.00010999999999999999
+3167,Latvia,1994,0.0
+3168,Lithuania,1994,0.0
+3169,Luxembourg,1994,0.0
+3170,Netherlands,1994,1.0000000000000002e-07
+3171,North Macedonia,1994,0.0
+3172,Norway,1994,0.0
+3173,Poland,1994,0.0
+3174,Portugal,1994,0.0
+3175,Romania,1994,0.0
+3176,Slovakia,1994,0.0
+3177,Slovenia,1994,0.0
+3178,Spain,1994,0.0001
+3179,Sweden,1994,1e-05
+3180,Switzerland,1994,5e-05
+3181,Turkey,1994,0.0
+3182,Ukraine,1994,0.0
+3183,United Kingdom,1994,0.0
+3184,Other Europe,1994,0.0
+3185,Total Europe,1994,0.000376885
+3186,,1994,
+3187,Azerbaijan,1994,0.0
+3188,Belarus,1994,0.0
+3189,Kazakhstan,1994,0.0
+3190,Russian Federation,1994,0.0
+3191,Turkmenistan,1994,0.0
+3192,USSR,1994,
+3193,Uzbekistan,1994,0.0
+3194,Other CIS,1994,0.0
+3195,Total CIS,1994,0.0
+3196,,1994,
+3197,Iran,1994,0.0
+3198,Iraq,1994,0.0
+3199,Israel,1994,0.0
+3200,Kuwait,1994,0.0
+3201,Oman,1994,0.0
+3202,Qatar,1994,0.0
+3203,Saudi Arabia,1994,0.0
+3204,United Arab Emirates,1994,0.0
+3205,Other Middle East,1994,0.0
+3206,Total Middle East,1994,0.0
+3207,,1994,
+3208,Algeria,1994,0.0
+3209,Egypt,1994,0.0
+3210,Morocco,1994,0.0
+3211,South Africa,1994,0.0
+3212,Eastern Africa,1994,0.0
+3213,Middle Africa,1994,0.0
+3214,Western Africa,1994,0.0
+3215,Other Northern Africa,1994,0.0
+3216,Other Southern Africa,1994,0.0
+3217,Total Africa,1994,0.0
+3218,,1994,
+3219,Australia,1994,0.000174
+3220,Bangladesh,1994,0.0
+3221,China,1994,5e-05
+3222,China Hong Kong SAR,1994,0.0
+3223,India,1994,0.0
+3224,Indonesia,1994,0.0
+3225,Japan,1994,0.00029
+3226,Malaysia,1994,0.0
+3227,New Zealand,1994,0.0
+3228,Pakistan,1994,0.0
+3229,Philippines,1994,0.0
+3230,Singapore,1994,0.0
+3231,South Korea,1994,2e-05
+3232,Sri Lanka,1994,0.0
+3233,Taiwan,1994,0.0
+3234,Thailand,1994,0.0
+3235,Vietnam,1994,0.0
+3236,Other Asia Pacific,1994,0.0
+3237,Total Asia Pacific,1994,0.000534
+3238,,1994,
+3239,Total World,1994,0.00600013925360281
+3240,,1995,
+3241,Canada,1995,3.842105e-05
+3242,Mexico,1995,5e-05
+3243,US,1995,0.005144715734785028
+3244,Total North America,1995,0.005233136784785028
+3245,,1995,
+3246,Argentina,1995,0.0
+3247,Brazil,1995,0.0
+3248,Chile,1995,0.0
+3249,Colombia,1995,0.0
+3250,Ecuador,1995,0.0
+3251,Peru,1995,0.0
+3252,Trinidad & Tobago,1995,0.0
+3253,Venezuela,1995,0.0
+3254,Central America,1995,0.0
+3255,Other Caribbean,1995,0.0
+3256,Other South America,1995,0.0
+3257,Total S. & Cent. America,1995,0.0
+3258,,1995,
+3259,Austria,1995,1e-05
+3260,Belgium,1995,0.0
+3261,Bulgaria,1995,0.0
+3262,Croatia,1995,0.0
+3263,Cyprus,1995,0.0
+3264,Czech Republic,1995,0.0
+3265,Denmark,1995,0.0
+3266,Estonia,1995,0.0
+3267,Finland,1995,8.000000000000001e-06
+3268,France,1995,2.0400000000000005e-05
+3269,Germany,1995,7.000000000000001e-05
+3270,Greece,1995,0.0
+3271,Hungary,1995,0.0
+3272,Iceland,1995,0.0
+3273,Ireland,1995,0.0
+3274,Italy,1995,0.00013000000000000004
+3275,Latvia,1995,0.0
+3276,Lithuania,1995,0.0
+3277,Luxembourg,1995,0.0
+3278,Netherlands,1995,1e-05
+3279,North Macedonia,1995,0.0
+3280,Norway,1995,0.0
+3281,Poland,1995,0.0
+3282,Portugal,1995,0.0
+3283,Romania,1995,0.0
+3284,Slovakia,1995,0.0
+3285,Slovenia,1995,0.0
+3286,Spain,1995,0.00015
+3287,Sweden,1995,1e-05
+3288,Switzerland,1995,6e-05
+3289,Turkey,1995,0.0
+3290,Ukraine,1995,0.0
+3291,United Kingdom,1995,0.0
+3292,Other Europe,1995,0.0
+3293,Total Europe,1995,0.00046840000000000006
+3294,,1995,
+3295,Azerbaijan,1995,0.0
+3296,Belarus,1995,0.0
+3297,Kazakhstan,1995,0.0
+3298,Russian Federation,1995,0.0
+3299,Turkmenistan,1995,0.0
+3300,USSR,1995,
+3301,Uzbekistan,1995,0.0
+3302,Other CIS,1995,0.0
+3303,Total CIS,1995,0.0
+3304,,1995,
+3305,Iran,1995,0.0
+3306,Iraq,1995,0.0
+3307,Israel,1995,0.0
+3308,Kuwait,1995,0.0
+3309,Oman,1995,0.0
+3310,Qatar,1995,0.0
+3311,Saudi Arabia,1995,0.0
+3312,United Arab Emirates,1995,0.0
+3313,Other Middle East,1995,0.0
+3314,Total Middle East,1995,0.0
+3315,,1995,
+3316,Algeria,1995,0.0
+3317,Egypt,1995,0.0
+3318,Morocco,1995,0.0
+3319,South Africa,1995,0.0
+3320,Eastern Africa,1995,0.0
+3321,Middle Africa,1995,0.0
+3322,Western Africa,1995,0.0
+3323,Other Northern Africa,1995,0.0
+3324,Other Southern Africa,1995,0.0
+3325,Total Africa,1995,0.0
+3326,,1995,
+3327,Australia,1995,0.0002115
+3328,Bangladesh,1995,0.0
+3329,China,1995,7.000000000000001e-05
+3330,China Hong Kong SAR,1995,0.0
+3331,India,1995,1.01010101010101e-05
+3332,Indonesia,1995,0.0
+3333,Japan,1995,0.000395
+3334,Malaysia,1995,0.0
+3335,New Zealand,1995,0.0
+3336,Pakistan,1995,0.0
+3337,Philippines,1995,0.0
+3338,Singapore,1995,0.0
+3339,South Korea,1995,2e-05
+3340,Sri Lanka,1995,0.0
+3341,Taiwan,1995,0.0
+3342,Thailand,1995,0.0
+3343,Vietnam,1995,0.0
+3344,Other Asia Pacific,1995,0.0
+3345,Total Asia Pacific,1995,0.00070660101010101
+3346,,1995,
+3347,Total World,1995,0.0064081377948860384
+3348,,1996,
+3349,Canada,1996,5.894737e-05
+3350,Mexico,1996,6e-05
+3351,US,1996,0.005413412174271023
+3352,Total North America,1996,0.005532359544271024
+3353,,1996,
+3354,Argentina,1996,0.0
+3355,Brazil,1996,0.0
+3356,Chile,1996,0.0
+3357,Colombia,1996,0.0
+3358,Ecuador,1996,0.0
+3359,Peru,1996,0.0
+3360,Trinidad & Tobago,1996,0.0
+3361,Venezuela,1996,0.0
+3362,Central America,1996,0.0
+3363,Other Caribbean,1996,0.0
+3364,Other South America,1996,0.0
+3365,Total S. & Cent. America,1996,0.0
+3366,,1996,
+3367,Austria,1996,1e-05
+3368,Belgium,1996,0.0
+3369,Bulgaria,1996,0.0
+3370,Croatia,1996,0.0
+3371,Cyprus,1996,0.0
+3372,Czech Republic,1996,0.0
+3373,Denmark,1996,1.6111111111111111e-06
+3374,Estonia,1996,0.0
+3375,Finland,1996,1e-05
+3376,France,1996,2.6503e-05
+3377,Germany,1996,0.00012
+3378,Greece,1996,0.0
+3379,Hungary,1996,0.0
+3380,Iceland,1996,0.0
+3381,Ireland,1996,0.0
+3382,Italy,1996,0.00014000000000000001
+3383,Latvia,1996,0.0
+3384,Lithuania,1996,0.0
+3385,Luxembourg,1996,0.0
+3386,Netherlands,1996,2e-05
+3387,North Macedonia,1996,0.0
+3388,Norway,1996,0.0
+3389,Poland,1996,0.0
+3390,Portugal,1996,1e-05
+3391,Romania,1996,0.0
+3392,Slovakia,1996,0.0
+3393,Slovenia,1996,0.0
+3394,Spain,1996,0.00012
+3395,Sweden,1996,1e-05
+3396,Switzerland,1996,7.000000000000001e-05
+3397,Turkey,1996,0.0
+3398,Ukraine,1996,0.0
+3399,United Kingdom,1996,0.0
+3400,Other Europe,1996,0.0
+3401,Total Europe,1996,0.0005381141111111112
+3402,,1996,
+3403,Azerbaijan,1996,0.0
+3404,Belarus,1996,0.0
+3405,Kazakhstan,1996,0.0
+3406,Russian Federation,1996,0.0
+3407,Turkmenistan,1996,0.0
+3408,USSR,1996,
+3409,Uzbekistan,1996,0.0
+3410,Other CIS,1996,0.0
+3411,Total CIS,1996,0.0
+3412,,1996,
+3413,Iran,1996,0.0
+3414,Iraq,1996,0.0
+3415,Israel,1996,0.0
+3416,Kuwait,1996,0.0
+3417,Oman,1996,0.0
+3418,Qatar,1996,0.0
+3419,Saudi Arabia,1996,0.0
+3420,United Arab Emirates,1996,0.0
+3421,Other Middle East,1996,0.0
+3422,Total Middle East,1996,0.0
+3423,,1996,
+3424,Algeria,1996,0.0
+3425,Egypt,1996,0.0
+3426,Morocco,1996,0.0
+3427,South Africa,1996,0.0
+3428,Eastern Africa,1996,0.0
+3429,Middle Africa,1996,0.0
+3430,Western Africa,1996,0.0
+3431,Other Northern Africa,1996,0.0
+3432,Other Southern Africa,1996,0.0
+3433,Total Africa,1996,0.0
+3434,,1996,
+3435,Australia,1996,0.00025600000000000004
+3436,Bangladesh,1996,0.0
+3437,China,1996,9e-05
+3438,China Hong Kong SAR,1996,0.0
+3439,India,1996,6.060606060606061e-05
+3440,Indonesia,1996,0.0
+3441,Japan,1996,0.000545
+3442,Malaysia,1996,0.0
+3443,New Zealand,1996,0.0
+3444,Pakistan,1996,0.0
+3445,Philippines,1996,0.0
+3446,Singapore,1996,0.0
+3447,South Korea,1996,3e-05
+3448,Sri Lanka,1996,0.0
+3449,Taiwan,1996,0.0
+3450,Thailand,1996,0.0
+3451,Vietnam,1996,0.0
+3452,Other Asia Pacific,1996,0.0
+3453,Total Asia Pacific,1996,0.0009816060606060606
+3454,,1996,
+3455,Total World,1996,0.007052079715988195
+3456,,1997,
+3457,Canada,1997,6.947368e-05
+3458,Mexico,1997,6e-05
+3459,US,1997,0.0053269572753424956
+3460,Total North America,1997,0.005456430955342496
+3461,,1997,
+3462,Argentina,1997,0.0
+3463,Brazil,1997,0.0
+3464,Chile,1997,0.0
+3465,Colombia,1997,0.0
+3466,Ecuador,1997,0.0
+3467,Peru,1997,0.0
+3468,Trinidad & Tobago,1997,0.0
+3469,Venezuela,1997,0.0
+3470,Central America,1997,0.0
+3471,Other Caribbean,1997,0.0
+3472,Other South America,1997,0.0
+3473,Total S. & Cent. America,1997,0.0
+3474,,1997,
+3475,Austria,1997,2e-05
+3476,Belgium,1997,0.0
+3477,Bulgaria,1997,0.0
+3478,Croatia,1997,0.0
+3479,Cyprus,1997,0.0
+3480,Czech Republic,1997,0.0
+3481,Denmark,1997,3.1944444444444443e-06
+3482,Estonia,1997,0.0
+3483,Finland,1997,1.1999999999999999e-05
+3484,France,1997,3.4068000000000007e-05
+3485,Germany,1997,0.00018
+3486,Greece,1997,0.0
+3487,Hungary,1997,0.0
+3488,Iceland,1997,0.0
+3489,Ireland,1997,0.0
+3490,Italy,1997,0.00015
+3491,Latvia,1997,0.0
+3492,Lithuania,1997,0.0
+3493,Luxembourg,1997,0.0
+3494,Netherlands,1997,2e-05
+3495,North Macedonia,1997,0.0
+3496,Norway,1997,0.0
+3497,Poland,1997,0.0
+3498,Portugal,1997,1e-05
+3499,Romania,1997,0.0
+3500,Slovakia,1997,0.0
+3501,Slovenia,1997,0.0
+3502,Spain,1997,0.00013000000000000004
+3503,Sweden,1997,1e-05
+3504,Switzerland,1997,7.000000000000001e-05
+3505,Turkey,1997,0.0
+3506,Ukraine,1997,0.0
+3507,United Kingdom,1997,0.0
+3508,Other Europe,1997,0.0
+3509,Total Europe,1997,0.0006392624444444446
+3510,,1997,
+3511,Azerbaijan,1997,0.0
+3512,Belarus,1997,0.0
+3513,Kazakhstan,1997,0.0
+3514,Russian Federation,1997,0.0
+3515,Turkmenistan,1997,0.0
+3516,USSR,1997,
+3517,Uzbekistan,1997,0.0
+3518,Other CIS,1997,0.0
+3519,Total CIS,1997,0.0
+3520,,1997,
+3521,Iran,1997,0.0
+3522,Iraq,1997,0.0
+3523,Israel,1997,0.0
+3524,Kuwait,1997,0.0
+3525,Oman,1997,0.0
+3526,Qatar,1997,0.0
+3527,Saudi Arabia,1997,0.0
+3528,United Arab Emirates,1997,0.0
+3529,Other Middle East,1997,0.0
+3530,Total Middle East,1997,0.0
+3531,,1997,
+3532,Algeria,1997,0.0
+3533,Egypt,1997,0.0
+3534,Morocco,1997,0.0
+3535,South Africa,1997,0.0
+3536,Eastern Africa,1997,0.0
+3537,Middle Africa,1997,0.0
+3538,Western Africa,1997,0.0
+3539,Other Northern Africa,1997,0.0
+3540,Other Southern Africa,1997,0.0
+3541,Total Africa,1997,0.0
+3542,,1997,
+3543,Australia,1997,0.00030649999999999997
+3544,Bangladesh,1997,0.0
+3545,China,1997,0.00010999999999999999
+3546,China Hong Kong SAR,1997,0.0
+3547,India,1997,6.060606060606061e-05
+3548,Indonesia,1997,0.0
+3549,Japan,1997,0.0009630284589041097
+3550,Malaysia,1997,0.0
+3551,New Zealand,1997,0.0
+3552,Pakistan,1997,0.0
+3553,Philippines,1997,0.0
+3554,Singapore,1997,0.0
+3555,South Korea,1997,3e-05
+3556,Sri Lanka,1997,0.0
+3557,Taiwan,1997,0.0
+3558,Thailand,1997,0.0
+3559,Vietnam,1997,0.0
+3560,Other Asia Pacific,1997,2e-08
+3561,Total Asia Pacific,1997,0.0014701545195101706
+3562,,1997,
+3563,Total World,1997,0.007565847919297111
+3564,,1998,
+3565,Canada,1998,0.00010105263000000001
+3566,Mexico,1998,7.000000000000001e-05
+3567,US,1998,0.005246593462241867
+3568,Total North America,1998,0.005417646092241867
+3569,,1998,
+3570,Argentina,1998,1.7000000000000001e-07
+3571,Brazil,1998,0.0
+3572,Chile,1998,0.0
+3573,Colombia,1998,0.0
+3574,Ecuador,1998,0.0
+3575,Peru,1998,0.0
+3576,Trinidad & Tobago,1998,0.0
+3577,Venezuela,1998,0.0
+3578,Central America,1998,0.0
+3579,Other Caribbean,1998,0.0
+3580,Other South America,1998,0.0
+3581,Total S. & Cent. America,1998,1.7000000000000001e-07
+3582,,1998,
+3583,Austria,1998,2e-05
+3584,Belgium,1998,0.0
+3585,Bulgaria,1998,0.0
+3586,Croatia,1998,0.0
+3587,Cyprus,1998,0.0
+3588,Czech Republic,1998,0.0
+3589,Denmark,1998,4e-06
+3590,Estonia,1998,0.0
+3591,Finland,1998,1.3000000000000001e-05
+3592,France,1998,4.0885000000000006e-05
+3593,Germany,1998,0.00035000000000000005
+3594,Greece,1998,0.0
+3595,Hungary,1998,0.0
+3596,Iceland,1998,0.0
+3597,Ireland,1998,0.0
+3598,Italy,1998,0.00016
+3599,Latvia,1998,0.0
+3600,Lithuania,1998,0.0
+3601,Luxembourg,1998,0.0
+3602,Netherlands,1998,3.5000000000000004e-05
+3603,North Macedonia,1998,0.0
+3604,Norway,1998,0.0
+3605,Poland,1998,0.0
+3606,Portugal,1998,8.000000000000001e-06
+3607,Romania,1998,0.0
+3608,Slovakia,1998,0.0
+3609,Slovenia,1998,0.0
+3610,Spain,1998,0.00015
+3611,Sweden,1998,1e-05
+3612,Switzerland,1998,8e-05
+3613,Turkey,1998,0.0
+3614,Ukraine,1998,0.0
+3615,United Kingdom,1998,0.0
+3616,Other Europe,1998,0.0
+3617,Total Europe,1998,0.0008708850000000001
+3618,,1998,
+3619,Azerbaijan,1998,0.0
+3620,Belarus,1998,0.0
+3621,Kazakhstan,1998,0.0
+3622,Russian Federation,1998,0.0
+3623,Turkmenistan,1998,0.0
+3624,USSR,1998,
+3625,Uzbekistan,1998,0.0
+3626,Other CIS,1998,0.0
+3627,Total CIS,1998,0.0
+3628,,1998,
+3629,Iran,1998,0.0
+3630,Iraq,1998,0.0
+3631,Israel,1998,0.0
+3632,Kuwait,1998,0.0
+3633,Oman,1998,0.0
+3634,Qatar,1998,0.0
+3635,Saudi Arabia,1998,0.0
+3636,United Arab Emirates,1998,0.0
+3637,Other Middle East,1998,0.0
+3638,Total Middle East,1998,0.0
+3639,,1998,
+3640,Algeria,1998,0.0
+3641,Egypt,1998,0.0
+3642,Morocco,1998,0.0
+3643,South Africa,1998,0.0
+3644,Eastern Africa,1998,0.0
+3645,Middle Africa,1998,0.0
+3646,Western Africa,1998,0.0
+3647,Other Northern Africa,1998,0.0
+3648,Other Southern Africa,1998,0.0
+3649,Total Africa,1998,0.0
+3650,,1998,
+3651,Australia,1998,0.000356
+3652,Bangladesh,1998,0.0
+3653,China,1998,0.00014000000000000001
+3654,China Hong Kong SAR,1998,0.0
+3655,India,1998,6.060606060606061e-05
+3656,Indonesia,1998,0.0
+3657,Japan,1998,0.0014324625000000002
+3658,Malaysia,1998,0.0
+3659,New Zealand,1998,0.0
+3660,Pakistan,1998,0.0
+3661,Philippines,1998,0.0
+3662,Singapore,1998,0.0
+3663,South Korea,1998,4e-05
+3664,Sri Lanka,1998,0.0
+3665,Taiwan,1998,0.0
+3666,Thailand,1998,0.0
+3667,Vietnam,1998,0.0
+3668,Other Asia Pacific,1998,1.2000000000000002e-07
+3669,Total Asia Pacific,1998,0.002029188560606061
+3670,,1998,
+3671,Total World,1998,0.008317889652847929
+3672,,1999,
+3673,Canada,1999,0.00013263157894736837
+3674,Mexico,1999,7.000000000000001e-05
+3675,US,1999,0.0051834206961663114
+3676,Total North America,1999,0.00538605227511368
+3677,,1999,
+3678,Argentina,1999,2.6e-07
+3679,Brazil,1999,0.0
+3680,Chile,1999,0.0
+3681,Colombia,1999,0.0
+3682,Ecuador,1999,0.0
+3683,Peru,1999,0.0
+3684,Trinidad & Tobago,1999,0.0
+3685,Venezuela,1999,0.0
+3686,Central America,1999,0.0
+3687,Other Caribbean,1999,1.0101010101010103e-06
+3688,Other South America,1999,0.0
+3689,Total S. & Cent. America,1999,1.2701010101010104e-06
+3690,,1999,
+3691,Austria,1999,2e-05
+3692,Belgium,1999,0.0
+3693,Bulgaria,1999,0.0
+3694,Croatia,1999,0.0
+3695,Cyprus,1999,0.0
+3696,Czech Republic,1999,0.0
+3697,Denmark,1999,8.805555555555557e-06
+3698,Estonia,1999,0.0
+3699,Finland,1999,1.4e-05
+3700,France,1999,4.547500000000001e-05
+3701,Germany,1999,0.0003
+3702,Greece,1999,0.0
+3703,Hungary,1999,0.0
+3704,Iceland,1999,0.0
+3705,Ireland,1999,0.0
+3706,Italy,1999,0.00017
+3707,Latvia,1999,0.0
+3708,Lithuania,1999,0.0
+3709,Luxembourg,1999,0.0
+3710,Netherlands,1999,5.270000000000001e-05
+3711,North Macedonia,1999,0.0
+3712,Norway,1999,0.0
+3713,Poland,1999,0.0
+3714,Portugal,1999,1.1000000000000001e-05
+3715,Romania,1999,0.0
+3716,Slovakia,1999,0.0
+3717,Slovenia,1999,0.0
+3718,Spain,1999,0.00017
+3719,Sweden,1999,1e-05
+3720,Switzerland,1999,0.0001
+3721,Turkey,1999,0.0
+3722,Ukraine,1999,0.0
+3723,United Kingdom,1999,1e-05
+3724,Other Europe,1999,0.0
+3725,Total Europe,1999,0.0009119805555555558
+3726,,1999,
+3727,Azerbaijan,1999,0.0
+3728,Belarus,1999,0.0
+3729,Kazakhstan,1999,0.0
+3730,Russian Federation,1999,0.0
+3731,Turkmenistan,1999,0.0
+3732,USSR,1999,
+3733,Uzbekistan,1999,0.0
+3734,Other CIS,1999,0.0
+3735,Total CIS,1999,0.0
+3736,,1999,
+3737,Iran,1999,0.0
+3738,Iraq,1999,0.0
+3739,Israel,1999,0.0
+3740,Kuwait,1999,0.0
+3741,Oman,1999,0.0
+3742,Qatar,1999,0.0
+3743,Saudi Arabia,1999,0.0
+3744,United Arab Emirates,1999,0.0
+3745,Other Middle East,1999,0.0
+3746,Total Middle East,1999,0.0
+3747,,1999,
+3748,Algeria,1999,0.0
+3749,Egypt,1999,0.0
+3750,Morocco,1999,0.0
+3751,South Africa,1999,0.0
+3752,Eastern Africa,1999,0.0
+3753,Middle Africa,1999,0.0
+3754,Western Africa,1999,0.0
+3755,Other Northern Africa,1999,0.0
+3756,Other Southern Africa,1999,0.0
+3757,Total Africa,1999,0.0
+3758,,1999,
+3759,Australia,1999,0.00040600000000000006
+3760,Bangladesh,1999,0.0
+3761,China,1999,0.00017
+3762,China Hong Kong SAR,1999,0.0
+3763,India,1999,6.060606060606061e-05
+3764,Indonesia,1999,0.0
+3765,Japan,1999,0.0021802499999999995
+3766,Malaysia,1999,0.0
+3767,New Zealand,1999,0.0
+3768,Pakistan,1999,0.0
+3769,Philippines,1999,0.0
+3770,Singapore,1999,0.0
+3771,South Korea,1999,4.572e-05
+3772,Sri Lanka,1999,0.0
+3773,Taiwan,1999,0.0
+3774,Thailand,1999,0.0
+3775,Vietnam,1999,0.0
+3776,Other Asia Pacific,1999,9.000000000000003e-08
+3777,Total Asia Pacific,1999,0.00286266606060606
+3778,,1999,
+3779,Total World,1999,0.009161968992285396
+3780,,2000,
+3781,Canada,2000,0.00016421052631578948
+3782,Mexico,2000,7.000000000000001e-05
+3783,US,2000,0.005185126541232548
+3784,Total North America,2000,0.005419337067548337
+3785,,2000,
+3786,Argentina,2000,3.600000000000001e-07
+3787,Brazil,2000,0.0
+3788,Chile,2000,0.0
+3789,Colombia,2000,1.8350136986301373e-05
+3790,Ecuador,2000,0.0
+3791,Peru,2000,0.0
+3792,Trinidad & Tobago,2000,1.2700000000000001e-06
+3793,Venezuela,2000,0.0
+3794,Central America,2000,1.4000000432133674e-07
+3795,Other Caribbean,2000,1.2399999797344208e-06
+3796,Other South America,2000,6.2e-07
+3797,Total S. & Cent. America,2000,2.198013697035713e-05
+3798,,2000,
+3799,Austria,2000,3e-05
+3800,Belgium,2000,0.0
+3801,Bulgaria,2000,0.0
+3802,Croatia,2000,0.0
+3803,Cyprus,2000,0.0
+3804,Czech Republic,2000,0.0
+3805,Denmark,2000,1.1999999999999999e-05
+3806,Estonia,2000,0.0
+3807,Finland,2000,1.6000000000000003e-05
+3808,France,2000,5.22325e-05
+3809,Germany,2000,0.0006
+3810,Greece,2000,0.0
+3811,Hungary,2000,0.0
+3812,Iceland,2000,0.0
+3813,Ireland,2000,0.0
+3814,Italy,2000,0.00018
+3815,Latvia,2000,0.0
+3816,Lithuania,2000,0.0
+3817,Luxembourg,2000,4.000000000000001e-07
+3818,Netherlands,2000,7.71e-05
+3819,North Macedonia,2000,0.0
+3820,Norway,2000,5.300000000000001e-05
+3821,Poland,2000,0.0
+3822,Portugal,2000,1.4e-05
+3823,Romania,2000,0.0
+3824,Slovakia,2000,0.0
+3825,Slovenia,2000,0.0
+3826,Spain,2000,0.00018
+3827,Sweden,2000,1e-05
+3828,Switzerland,2000,0.00010999999999999999
+3829,Turkey,2000,0.0
+3830,Ukraine,2000,0.0
+3831,United Kingdom,2000,1e-05
+3832,Other Europe,2000,0.0
+3833,Total Europe,2000,0.0013447325000000001
+3834,,2000,
+3835,Azerbaijan,2000,0.0
+3836,Belarus,2000,0.0
+3837,Kazakhstan,2000,0.0
+3838,Russian Federation,2000,0.0
+3839,Turkmenistan,2000,0.0
+3840,USSR,2000,
+3841,Uzbekistan,2000,0.0
+3842,Other CIS,2000,0.0
+3843,Total CIS,2000,0.0
+3844,,2000,
+3845,Iran,2000,0.0
+3846,Iraq,2000,0.0
+3847,Israel,2000,0.0
+3848,Kuwait,2000,0.0
+3849,Oman,2000,0.0
+3850,Qatar,2000,0.0
+3851,Saudi Arabia,2000,0.0
+3852,United Arab Emirates,2000,0.0
+3853,Other Middle East,2000,0.0
+3854,Total Middle East,2000,0.0
+3855,,2000,
+3856,Algeria,2000,0.0
+3857,Egypt,2000,2.0000000000000003e-06
+3858,Morocco,2000,0.0
+3859,South Africa,2000,9.300000000000001e-05
+3860,Eastern Africa,2000,0.0
+3861,Middle Africa,2000,0.0
+3862,Western Africa,2000,2.4410000026226046e-05
+3863,Other Northern Africa,2000,1.1999999999999999e-05
+3864,Other Southern Africa,2000,0.0
+3865,Total Africa,2000,0.00013141000002622605
+3866,,2000,
+3867,Australia,2000,0.0004675000000000001
+3868,Bangladesh,2000,0.0
+3869,China,2000,0.00021999999999999998
+3870,China Hong Kong SAR,2000,0.0
+3871,India,2000,7.070707070707072e-05
+3872,Indonesia,2000,0.0
+3873,Japan,2000,0.003440617191780822
+3874,Malaysia,2000,0.0
+3875,New Zealand,2000,0.0
+3876,Pakistan,2000,0.0
+3877,Philippines,2000,0.0
+3878,Singapore,2000,0.0
+3879,South Korea,2000,5.2839999999999996e-05
+3880,Sri Lanka,2000,4.32e-06
+3881,Taiwan,2000,1.2e-06
+3882,Thailand,2000,0.0
+3883,Vietnam,2000,0.0
+3884,Other Asia Pacific,2000,2.7659999825656414e-05
+3885,Total Asia Pacific,2000,0.004284844262313551
+3886,,2000,
+3887,Total World,2000,0.01120230396685847
+3888,,2001,
+3889,Canada,2001,0.00019451811346548193
+3890,Mexico,2001,7.948051948051946e-05
+3891,US,2001,0.005706215031845409
+3892,Total North America,2001,0.00598021366479141
+3893,,2001,
+3894,Argentina,2001,4.272077922077921e-07
+3895,Brazil,2001,0.0
+3896,Chile,2001,0.0
+3897,Colombia,2001,2.6514204545454542e-05
+3898,Ecuador,2001,0.0
+3899,Peru,2001,0.0
+3900,Trinidad & Tobago,2001,6.308766233766233e-06
+3901,Venezuela,2001,0.0
+3902,Central America,2001,6.855194633463761e-07
+3903,Other Caribbean,2001,3.2189610188270547e-06
+3904,Other South America,2001,8.146753246753246e-07
+3905,Total S. & Cent. America,2001,3.796933437827733e-05
+3906,,2001,
+3907,Austria,2001,4.967532467532467e-05
+3908,Belgium,2001,0.0
+3909,Bulgaria,2001,0.0
+3910,Croatia,2001,0.0
+3911,Cyprus,2001,0.0
+3912,Czech Republic,2001,0.0
+3913,Denmark,2001,1.192207792207792e-05
+3914,Estonia,2001,0.0
+3915,Finland,2001,1.6889610389610384e-05
+3916,France,2001,6.120496753246753e-05
+3917,Germany,2001,0.000755064935064935
+3918,Greece,2001,0.0
+3919,Hungary,2001,0.0
+3920,Iceland,2001,0.0
+3921,Ireland,2001,0.0
+3922,Italy,2001,0.00018876623376623376
+3923,Latvia,2001,0.0
+3924,Lithuania,2001,0.0
+3925,Luxembourg,2001,4.57012987012987e-07
+3926,Netherlands,2001,0.00012975194805194803
+3927,North Macedonia,2001,0.0
+3928,Norway,2001,5.2655844155844154e-05
+3929,Poland,2001,0.0
+3930,Portugal,2001,1.5896103896103897e-05
+3931,Romania,2001,0.0
+3932,Slovakia,2001,0.0
+3933,Slovenia,2001,0.0
+3934,Spain,2001,0.00023844155844155845
+3935,Sweden,2001,1.9870129870129866e-05
+3936,Switzerland,2001,0.00012915584415584415
+3937,Turkey,2001,0.0
+3938,Ukraine,2001,0.0
+3939,United Kingdom,2001,1.9870129870129866e-05
+3940,Other Europe,2001,1.3511688311688314e-06
+3941,Total Europe,2001,0.0016909728896103893
+3942,,2001,
+3943,Azerbaijan,2001,0.0
+3944,Belarus,2001,0.0
+3945,Kazakhstan,2001,0.0
+3946,Russian Federation,2001,0.0
+3947,Turkmenistan,2001,0.0
+3948,USSR,2001,
+3949,Uzbekistan,2001,0.0
+3950,Other CIS,2001,0.0
+3951,Total CIS,2001,0.0
+3952,,2001,
+3953,Iran,2001,0.0
+3954,Iraq,2001,0.0
+3955,Israel,2001,0.0
+3956,Kuwait,2001,0.0
+3957,Oman,2001,0.0
+3958,Qatar,2001,0.0
+3959,Saudi Arabia,2001,0.0
+3960,United Arab Emirates,2001,0.0
+3961,Other Middle East,2001,0.0
+3962,Total Middle East,2001,0.0
+3963,,2001,
+3964,Algeria,2001,0.0
+3965,Egypt,2001,8.94155844155844e-06
+3966,Morocco,2001,0.0
+3967,South Africa,2001,0.00010729870129870131
+3968,Eastern Africa,2001,1.7287012489585134e-06
+3969,Middle Africa,2001,4.76883121028349e-07
+3970,Western Africa,2001,3.0182727264288763e-05
+3971,Other Northern Africa,2001,1.3909090909090909e-05
+3972,Other Southern Africa,2001,0.0
+3973,Total Africa,2001,0.00016253766228362628
+3974,,2001,
+3975,Australia,2001,0.0005379837662337662
+3976,Bangladesh,2001,0.0
+3977,China,2001,0.00030798701298701296
+3978,China Hong Kong SAR,2001,0.0
+3979,India,2001,0.00011038961038961039
+3980,Indonesia,2001,0.0
+3981,Japan,2001,0.004964941593132894
+3982,Malaysia,2001,0.0
+3983,New Zealand,2001,0.0
+3984,Pakistan,2001,0.0
+3985,Philippines,2001,0.0
+3986,Singapore,2001,0.0
+3987,South Korea,2001,6.143844155844155e-05
+3988,Sri Lanka,2001,8.972317402597403e-06
+3989,Taiwan,2001,2.6228571428571424e-06
+3990,Thailand,2001,0.0
+3991,Vietnam,2001,0.0
+3992,Other Asia Pacific,2001,5.1215260090531845e-05
+3993,Total Asia Pacific,2001,0.006045550858937711
+3994,,2001,
+3995,Total World,2001,0.013917244410001412
+3996,,2002,
+3997,Canada,2002,0.00022443463497453308
+3998,Mexico,2002,7.896774193548387e-05
+3999,US,2002,0.00593835048011322
+4000,Total North America,2002,0.006241752857023237
+4001,,2002,
+4002,Argentina,2002,4.6393548387096765e-07
+4003,Brazil,2002,0.0
+4004,Chile,2002,0.0
+4005,Colombia,2002,4.591233870967741e-05
+4006,Ecuador,2002,0.0
+4007,Peru,2002,0.0
+4008,Trinidad & Tobago,2002,9.525483870967743e-06
+4009,Venezuela,2002,0.0
+4010,Central America,2002,1.15490321286263e-06
+4011,Other Caribbean,2002,3.3561290381416193e-06
+4012,Other South America,2002,1.0759354838709678e-06
+4013,Total S. & Cent. America,2002,6.148872579939134e-05
+4014,,2002,
+4015,Austria,2002,8.883870967741936e-05
+4016,Belgium,2002,0.0
+4017,Bulgaria,2002,0.0
+4018,Croatia,2002,0.0
+4019,Cyprus,2002,0.0
+4020,Czech Republic,2002,0.0
+4021,Denmark,2002,1.2640322580645161e-05
+4022,Estonia,2002,0.0
+4023,Finland,2002,1.8754838709677416e-05
+4024,France,2002,7.011792580645161e-05
+4025,Germany,2002,0.0015990967741935482
+4026,Greece,2002,0.0
+4027,Hungary,2002,0.0
+4028,Iceland,2002,0.0
+4029,Ireland,2002,0.0
+4030,Italy,2002,0.00020729032258064514
+4031,Latvia,2002,0.0
+4032,Lithuania,2002,0.0
+4033,Luxembourg,2002,5.823870967741934e-07
+4034,Netherlands,2002,0.00016820129032258063
+4035,North Macedonia,2002,0.0
+4036,Norway,2002,5.231612903225806e-05
+4037,Poland,2002,0.0
+4038,Portugal,2002,1.7767741935483866e-05
+4039,Romania,2002,0.0
+4040,Slovakia,2002,0.0
+4041,Slovenia,2002,0.0
+4042,Spain,2002,0.0002961290322580645
+4043,Sweden,2002,1.9741935483870967e-05
+4044,Switzerland,2002,0.00014806451612903225
+4045,Turkey,2002,0.0
+4046,Ukraine,2002,0.0
+4047,United Kingdom,2002,2.961290322580645e-05
+4048,Other Europe,2002,2.6849032258064517e-06
+4049,Total Europe,2002,0.002731839732258064
+4050,,2002,
+4051,Azerbaijan,2002,0.0
+4052,Belarus,2002,0.0
+4053,Kazakhstan,2002,0.0
+4054,Russian Federation,2002,0.0
+4055,Turkmenistan,2002,0.0
+4056,USSR,2002,
+4057,Uzbekistan,2002,0.0
+4058,Other CIS,2002,0.0
+4059,Total CIS,2002,0.0
+4060,,2002,
+4061,Iran,2002,0.0
+4062,Iraq,2002,0.0
+4063,Israel,2002,0.0
+4064,Kuwait,2002,0.0
+4065,Oman,2002,0.0
+4066,Qatar,2002,0.0
+4067,Saudi Arabia,2002,0.0
+4068,United Arab Emirates,2002,0.0
+4069,Other Middle East,2002,0.0
+4070,Total Middle East,2002,0.0
+4071,,2002,
+4072,Algeria,2002,0.0
+4073,Egypt,2002,9.870967741935483e-06
+4074,Morocco,2002,9.970674486803521e-07
+4075,South Africa,2002,0.00012240000000000002
+4076,Eastern Africa,2002,3.4252258346926783e-06
+4077,Middle Africa,2002,3.9977418001621e-06
+4078,Western Africa,2002,3.57131611061673e-05
+4079,Other Northern Africa,2002,1.5793548387096773e-05
+4080,Other Southern Africa,2002,0.0
+4081,Total Africa,2002,0.0001921977123187347
+4082,,2002,
+4083,Australia,2002,0.0005754774193548386
+4084,Bangladesh,2002,9.870967741935483e-07
+4085,China,2002,0.0004738064516129032
+4086,China Hong Kong SAR,2002,0.0
+4087,India,2002,0.00012961876832844578
+4088,Indonesia,2002,0.0
+4089,Japan,2002,0.006856571612903225
+4090,Malaysia,2002,0.0
+4091,New Zealand,2002,0.0
+4092,Pakistan,2002,0.0
+4093,Philippines,2002,0.0
+4094,Singapore,2002,0.0
+4095,South Korea,2002,6.953109677419354e-05
+4096,Sri Lanka,2002,1.4817428129032257e-05
+4097,Taiwan,2002,3.435096774193549e-06
+4098,Thailand,2002,0.0
+4099,Vietnam,2002,0.0
+4100,Other Asia Pacific,2002,5.98871611194053e-05
+4101,Total Asia Pacific,2002,0.008184132131770435
+4102,,2002,
+4103,Total World,2002,0.017411411159169856
+4104,,2003,
+4105,Canada,2003,0.00022351214574898781
+4106,Mexico,2003,7.846153846153845e-05
+4107,US,2003,0.005989109660773238
+4108,Total North America,2003,0.006291083344983764
+4109,,2003,
+4110,Argentina,2003,6.374999999999998e-07
+4111,Brazil,2003,0.0
+4112,Chile,2003,0.0
+4113,Colombia,2003,6.281826923076921e-05
+4114,Ecuador,2003,0.0
+4115,Peru,2003,0.0
+4116,Trinidad & Tobago,2003,1.4691923076923074e-05
+4117,Venezuela,2003,0.0
+4118,Central America,2003,1.8928846516288242e-06
+4119,Other Caribbean,2003,3.334615390461225e-06
+4120,Other South America,2003,1.3632692307692306e-06
+4121,Total S. & Cent. America,2003,8.473846158055156e-05
+4122,,2003,
+4123,Austria,2003,0.00014711538461538462
+4124,Belgium,2003,0.0
+4125,Bulgaria,2003,0.0
+4126,Croatia,2003,0.0
+4127,Cyprus,2003,0.0
+4128,Czech Republic,2003,0.0
+4129,Denmark,2003,1.4902243589743586e-05
+4130,Estonia,2003,0.0
+4131,Finland,2003,2.0596153846153848e-05
+4132,France,2003,7.617928846153846e-05
+4133,Germany,2003,0.0030698076923076916
+4134,Greece,2003,0.0
+4135,Hungary,2003,0.0
+4136,Iceland,2003,0.0
+4137,Ireland,2003,0.0
+4138,Italy,2003,0.00023538461538461536
+4139,Latvia,2003,0.0
+4140,Lithuania,2003,0.0
+4141,Luxembourg,2003,1.3720961538461538e-05
+4142,Netherlands,2003,0.00030148846153846146
+4143,North Macedonia,2003,0.0
+4144,Norway,2003,6.08076923076923e-05
+4145,Poland,2003,0.0
+4146,Portugal,2003,2.55e-05
+4147,Romania,2003,0.0
+4148,Slovakia,2003,0.0
+4149,Slovenia,2003,0.0
+4150,Spain,2003,0.00040211538461538455
+4151,Sweden,2003,1.9615384615384613e-05
+4152,Switzerland,2003,0.00017653846153846157
+4153,Turkey,2003,0.0
+4154,Ukraine,2003,0.0
+4155,United Kingdom,2003,2.942307692307692e-05
+4156,Other Europe,2003,3.648461538461539e-06
+4157,Total Europe,2003,0.0045968432628205125
+4158,,2003,
+4159,Azerbaijan,2003,0.0
+4160,Belarus,2003,0.0
+4161,Kazakhstan,2003,0.0
+4162,Russian Federation,2003,0.0
+4163,Turkmenistan,2003,0.0
+4164,USSR,2003,
+4165,Uzbekistan,2003,0.0
+4166,Other CIS,2003,0.0
+4167,Total CIS,2003,0.0
+4168,,2003,
+4169,Iran,2003,0.0
+4170,Iraq,2003,0.0
+4171,Israel,2003,0.0
+4172,Kuwait,2003,0.0
+4173,Oman,2003,0.0
+4174,Qatar,2003,0.0
+4175,Saudi Arabia,2003,0.0
+4176,United Arab Emirates,2003,0.0
+4177,Other Middle East,2003,0.0
+4178,Total Middle East,2003,0.0
+4179,,2003,
+4180,Algeria,2003,0.0
+4181,Egypt,2003,9.807692307692307e-06
+4182,Morocco,2003,9.906759906759906e-07
+4183,South Africa,2003,0.00013632692307692307
+4184,Eastern Africa,2003,3.4032692588292632e-06
+4185,Middle Africa,2003,5.7571154185212574e-06
+4186,Western Africa,2003,4.9783846144492804e-05
+4187,Other Northern Africa,2003,1.9791923076923072e-05
+4188,Other Southern Africa,2003,0.0
+4189,Total Africa,2003,0.00022586144527405772
+4190,,2003,
+4191,Australia,2003,0.0006198461538461538
+4192,Bangladesh,2003,8.826923076923077e-06
+4193,China,2003,0.0006276923076923076
+4194,China Hong Kong SAR,2003,0.0
+4195,India,2003,0.0001585081585081585
+4196,Indonesia,2003,0.0
+4197,Japan,2003,0.009356097115384612
+4198,Malaysia,2003,0.0
+4199,New Zealand,2003,0.0
+4200,Pakistan,2003,0.0
+4201,Philippines,2003,0.0
+4202,Singapore,2003,0.0
+4203,South Korea,2003,7.602923076923075e-05
+4204,Sri Lanka,2003,2.357761384615384e-05
+4205,Taiwan,2003,4.521346153846152e-06
+4206,Thailand,2003,0.0
+4207,Vietnam,2003,0.0
+4208,Other Asia Pacific,2003,7.588211546733402e-05
+4209,Total Asia Pacific,2003,0.010950980964744719
+4210,,2003,
+4211,Total World,2003,0.022149507479403606
+4212,,2004,
+4213,Canada,2004,0.00013899765336909147
+4214,Mexico,2004,8.770700636942676e-05
+4215,US,2004,0.006803456240773934
+4216,Total North America,2004,0.0070301609005124525
+4217,,2004,
+4218,Argentina,2004,6.821656050955413e-07
+4219,Brazil,2004,0.0
+4220,Chile,2004,0.0
+4221,Colombia,2004,7.749134281476306e-05
+4222,Ecuador,2004,0.0
+4223,Peru,2004,0.0
+4224,Trinidad & Tobago,2004,2.1195859872611458e-05
+4225,Venezuela,2004,0.0
+4226,Central America,2004,2.3485986935864586e-06
+4227,Other Caribbean,2004,4.434076444738229e-06
+4228,Other South America,2004,2.0659872611464965e-06
+4229,Total S. & Cent. America,2004,0.00010821803069194124
+4230,,2004,
+4231,Austria,2004,0.00017541401273885352
+4232,Belgium,2004,9.745222929936305e-06
+4233,Bulgaria,2004,0.0
+4234,Croatia,2004,0.0
+4235,Cyprus,2004,3.898089171974522e-06
+4236,Czech Republic,2004,9.745222929936306e-07
+4237,Denmark,2004,1.792038216560509e-05
+4238,Estonia,2004,0.0
+4239,Finland,2004,2.3388535031847128e-05
+4240,France,2004,8.232748738853502e-05
+4241,Germany,2004,0.005428089171974522
+4242,Greece,2004,9.745222929936305e-06
+4243,Hungary,2004,0.0
+4244,Iceland,2004,0.0
+4245,Ireland,2004,0.0
+4246,Italy,2004,0.0002826114649681528
+4247,Latvia,2004,0.0
+4248,Lithuania,2004,0.0
+4249,Luxembourg,2004,8.964630573248405e-05
+4250,Netherlands,2004,0.00032295668789808913
+4251,North Macedonia,2004,0.0
+4252,Norway,2004,6.042038216560509e-05
+4253,Poland,2004,0.0
+4254,Portugal,2004,2.8261146496815278e-05
+4255,Romania,2004,0.0
+4256,Slovakia,2004,0.0
+4257,Slovenia,2004,0.0
+4258,Spain,2004,0.0005457324840764331
+4259,Sweden,2004,1.949044585987261e-05
+4260,Switzerland,2004,0.00017541401273885352
+4261,Turkey,2004,0.0
+4262,Ukraine,2004,0.0
+4263,United Kingdom,2004,3.898089171974522e-05
+4264,Other Europe,2004,4.599745222929936e-06
+4265,Total Europe,2004,0.007319616213503185
+4266,,2004,
+4267,Azerbaijan,2004,0.0
+4268,Belarus,2004,0.0
+4269,Kazakhstan,2004,0.0
+4270,Russian Federation,2004,0.0
+4271,Turkmenistan,2004,0.0
+4272,USSR,2004,
+4273,Uzbekistan,2004,0.0
+4274,Other CIS,2004,0.0
+4275,Total CIS,2004,0.0
+4276,,2004,
+4277,Iran,2004,0.0
+4278,Iraq,2004,0.0
+4279,Israel,2004,0.0
+4280,Kuwait,2004,0.0
+4281,Oman,2004,0.0
+4282,Qatar,2004,0.0
+4283,Saudi Arabia,2004,0.0
+4284,United Arab Emirates,2004,0.0
+4285,Other Middle East,2004,0.0
+4286,Total Middle East,2004,0.0
+4287,,2004,
+4288,Algeria,2004,0.0
+4289,Egypt,2004,9.745222929936305e-06
+4290,Morocco,2004,9.843659525188187e-07
+4291,South Africa,2004,0.0001510509554140127
+4292,Eastern Africa,2004,5.077261416016109e-06
+4293,Middle Africa,2004,8.127515752793875e-06
+4294,Western Africa,2004,6.424050850579573e-05
+4295,Other Northern Africa,2004,2.741331210191082e-05
+4296,Other Southern Africa,2004,9.745222929936306e-07
+4297,Total Africa,2004,0.00026761366436597796
+4298,,2004,
+4299,Australia,2004,0.0007109140127388533
+4300,Bangladesh,2004,1.8515923566878975e-05
+4301,China,2004,0.0007406369426751589
+4302,China Hong Kong SAR,2004,0.0
+4303,India,2004,0.00017718587145338735
+4304,Indonesia,2004,0.0
+4305,Japan,2004,0.012392241074077303
+4306,Malaysia,2004,0.0
+4307,New Zealand,2004,0.0
+4308,Pakistan,2004,0.0
+4309,Philippines,2004,0.0
+4310,Singapore,2004,0.0
+4311,South Korea,2004,9.620484076433119e-05
+4312,Sri Lanka,2004,3.4489045605095534e-05
+4313,Taiwan,2004,5.691210191082801e-06
+4314,Thailand,2004,0.0
+4315,Vietnam,2004,0.0
+4316,Other Asia Pacific,2004,8.903235686041367e-05
+4317,Total Asia Pacific,2004,0.014264911277932505
+4318,,2004,
+4319,Total World,2004,0.02899052008700606
+4320,,2005,
+4321,Canada,2005,0.00017889073950699526
+4322,Mexico,2005,8.715189873417721e-05
+4323,US,2005,0.007252012464746781
+4324,Total North America,2005,0.007518055102987953
+4325,,2005,
+4326,Argentina,2005,7.84367088607595e-07
+4327,Brazil,2005,0.0
+4328,Chile,2005,0.0
+4329,Colombia,2005,9.229628164556959e-05
+4330,Ecuador,2005,1.1997843607594933e-07
+4331,Peru,2005,0.0
+4332,Trinidad & Tobago,2005,2.2649810126582273e-05
+4333,Venezuela,2005,0.0
+4334,Central America,2005,6.563291196958927e-06
+4335,Other Caribbean,2005,4.898070518990961e-05
+4336,Other South America,2005,2.3627848101265813e-06
+4337,Total S. & Cent. America,2005,0.00017375721849383056
+4338,,2005,
+4339,Austria,2005,0.00020353236550632906
+4340,Belgium,2005,9.683544303797465e-06
+4341,Bulgaria,2005,0.0
+4342,Croatia,2005,0.0
+4343,Cyprus,2005,5.480886075949365e-06
+4344,Czech Republic,2005,6.584810126582278e-07
+4345,Denmark,2005,2.092721518987341e-05
+4346,Estonia,2005,0.0
+4347,Finland,2005,2.5177215189873414e-05
+4348,France,2005,0.00010168457468354425
+4349,Germany,2005,0.012414303797468352
+4350,Greece,2005,9.683544303797465e-06
+4351,Hungary,2005,0.0
+4352,Iceland,2005,0.0
+4353,Ireland,2005,0.0
+4354,Italy,2005,0.0003001898734177214
+4355,Latvia,2005,0.0
+4356,Lithuania,2005,0.0
+4357,Luxembourg,2005,0.00017137936708860757
+4358,Netherlands,2005,0.0003311675316455695
+4359,North Macedonia,2005,0.0
+4360,Norway,2005,6.00379746835443e-05
+4361,Poland,2005,0.0
+4362,Portugal,2005,3.6797468354430366e-05
+4363,Romania,2005,0.0
+4364,Slovakia,2005,0.0
+4365,Slovenia,2005,0.0
+4366,Spain,2005,0.000397025316455696
+4367,Sweden,2005,1.936708860759493e-05
+4368,Switzerland,2005,0.00020335443037974678
+4369,Turkey,2005,0.0
+4370,Ukraine,2005,0.0
+4371,United Kingdom,2005,7.746835443037972e-05
+4372,Other Europe,2005,5.5389873417721505e-06
+4373,Total Europe,2005,0.014393458016139237
+4374,,2005,
+4375,Azerbaijan,2005,0.0
+4376,Belarus,2005,0.0
+4377,Kazakhstan,2005,0.0
+4378,Russian Federation,2005,0.0
+4379,Turkmenistan,2005,0.0
+4380,USSR,2005,
+4381,Uzbekistan,2005,0.0
+4382,Other CIS,2005,0.0
+4383,Total CIS,2005,0.0
+4384,,2005,
+4385,Iran,2005,0.0
+4386,Iraq,2005,0.0
+4387,Israel,2005,0.0
+4388,Kuwait,2005,0.0
+4389,Oman,2005,0.0
+4390,Qatar,2005,0.0
+4391,Saudi Arabia,2005,0.0
+4392,United Arab Emirates,2005,0.0
+4393,Other Middle East,2005,0.0
+4394,Total Middle East,2005,0.0
+4395,,2005,
+4396,Algeria,2005,0.0
+4397,Egypt,2005,9.683544303797465e-06
+4398,Morocco,2005,9.781357882623706e-07
+4399,South Africa,2005,0.00016462025316455692
+4400,Eastern Africa,2005,1.1610570167423799e-05
+4401,Middle Africa,2005,1.216253182103362e-05
+4402,Western Africa,2005,7.758455690712065e-05
+4403,Other Northern Africa,2005,3.4938227848101257e-05
+4404,Other Southern Africa,2005,1.9367088607594933e-06
+4405,Total Africa,2005,0.0003135145288610556
+4406,,2005,
+4407,Australia,2005,0.0008139018987341769
+4408,Bangladesh,2005,3.292405063291138e-05
+4409,China,2005,0.0008134177215189871
+4410,China Hong Kong SAR,2005,0.0
+4411,India,2005,0.00017606444188722668
+4412,Indonesia,2005,0.0
+4413,Japan,2005,0.015785032981836304
+4414,Malaysia,2005,0.0
+4415,New Zealand,2005,0.0
+4416,Pakistan,2005,0.0
+4417,Philippines,2005,1.4689936708860754e-05
+4418,Singapore,2005,0.0
+4419,South Korea,2005,0.0001394333544303797
+4420,Sri Lanka,2005,4.469281063291137e-05
+4421,Taiwan,2005,9.296202531645565e-06
+4422,Thailand,2005,0.0
+4423,Vietnam,2005,0.0
+4424,Other Asia Pacific,2005,0.00010970487392239694
+4425,Total Asia Pacific,2005,0.017939158272835796
+4426,,2005,
+4427,Total World,2005,0.040337943139317885
+4428,,2006,
+4429,Canada,2006,0.000218282025819265
+4430,Mexico,2006,9.62264150943396e-05
+4431,US,2006,0.00793321482698471
+4432,Total North America,2006,0.008247723267898317
+4433,,2006,
+4434,Argentina,2006,8.660377358490563e-07
+4435,Brazil,2006,0.0
+4436,Chile,2006,0.0
+4437,Colombia,2006,0.0
+4438,Ecuador,2006,1.4313679245283012e-07
+4439,Peru,2006,0.0
+4440,Trinidad & Tobago,2006,2.5846415094339617e-05
+4441,Venezuela,2006,0.0
+4442,Central America,2006,6.589371119655151e-06
+4443,Other Caribbean,2006,4.247692903043613e-05
+4444,Other South America,2006,2.7905660377358484e-06
+4445,Total S. & Cent. America,2006,7.871245581046863e-05
+4446,,2006,
+4447,Austria,2006,0.00021542087264150934
+4448,Belgium,2006,1.924528301886792e-05
+4449,Bulgaria,2006,0.0
+4450,Croatia,2006,0.0
+4451,Cyprus,2006,9.641886792452826e-06
+4452,Czech Republic,2006,1.6358490566037733e-06
+4453,Denmark,2006,2.1303459119496845e-05
+4454,Estonia,2006,0.0
+4455,Finland,2006,3.2716981132075455e-05
+4456,France,2006,0.00011456765094339618
+4457,Germany,2006,0.021362264150943392
+4458,Greece,2006,9.62264150943396e-06
+4459,Hungary,2006,0.0
+4460,Iceland,2006,0.0
+4461,Ireland,2006,0.0
+4462,Italy,2006,0.0003367924528301886
+4463,Latvia,2006,0.0
+4464,Lithuania,2006,0.0
+4465,Luxembourg,2006,0.00020317245283018863
+4466,Netherlands,2006,0.0003389383018867923
+4467,North Macedonia,2006,0.0
+4468,Norway,2006,6.83207547169811e-05
+4469,Poland,2006,0.0
+4470,Portugal,2006,4.81132075471698e-05
+4471,Romania,2006,0.0
+4472,Slovakia,2006,0.0
+4473,Slovenia,2006,0.0
+4474,Spain,2006,0.0011450943396226411
+4475,Sweden,2006,1.924528301886792e-05
+4476,Switzerland,2006,0.00023094339622641501
+4477,Turkey,2006,0.0
+4478,Ukraine,2006,0.0
+4479,United Kingdom,2006,0.00010584905660377353
+4480,Other Europe,2006,5.504150943396225e-06
+4481,Total Europe,2006,0.02428839217138364
+4482,,2006,
+4483,Azerbaijan,2006,0.0
+4484,Belarus,2006,0.0
+4485,Kazakhstan,2006,0.0
+4486,Russian Federation,2006,0.0
+4487,Turkmenistan,2006,0.0
+4488,USSR,2006,
+4489,Uzbekistan,2006,0.0
+4490,Other CIS,2006,0.0
+4491,Total CIS,2006,0.0
+4492,,2006,
+4493,Iran,2006,9.62264150943396e-07
+4494,Iraq,2006,0.0
+4495,Israel,2006,0.0
+4496,Kuwait,2006,0.0
+4497,Oman,2006,0.0
+4498,Qatar,2006,0.0
+4499,Saudi Arabia,2006,0.0
+4500,United Arab Emirates,2006,0.0
+4501,Other Middle East,2006,0.0
+4502,Total Middle East,2006,9.62264150943396e-07
+4503,,2006,
+4504,Algeria,2006,0.0
+4505,Egypt,2006,9.62264150943396e-06
+4506,Morocco,2006,9.719839908519152e-07
+4507,South Africa,2006,0.00017898113207547167
+4508,Eastern Africa,2006,4.606358472671148e-05
+4509,Middle Africa,2006,1.5752264298920356e-05
+4510,Western Africa,2006,9.554320528256299e-05
+4511,Other Northern Africa,2006,4.2368490566037714e-05
+4512,Other Southern Africa,2006,1.924528301886792e-06
+4513,Total Africa,2006,0.0003912278307518768
+4514,,2006,
+4515,Australia,2006,0.0009382075471698109
+4516,Bangladesh,2006,5.196226415094338e-05
+4517,China,2006,0.0009141509433962261
+4518,China Hong Kong SAR,2006,0.0
+4519,India,2006,6.928301886792451e-05
+4520,Indonesia,2006,0.0
+4521,Japan,2006,0.019203232075471692
+4522,Malaysia,2006,0.0
+4523,New Zealand,2006,0.0
+4524,Pakistan,2006,0.0
+4525,Philippines,2006,1.3240754716981126e-05
+4526,Singapore,2006,0.0
+4527,South Korea,2006,0.0002985135849056603
+4528,Sri Lanka,2006,5.1835052830188664e-05
+4529,Taiwan,2006,1.4020188679245279e-05
+4530,Thailand,2006,0.00035103396226415085
+4531,Vietnam,2006,0.0
+4532,Other Asia Pacific,2006,0.0001410294345062085
+4533,Total Asia Pacific,2006,0.022046508826959025
+4534,,2006,
+4535,Total World,2006,0.05505352681695428
+4536,,2007,
+4537,Canada,2007,0.0002768092105263158
+4538,Mexico,2007,8.606249999999997e-05
+4539,US,2007,0.010474862893092091
+4540,Total North America,2007,0.010837734603618407
+4541,,2007,
+4542,Argentina,2007,1.0413562499999994e-06
+4543,Brazil,2007,0.0
+4544,Chile,2007,0.0
+4545,Colombia,2007,0.0
+4546,Ecuador,2007,1.736741249999999e-07
+4547,Peru,2007,0.0
+4548,Trinidad & Tobago,2007,2.7549562499999985e-05
+4549,Venezuela,2007,0.0
+4550,Central America,2007,7.466187700629232e-06
+4551,Other Caribbean,2007,5.9718875017669026e-05
+4552,Other South America,2007,3.7389374999999983e-06
+4553,Total S. & Cent. America,2007,9.968859309329825e-05
+4554,,2007,
+4555,Austria,2007,0.00023177946093749997
+4556,Belgium,2007,5.737499999999998e-05
+4557,Bulgaria,2007,0.0
+4558,Croatia,2007,0.0
+4559,Cyprus,2007,1.6571812499999994e-05
+4560,Czech Republic,2007,1.6772624999999994e-05
+4561,Denmark,2007,2.3853124999999992e-05
+4562,Estonia,2007,0.0
+4563,Finland,2007,3.633749999999998e-05
+4564,France,2007,0.00017212499999999994
+4565,Germany,2007,0.02940468749999999
+4566,Greece,2007,9.562499999999997e-06
+4567,Hungary,2007,0.0
+4568,Iceland,2007,0.0
+4569,Ireland,2007,0.0
+4570,Italy,2007,0.0003729374999999998
+4571,Latvia,2007,0.0
+4572,Lithuania,2007,0.0
+4573,Luxembourg,2007,0.0001998658124999999
+4574,Netherlands,2007,0.00034149599999999984
+4575,North Macedonia,2007,0.0
+4576,Norway,2007,6.789374999999998e-05
+4577,Poland,2007,0.0
+4578,Portugal,2007,0.0002294999999999999
+4579,Romania,2007,0.0
+4580,Slovakia,2007,0.0
+4581,Slovenia,2007,0.0
+4582,Spain,2007,0.004857749999999998
+4583,Sweden,2007,2.868749999999999e-05
+4584,Switzerland,2007,0.0002773124999999999
+4585,Turkey,2007,0.0
+4586,Ukraine,2007,0.0
+4587,United Kingdom,2007,0.00013387499999999993
+4588,Other Europe,2007,9.294749999999998e-06
+4589,Total Europe,2007,0.036487677335937475
+4590,,2007,
+4591,Azerbaijan,2007,0.0
+4592,Belarus,2007,0.0
+4593,Kazakhstan,2007,0.0
+4594,Russian Federation,2007,0.0
+4595,Turkmenistan,2007,0.0
+4596,USSR,2007,
+4597,Uzbekistan,2007,0.0
+4598,Other CIS,2007,0.0
+4599,Total CIS,2007,0.0
+4600,,2007,
+4601,Iran,2007,9.562499999999997e-07
+4602,Iraq,2007,0.0
+4603,Israel,2007,0.0
+4604,Kuwait,2007,0.0
+4605,Oman,2007,0.0
+4606,Qatar,2007,0.0
+4607,Saudi Arabia,2007,0.0
+4608,United Arab Emirates,2007,0.0
+4609,Other Middle East,2007,0.0
+4610,Total Middle East,2007,9.562499999999997e-07
+4611,,2007,
+4612,Algeria,2007,0.0
+4613,Egypt,2007,1.1474999999999994e-05
+4614,Morocco,2007,9.659090909090907e-07
+4615,South Africa,2007,0.00019220624999999997
+4616,Eastern Africa,2007,9.00240813571193e-05
+4617,Middle Africa,2007,4.2906938559003166e-05
+4618,Western Africa,2007,0.00011889056056039404
+4619,Other Northern Africa,2007,5.066212499999997e-05
+4620,Other Southern Africa,2007,2.8687499999999986e-06
+4621,Total Africa,2007,0.0005099996145674256
+4622,,2007,
+4623,Australia,2007,0.0010877343749999995
+4624,Bangladesh,2007,8.606249999999997e-05
+4625,China,2007,0.0010901249999999995
+4626,China Hong Kong SAR,2007,0.0
+4627,India,2007,0.0005641874999999997
+4628,Indonesia,2007,0.0
+4629,Japan,2007,0.022112970468749993
+4630,Malaysia,2007,0.0
+4631,New Zealand,2007,3.256887045454544e-05
+4632,Pakistan,2007,1.9316249999999995e-06
+4633,Philippines,2007,1.2517312499999995e-05
+4634,Singapore,2007,0.0
+4635,South Korea,2007,0.0007684835944579287
+4636,Sri Lanka,2007,5.714989874999997e-05
+4637,Taiwan,2007,2.084624999999999e-05
+4638,Thailand,2007,0.00037064249999999976
+4639,Vietnam,2007,0.0
+4640,Other Asia Pacific,2007,0.00016313644294378463
+4641,Total Asia Pacific,2007,0.026368356337856256
+4642,,2007,
+4643,Total World,2007,0.07430441273507286
+4644,,2008,
+4645,Canada,2008,0.00033260869565217375
+4646,Mexico,2008,0.00018055900621118
+4647,US,2008,0.015519165978016072
+4648,Total North America,2008,0.016032333679879426
+4649,,2008,
+4650,Argentina,2008,1.3655962732919249e-06
+4651,Brazil,2008,0.0
+4652,Chile,2008,0.0
+4653,Colombia,2008,0.0
+4654,Ecuador,2008,2.536093788819875e-07
+4655,Peru,2008,0.0
+4656,Trinidad & Tobago,2008,2.97447204968944e-05
+4657,Venezuela,2008,0.0
+4658,Central America,2008,9.187391404039368e-06
+4659,Other Caribbean,2008,9.364254649039006e-05
+4660,Other South America,2008,4.209875776397514e-06
+4661,Total S. & Cent. America,2008,0.00013840373981989526
+4662,,2008,
+4663,Austria,2008,0.00028623268509316767
+4664,Belgium,2008,0.0003991304347826085
+4665,Bulgaria,2008,0.0
+4666,Croatia,2008,0.0
+4667,Cyprus,2008,2.8509316770186326e-05
+4668,Czech Republic,2008,0.00012294167701863346
+4669,Denmark,2008,2.4919254658385084e-05
+4670,Estonia,2008,0.0
+4671,Finland,2008,3.706211180124222e-05
+4672,France,2008,0.0003991304347826085
+4673,Germany,2008,0.042003726708074514
+4674,Greece,2008,4.751552795031053e-05
+4675,Hungary,2008,9.503105590062109e-06
+4676,Iceland,2008,0.0
+4677,Ireland,2008,0.0
+4678,Italy,2008,0.0018340993788819868
+4679,Latvia,2008,0.0
+4680,Lithuania,2008,0.0
+4681,Luxembourg,2008,0.00019035670807453407
+4682,Netherlands,2008,0.0003695662732919253
+4683,North Macedonia,2008,0.0
+4684,Norway,2008,7.032298136645961e-05
+4685,Poland,2008,0.0
+4686,Portugal,2008,0.0003896273291925464
+4687,Romania,2008,0.0
+4688,Slovakia,2008,0.0
+4689,Slovenia,2008,9.503105590062109e-06
+4690,Spain,2008,0.02449900621118011
+4691,Sweden,2008,3.8012422360248434e-05
+4692,Switzerland,2008,0.00035161490683229793
+4693,Turkey,2008,0.0
+4694,Ukraine,2008,0.0
+4695,United Kingdom,2008,0.00016155279503105583
+4696,Other Europe,2008,1.113763975155279e-05
+4697,Total Europe,2008,0.07128347100807449
+4698,,2008,
+4699,Azerbaijan,2008,0.0
+4700,Belarus,2008,0.0
+4701,Kazakhstan,2008,0.0
+4702,Russian Federation,2008,0.0
+4703,Turkmenistan,2008,0.0
+4704,USSR,2008,
+4705,Uzbekistan,2008,0.0
+4706,Other CIS,2008,0.0
+4707,Total CIS,2008,0.0
+4708,,2008,
+4709,Iran,2008,1.9006211180124218e-06
+4710,Iraq,2008,0.0
+4711,Israel,2008,0.0
+4712,Kuwait,2008,0.0
+4713,Oman,2008,0.0
+4714,Qatar,2008,0.0
+4715,Saudi Arabia,2008,5.787391304347823e-06
+4716,United Arab Emirates,2008,0.0
+4717,Other Middle East,2008,2.5658385093167692e-05
+4718,Total Middle East,2008,3.3346397515527936e-05
+4719,,2008,
+4720,Algeria,2008,0.0
+4721,Egypt,2008,1.4254658385093163e-05
+4722,Morocco,2008,9.599096555618292e-07
+4723,South Africa,2008,0.00020621739130434775
+4724,Eastern Africa,2008,0.0001686914526162793
+4725,Middle Africa,2008,7.415273184417195e-05
+4726,Western Africa,2008,0.0001357423596995772
+4727,Other Northern Africa,2008,5.8852732919254636e-05
+4728,Other Southern Africa,2008,5.511801242236021e-05
+4729,Total Africa,2008,0.000713989248846646
+4730,,2008,
+4731,Australia,2008,0.001322832298136645
+4732,Bangladesh,2008,0.00014444720496894402
+4733,China,2008,0.00144447204968944
+4734,China Hong Kong SAR,2008,0.0
+4735,India,2008,0.0005986956521739127
+4736,Indonesia,2008,9.503105590062109e-07
+4737,Japan,2008,0.024650782751425147
+4738,Malaysia,2008,0.0
+4739,New Zealand,2008,3.283908526256351e-05
+4740,Pakistan,2008,1.5052919254658378e-05
+4741,Philippines,2008,1.2392049689440987e-05
+4742,Singapore,2008,2.822422360248446e-06
+4743,South Korea,2008,0.0030079219396428577
+4744,Sri Lanka,2008,6.058355254658382e-05
+4745,Taiwan,2008,4.3423766273291904e-05
+4746,Thailand,2008,0.00036948074534161475
+4747,Vietnam,2008,0.0
+4748,Other Asia Pacific,2008,0.0002459785761792909
+4749,Total Asia Pacific,2008,0.03195267532350365
+4750,,2008,
+4751,Total World,2008,0.1201542193976396
+4752,,2009,
+4753,Canada,2009,0.0010322777777777771
+4754,Mexico,2009,0.00025499999999999986
+4755,US,2009,0.019606292612308347
+4756,Total North America,2009,0.020893570390086123
+4757,,2009,
+4758,Argentina,2009,7.185711111111105e-07
+4759,Brazil,2009,0.0
+4760,Chile,2009,0.0
+4761,Colombia,2009,0.0
+4762,Ecuador,2009,7.440899999999996e-08
+4763,Peru,2009,0.0
+4764,Trinidad & Tobago,2009,3.338611111111109e-05
+4765,Venezuela,2009,0.0
+4766,Central America,2009,1.0235678958304129e-05
+4767,Other Caribbean,2009,0.000185573793543235
+4768,Other South America,2009,4.486111111111109e-06
+4769,Total S. & Cent. America,2009,0.00023447467483487245
+4770,,2009,
+4771,Austria,2009,0.00046196819999999974
+4772,Belgium,2009,0.0015677777777777769
+4773,Bulgaria,2009,2.833333333333332e-05
+4774,Croatia,2009,1.5549333333333324e-07
+4775,Cyprus,2009,3.777777777777776e-05
+4776,Czech Republic,2009,0.0008387327777777774
+4777,Denmark,2009,3.541666666666665e-05
+4778,Estonia,2009,9.44444444444444e-07
+4779,Finland,2009,4.061111111111109e-05
+4780,France,2009,0.0016433333333333326
+4781,Germany,2009,0.062172777777777744
+4782,Greece,2009,0.0004722222222222219
+4783,Hungary,2009,9.44444444444444e-06
+4784,Iceland,2009,0.0
+4785,Ireland,2009,4.0066723352275175e-06
+4786,Italy,2009,0.006393888888888886
+4787,Latvia,2009,0.0
+4788,Lithuania,2009,0.0
+4789,Luxembourg,2009,0.00019187333333333325
+4790,Netherlands,2009,0.0004197488888888886
+4791,North Macedonia,2009,0.0
+4792,Norway,2009,7.272222222222219e-05
+4793,Poland,2009,0.0
+4794,Portugal,2009,0.0015111111111111102
+4795,Romania,2009,9.539842873176202e-06
+4796,Slovakia,2009,0.0
+4797,Slovenia,2009,3.777777777777776e-05
+4798,Spain,2009,0.05729882747068675
+4799,Sweden,2009,6.611111111111107e-05
+4800,Switzerland,2009,0.0005099999999999997
+4801,Turkey,2009,0.0
+4802,Ukraine,2009,0.0
+4803,United Kingdom,2009,0.00018889083814120237
+4804,Other Europe,2009,2.944873176206508e-05
+4805,Total Europe,2009,0.13404344224913167
+4806,,2009,
+4807,Azerbaijan,2009,0.0
+4808,Belarus,2009,0.0
+4809,Kazakhstan,2009,0.0
+4810,Russian Federation,2009,0.0
+4811,Turkmenistan,2009,0.0
+4812,USSR,2009,
+4813,Uzbekistan,2009,0.0
+4814,Other CIS,2009,6.965277777777773e-08
+4815,Total CIS,2009,6.965277777777773e-08
+4816,,2009,
+4817,Iran,2009,2.8333333333333313e-06
+4818,Iraq,2009,0.0
+4819,Israel,2009,0.00022666666666666655
+4820,Kuwait,2009,0.0
+4821,Oman,2009,0.0
+4822,Qatar,2009,0.0
+4823,Saudi Arabia,2009,5.751666666666663e-06
+4824,United Arab Emirates,2009,6.000999999999997e-05
+4825,Other Middle East,2009,2.8333333333333315e-05
+4826,Total Middle East,2009,0.0003235949999999998
+4827,,2009,
+4828,Algeria,2009,0.0
+4829,Egypt,2009,2.0777777777777768e-05
+4830,Morocco,2009,9.539842873176204e-07
+4831,South Africa,2009,0.00022005555555555545
+4832,Eastern Africa,2009,0.00029824532802923896
+4833,Middle Africa,2009,9.716444429920774e-05
+4834,Western Africa,2009,0.00015486055628624216
+4835,Other Northern Africa,2009,6.694222222222219e-05
+4836,Other Southern Africa,2009,6.799999999999993e-05
+4837,Total Africa,2009,0.0009269998684575619
+4838,,2009,
+4839,Australia,2009,0.0027411747285537922
+4840,Bangladesh,2009,0.00023705555555555543
+4841,China,2009,0.0026349999999999985
+4842,China Hong Kong SAR,2009,0.0
+4843,India,2009,0.000708333333333333
+4844,Indonesia,2009,9.44444444444444e-07
+4845,Japan,2009,0.028763173675799066
+4846,Malaysia,2009,0.0
+4847,New Zealand,2009,3.390425813692479e-05
+4848,Pakistan,2009,5.031999999999998e-05
+4849,Philippines,2009,1.1824444444444437e-05
+4850,Singapore,2009,1.5073333333333327e-05
+4851,South Korea,2009,0.005593418421824633
+4852,Sri Lanka,2009,6.410703777777773e-05
+4853,Taiwan,2009,8.698959499999994e-05
+4854,Thailand,2009,0.00041933333333333314
+4855,Vietnam,2009,0.0
+4856,Other Asia Pacific,2009,0.0002757779698154444
+4857,Total Asia Pacific,2009,0.04163643013135206
+4858,,2009,
+4859,Total World,2009,0.1980585819666402
+4860,,2010,
+4861,Canada,2010,0.0023860490797545995
+4862,Mexico,2010,0.0002909815950920244
+4863,US,2010,0.028281875607897723
+4864,Total North America,2010,0.030958906282744347
+4865,,2010,
+4866,Argentina,2010,8.062067484662571e-07
+4867,Brazil,2010,0.0
+4868,Chile,2010,0.0
+4869,Colombia,2010,0.0
+4870,Ecuador,2010,0.0
+4871,Peru,2010,0.0
+4872,Trinidad & Tobago,2010,3.7583558282208565e-05
+4873,Venezuela,2010,2.3090797546012255e-05
+4874,Central America,2010,1.1205398853571131e-05
+4875,Other Caribbean,2010,0.0004300514557646866
+4876,Other South America,2010,8.696912709292588e-05
+4877,Total S. & Cent. America,2010,0.0005897065442878706
+4878,,2010,
+4879,Austria,2010,0.0008336448110429444
+4880,Belgium,2010,0.0052564417177914085
+4881,Bulgaria,2010,0.00014079754601226986
+4882,Croatia,2010,1.545393865030674e-07
+4883,Cyprus,2010,6.570552147239259e-05
+4884,Czech Republic,2010,0.005779288711656438
+4885,Denmark,2010,5.7831288343558234e-05
+4886,Estonia,2010,9.386503067484658e-07
+4887,Finland,2010,4.4116564417177894e-05
+4888,France,2010,0.005819631901840488
+4889,Germany,2010,0.11009429447852752
+4890,Greece,2010,0.0014830674846625757
+4891,Hungary,2010,9.386503067484657e-06
+4892,Iceland,2010,0.0
+4893,Ireland,2010,4.4689755108722875e-06
+4894,Italy,2010,0.01788785889570551
+4895,Latvia,2010,0.0
+4896,Lithuania,2010,0.0
+4897,Luxembourg,2010,0.00019850576687116553
+4898,Netherlands,2010,0.0005579712883435578
+4899,North Macedonia,2010,2.44049079754601e-07
+4900,Norway,2010,7.603067484662573e-05
+4901,Poland,2010,0.0
+4902,Portugal,2010,0.0020180981595092013
+4903,Romania,2010,1.8962632459564964e-05
+4904,Slovakia,2010,0.00015957055214723916
+4905,Slovenia,2010,0.00012202453987730055
+4906,Spain,2010,0.06631028112957421
+4907,Sweden,2010,8.447852760736192e-05
+4908,Switzerland,2010,0.0008823312883435578
+4909,Turkey,2010,2.2527607361963176e-05
+4910,Ukraine,2010,0.0
+4911,United Kingdom,2010,0.0003780611215643773
+4912,Other Europe,2010,5.5598604294478496e-05
+4913,Total Europe,2010,0.21836231353162436
+4914,,2010,
+4915,Azerbaijan,2010,0.0
+4916,Belarus,2010,0.0
+4917,Kazakhstan,2010,0.0
+4918,Russian Federation,2010,0.0
+4919,Turkmenistan,2010,1.4971472392638027e-06
+4920,USSR,2010,
+4921,Uzbekistan,2010,0.0
+4922,Other CIS,2010,7.567868098159504e-07
+4923,Total CIS,2010,2.253934049079753e-06
+4924,,2010,
+4925,Iran,2010,6.57055214723926e-06
+4926,Iraq,2010,0.0
+4927,Israel,2010,0.0006570552147239261
+4928,Kuwait,2010,0.0
+4929,Oman,2010,0.0
+4930,Qatar,2010,0.0
+4931,Saudi Arabia,2010,3.838141104294476e-05
+4932,United Arab Emirates,2010,0.00017293693251533733
+4933,Other Middle East,2010,4.2600644171779116e-05
+4934,Total Middle East,2010,0.0009175447546012265
+4935,,2010,
+4936,Algeria,2010,8.541717791411039e-05
+4937,Egypt,2010,0.00023653987730061336
+4938,Morocco,2010,9.481316229782483e-07
+4939,South Africa,2010,0.00025906748466257654
+4940,Eastern Africa,2010,0.000889520081697151
+4941,Middle Africa,2010,0.00012689613905194955
+4942,Western Africa,2010,0.00024902392615412856
+4943,Other Northern Africa,2010,7.889238496932511e-05
+4944,Other Southern Africa,2010,8.072392638036804e-05
+4945,Total Africa,2010,0.002007029129753201
+4946,,2010,
+4947,Australia,2010,0.009176698577459935
+4948,Bangladesh,2010,0.00041582208588957024
+4949,China,2010,0.0065799386503067455
+4950,China Hong Kong SAR,2010,3.2852760736196305e-06
+4951,India,2010,0.0010606748466257662
+4952,Indonesia,2010,4.880981595092022e-06
+4953,Japan,2010,0.03737122384969322
+4954,Malaysia,2010,0.0
+4955,New Zealand,2010,3.593646402677076e-05
+4956,Pakistan,2010,0.00012604196319018396
+4957,Philippines,2010,1.177067484662576e-05
+4958,Singapore,2010,2.8966748466257647e-05
+4959,South Korea,2010,0.007619360488216108
+4960,Sri Lanka,2010,6.754035754601223e-05
+4961,Taiwan,2010,0.0002401744720858894
+4962,Thailand,2010,0.0005474208588957053
+4963,Vietnam,2010,5.5342822085889536e-05
+4964,Other Asia Pacific,2010,0.00028104912815097915
+4965,Total Asia Pacific,2010,0.06362612824515436
+4966,,2010,
+4967,Total World,2010,0.3164638824222145
+4968,,2011,
+4969,Canada,2011,0.005332609756097556
+4970,Mexico,2011,0.0003824999999999997
+4971,US,2011,0.04421050802313595
+4972,Total North America,2011,0.0499256177792335
+4973,,2011,
+4974,Argentina,2011,1.5057439024390233e-05
+4975,Brazil,2011,0.0
+4976,Chile,2011,0.0
+4977,Colombia,2011,0.0
+4978,Ecuador,2011,5.422170731707313e-07
+4979,Peru,2011,0.0
+4980,Trinidad & Tobago,2011,3.735439024390241e-05
+4981,Venezuela,2011,2.7801219512195103e-05
+4982,Central America,2011,1.559439076883036e-05
+4983,Other Caribbean,2011,0.0008031192413230147
+4984,Other South America,2011,0.0003273992682348517
+4985,Total S. & Cent. America,2011,0.0012268681661803552
+4986,,2011,
+4987,Austria,2011,0.0016239453585365847
+4988,Belgium,2011,0.010905914634146335
+4989,Bulgaria,2011,0.0009422560975609751
+4990,Croatia,2011,1.535970731707316e-07
+4991,Cyprus,2011,0.00011195121951219505
+4992,Czech Republic,2011,0.019759390243902424
+4993,Denmark,2011,0.00014115701219512186
+4994,Estonia,2011,1.8658536585365844e-06
+4995,Finland,2011,4.9445121951219487e-05
+4996,France,2011,0.01938621951219511
+4997,Germany,2011,0.18284432926829253
+4998,Greece,2011,0.005690853658536581
+4999,Hungary,2011,9.32926829268292e-06
+5000,Iceland,2011,0.0
+5001,Ireland,2011,5.057218311081363e-06
+5002,Italy,2011,0.10071598170731699
+5003,Latvia,2011,1.8658536585365844e-06
+5004,Lithuania,2011,9.329268292682922e-07
+5005,Luxembourg,2011,0.00024017268292682908
+5006,Netherlands,2011,0.0009361360975609752
+5007,North Macedonia,2011,1.0943231707317065e-05
+5008,Norway,2011,7.929878048780484e-05
+5009,Poland,2011,1.8658536585365844e-06
+5010,Portugal,2011,0.0026308536585365836
+5011,Romania,2011,9.32926829268292e-06
+5012,Slovakia,2011,0.0037037195121951195
+5013,Slovenia,2011,0.0006157317073170729
+5014,Spain,2011,0.08097372264580248
+5015,Sweden,2011,0.00012128048780487797
+5016,Switzerland,2011,0.0015673170731707307
+5017,Turkey,2011,2.669606003752343e-05
+5018,Ukraine,2011,0.00028081097560975595
+5019,United Kingdom,2011,0.002273201508582279
+5020,Other Europe,2011,0.00014150634146341455
+5021,Total Europe,2011,0.43580323443712327
+5022,,2011,
+5023,Azerbaijan,2011,0.0
+5024,Belarus,2011,0.0
+5025,Kazakhstan,2011,0.0
+5026,Russian Federation,2011,1.1195121951219504e-05
+5027,Turkmenistan,2011,4.261143292682924e-06
+5028,USSR,2011,
+5029,Uzbekistan,2011,0.0
+5030,Other CIS,2011,1.548658536585365e-06
+5031,Total CIS,2011,1.7004923780487793e-05
+5032,,2011,
+5033,Iran,2011,6.530487804878044e-06
+5034,Iraq,2011,0.0
+5035,Israel,2011,0.0017912195121951209
+5036,Kuwait,2011,0.0
+5037,Oman,2011,0.0
+5038,Qatar,2011,1.0206219512195117e-05
+5039,Saudi Arabia,2011,4.62638414634146e-05
+5040,United Arab Emirates,2011,0.00019307853658536572
+5041,Other Middle East,2011,6.328042682926826e-05
+5042,Total Middle East,2011,0.0021105790243902424
+5043,,2011,
+5044,Algeria,2011,0.00016903467987804864
+5045,Egypt,2011,0.0008732195121951214
+5046,Morocco,2011,9.423503325942346e-07
+5047,South Africa,2011,0.0007491402439024385
+5048,Eastern Africa,2011,0.0016286923784460915
+5049,Middle Africa,2011,0.00015480987814953288
+5050,Western Africa,2011,0.0004046196943098836
+5051,Other Northern Africa,2011,0.00010655657012195114
+5052,Other Southern Africa,2011,0.00013714024390243894
+5053,Total Africa,2011,0.0042241555512381
+5054,,2011,
+5055,Australia,2011,0.01907412348933635
+5056,Bangladesh,2011,0.0005448292682926826
+5057,China,2011,0.024349390243902425
+5058,China Hong Kong SAR,2011,6.4465243902438995e-06
+5059,India,2011,0.007715304878048776
+5060,Indonesia,2011,7.18353658536585e-06
+5061,Japan,2011,0.05074328963414631
+5062,Malaysia,2011,0.0
+5063,New Zealand,2011,3.850066518847004e-05
+5064,Pakistan,2011,0.0002503042682926827
+5065,Philippines,2011,1.13070731707317e-05
+5066,Singapore,2011,4.56667682926829e-05
+5067,South Korea,2011,0.009359341095797166
+5068,Sri Lanka,2011,8.129662463414629e-05
+5069,Taiwan,2011,0.0006555333885365851
+5070,Thailand,2011,0.000881056097560975
+5071,Vietnam,2011,5.50053658536585e-05
+5072,Other Asia Pacific,2011,0.0004294600498047233
+5073,Total Asia Pacific,2011,0.11424803897183398
+5074,,2011,
+5075,Total World,2011,0.6075554988537797
+5076,,2012,
+5077,Canada,2012,0.008169272727272721
+5078,Mexico,2012,0.0006398181818181814
+5079,US,2012,0.08379776391501281
+5080,Total North America,2012,0.09260685482410372
+5081,,2012,
+5082,Argentina,2012,7.578569214545447e-05
+5083,Brazil,2012,9.08727272727272e-06
+5084,Chile,2012,3.156343636363635e-06
+5085,Colombia,2012,0.0
+5086,Ecuador,2012,3.0197563636363615e-06
+5087,Peru,2012,0.0005535818181818177
+5088,Trinidad & Tobago,2012,3.7127999999999974e-05
+5089,Venezuela,2012,4.8403636363636323e-05
+5090,Central America,2012,3.598642978507948e-05
+5091,Other Caribbean,2012,0.0018943826096485025
+5092,Other South America,2012,0.0005000994946012535
+5093,Total S. & Cent. America,2012,0.003160631053453018
+5094,,2012,
+5095,Austria,2012,0.00312938828181818
+5096,Belgium,2012,0.01991781818181817
+5097,Bulgaria,2012,0.007547999999999995
+5098,Croatia,2012,1.8545454545454532e-05
+5099,Cyprus,2012,0.0002039999999999998
+5100,Czech Republic,2012,0.020150563636363618
+5101,Denmark,2012,0.0009630757575757568
+5102,Estonia,2012,2.7818181818181796e-06
+5103,Finland,2012,5.2854545454545415e-05
+5104,France,2012,0.0372392727272727
+5105,Germany,2012,0.24461454545454525
+5106,Greece,2012,0.01570799999999999
+5107,Hungary,2012,7.418181818181813e-05
+5108,Iceland,2012,0.0
+5109,Ireland,2012,5.989521331595936e-06
+5110,Italy,2012,0.1748993999999999
+5111,Latvia,2012,1.8545454545454533e-06
+5112,Lithuania,2012,2.132727272727271e-05
+5113,Luxembourg,2012,0.0003549321818181815
+5114,Netherlands,2012,0.0023529823636363623
+5115,North Macedonia,2012,2.6297454545454528e-05
+5116,Norway,2012,8.252727272727265e-05
+5117,Poland,2012,1.0199999999999994e-05
+5118,Portugal,2012,0.0036441818181818155
+5119,Romania,2012,7.418181818181813e-05
+5120,Slovakia,2012,0.00393163636363636
+5121,Slovenia,2012,0.0015114545454545446
+5122,Spain,2012,0.11095661493378506
+5123,Sweden,2012,0.00017618181818181803
+5124,Switzerland,2012,0.0027725454545454525
+5125,Turkey,2012,3.948129897499758e-05
+5126,Ukraine,2012,0.003090599999999998
+5127,United Kingdom,2012,0.012553080530755333
+5128,Other Europe,2012,0.0003018388318804481
+5129,Total Europe,2012,0.6664303357015754
+5130,,2012,
+5131,Azerbaijan,2012,0.0
+5132,Belarus,2012,0.0
+5133,Kazakhstan,2012,1.947272727272726e-07
+5134,Russian Federation,2012,3.905215442092152e-05
+5135,Turkmenistan,2012,9.100546699875462e-06
+5136,USSR,2012,
+5137,Uzbekistan,2012,0.0
+5138,Other CIS,2012,1.0420881444582808e-05
+5139,Total CIS,2012,5.8768309838107066e-05
+5140,,2012,
+5141,Iran,2012,6.490909090909086e-06
+5142,Iraq,2012,0.0
+5143,Israel,2012,0.0034216363636363615
+5144,Kuwait,2012,0.0
+5145,Oman,2012,0.0
+5146,Qatar,2012,1.014436363636363e-05
+5147,Saudi Arabia,2012,0.00021862309090909076
+5148,United Arab Emirates,2012,0.00022478945454545434
+5149,Other Middle East,2012,9.4893407222914e-05
+5150,Total Middle East,2012,0.003976577589041093
+5151,,2012,
+5152,Algeria,2012,0.000247795217932752
+5153,Egypt,2012,0.0005387454545454541
+5154,Morocco,2012,9.391680440771344e-07
+5155,South Africa,2012,0.000797454545454545
+5156,Eastern Africa,2012,0.00226773691686958
+5157,Middle Africa,2012,0.00018603872769947877
+5158,Western Africa,2012,0.0007293834516520822
+5159,Other Northern Africa,2012,0.00014869713698630125
+5160,Other Southern Africa,2012,0.00019379999999999983
+5161,Total Africa,2012,0.005110590619184271
+5162,,2012,
+5163,Australia,2012,0.022365818181818164
+5164,Bangladesh,2012,0.0008428909090909085
+5165,China,2012,0.03333090998181816
+5166,China Hong Kong SAR,2012,7.918909090909086e-06
+5167,India,2012,0.01946345454545453
+5168,Indonesia,2012,2.7910909090909073e-05
+5169,Japan,2012,0.06835764380884178
+5170,Malaysia,2012,6.490909090909085e-05
+5171,New Zealand,2012,4.4721895316804386e-05
+5172,Pakistan,2012,0.0006102845454545449
+5173,Philippines,2012,1.223999999999999e-05
+5174,Singapore,2012,7.597145454545449e-05
+5175,South Korea,2012,0.010967287487889704
+5176,Sri Lanka,2012,9.279978545454539e-05
+5177,Taiwan,2012,0.0016049031714545443
+5178,Thailand,2012,0.004622222727272724
+5179,Vietnam,2012,5.467199999999996e-05
+5180,Other Asia Pacific,2012,0.0008785211113583457
+5181,Total Asia Pacific,2012,0.16342508051486113
+5182,,2012,
+5183,Total World,2012,0.9347688386120561
+5184,,2013,
+5185,Canada,2013,0.013814240963855409
+5186,Mexico,2013,0.000976987951807228
+5187,US,2013,0.14783574750189615
+5188,Total North America,2013,0.1626269764175588
+5189,,2013,
+5190,Argentina,2013,0.0001389357883734938
+5191,Brazil,2013,4.418190798636141e-05
+5192,Chile,2013,6.227431807228912e-05
+5193,Colombia,2013,0.0
+5194,Ecuador,2013,3.3766977231325275e-05
+5195,Peru,2013,0.0018148012048192757
+5196,Trinidad & Tobago,2013,3.690433734939755e-05
+5197,Venezuela,2013,4.928551278283864e-05
+5198,Central America,2013,4.677983042161505e-05
+5199,Other Caribbean,2013,0.002324523462884779
+5200,Other South America,2013,0.0004310253632618017
+5201,Total S. & Cent. America,2013,0.004982478703183179
+5202,,2013,
+5203,Austria,2013,0.005769519397590358
+5204,Belgium,2013,0.024369397590361427
+5205,Bulgaria,2013,0.012544156626506016
+5206,Croatia,2013,0.00010409492331325292
+5207,Cyprus,2013,0.00043319277108433695
+5208,Czech Republic,2013,0.019080759036144562
+5209,Denmark,2013,0.004770112951807226
+5210,Estonia,2013,1.2903614457831316e-05
+5211,Finland,2013,5.9909638554216826e-05
+5212,France,2013,0.04364186746987948
+5213,Germany,2013,0.28581506024096365
+5214,Greece,2013,0.033623132530120454
+5215,Hungary,2013,0.00023042168674698778
+5216,Iceland,2013,0.0
+5217,Ireland,2013,6.446858957337944e-06
+5218,Italy,2013,0.19897926506024077
+5219,Latvia,2013,1.8433734939759023e-06
+5220,Lithuania,2013,0.0004129156626506021
+5221,Luxembourg,2013,0.0006796333734939753
+5222,Netherlands,2013,0.00475498192771084
+5223,North Macedonia,2013,8.342186746987944e-05
+5224,Norway,2013,9.032530120481922e-05
+5225,Poland,2013,1.3825301204819267e-05
+5226,Portugal,2013,0.0044161688195783096
+5227,Romania,2013,0.0038710843373493944
+5228,Slovakia,2013,0.005419518072289152
+5229,Slovenia,2013,0.001981626506024095
+5230,Spain,2013,0.12084132753547577
+5231,Sweden,2013,0.0003225903614457829
+5232,Switzerland,2013,0.004608433734939756
+5233,Turkey,2013,6.253290083410561e-05
+5234,Ukraine,2013,0.005253614457831321
+5235,United Kingdom,2013,0.01852831918834857
+5236,Other Europe,2013,0.00048704692771084297
+5237,Total Europe,2013,0.8012694500457839
+5238,,2013,
+5239,Azerbaijan,2013,7.373493975903609e-06
+5240,Belarus,2013,3.6867469879518047e-06
+5241,Kazakhstan,2013,7.257361445783127e-06
+5242,Russian Federation,2013,9.954216867469872e-05
+5243,Turkmenistan,2013,1.7039683734939747e-05
+5244,USSR,2013,
+5245,Uzbekistan,2013,0.0
+5246,Other CIS,2013,3.878227409638551e-05
+5247,Total CIS,2013,0.00017368172891566252
+5248,,2013,
+5249,Iran,2013,6.451807228915658e-06
+5250,Iraq,2013,0.0004267409638554213
+5251,Israel,2013,0.004554054216867467
+5252,Kuwait,2013,1.6774698795180711e-06
+5253,Oman,2013,1.1060240963855412e-05
+5254,Qatar,2013,3.4572469879518046e-05
+5255,Saudi Arabia,2013,0.0003600384939759034
+5256,United Arab Emirates,2013,0.0007873324698795173
+5257,Other Middle East,2013,0.00015889879518072276
+5258,Total Middle East,2013,0.006340826927710839
+5259,,2013,
+5260,Algeria,2013,0.000263602409638554
+5261,Egypt,2013,0.0005447168674698789
+5262,Morocco,2013,9.309967141292437e-07
+5263,South Africa,2013,0.0022396987951807212
+5264,Eastern Africa,2013,0.002815461586146232
+5265,Middle Africa,2013,0.00021702036152818814
+5266,Western Africa,2013,0.0010681980617088752
+5267,Other Northern Africa,2013,0.0001966395632530119
+5268,Other Southern Africa,2013,0.00025163891575494425
+5269,Total Africa,2013,0.007597907557394534
+5270,,2013,
+5271,Australia,2013,0.03546097590361443
+5272,Bangladesh,2013,0.0011941649999999988
+5273,China,2013,0.07718100207831319
+5274,China Hong Kong SAR,2013,1.0249156626506018e-05
+5275,India,2013,0.031641506024096364
+5276,Indonesia,2013,5.06927710843373e-05
+5277,Japan,2013,0.1189785284093909
+5278,Malaysia,2013,0.0012995783132530112
+5279,New Zealand,2013,6.372777822562975e-05
+5280,Pakistan,2013,0.0013340033132530108
+5281,Philippines,2013,1.3032650602409628e-05
+5282,Singapore,2013,0.00011572698795180714
+5283,South Korea,2013,0.01597130075092904
+5284,Sri Lanka,2013,0.00013256731084337336
+5285,Taiwan,2013,0.0031139572565060227
+5286,Thailand,2013,0.011589980421686737
+5287,Vietnam,2013,5.43426506024096e-05
+5288,Other Asia Pacific,2013,0.001010088313670944
+5289,Total Asia Pacific,2013,0.2992154250906501
+5290,,2013,
+5291,Total World,2013,1.2822067464711973
+5292,,2014,
+5293,Canada,2014,0.019420922155688608
+5294,Mexico,2014,0.002024730538922154
+5295,US,2014,0.267669025585193
+5296,Total North America,2014,0.28911467827980375
+5297,,2014,
+5298,Argentina,2014,0.0001460737724550897
+5299,Brazil,2014,0.0001473362670425388
+5300,Chile,2014,0.0042025800330538895
+5301,Colombia,2014,0.0
+5302,Ecuador,2014,0.00015100912726167653
+5303,Peru,2014,0.001825922155688621
+5304,Trinidad & Tobago,2014,4.1117604790419134e-05
+5305,Venezuela,2014,6.182120636775225e-05
+5306,Central America,2014,0.00014452427673767912
+5307,Other Caribbean,2014,0.0030705983117380975
+5308,Other South America,2014,0.0006545267653791872
+5309,Total S. & Cent. America,2014,0.010445509520514953
+5310,,2014,
+5311,Austria,2014,0.007194169940119756
+5312,Belgium,2014,0.02644243113772453
+5313,Bulgaria,2014,0.011470419161676636
+5314,Croatia,2014,0.00032065868263473035
+5315,Cyprus,2014,0.00076591616766467
+5316,Czech Republic,2014,0.019449323353293396
+5317,Denmark,2014,0.005455931137724547
+5318,Estonia,2014,2.84011976047904e-05
+5319,Finland,2014,7.329341317365263e-05
+5320,France,2014,0.054172994011976
+5321,Germany,2014,0.3303334131736524
+5322,Greece,2014,0.03474107784431136
+5323,Hungary,2014,0.0006138323353293408
+5324,Iceland,2014,0.0
+5325,Ireland,2014,8.668913918748974e-06
+5326,Italy,2014,0.20436402395209566
+5327,Latvia,2014,1.832335329341316e-06
+5328,Lithuania,2014,0.0006688023952095803
+5329,Luxembourg,2014,0.000867986407185628
+5330,Netherlands,2014,0.007189735688622748
+5331,North Macedonia,2014,0.00013176323353293403
+5332,Norway,2014,0.00010627544910179631
+5333,Poland,2014,6.413173652694605e-05
+5334,Portugal,2014,0.005747271981736521
+5335,Romania,2014,0.011867119760479031
+5336,Slovakia,2014,0.005469520958083828
+5337,Slovenia,2014,0.002354550898203591
+5338,Spain,2014,0.1252678504556808
+5339,Sweden,2014,0.0004305988023952092
+5340,Switzerland,2014,0.007714131736526939
+5341,Turkey,2014,0.00015941317365269448
+5342,Ukraine,2014,0.003930359281437122
+5343,United Kingdom,2014,0.03714200922988671
+5344,Other Europe,2014,0.0009527616916167656
+5345,Total Europe,2014,0.9055006696381085
+5346,,2014,
+5347,Azerbaijan,2014,2.656886227544908e-05
+5348,Belarus,2014,1.8323353293413158e-05
+5349,Kazakhstan,2014,1.135131736526945e-05
+5350,Russian Federation,2014,0.0014658682634730526
+5351,Turkmenistan,2014,2.8561526946107757e-05
+5352,USSR,2014,
+5353,Uzbekistan,2014,0.0
+5354,Other CIS,2014,7.439968562874245e-05
+5355,Total CIS,2014,0.0016250730089820344
+5356,,2014,
+5357,Iran,2014,6.4131736526946055e-06
+5358,Iraq,2014,0.000524964071856287
+5359,Israel,2014,0.007699473053892209
+5360,Kuwait,2014,3.0031976047904166e-05
+5361,Oman,2014,1.0994011976047893e-05
+5362,Qatar,2014,5.9605868263473004e-05
+5363,Saudi Arabia,2014,0.00038657694610778415
+5364,United Arab Emirates,2014,0.0028257450898203575
+5365,Other Middle East,2014,0.00039626541916167637
+5366,Total Middle East,2014,0.011940069610778434
+5367,,2014,
+5368,Algeria,2014,0.0005497005988023948
+5369,Egypt,2014,0.0003802095808383231
+5370,Morocco,2014,9.254218835057151e-07
+5371,South Africa,2014,0.01028856287425149
+5372,Eastern Africa,2014,0.003516000532384776
+5373,Middle Africa,2014,0.00026009083861277464
+5374,Western Africa,2014,0.0011878004107350622
+5375,Other Northern Africa,2014,0.00029532435628742493
+5376,Other Southern Africa,2014,0.0002992386828575303
+5377,Total Africa,2014,0.016777853296653277
+5378,,2014,
+5379,Australia,2014,0.04536862275449098
+5380,Bangladesh,2014,0.0015295144311377237
+5381,China,2014,0.21541080718562858
+5382,China Hong Kong SAR,2014,1.0096167664670651e-05
+5383,India,2014,0.04497467065868259
+5384,Indonesia,2014,6.23910179640718e-05
+5385,Japan,2014,0.21574068480538908
+5386,Malaysia,2014,0.0020797005988023934
+5387,New Zealand,2014,0.00016925060224278705
+5388,Pakistan,2014,0.002180039281437124
+5389,Philippines,2014,0.00015132341317365255
+5390,Singapore,2014,0.00024858377245508967
+5391,South Korea,2014,0.02499881739188969
+5392,Sri Lanka,2014,0.0002572967101796406
+5393,Taiwan,2014,0.005054581137664664
+5394,Thailand,2014,0.017713872754491003
+5395,Vietnam,2014,6.109922155688617e-05
+5396,Other Asia Pacific,2014,0.001299736761923025
+5397,Total Asia Pacific,2014,0.5773110886667738
+5398,,2014,
+5399,Total World,2014,1.8127149420216124
+5400,,2015,
+5401,Canada,2015,0.026365178571428546
+5402,Mexico,2015,0.0022403571428571407
+5403,US,2015,0.3590606060606058
+5404,Total North America,2015,0.3876661417748915
+5405,,2015,
+5406,Argentina,2015,0.00013372017857142846
+5407,Brazil,2015,0.0005365692849078528
+5408,Chile,2015,0.012386627544626775
+5409,Colombia,2015,0.0
+5410,Ecuador,2015,0.000328384694024464
+5411,Peru,2015,0.0020969683023214264
+5412,Trinidad & Tobago,2015,4.691089285714282e-05
+5413,Venezuela,2015,8.000513937282223e-05
+5414,Central America,2015,0.0054623183872377565
+5415,Other Caribbean,2015,0.003984771727172723
+5416,Other South America,2015,0.0011856190336030615
+5417,Total S. & Cent. America,2015,0.026241895184695458
+5418,,2015,
+5419,Austria,2015,0.008534285357142849
+5420,Belgium,2015,0.027833249999999976
+5421,Bulgaria,2015,0.012595178571428561
+5422,Croatia,2015,0.0005191071428571424
+5423,Cyprus,2015,0.0011535016071428563
+5424,Czech Republic,2015,0.020616749999999986
+5425,Denmark,2015,0.005503092261904757
+5426,Estonia,2015,5.373214285714281e-05
+5427,Finland,2015,0.0001029107142857142
+5428,France,2015,0.06613607142857136
+5429,Germany,2015,0.352683214285714
+5430,Greece,2015,0.03551785714285711
+5431,Hungary,2015,0.0012841071428571417
+5432,Iceland,2015,0.0
+5433,Ireland,2015,1.4722802184031599e-05
+5434,Italy,2015,0.20893789285714265
+5435,Latvia,2015,1.82142857142857e-06
+5436,Lithuania,2015,0.0006675535714285708
+5437,Luxembourg,2015,0.0009446019642857134
+5438,Netherlands,2015,0.01021374267857142
+5439,North Macedonia,2015,0.0002058214285714284
+5440,Norway,2015,0.00012203571428571417
+5441,Poland,2015,0.0005191071428571424
+5442,Portugal,2015,0.007250696556428565
+5443,Romania,2015,0.01805035714285713
+5444,Slovakia,2015,0.0046082142857142815
+5445,Slovenia,2015,0.002495357142857141
+5446,Spain,2015,0.1262106989826861
+5447,Sweden,2015,0.0008833928571428564
+5448,Switzerland,2015,0.010190892857142848
+5449,Turkey,2015,0.0017678785714285701
+5450,Ukraine,2015,0.004339553571428568
+5451,United Kingdom,2015,0.06860286963703534
+5452,Other Europe,2015,0.002164043839285712
+5453,Total Europe,2015,1.0007243128295236
+5454,,2015,
+5455,Azerbaijan,2015,4.189285714285711e-05
+5456,Belarus,2015,8.196428571428566e-05
+5457,Kazakhstan,2015,0.0004204858928571425
+5458,Russian Federation,2015,0.0030563571428571406
+5459,Turkmenistan,2015,4.7539285714285666e-05
+5460,USSR,2015,
+5461,Uzbekistan,2015,0.0
+5462,Other CIS,2015,9.515825892857135e-05
+5463,Total CIS,2015,0.003743397723214283
+5464,,2015,
+5465,Iran,2015,1.3660714285714274e-05
+5466,Iraq,2015,0.0005218848214285709
+5467,Israel,2015,0.010566107142857134
+5468,Kuwait,2015,4.6355357142857096e-05
+5469,Oman,2015,3.3696428571428546e-05
+5470,Qatar,2015,5.925107142857138e-05
+5471,Saudi Arabia,2015,0.0011765973214285705
+5472,United Arab Emirates,2015,0.0028160651785714254
+5473,Other Middle East,2015,0.0018113651785714269
+5474,Total Middle East,2015,0.017044983214285696
+5475,,2015,
+5476,Algeria,2015,0.0005282142857142852
+5477,Egypt,2015,0.0005956071428571424
+5478,Morocco,2015,5.191071428571423e-05
+5479,South Africa,2015,0.025035535714285694
+5480,Eastern Africa,2015,0.004008366410111841
+5481,Middle Africa,2015,0.0002977944627679669
+5482,Western Africa,2015,0.0014505836504021318
+5483,Other Northern Africa,2015,0.0004274414732142854
+5484,Other Southern Africa,2015,0.0003511896430786164
+5485,Total Africa,2015,0.03274664349671769
+5486,,2015,
+5487,Australia,2015,0.05652331063517772
+5488,Bangladesh,2015,0.0018067569642857123
+5489,China,2015,0.35955519107142825
+5490,China Hong Kong SAR,2015,9.380357142857134e-06
+5491,India,2015,0.059800960714285666
+5492,Indonesia,2015,4.808571428571424e-05
+5493,Japan,2015,0.31456228028347205
+5494,Malaysia,2015,0.002486249999999998
+5495,New Zealand,2015,0.0003304617636363633
+5496,Pakistan,2015,0.003348404999999997
+5497,Philippines,2015,0.0012616489285714274
+5498,Singapore,2015,0.00044381839285714245
+5499,South Korea,2015,0.03856708766708203
+5500,Sri Lanka,2015,0.0004436999999999996
+5501,Taiwan,2015,0.00797344887589285
+5502,Thailand,2015,0.021656785714285698
+5503,Vietnam,2015,6.073553571428565e-05
+5504,Other Asia Pacific,2015,0.0020150854732124772
+5505,Total Asia Pacific,2015,0.8708933930913302
+5506,,2015,
+5507,Total World,2015,2.3390607673146593
+5508,,2016,
+5509,Canada,2016,0.02961968800430336
+5510,Mexico,2016,0.002283919822485199
+5511,US,2016,0.5017331898870355
+5512,Total North America,2016,0.5336367977138241
+5513,,2016,
+5514,Argentina,2016,0.00012921710059171583
+5515,Brazil,2016,0.0007718858291963888
+5516,Chile,2016,0.023088186159763296
+5517,Colombia,2016,0.0
+5518,Ecuador,2016,0.0003508572252770411
+5519,Peru,2016,0.0021892469509910456
+5520,Trinidad & Tobago,2016,4.6633313609467414e-05
+5521,Venezuela,2016,9.085401039746617e-05
+5522,Central America,2016,0.010701064062316325
+5523,Other Caribbean,2016,0.005019816865365776
+5524,Other South America,2016,0.002104077966796209
+5525,Total S. & Cent. America,2016,0.04449183948430474
+5526,,2016,
+5527,Austria,2016,0.009922511715976325
+5528,Belgium,2016,0.02802072781065086
+5529,Bulgaria,2016,0.012547810650887562
+5530,Croatia,2016,0.0005975147928994078
+5531,Cyprus,2016,0.001321204792899407
+5532,Czech Republic,2016,0.01929248520710057
+5533,Denmark,2016,0.006733634615384608
+5534,Estonia,2016,9.143786982248512e-05
+5535,Finland,2016,0.0002000769230769229
+5536,France,2016,0.07387455621301768
+5537,Germany,2016,0.34491088757396415
+5538,Greece,2016,0.03557928994082837
+5539,Hungary,2016,0.0022089940828402344
+5540,Iceland,2016,0.0
+5541,Ireland,2016,4.8368299845701194e-05
+5542,Italy,2016,0.2001158520710057
+5543,Latvia,2016,3.4583431952662683e-06
+5544,Lithuania,2016,0.0006020414201183427
+5545,Luxembourg,2016,0.000907932781065088
+5546,Netherlands,2016,0.014117862248520694
+5547,North Macedonia,2016,0.00021456213017751458
+5548,Norway,2016,0.0002154674556213016
+5549,Poland,2016,0.0011226035502958569
+5550,Portugal,2016,0.007441775147928987
+5551,Romania,2016,0.016476923076923063
+5552,Slovakia,2016,0.004825384615384612
+5553,Slovenia,2016,0.0024172189349112405
+5554,Spain,2016,0.12350178718327798
+5555,Sweden,2016,0.0012946153846153836
+5556,Switzerland,2016,0.012067988165680462
+5557,Turkey,2016,0.009443449704142001
+5558,Ukraine,2016,0.004443337278106504
+5559,United Kingdom,2016,0.09422562176997736
+5560,Other Europe,2016,0.0028532597080334885
+5561,Total Europe,2016,1.0316406414581751
+5562,,2016,
+5563,Azerbaijan,2016,0.00031957988165680443
+5564,Belarus,2016,0.0002353846153846152
+5565,Kazakhstan,2016,0.000800335757396449
+5566,Russian Federation,2016,0.004239639053254434
+5567,Turkmenistan,2016,6.318328280781382e-05
+5568,USSR,2016,
+5569,Uzbekistan,2016,2.7159763313609437e-06
+5570,Other CIS,2016,9.748277741752443e-05
+5571,Total CIS,2016,0.005758321344249002
+5572,,2016,
+5573,Iran,2016,4.5266272189349066e-05
+5574,Iraq,2016,0.0005187967455621296
+5575,Israel,2016,0.013808928994082828
+5576,Kuwait,2016,0.00044192556213017706
+5577,Oman,2016,3.3669053254437846e-05
+5578,Qatar,2016,7.572142011834314e-05
+5579,Saudi Arabia,2016,0.0011696352071005906
+5580,United Arab Emirates,2016,0.0030692524260355
+5581,Other Middle East,2016,0.009548104581340675
+5582,Total Middle East,2016,0.02871130026181403
+5583,,2016,
+5584,Algeria,2016,0.0022180473372781047
+5585,Egypt,2016,0.0009467621893491116
+5586,Morocco,2016,0.003634881656804731
+5587,South Africa,2016,0.029640355029585765
+5588,Eastern Africa,2016,0.004426828452905448
+5589,Middle Africa,2016,0.0003496004719535906
+5590,Western Africa,2016,0.0022893011031063725
+5591,Other Northern Africa,2016,0.0007082901041582226
+5592,Other Southern Africa,2016,0.0005027598924505595
+5593,Total Africa,2016,0.044716826237591906
+5594,,2016,
+5595,Australia,2016,0.06767136143414383
+5596,Bangladesh,2016,0.0019250568639053237
+5597,China,2016,0.6022944585798812
+5598,China Hong Kong SAR,2016,8.863136094674548e-06
+5599,India,2016,0.1046192272189348
+5600,Indonesia,2016,0.00019093313609467439
+5601,Japan,2016,0.39223852178590607
+5602,Malaysia,2016,0.002806508875739643
+5603,New Zealand,2016,0.0005117857977837544
+5604,Pakistan,2016,0.005967525088757391
+5605,Philippines,2016,0.00993156497041419
+5606,Singapore,2016,0.0008011146994082833
+5607,South Korea,2016,0.048961608689505665
+5608,Sri Lanka,2016,0.0007511485207100587
+5609,Taiwan,2016,0.010250369295976324
+5610,Thailand,2016,0.030572840236686365
+5611,Vietnam,2016,6.037615384615378e-05
+5612,Other Asia Pacific,2016,0.0030979633858345406
+5613,Total Asia Pacific,2016,1.282661227869623
+5614,,2016,
+5615,Total World,2016,2.9716169543695834
+5616,,2017,
+5617,Canada,2017,0.03222727272727273
+5618,Mexico,2017,0.01067855499999997
+5619,US,2017,0.7025181818181819
+5620,Total North America,2017,0.7454240095454546
+5621,,2017,
+5622,Argentina,2017,0.00014775299999999998
+5623,Brazil,2017,0.007486320611854701
+5624,Chile,2017,0.035063534831489995
+5625,Colombia,2017,0.0
+5626,Ecuador,2017,0.00033732
+5627,Peru,2017,0.002584803087
+5628,Trinidad & Tobago,2017,4.6359e-05
+5629,Venezuela,2017,9.007280024698978e-05
+5630,Central America,2017,0.013190746416265157
+5631,Other Caribbean,2017,0.0062608068351050995
+5632,Other South America,2017,0.003181840956584911
+5633,Total S. & Cent. America,2017,0.06838955753854686
+5634,,2017,
+5635,Austria,2017,0.011420739
+5636,Belgium,2017,0.029765700000000003
+5637,Bulgaria,2017,0.012626685
+5638,Croatia,2017,0.0007083
+5639,Cyprus,2017,0.0015481800000000001
+5640,Czech Republic,2017,0.019740312
+5641,Denmark,2017,0.006763374999999999
+5642,Estonia,2017,0.00011411563265229825
+5643,Finland,2017,0.00043649999999999993
+5644,France,2017,0.08246484443405029
+5645,Germany,2017,0.354609
+5646,Greece,2017,0.035923293
+5647,Hungary,2017,0.003141
+5648,Iceland,2017,0.0
+5649,Ireland,2017,9.7209e-05
+5650,Italy,2017,0.2193993
+5651,Latvia,2017,3.96e-06
+5652,Lithuania,2017,0.0005985000000000001
+5653,Luxembourg,2017,0.0009761669999999999
+5654,Netherlands,2017,0.019839114
+5655,North Macedonia,2017,0.000213759
+5656,Norway,2017,0.0003667821677084562
+5657,Poland,2017,0.001485
+5658,Portugal,2017,0.008927999999999998
+5659,Romania,2017,0.016704
+5660,Slovakia,2017,0.004553999999999999
+5661,Slovenia,2017,0.002554803
+5662,Spain,2017,0.12888604052999997
+5663,Sweden,2017,0.00207
+5664,Switzerland,2017,0.015147
+5665,Turkey,2017,0.0260037
+5666,Ukraine,2017,0.006495299999999999
+5667,United Kingdom,2017,0.10327908640227662
+5668,Other Europe,2017,0.0034084845
+5669,Total Europe,2017,1.1202722496666877
+5670,,2017,
+5671,Azerbaijan,2017,0.0003348
+5672,Belarus,2017,0.000801
+5673,Kazakhstan,2017,0.0008338095
+5674,Russian Federation,2017,0.004896
+5675,Turkmenistan,2017,6.263999999999998e-05
+5676,USSR,2017,
+5677,Uzbekistan,2017,6.3e-06
+5678,Other CIS,2017,9.129374999999999e-05
+5679,Total CIS,2017,0.00702584325
+5680,,2017,
+5681,Iran,2017,0.000772245
+5682,Iraq,2017,0.000515745
+5683,Israel,2017,0.0135954
+5684,Kuwait,2017,0.0004393259999999999
+5685,Oman,2017,3.347099999999999e-05
+5686,Qatar,2017,7.527600000000002e-05
+5687,Saudi Arabia,2017,0.0013976549999999998
+5688,United Arab Emirates,2017,0.007067438999999999
+5689,Other Middle East,2017,0.015651855
+5690,Total Middle East,2017,0.039548412000000005
+5691,,2017,
+5692,Algeria,2017,0.004535999999999999
+5693,Egypt,2017,0.005417550000000001
+5694,Morocco,2017,0.0037376999999999996
+5695,South Africa,2017,0.038486086550777676
+5696,Eastern Africa,2017,0.00502233778826517
+5697,Middle Africa,2017,0.0004080959986031055
+5698,Western Africa,2017,0.0035234214828934367
+5699,Other Northern Africa,2017,0.00108199575
+5700,Other Southern Africa,2017,0.0006432682985504244
+5701,Total Africa,2017,0.0628564558690898
+5702,,2017,
+5703,Australia,2017,0.0806168941149691
+5704,Bangladesh,2017,0.0024688080000000003
+5705,China,2017,1.0602
+5706,China Hong Kong SAR,2017,7.695e-06
+5707,India,2017,0.19390122
+5708,Indonesia,2017,0.00026145000000000004
+5709,Japan,2017,0.48817520909090917
+5710,Malaysia,2017,0.00297
+5711,New Zealand,2017,0.0006869283883636366
+5712,Pakistan,2017,0.008003493
+5713,Philippines,2017,0.010810368
+5714,Singapore,2017,0.0011050740000000002
+5715,South Korea,2017,0.06747997580358606
+5716,Sri Lanka,2017,0.0020214900000000004
+5717,Taiwan,2017,0.015224361191999998
+5718,Thailand,2017,0.040887
+5719,Vietnam,2017,8.433899999999998e-05
+5720,Other Asia Pacific,2017,0.004100041235225142
+5721,Total Asia Pacific,2017,1.979004346825053
+5722,,2017,
+5723,Total World,2017,4.022520874694832
+5724,,2018,
+5725,Canada,2018,0.03448442317916003
+5726,Mexico,2018,0.02845263157894728
+5727,US,2018,0.8438091440723018
+5728,Total North America,2018,0.9067461988304091
+5729,,2018,
+5730,Argentina,2018,0.000967478947368421
+5731,Brazil,2018,0.03097073272728501
+5732,Chile,2018,0.045799081105515796
+5733,Colombia,2018,0.00010736681938421051
+5734,Ecuador,2018,0.0003407097416342108
+5735,Peru,2018,0.00666937325263158
+5736,Trinidad & Tobago,2018,4.178412933000608e-05
+5737,Venezuela,2018,7.959649657038337e-05
+5738,Central America,2018,0.016144812076282787
+5739,Other Caribbean,2018,0.007263548390796846
+5740,Other South America,2018,0.0055972018488190355
+5741,Total S. & Cent. America,2018,0.1139816855356183
+5742,,2018,
+5743,Austria,2018,0.012863103406842106
+5744,Belgium,2018,0.03491084210526316
+5745,Bulgaria,2018,0.012014302631578945
+5746,Croatia,2018,0.000670157894736842
+5747,Cyprus,2018,0.0017163736842105263
+5748,Czech Republic,2018,0.02093395210526315
+5749,Denmark,2018,0.008526600526315788
+5750,Estonia,2018,0.00019222156476861554
+5751,Finland,2018,0.0008070526315789474
+5752,France,2018,0.09232246133439657
+5753,Germany,2018,0.40964631578947364
+5754,Greece,2018,0.03391635999999999
+5755,Hungary,2018,0.005547368421052631
+5756,Iceland,2018,0.0
+5757,Ireland,2018,0.0001490273684210526
+5758,Italy,2018,0.2026918947368421
+5759,Latvia,2018,1.139e-05
+5760,Lithuania,2018,0.0007157894736842104
+5761,Luxembourg,2018,0.0010712236842105262
+5762,Netherlands,2018,0.033043463684210524
+5763,North Macedonia,2018,0.00020389263157894735
+5764,Norway,2018,0.0007619331848552338
+5765,Poland,2018,0.002684210526315789
+5766,Portugal,2018,0.008992105263157895
+5767,Romania,2018,0.01584578947368421
+5768,Slovakia,2018,0.005234210526315789
+5769,Slovenia,2018,0.0022812299999999995
+5770,Spain,2018,0.11402526315789473
+5771,Sweden,2018,0.0034984210526315786
+5772,Switzerland,2018,0.017393684210526315
+5773,Turkey,2018,0.06978768421052632
+5774,Ukraine,2018,0.009909210526315788
+5775,United Kingdom,2018,0.11503945499984916
+5776,Other Europe,2018,0.002309687787478449
+5777,Total Europe,2018,1.2397166785939795
+5778,,2018,
+5779,Azerbaijan,2018,0.0003512736842105262
+5780,Belarus,2018,0.0010557894736842105
+5781,Kazakhstan,2018,0.0012639374736842105
+5782,Russian Federation,2018,0.005587273684210526
+5783,Turkmenistan,2018,6.227368421052631e-05
+5784,USSR,2018,
+5785,Uzbekistan,2018,1.4614035087719296e-05
+5786,Other CIS,2018,0.00011491776315789473
+5787,Total CIS,2018,0.008450079798245613
+5788,,2018,
+5789,Iran,2018,0.0011917989374883866
+5790,Iraq,2018,0.000512728947368421
+5791,Israel,2018,0.01408136842105263
+5792,Kuwait,2018,0.0005876684850083526
+5793,Oman,2018,3.359946495821993e-05
+5794,Qatar,2018,7.483578947368422e-05
+5795,Saudi Arabia,2018,0.0034097816607892508
+5796,United Arab Emirates,2018,0.011757595303168453
+5797,Other Middle East,2018,0.022951532890671904
+5798,Total Middle East,2018,0.0546009098999793
+5799,,2018,
+5800,Algeria,2018,0.0053952631578947354
+5801,Egypt,2018,0.013514889811203063
+5802,Morocco,2018,0.008501386842105264
+5803,South Africa,2018,0.04415736417298525
+5804,Eastern Africa,2018,0.00686102836728684
+5805,Middle Africa,2018,0.0006102043921694786
+5806,Western Africa,2018,0.006872052585810577
+5807,Other Northern Africa,2018,0.001075668289473684
+5808,Other Southern Africa,2018,0.0011457153180202916
+5809,Total Africa,2018,0.08813357293694915
+5810,,2018,
+5811,Australia,2018,0.1098669225977624
+5812,Bangladesh,2018,0.002664630249941374
+5813,China,2018,1.5827894736842103
+5814,China Hong Kong SAR,2018,7.252070063694265e-06
+5815,India,2018,0.32506961578947363
+5816,Indonesia,2018,0.00017885789473684206
+5817,Japan,2018,0.5910231568314726
+5818,Malaysia,2018,0.004315745543038179
+5819,New Zealand,2018,0.0008889684899521531
+5820,Pakistan,2018,0.00913173845797182
+5821,Philippines,2018,0.011176304617415657
+5822,Singapore,2018,0.0012093454631578948
+5823,South Korea,2018,0.08644108278689064
+5824,Sri Lanka,2018,0.002838440426646411
+5825,Taiwan,2018,0.024511892715789473
+5826,Thailand,2018,0.04463678147707721
+5827,Vietnam,2018,0.0010154656725146196
+5828,Other Asia Pacific,2018,0.004723021280103706
+5829,Total Asia Pacific,2018,2.802488696048219
+5830,,2018,
+5831,Total World,2018,5.214117821643403
+5832,,2019,
+5833,Canada,2019,0.03846291761531745
+5834,Mexico,2019,0.11088876514427354
+5835,US,2019,0.9659495404681803
+5836,Total North America,2019,1.1153012232277713
+5837,,2019,
+5838,Argentina,2019,0.0071288105640639095
+5839,Brazil,2019,0.04958811287634519
+5840,Chile,2019,0.056162608125380084
+5841,Colombia,2019,0.0010970615972968458
+5842,Ecuador,2019,0.001483818764328585
+5843,Peru,2019,0.0067903123916388365
+5844,Trinidad & Tobago,2019,4.1630070680284636e-05
+5845,Venezuela,2019,0.00010547302191114327
+5846,Central America,2019,0.016581981425250095
+5847,Other Caribbean,2019,0.011390753029633854
+5848,Other South America,2019,0.006681614404025323
+5849,Total S. & Cent. America,2019,0.15705217627055423
+5850,,2019,
+5851,Austria,2019,0.012048459966767717
+5852,Belgium,2019,0.03518185725252631
+5853,Bulgaria,2019,0.016319605239534518
+5854,Croatia,2019,0.0006989518006132159
+5855,Cyprus,2019,0.001922376993035641
+5856,Czech Republic,2019,0.020341722244981566
+5857,Denmark,2019,0.008586938454609751
+5858,Estonia,2019,0.0006423785145153473
+5859,Finland,2019,0.0015876509627201967
+5860,France,2019,0.10455920102954988
+5861,Germany,2019,0.42358456370340025
+5862,Greece,2019,0.03529854467523215
+5863,Hungary,2019,0.012337501024170422
+5864,Iceland,2019,0.0
+5865,Ireland,2019,0.00022183848251989134
+5866,Italy,2019,0.21685119213437115
+5867,Latvia,2019,0.0
+5868,Lithuania,2019,0.0008022941417451864
+5869,Luxembourg,2019,0.0010742685146656974
+5870,Netherlands,2019,0.04625918374436706
+5871,North Macedonia,2019,0.0002070542892257272
+5872,Norway,2019,0.0010032865934495065
+5873,Poland,2019,0.006355952478492419
+5874,Portugal,2019,0.011365833674723476
+5875,Romania,2019,0.015457533797623923
+5876,Slovakia,2019,0.005250569438754609
+5877,Slovenia,2019,0.002390453224088488
+5878,Spain,2019,0.134087518151869
+5879,Sweden,2019,0.005230402147416177
+5880,Switzerland,2019,0.02014730211188391
+5881,Turkey,2019,0.0973412770581195
+5882,Ukraine,2019,0.025948321296802947
+5883,United Kingdom,2019,0.11300387203087789
+5884,Other Europe,2019,0.0026208373509613845
+5885,Total Europe,2019,1.3787287425236148
+5886,,2019,
+5887,Azerbaijan,2019,0.00039044981564932403
+5888,Belarus,2019,0.0010675763655539079
+5889,Kazakhstan,2019,0.002591169526257784
+5890,Russian Federation,2019,0.008781109381401064
+5891,Turkmenistan,2019,6.204408029496107e-05
+5892,USSR,2019,
+5893,Uzbekistan,2019,3.3973690199827014e-05
+5894,Other CIS,2019,0.00018848340843916425
+5895,Total CIS,2019,0.013114806267796032
+5896,,2019,
+5897,Iran,2019,0.0015220099368519775
+5898,Iraq,2019,0.0005108385088078656
+5899,Israel,2019,0.02424198060367961
+5900,Kuwait,2019,0.0012689654582215102
+5901,Oman,2019,3.347558327668614e-05
+5902,Qatar,2019,7.4559868906186e-05
+5903,Saudi Arabia,2019,0.015876887511183164
+5904,United Arab Emirates,2019,0.037162965893796175
+5905,Other Middle East,2019,0.025581793637306508
+5906,Total Middle East,2019,0.10627347700202967
+5907,,2019,
+5908,Algeria,2019,0.005482343301925439
+5909,Egypt,2019,0.03277829058840481
+5910,Morocco,2019,0.014097752199918065
+5911,South Africa,2019,0.04689723748518197
+5912,Eastern Africa,2019,0.062076750069008715
+5913,Middle Africa,2019,0.0006081570951060787
+5914,Western Africa,2019,0.0069871604365182565
+5915,Other Northern Africa,2019,0.0013897925935875573
+5916,Other Southern Africa,2019,0.0024251616769460672
+5917,Total Africa,2019,0.17274264544659695
+5918,,2019,
+5919,Australia,2019,0.1600194785333777
+5920,Bangladesh,2019,0.0037497235046095516
+5921,China,2019,1.9950380991396968
+5922,China Hong Kong SAR,2019,6.978553740896624e-06
+5923,India,2019,0.41244782957804177
+5924,Indonesia,2019,0.0005667665271026098
+5925,Japan,2019,0.6710253585424089
+5926,Malaysia,2019,0.007075394336600259
+5927,New Zealand,2019,0.0011310896202480355
+5928,Pakistan,2019,0.01034343056006371
+5929,Philippines,2019,0.01186592364814692
+5930,Singapore,2019,0.0017349075061040557
+5931,South Korea,2019,0.10815737296890994
+5932,Sri Lanka,2019,0.0032871314877094757
+5933,Taiwan,2019,0.036942011441081536
+5934,Thailand,2019,0.04469700593034516
+5935,Vietnam,2019,0.03726923719786973
+5936,Other Asia Pacific,2019,0.0062109897180298215
+5937,Total Asia Pacific,2019,3.5115687287940864
+5938,,2019,
+5939,Total World,2019,6.4547817995324515
+5940,,2019.1,
+5941,Canada,2019.1,0.11537076944821112
+5942,Mexico,2019.1,2.897311390568264
+5943,US,2019.1,0.14474884190803805
+5944,Total North America,2019.1,0.230003748200293
+5945,,2019.1,
+5946,Argentina,2019.1,6.368439988750702
+5947,Brazil,2019.1,0.6011281784320972
+5948,Chile,2019.1,0.22628242247891217
+5949,Colombia,2019.1,9.217882988328338
+5950,Ecuador,2019.1,3.35508171034812
+5951,Peru,2019.1,0.018133508865999737
+5952,Trinidad & Tobago,2019.1,-0.0036870135190494313
+5953,Venezuela,2019.1,0.3250962850843382
+5954,Central America,2019.1,0.027078007901344403
+5955,Other Caribbean,2019.1,0.5682077707455369
+5956,Other South America,2019.1,0.19374190613388187
+5957,Total S. & Cent. America,2019.1,0.3778720285854764
+5958,,2019.1,
+5959,Austria,2019.1,-0.06333179593666838
+5960,Belgium,2019.1,0.007763065309223549
+5961,Bulgaria,2019.1,0.35834810725004695
+5962,Croatia,2019.1,0.04296585342426007
+5963,Cyprus,2019.1,0.1200224116229498
+5964,Czech Republic,2019.1,-0.028290399123091947
+5965,Denmark,2019.1,0.007076434284418731
+5966,Estonia,2019.1,2.3418649738316453
+5967,Finland,2019.1,0.9672210963664885
+5968,France,2019.1,0.13254347336810302
+5969,Germany,2019.1,0.03402507816301181
+5970,Greece,2019.1,0.04075274219380143
+5971,Hungary,2019.1,1.224027698854251
+5972,Iceland,2019.1,0.0
+5973,Ireland,2019.1,0.48857545342358044
+5974,Italy,2019.1,0.06985625851449195
+5975,Latvia,2019.1,-1.0
+5976,Lithuania,2019.1,0.1208521097910693
+5977,Luxembourg,2019.1,0.0028423853020158596
+5978,Netherlands,2019.1,0.39994959930521845
+5979,North Macedonia,2019.1,0.01550648310483771
+5980,Norway,2019.1,0.3167645318403207
+5981,Poland,2019.1,1.367903864536392
+5982,Portugal,2019.1,0.2639791619534446
+5983,Romania,2019.1,-0.02450213520159905
+5984,Slovakia,2019.1,0.0031253829697091007
+5985,Slovenia,2019.1,0.04787909333495022
+5986,Spain,2019.1,0.17594570219227101
+5987,Sweden,2019.1,0.4950750835099649
+5988,Switzerland,2019.1,0.15831136566749682
+5989,Turkey,2019.1,0.3948202775216487
+5990,Ukraine,2019.1,1.6186063186257127
+5991,United Kingdom,2019.1,-0.017694650665495026
+5992,Other Europe,2019.1,0.13471498839357254
+5993,Total Europe,2019.1,0.11213212367788361
+5994,,2019.1,
+5995,Azerbaijan,2019.1,0.11152595027676115
+5996,Belarus,2019.1,0.011164055110879811
+5997,Kazakhstan,2019.1,1.0500773022457097
+5998,Russian Federation,2019.1,0.571626857337636
+5999,Turkmenistan,2019.1,-0.0036870135190495423
+6000,USSR,2019.1,
+6001,Uzbekistan,2019.1,1.3247303017888838
+6002,Other CIS,2019.1,0.6401590429513648
+6003,Total CIS,2019.1,0.5520334222783196
+6004,,2019.1,
+6005,Iran,2019.1,0.27706938559576333
+6006,Iraq,2019.1,-0.0036870135190494313
+6007,Israel,2019.1,0.7215642598652665
+6008,Kuwait,2019.1,1.1593219486722592
+6009,Oman,2019.1,-0.0036870135190496534
+6010,Qatar,2019.1,-0.0036870135190494313
+6011,Saudi Arabia,2019.1,3.6562768794727445
+6012,United Arab Emirates,2019.1,2.160762463373905
+6013,Other Middle East,2019.1,0.11460065692185673
+6014,Total Middle East,2019.1,0.9463682417876695
+6015,,2019.1,
+6016,Algeria,2019.1,0.01614011059002407
+6017,Egypt,2019.1,1.4253464916327694
+6018,Morocco,2019.1,0.6582885194795971
+6019,South Africa,2019.1,0.06204793613729631
+6020,Eastern Africa,2019.1,8.047732605944123
+6021,Middle Africa,2019.1,-0.0033551005034903048
+6022,Western Africa,2019.1,0.016750141136194774
+6023,Other Northern Africa,2019.1,0.29202711206404697
+6024,Other Southern Africa,2019.1,1.1167227484891806
+6025,Total Africa,2019.1,0.960009559242279
+6026,,2019.1,
+6027,Australia,2019.1,0.45648457925075925
+6028,Bangladesh,2019.1,0.4072209473310795
+6029,China,2019.1,0.260457017379518
+6030,China Hong Kong SAR,2019.1,-0.03771562056011213
+6031,India,2019.1,0.2687984651421784
+6032,Indonesia,2019.1,2.1688091148367095
+6033,Japan,2019.1,0.13536221176143948
+6034,Malaysia,2019.1,0.6394373268863658
+6035,New Zealand,2019.1,0.2723618812506099
+6036,Pakistan,2019.1,0.13269018902245344
+6037,Philippines,2019.1,0.06170367168202029
+6038,Singapore,2019.1,0.434583879426637
+6039,South Korea,2019.1,0.25122649418399834
+6040,Sri Lanka,2019.1,0.15807661730395672
+6041,Taiwan,2019.1,0.5071056270283498
+6042,Thailand,2019.1,0.001349211374007231
+6043,Vietnam,2019.1,35.70162193230925
+6044,Other Asia Pacific,2019.1,0.3150458889936323
+6045,Total Asia Pacific,2019.1,0.2530179813912323
+6046,,2019.1,
+6047,Total World,2019.1,0.23794321883927272
+6048,,2008-18,
+6049,Canada,2008-18,0.5906291484428048
+6050,Mexico,2008-18,0.6586331017966762
+6051,US,2008-18,0.4912058025888988
+6052,Total North America,2008-18,0.49709341476337077
+6053,,2008-18,
+6054,Argentina,2008-18,0.9276665888384166
+6055,Brazil,2008-18,0.0
+6056,Chile,2008-18,0.0
+6057,Colombia,2008-18,0.0
+6058,Ecuador,2008-18,1.0550477817516262
+6059,Peru,2008-18,0.0
+6060,Trinidad & Tobago,2008-18,0.034570632934351586
+6061,Venezuela,2008-18,0.0
+6062,Central America,2008-18,1.1109797999830513
+6063,Other Caribbean,2008-18,0.5451390264757459
+6064,Other South America,2008-18,1.0529112222256964
+6065,Total S. & Cent. America,2008-18,0.9569004132494632
+6066,,2008-18,
+6067,Austria,2008-18,0.4630617408503608
+6068,Belgium,2008-18,0.5638120236695039
+6069,Bulgaria,2008-18,0.0
+6070,Croatia,2008-18,0.0
+6071,Cyprus,2008-18,0.5064769939742308
+6072,Czech Republic,2008-18,0.6715339788317054
+6073,Denmark,2008-18,0.7923552275106585
+6074,Estonia,2008-18,0.0
+6075,Finland,2008-18,0.36080898966767694
+6076,France,2008-18,0.7235316101165432
+6077,Germany,2008-18,0.25577583870576825
+6078,Greece,2008-18,0.9291116675935256
+6079,Hungary,2008-18,0.8906979160344524
+6080,Iceland,2008-18,0.0
+6081,Ireland,2008-18,0.0
+6082,Italy,2008-18,0.6008157621886012
+6083,Latvia,2008-18,0.0
+6084,Lithuania,2008-18,0.0
+6085,Luxembourg,2008-18,0.1885876079185922
+6086,Netherlands,2008-18,0.5672537707751382
+6087,North Macedonia,2008-18,0.0
+6088,Norway,2008-18,0.2690594325943927
+6089,Poland,2008-18,0.0
+6090,Portugal,2008-18,0.3687407495320223
+6091,Romania,2008-18,0.0
+6092,Slovakia,2008-18,0.0
+6093,Slovenia,2008-18,0.7299372567487492
+6094,Spain,2008-18,0.1662328264862245
+6095,Sweden,2008-18,0.5717904769402824
+6096,Switzerland,2008-18,0.47717663692180134
+6097,Turkey,2008-18,0.0
+6098,Ukraine,2008-18,0.0
+6099,United Kingdom,2008-18,0.9286491666309384
+6100,Other Europe,2008-18,0.7048101058910357
+6101,Total Europe,2008-18,0.33055662139797737
+6102,,2008-18,
+6103,Azerbaijan,2008-18,0.0
+6104,Belarus,2008-18,0.0
+6105,Kazakhstan,2008-18,0.0
+6106,Russian Federation,2008-18,0.0
+6107,Turkmenistan,2008-18,0.0
+6108,USSR,2008-18,
+6109,Uzbekistan,2008-18,0.0
+6110,Other CIS,2008-18,
+6111,Total CIS,2008-18,
+6112,,2008-18,
+6113,Iran,2008-18,0.9042797288343627
+6114,Iraq,2008-18,0.0
+6115,Israel,2008-18,0.0
+6116,Kuwait,2008-18,0.0
+6117,Oman,2008-18,0.0
+6118,Qatar,2008-18,0.0
+6119,Saudi Arabia,2008-18,0.8924498187017607
+6120,United Arab Emirates,2008-18,0.0
+6121,Other Middle East,2008-18,0.9731415309433589
+6122,Total Middle East,2008-18,1.0961149511116401
+6123,,2008-18,
+6124,Algeria,2008-18,0.0
+6125,Egypt,2008-18,0.9846574992819364
+6126,Morocco,2008-18,1.4815666376934966
+6127,South Africa,2008-18,0.7102822375790592
+6128,Eastern Africa,2008-18,0.4485370694559505
+6129,Middle Africa,2008-18,0.23462429103834892
+6130,Western Africa,2008-18,0.4805978280294656
+6131,Other Northern Africa,2008-18,0.33718400518308056
+6132,Other Southern Africa,2008-18,0.35449784098771464
+6133,Total Africa,2008-18,0.618620253920042
+6134,,2008-18,
+6135,Australia,2008-18,0.5557371302424006
+6136,Bangladesh,2008-18,0.33842112009573366
+6137,China,2008-18,1.0135916474824418
+6138,China Hong Kong SAR,2008-18,0.0
+6139,India,2008-18,0.8770551262283548
+6140,Indonesia,2008-18,0.688356895820819
+6141,Japan,2008-18,0.3739704052499897
+6142,Malaysia,2008-18,0.0
+6143,New Zealand,2008-18,0.39075148267258575
+6144,Pakistan,2008-18,0.8979871738145551
+6145,Philippines,2008-18,0.974765395887377
+6146,Singapore,2008-18,0.8331281962345716
+6147,South Korea,2008-18,0.39908906965947777
+6148,Sri Lanka,2008-18,0.4691715329132453
+6149,Taiwan,2008-18,0.884364595487318
+6150,Thailand,2008-18,0.6151397518650694
+6151,Vietnam,2008-18,0.0
+6152,Other Asia Pacific,2008-18,0.34379265172416673
+6153,Total Asia Pacific,2008-18,0.5642409978356062
+6154,,2008-18,
+6155,Total World,2008-18,0.45795520746205565
+6156,,2019.2,
+6157,Canada,2019.2,0.005958825380914269
+6158,Mexico,2019.2,0.017179320477154737
+6159,US,2019.2,0.14964867449712216
+6160,Total North America,2019.2,0.17278682035519116
+6161,,2019.2,
+6162,Argentina,2019.2,0.0011044231680426874
+6163,Brazil,2019.2,0.007682384070664802
+6164,Chile,2019.2,0.008700930545699963
+6165,Colombia,2019.2,0.00016996106628675052
+6166,Ecuador,2019.2,0.00022987899675184446
+6167,Peru,2019.2,0.0010519817094561878
+6168,Trinidad & Tobago,2019.2,6.449493100339982e-06
+6169,Venezuela,2019.2,1.6340292388936084e-05
+6170,Central America,2019.2,0.0025689453091119517
+6171,Other Caribbean,2019.2,0.0017646999361711866
+6172,Other South America,2019.2,0.0010351417927883019
+6173,Total S. & Cent. America,2019.2,0.024331136380462966
+6174,,2019.2,
+6175,Austria,2019.2,0.001866594462982535
+6176,Belgium,2019.2,0.005450510698142373
+6177,Bulgaria,2019.2,0.0025282969659356446
+6178,Croatia,2019.2,0.00010828434210802355
+6179,Cyprus,2019.2,0.0002978221499563141
+6180,Czech Republic,2019.2,0.00315141903734918
+6181,Denmark,2019.2,0.0013303220343144275
+6182,Estonia,2019.2,9.951978772727494e-05
+6183,Finland,2019.2,0.00024596508635430517
+6184,France,2019.2,0.01619871968981563
+6185,Germany,2019.2,0.06562337455529207
+6186,Greece,2019.2,0.005468588369290652
+6187,Hungary,2019.2,0.0019113738321974078
+6188,Iceland,2019.2,0.0
+6189,Ireland,2019.2,3.436808391198601e-05
+6190,Italy,2019.2,0.033595433411874376
+6191,Latvia,2019.2,0.0
+6192,Lithuania,2019.2,0.0001242945411111031
+6193,Luxembourg,2019.2,0.00016642987292669003
+6194,Netherlands,2019.2,0.00716665337126002
+6195,North Macedonia,2019.2,3.207765895986214e-05
+6196,Norway,2019.2,0.00015543307653283943
+6197,Poland,2019.2,0.0009846889756912943
+6198,Portugal,2019.2,0.0017608393324072943
+6199,Romania,2019.2,0.0023947414920739195
+6200,Slovakia,2019.2,0.0008134387190493304
+6201,Slovenia,2019.2,0.00037033834734144527
+6202,Spain,2019.2,0.020773361875932282
+6203,Sweden,2019.2,0.0008103143235291142
+6204,Switzerland,2019.2,0.003121298711188544
+6205,Turkey,2019.2,0.015080490724747715
+6206,Ukraine,2019.2,0.004020015254223234
+6207,United Kingdom,2019.2,0.01750700109476408
+6208,Other Europe,2019.2,0.00040603035584428637
+6209,Total Europe,2019.2,0.21359804023483525
+6210,,2019.2,
+6211,Azerbaijan,2019.2,6.049001000740351e-05
+6212,Belarus,2019.2,0.0001653930990558406
+6213,Kazakhstan,2019.2,0.00040143410059895033
+6214,Russian Federation,2019.2,0.0013604037524610234
+6215,Turkmenistan,2019.2,9.612111179258639e-06
+6216,USSR,2019.2,
+6217,Uzbekistan,2019.2,5.2633367408775735e-06
+6218,Other CIS,2019.2,2.920058559575429e-05
+6219,Total CIS,2019.2,0.0020317969956391083
+6220,,2019.2,
+6221,Iran,2019.2,0.0002357957223220502
+6222,Iraq,2019.2,7.914109642635293e-05
+6223,Israel,2019.2,0.003755662291393888
+6224,Kuwait,2019.2,0.00019659308364434984
+6225,Oman,2019.2,5.186168071415044e-06
+6226,Qatar,2019.2,1.1551106020591852e-05
+6227,Saudi Arabia,2019.2,0.0024597094068049205
+6228,United Arab Emirates,2019.2,0.005757431784369234
+6229,Other Middle East,2019.2,0.003963231358054506
+6230,Total Middle East,2019.2,0.016464302017107305
+6231,,2019.2,
+6232,Algeria,2019.2,0.0008493460309258711
+6233,Egypt,2019.2,0.005078140765467717
+6234,Morocco,2019.2,0.002184078817496081
+6235,South Africa,2019.2,0.007265503148158927
+6236,Eastern Africa,2019.2,0.009617172508217893
+6237,Middle Africa,2019.2,9.421807180997664e-05
+6238,Western Africa,2019.2,0.0010824781771901829
+6239,Other Northern Africa,2019.2,0.00021531209524204616
+6240,Other Southern Africa,2019.2,0.00037571551638224744
+6241,Total Africa,2019.2,0.026761965130890943
+6242,,2019.2,
+6243,Australia,2019.2,0.024790842433274604
+6244,Bangladesh,2019.2,0.0005809218066645043
+6245,China,2019.2,0.3090790922296097
+6246,China Hong Kong SAR,2019.2,1.0811447942984086e-06
+6247,India,2019.2,0.06389802821962427
+6248,Indonesia,2019.2,8.780568339950133e-05
+6249,Japan,2019.2,0.10395786865963683
+6250,Malaysia,2019.2,0.0010961477175127378
+6251,New Zealand,2019.2,0.00017523282046961918
+6252,Pakistan,2019.2,0.001602444649765377
+6253,Philippines,2019.2,0.001838315223762703
+6254,Singapore,2019.2,0.0002687786450395152
+6255,South Korea,2019.2,0.016756162536236973
+6256,Sri Lanka,2019.2,0.000509255245149817
+6257,Taiwan,2019.2,0.005723200657806498
+6258,Thailand,2019.2,0.006924634684565598
+6259,Vietnam,2019.2,0.005773895749747777
+6260,Other Asia Pacific,2019.2,0.0009622307788126488
+6261,Total Asia Pacific,2019.2,0.5440259388858729
+6262,,2019.2,
+6263,Total World,2019.2,1.0
+6264,,Unnamed: 59,
+6265,Canada,Unnamed: 59,
+6266,Mexico,Unnamed: 59,
+6267,US,Unnamed: 59,
+6268,Total North America,Unnamed: 59,
+6269,,Unnamed: 59,
+6270,Argentina,Unnamed: 59,
+6271,Brazil,Unnamed: 59,
+6272,Chile,Unnamed: 59,
+6273,Colombia,Unnamed: 59,
+6274,Ecuador,Unnamed: 59,
+6275,Peru,Unnamed: 59,
+6276,Trinidad & Tobago,Unnamed: 59,
+6277,Venezuela,Unnamed: 59,
+6278,Central America,Unnamed: 59,
+6279,Other Caribbean,Unnamed: 59,
+6280,Other South America,Unnamed: 59,
+6281,Total S. & Cent. America,Unnamed: 59,
+6282,,Unnamed: 59,
+6283,Austria,Unnamed: 59,
+6284,Belgium,Unnamed: 59,
+6285,Bulgaria,Unnamed: 59,
+6286,Croatia,Unnamed: 59,
+6287,Cyprus,Unnamed: 59,
+6288,Czech Republic,Unnamed: 59,
+6289,Denmark,Unnamed: 59,
+6290,Estonia,Unnamed: 59,
+6291,Finland,Unnamed: 59,
+6292,France,Unnamed: 59,
+6293,Germany,Unnamed: 59,
+6294,Greece,Unnamed: 59,
+6295,Hungary,Unnamed: 59,
+6296,Iceland,Unnamed: 59,
+6297,Ireland,Unnamed: 59,
+6298,Italy,Unnamed: 59,
+6299,Latvia,Unnamed: 59,
+6300,Lithuania,Unnamed: 59,
+6301,Luxembourg,Unnamed: 59,
+6302,Netherlands,Unnamed: 59,
+6303,North Macedonia,Unnamed: 59,
+6304,Norway,Unnamed: 59,
+6305,Poland,Unnamed: 59,
+6306,Portugal,Unnamed: 59,
+6307,Romania,Unnamed: 59,
+6308,Slovakia,Unnamed: 59,
+6309,Slovenia,Unnamed: 59,
+6310,Spain,Unnamed: 59,
+6311,Sweden,Unnamed: 59,
+6312,Switzerland,Unnamed: 59,
+6313,Turkey,Unnamed: 59,
+6314,Ukraine,Unnamed: 59,
+6315,United Kingdom,Unnamed: 59,
+6316,Other Europe,Unnamed: 59,
+6317,Total Europe,Unnamed: 59,
+6318,,Unnamed: 59,
+6319,Azerbaijan,Unnamed: 59,
+6320,Belarus,Unnamed: 59,
+6321,Kazakhstan,Unnamed: 59,
+6322,Russian Federation,Unnamed: 59,
+6323,Turkmenistan,Unnamed: 59,
+6324,USSR,Unnamed: 59,
+6325,Uzbekistan,Unnamed: 59,
+6326,Other CIS,Unnamed: 59,
+6327,Total CIS,Unnamed: 59,
+6328,,Unnamed: 59,
+6329,Iran,Unnamed: 59,
+6330,Iraq,Unnamed: 59,
+6331,Israel,Unnamed: 59,
+6332,Kuwait,Unnamed: 59,
+6333,Oman,Unnamed: 59,
+6334,Qatar,Unnamed: 59,
+6335,Saudi Arabia,Unnamed: 59,
+6336,United Arab Emirates,Unnamed: 59,
+6337,Other Middle East,Unnamed: 59,
+6338,Total Middle East,Unnamed: 59,
+6339,,Unnamed: 59,
+6340,Algeria,Unnamed: 59,
+6341,Egypt,Unnamed: 59,
+6342,Morocco,Unnamed: 59,
+6343,South Africa,Unnamed: 59,
+6344,Eastern Africa,Unnamed: 59,
+6345,Middle Africa,Unnamed: 59,
+6346,Western Africa,Unnamed: 59,
+6347,Other Northern Africa,Unnamed: 59,
+6348,Other Southern Africa,Unnamed: 59,
+6349,Total Africa,Unnamed: 59,
+6350,,Unnamed: 59,
+6351,Australia,Unnamed: 59,
+6352,Bangladesh,Unnamed: 59,
+6353,China,Unnamed: 59,
+6354,China Hong Kong SAR,Unnamed: 59,
+6355,India,Unnamed: 59,
+6356,Indonesia,Unnamed: 59,
+6357,Japan,Unnamed: 59,
+6358,Malaysia,Unnamed: 59,
+6359,New Zealand,Unnamed: 59,
+6360,Pakistan,Unnamed: 59,
+6361,Philippines,Unnamed: 59,
+6362,Singapore,Unnamed: 59,
+6363,South Korea,Unnamed: 59,
+6364,Sri Lanka,Unnamed: 59,
+6365,Taiwan,Unnamed: 59,
+6366,Thailand,Unnamed: 59,
+6367,Vietnam,Unnamed: 59,
+6368,Other Asia Pacific,Unnamed: 59,
+6369,Total Asia Pacific,Unnamed: 59,
+6370,,Unnamed: 59,
+6371,Total World,Unnamed: 59,
+6372,,Unnamed: 60,
+6373,Canada,Unnamed: 60,
+6374,Mexico,Unnamed: 60,
+6375,US,Unnamed: 60,
+6376,Total North America,Unnamed: 60,
+6377,,Unnamed: 60,
+6378,Argentina,Unnamed: 60,
+6379,Brazil,Unnamed: 60,
+6380,Chile,Unnamed: 60,
+6381,Colombia,Unnamed: 60,
+6382,Ecuador,Unnamed: 60,
+6383,Peru,Unnamed: 60,
+6384,Trinidad & Tobago,Unnamed: 60,
+6385,Venezuela,Unnamed: 60,
+6386,Central America,Unnamed: 60,
+6387,Other Caribbean,Unnamed: 60,
+6388,Other South America,Unnamed: 60,
+6389,Total S. & Cent. America,Unnamed: 60,
+6390,,Unnamed: 60,
+6391,Austria,Unnamed: 60,
+6392,Belgium,Unnamed: 60,
+6393,Bulgaria,Unnamed: 60,
+6394,Croatia,Unnamed: 60,
+6395,Cyprus,Unnamed: 60,
+6396,Czech Republic,Unnamed: 60,
+6397,Denmark,Unnamed: 60,
+6398,Estonia,Unnamed: 60,
+6399,Finland,Unnamed: 60,
+6400,France,Unnamed: 60,
+6401,Germany,Unnamed: 60,
+6402,Greece,Unnamed: 60,
+6403,Hungary,Unnamed: 60,
+6404,Iceland,Unnamed: 60,
+6405,Ireland,Unnamed: 60,
+6406,Italy,Unnamed: 60,
+6407,Latvia,Unnamed: 60,
+6408,Lithuania,Unnamed: 60,
+6409,Luxembourg,Unnamed: 60,
+6410,Netherlands,Unnamed: 60,
+6411,North Macedonia,Unnamed: 60,
+6412,Norway,Unnamed: 60,
+6413,Poland,Unnamed: 60,
+6414,Portugal,Unnamed: 60,
+6415,Romania,Unnamed: 60,
+6416,Slovakia,Unnamed: 60,
+6417,Slovenia,Unnamed: 60,
+6418,Spain,Unnamed: 60,
+6419,Sweden,Unnamed: 60,
+6420,Switzerland,Unnamed: 60,
+6421,Turkey,Unnamed: 60,
+6422,Ukraine,Unnamed: 60,
+6423,United Kingdom,Unnamed: 60,
+6424,Other Europe,Unnamed: 60,
+6425,Total Europe,Unnamed: 60,
+6426,,Unnamed: 60,
+6427,Azerbaijan,Unnamed: 60,
+6428,Belarus,Unnamed: 60,
+6429,Kazakhstan,Unnamed: 60,
+6430,Russian Federation,Unnamed: 60,
+6431,Turkmenistan,Unnamed: 60,
+6432,USSR,Unnamed: 60,
+6433,Uzbekistan,Unnamed: 60,
+6434,Other CIS,Unnamed: 60,
+6435,Total CIS,Unnamed: 60,
+6436,,Unnamed: 60,
+6437,Iran,Unnamed: 60,
+6438,Iraq,Unnamed: 60,
+6439,Israel,Unnamed: 60,
+6440,Kuwait,Unnamed: 60,
+6441,Oman,Unnamed: 60,
+6442,Qatar,Unnamed: 60,
+6443,Saudi Arabia,Unnamed: 60,
+6444,United Arab Emirates,Unnamed: 60,
+6445,Other Middle East,Unnamed: 60,
+6446,Total Middle East,Unnamed: 60,
+6447,,Unnamed: 60,
+6448,Algeria,Unnamed: 60,
+6449,Egypt,Unnamed: 60,
+6450,Morocco,Unnamed: 60,
+6451,South Africa,Unnamed: 60,
+6452,Eastern Africa,Unnamed: 60,
+6453,Middle Africa,Unnamed: 60,
+6454,Western Africa,Unnamed: 60,
+6455,Other Northern Africa,Unnamed: 60,
+6456,Other Southern Africa,Unnamed: 60,
+6457,Total Africa,Unnamed: 60,
+6458,,Unnamed: 60,
+6459,Australia,Unnamed: 60,
+6460,Bangladesh,Unnamed: 60,
+6461,China,Unnamed: 60,
+6462,China Hong Kong SAR,Unnamed: 60,
+6463,India,Unnamed: 60,
+6464,Indonesia,Unnamed: 60,
+6465,Japan,Unnamed: 60,
+6466,Malaysia,Unnamed: 60,
+6467,New Zealand,Unnamed: 60,
+6468,Pakistan,Unnamed: 60,
+6469,Philippines,Unnamed: 60,
+6470,Singapore,Unnamed: 60,
+6471,South Korea,Unnamed: 60,
+6472,Sri Lanka,Unnamed: 60,
+6473,Taiwan,Unnamed: 60,
+6474,Thailand,Unnamed: 60,
+6475,Vietnam,Unnamed: 60,
+6476,Other Asia Pacific,Unnamed: 60,
+6477,Total Asia Pacific,Unnamed: 60,
+6478,,Unnamed: 60,
+6479,Total World,Unnamed: 60,
