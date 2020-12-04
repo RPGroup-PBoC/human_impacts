@@ -16,7 +16,7 @@ Global steel production (2019): 1869 Mt
 Source: World Steel Association
 Source: worldsteel.org"
 More information can be found at: https://www.worldsteel.org/steel-by-topic/statistics/about-our-statistics.html
-* **Bias**: These data are published by the World Steel Association, an non-profit industry association that may have biases or conflicts of interest. The data is similar to other sources. Several international economic and scientific bodies consult with the World Steel Association.  
+* **Bias**: These data are published by the World Steel Association, a global non-profit industry association whose members represent 85% of global steel production. The data are similar to other non-commercial sources. Several international economic and scientific bodies consult with the World Steel Association.  
 
 ## Notes
 The World Steel Association notes that crude steel is steel in its first solid (or usable) form: ingots, semi-finished products (billets, blooms, slabs), and liquid steel for castings.
