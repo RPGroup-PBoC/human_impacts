@@ -22,8 +22,7 @@ def add_agg_col(df, col_inds, type_ = float):
     return df_agg_col
 
 ######### Get TD 2008-2017 data #########
-data_ = pd.read_csv('TD_2008_2017_clean.csv', header=0,
-                    engine ='python')
+data_ = pd.read_csv('TD_2008_2017_clean.csv', header=0)
 
 # Drop spurious row
 data_ = data_.drop([0], axis=0)
@@ -83,8 +82,7 @@ td_total = td_total[["Region", "Period", "Estimate type", "Measure",
 
 
 ######### Get BU 2008-2017 data #########
-data_ = pd.read_csv('BU_2008_2017_clean.csv', header=0,
-            engine ='python')
+data_ = pd.read_csv('BU_2008_2017_clean.csv', header=0)
 
 # Drop spurious row
 data_ = data_.drop([0], axis=0)
@@ -146,5 +144,6 @@ reg_total = pd.concat([td_total,bu_total], axis=0, ignore_index=True)
 data_tidy = reg_total.melt(id_vars=reg_total.columns[:4], 
                               var_name="Category", 
                               value_name="Emissions (Tg CH4 yr-1)")
+data_tidy["Emissions (Tg CH4 yr-1)"] = round(data_tidy["Emissions (Tg CH4 yr-1)"], 2)
 # Save to file, stripped of index
 data_tidy.to_csv(r'regional_ch4_data_processed.csv', index = False)
