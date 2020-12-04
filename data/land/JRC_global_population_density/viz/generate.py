@@ -16,7 +16,7 @@ chart = alt.Chart(data).encode(
                  scale=alt.Scale(domain=[200000, 675000 ])),
         tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
                  alt.Tooltip(field='total_area_km2', type='nominal', title='land area [sq. km]')]
-        ).properties(width=300, height=300)
+        ).properties(width='container', height=300)
 l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(l, p)
