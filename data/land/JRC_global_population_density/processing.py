@@ -15,12 +15,12 @@ data = data[(data['population']!=0) & (data['total_area_km2']!=0)]
 data['people_per_km2'] = data['population'].values / data['total_area_km2'].values
 
 # Create the high-population areas 
-threshold = 5E3 
-urban = data[data['population'] >= threshold]
-rural = data[data['population'] < threshold]
+threshold_pop = 5E3 
+threshold_density = 300
+urban = data[(data['population'] >= threshold_pop) | (data['people_per_km2'] >= threshold_density)]
 
 # save all three datasources. 
 data.to_csv('./processed/JRC_population_density_tidy.csv', index=False)
 urban.to_csv('./processed/JRC_urban_geq5k_density_tidy.csv', index=False)
-rural.to_csv('./processed/JRC_rural_lt5k_density_tidy.csv', index=False)
+
 # %%

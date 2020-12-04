@@ -19,12 +19,15 @@ for coarse, fine  in zip(['Northern America', 'Europe', 'Africa', 'Asia', 'Ocean
    for v in fine:
        data.loc[data['region']==v, 'region'] = coarse
 
-threshold = 2.5E3
-urban = data[data['population'] >= threshold]
+
+# Define the thresholds as Florczyk et al. does.
+threshold_pop = 5E3
+threshold_density = 300
+urban = data[(data['population'] >= threshold_pop) & (data['people_per_km2'] >= threshold_density)]
 
 
 # Compute the total area for each
 urban = urban.groupby(['region', 'year']).sum().reset_index()
 urban = urban[['region', 'year', 'population', 'total_area_km2']]
-urban.to_csv('./processed/JRC_regional_urban_area_geq2500.csv', index=False)
+urban.to_csv('./processed/JRC_regional_urban_area_geq5000.csv', index=False)
 # %%
