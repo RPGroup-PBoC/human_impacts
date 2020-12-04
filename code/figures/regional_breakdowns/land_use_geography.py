@@ -9,7 +9,7 @@ regions = anthro.viz.region_colors(positions=False)
 
 # Load the ag area data
 rural = pd.read_csv('../../../data/land/FAOSTAT_agriculture_landuse/processed/FAOSTAT_agricultural_landuse_by_region.csv')
-urban = pd.read_csv('../../../data/land/JRC_global_population_density/processed/JRC_regional_urban_area_geq2500.csv')
+urban = pd.read_csv('../../../data/land/JRC_global_population_density/processed/JRC_regional_urban_area_geq5000.csv')
 rural = rural[rural['year'] == 2015]
 urban = urban[urban['year'] == 2015]
 
