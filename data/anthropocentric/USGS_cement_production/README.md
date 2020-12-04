@@ -1,18 +1,19 @@
 
-# Global cement production
+# Global cement production (United States Geological Survey)
 
 ## Description
-This entry gives the global production of cement in the year 2019. It can be used to estimate global concrete production.
+This entry gives the global production of cement in the years 2018 and 2019.
 
 ## Key Numbers
-Global cement production in 2019: 4.1 Gt,
-Global concrete production in 2019 (see notes for how this was approximated): 28.7 Gt
+Global cement production in 2019: 4,050,000 kt (estimated),
+Global cement production in 2019: 4,100,000 kt (estimated),
+Global concrete production in 2019 (see notes for how this was approximated): ≈ 28,700,000 kt
 
 ## Source Information
-* **Source Website**: USGS Cement Statistics and Information
-* **URL**:  https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-cement.pdf
-* **Original License**: No license is noted. The following citation is suggested: U.S. Geological Survey, 2020,  Mineral commodity summaries 2020: U.S. Geological Survey, 200 p., https://doi.org/10.3133/ mcs2020.
+* **Source Website**: United States Geological Survey (USGS) Mineral Commodity Summaries 2020
+* **URL**: https://pubs.er.usgs.gov/publication/mcs2020
+* **Original License**:  No license is noted. U.S. Geological Survey, 2020, Mineral commodity summaries 2020: U.S. Geological Survey, pp. 42-43, https://doi.org/10.3133/mcs2020.
 * **Bias**: These data are collected by the USGS, a United States Federal agency generally regarded to be an objective science agency.
 
 ## Notes
-Cement production can be used to estimate concrete production as it correlates to a 7-fold higher production of concrete. This is noted in: Monteiro, P., Miller, S. & Horvath, A. Towards sustainable concrete. Nature Mater 16, 698–699 (2017). https://doi.org/10.1038/nmat4930
+The source gives a value for global cement production of 4.1 Gt in 2019. Cement is the binding material that when wet adheres sand and gravel (aggregates) together to make concrete. The literature notes that cement production can be used to estimate concrete production as it correlates to a 7-fold higher production of concrete (Monteiro, P., Miller, S. & Horvath, A. Towards sustainable concrete. Nature Mater 16, 698–699 (2017). https://doi.org/10.1038/nmat4930). Thus, scaling 4.1 Gt of cement by a factor of 7 yields this estimate of 28.7 Gt / yr concrete produced in 2019.
