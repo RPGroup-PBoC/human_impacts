@@ -38,7 +38,7 @@ region_populations = aggregate_by_region(country_groupings, country_populations)
 region_populations.rename(columns={'value': 'population'}, inplace=True)
 region_populations['population'] *= 1000
 
-unit_conversions = {'TJ': (31688.7646,'Watts'), 'MT': (10**6,'kg'), 'BCM': (10**9,'cubic meters'), 'TBPD': (1000*0.1589872949*365,'cubic meters')}
+unit_conversions = {'TJ': (31688.7646,'Watts'), 'MT': (10**6,'kg'), 'BCM': (10**9,'cubic meters'), 'TBPD': (1000*0.1589872949*365,'cubic meters'), 'BKWH': (114079553, 'Watts')}
 filenames = glob.glob('source/*.json')
 filenames.remove('source/EIA_Population.json')
 for file in filenames:
