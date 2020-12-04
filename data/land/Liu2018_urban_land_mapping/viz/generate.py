@@ -12,7 +12,7 @@ total = data[data['region']=='Total']
 chart = alt.Chart(total).encode(
         x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
         y=alt.Y(field='area_km2', type='quantitative', title='land area [sq. km]',
-                 scale=alt.Scale(domain=[4, 5.25])),
+                 scale=alt.Scale(domain=[400000, 775000])),
         tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
                  alt.Tooltip(field='area_km2', type='nominal', title='land area [sq. km]')]
         ).properties(width='container', height=300)
