@@ -14,7 +14,7 @@ The linear trend of global ocean heat content (OHC) and temperature increase con
 
 ## Source Information
 
-* **Source**: Cheng, L., Trenberth, K. E., Fasullo, J., Boyer, T., Abraham, J. and Zhu, J. (2020). Improved estimates of ocean heat content from 1960 to 2015. <i>Science Advances</i> 3, e1601545.
+* **Source**: Cheng, L., Trenberth, K. E., Fasullo, J., Boyer, T., Abraham, J. and Zhu, J. (2017). Improved estimates of ocean heat content from 1960 to 2015. <i>Science Advances</i> 3, e1601545.
 * **URL**: [10.1126/sciadv.1601545](https://doi.org/10.1126/sciadv.1601545)
 * **Original License**: The WOD13 data set is available at the National Oceanic and Atmospheric Administration/NCEI website www.nodc.noaa.gov/OC5/WOD13/. The reconstructed data set is available at http://159.226.119.60/cheng/. Argo data were collected and made freely available by the International Argo Program and the national programs that contribute to it (www.argo.ucsd.edu, http://argo.jcommops.org). The Argo Program is part of the Global Ocean Observing System.
 * **Bias**: The authors declare that they have no competing interests.
