@@ -7,7 +7,7 @@ import anthro.io
 # Load the production data. 
 data = pd.read_csv('../processed/CMEMS_average_ocean_pH.csv')
 data['year'] = pd.to_datetime(data['year'], format='%Y')
-data['pH'] = anthro.io.numeric_formatter(data['pH'].values, sci=False)
+data['pH'] = round(data['pH'], 2)
 #%%
 
 # Generate a plot for global average surface pH
