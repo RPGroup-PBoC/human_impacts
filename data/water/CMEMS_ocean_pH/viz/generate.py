@@ -13,7 +13,7 @@ data['pH'] = round(data['pH'], 2)
 # Generate a plot for global average surface pH
 chart = alt.Chart(data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='pH', type='quantitative', title='ocean pH'),
+            y=alt.Y(field='pH', type='quantitative', title='ocean pH', scale=alt.Scale(domain=[8.05, 8.15])),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
                      alt.Tooltip(field='pH', type='nominal', title='pH')]
             ).properties(width='container', height=300)
