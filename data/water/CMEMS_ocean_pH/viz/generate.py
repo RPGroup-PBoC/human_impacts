@@ -13,7 +13,7 @@ data['pH'] = round(data['pH'], 3)
 # Generate a plot for global average surface pH
 chart = alt.Chart(data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='pH', type='quantitative', title='ocean pH', scale=alt.Scale(domain=[8.05, 8.15])),
+            y=alt.Y(field='pH', type='quantitative', title='ocean pH', scale=alt.Scale(domain=[8.05, 8.12])),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
                      alt.Tooltip(field='pH', type='nominal', title='pH')]
             ).properties(width='container', height=300)
@@ -29,17 +29,19 @@ layer.save('surface_ocean_pH.json')
 data = pd.read_csv('../processed/CMEMS_trends_ocean_pH.csv')
 data['year'] = pd.to_datetime(data['year'], format='%Y')
 agg_data = pd.DataFrame()
-agg_data['[H+] percentage trend'] = data[data['Measure type']=='[H+] percentage trend']['Value'][1:]
 agg_data['year'] = data[data['Measure type']=='[H+] percentage trend']['year'][1:]
-print(agg_data.head())
+agg_data['H+ percentage trend'] = data[data['Measure type']=='[H+] percentage trend']['Value'][1:]
+
+pd.set_option("display.max_rows", None, "display.max_columns", None)
+print(agg_data)
 #%%
 
 # Generate a plot for global average surface pH
 chart = alt.Chart(agg_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='[H+] percentage trend', type='quantitative', title='[H+] % change'),
+            y=alt.Y(field=r'H+ percentage trend', type='quantitative', title=r'[H+] percentage change'),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field='[H+] percentage trend', type='nominal', title='[H+] % change')]
+                     alt.Tooltip(field=r'H+ percentage trend', type='nominal', title=r'H+ percentage trend')]
             ).properties(width='container', height=300)
 
 l = chart.mark_line(color='dodgerblue')
