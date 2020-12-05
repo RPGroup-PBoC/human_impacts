@@ -2,7 +2,7 @@
 # CMEMS Global SMean Sea Water pH
 
 ## Description 
-This dataset contains average global sea water pH measurements from 1985-2018 as
+This dataset contains average global sea water pH measurements and yearly trends from 1985-2018 as
 reported by the Copernicus Marine Environment Monitoring Service (CMEMS) and based on a reconstruction method using in situ data and remote sensing data, as well as empirical relationships.
 
 ## Key Numbers
@@ -12,7 +12,7 @@ pH as of 1985 ≈ 8.109 ± 0.001
 Calculated yearly change in pH (2018 - 1985) ≈ -0.001 
 Calculated yearly change in pH (average over 2013-2018) ≈ -0.0016
  
-Calculated yearly change in [H+] ≈ -0.2%
+Calculated yearly change in [H+] (2018)≈ -0.2%
 
 ## Source Information
 
