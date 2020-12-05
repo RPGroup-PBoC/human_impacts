@@ -1,74 +1,74 @@
 Region,Period,Estimate type,Measure,Category,Emissions (Tg CH4 yr-1)
-Africa,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,47.318181818181806
-Europe and Russia,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,45.01590909090908
-Asia,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,156.9831818181818
-South America,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,43.200909090909086
-North America,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,34.20227272727272
-Central America,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,9.000454545454547
-Oceania,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,7.286363636363637
-Africa,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,1.7191375866159924
-Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,2.341743870406157
-Asia,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,3.457682605217809
-South America,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,1.7504362980047825
-North America,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,1.6194784222379905
-Central America,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,0.6523588491646539
-Oceania,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,0.5737559647822232
+Africa,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,47.32
+Europe and Russia,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,45.02
+Asia,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,156.98
+South America,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,43.2
+North America,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,34.2
+Central America,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,9.0
+Oceania,2008-2017,Top-Down,Sample Mean,Total Anthropogenic,7.29
+Africa,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,1.72
+Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,2.34
+Asia,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,3.46
+South America,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,1.75
+North America,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,1.62
+Central America,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,0.65
+Oceania,2008-2017,Top-Down,Std of Sample Mean,Total Anthropogenic,0.57
 Africa,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,44.16
 Europe and Russia,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,48.14
-Asia,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,165.42499999999998
+Asia,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,165.42
 South America,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,36.36
-North America,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,34.510000000000005
-Central America,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,9.1075
-Oceania,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,6.324999999999999
-Africa,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.387461711183412
-Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.4537938872710476
-Asia,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,8.327745293095047
-South America,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,4.2089666190170725
-North America,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.9399355659402722
-Central America,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.028651017919424
-Oceania,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,0.11989578808281802
-Africa,2008-2017,Top-Down,Sample Mean,Wetlands,32.595454545454544
-Europe and Russia,2008-2017,Top-Down,Sample Mean,Wetlands,14.638181818181819
-Asia,2008-2017,Top-Down,Sample Mean,Wetlands,42.419545454545464
-South America,2008-2017,Top-Down,Sample Mean,Wetlands,60.45818181818183
-North America,2008-2017,Top-Down,Sample Mean,Wetlands,25.482727272727274
-Central America,2008-2017,Top-Down,Sample Mean,Wetlands,2.5222727272727274
-Oceania,2008-2017,Top-Down,Sample Mean,Wetlands,2.1313636363636363
-Africa,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.9344328852310265
-Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.9089767893739761
-Asia,2008-2017,Top-Down,Std of Sample Mean,Wetlands,1.2675975977474214
-South America,2008-2017,Top-Down,Std of Sample Mean,Wetlands,1.9995845495302738
-North America,2008-2017,Top-Down,Std of Sample Mean,Wetlands,1.794488939754059
-Central America,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.19156671418045695
-Oceania,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.21172175591652043
-Africa,2008-2017,Bottom-up,Sample Mean,Wetlands,29.74692307692308
-Europe and Russia,2008-2017,Bottom-up,Sample Mean,Wetlands,13.562307692307693
-Asia,2008-2017,Bottom-up,Sample Mean,Wetlands,33.60230769230769
-South America,2008-2017,Bottom-up,Sample Mean,Wetlands,45.75615384615385
-North America,2008-2017,Bottom-up,Sample Mean,Wetlands,16.948461538461537
-Central America,2008-2017,Bottom-up,Sample Mean,Wetlands,4.356923076923076
-Oceania,2008-2017,Bottom-up,Sample Mean,Wetlands,4.1899999999999995
-Africa,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,2.085875080648649
-Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,1.9368948695528618
-Asia,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,3.2898073269601538
-South America,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,3.3828200075019987
-North America,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,1.8162174860427636
-Central America,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,0.5406494013202354
-Oceania,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,0.9129151672330252
-Africa,2008-2017,Top-Down,Sample Mean,Other Natural Sources,7.959090909090909
-Europe and Russia,2008-2017,Top-Down,Sample Mean,Other Natural Sources,3.386818181818182
+North America,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,34.51
+Central America,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,9.11
+Oceania,2008-2017,Bottom-up,Sample Mean,Total Anthropogenic,6.32
+Africa,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.39
+Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.45
+Asia,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,8.33
+South America,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,4.21
+North America,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.94
+Central America,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,1.03
+Oceania,2008-2017,Bottom-up,Std of Sample Mean,Total Anthropogenic,0.12
+Africa,2008-2017,Top-Down,Sample Mean,Wetlands,32.6
+Europe and Russia,2008-2017,Top-Down,Sample Mean,Wetlands,14.64
+Asia,2008-2017,Top-Down,Sample Mean,Wetlands,42.42
+South America,2008-2017,Top-Down,Sample Mean,Wetlands,60.46
+North America,2008-2017,Top-Down,Sample Mean,Wetlands,25.48
+Central America,2008-2017,Top-Down,Sample Mean,Wetlands,2.52
+Oceania,2008-2017,Top-Down,Sample Mean,Wetlands,2.13
+Africa,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.93
+Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.91
+Asia,2008-2017,Top-Down,Std of Sample Mean,Wetlands,1.27
+South America,2008-2017,Top-Down,Std of Sample Mean,Wetlands,2.0
+North America,2008-2017,Top-Down,Std of Sample Mean,Wetlands,1.79
+Central America,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.19
+Oceania,2008-2017,Top-Down,Std of Sample Mean,Wetlands,0.21
+Africa,2008-2017,Bottom-up,Sample Mean,Wetlands,29.75
+Europe and Russia,2008-2017,Bottom-up,Sample Mean,Wetlands,13.56
+Asia,2008-2017,Bottom-up,Sample Mean,Wetlands,33.6
+South America,2008-2017,Bottom-up,Sample Mean,Wetlands,45.76
+North America,2008-2017,Bottom-up,Sample Mean,Wetlands,16.95
+Central America,2008-2017,Bottom-up,Sample Mean,Wetlands,4.36
+Oceania,2008-2017,Bottom-up,Sample Mean,Wetlands,4.19
+Africa,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,2.09
+Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,1.94
+Asia,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,3.29
+South America,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,3.38
+North America,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,1.82
+Central America,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,0.54
+Oceania,2008-2017,Bottom-up,Std of Sample Mean,Wetlands,0.91
+Africa,2008-2017,Top-Down,Sample Mean,Other Natural Sources,7.96
+Europe and Russia,2008-2017,Top-Down,Sample Mean,Other Natural Sources,3.39
 Asia,2008-2017,Top-Down,Sample Mean,Other Natural Sources,8.18
-South America,2008-2017,Top-Down,Sample Mean,Other Natural Sources,6.4781818181818185
-North America,2008-2017,Top-Down,Sample Mean,Other Natural Sources,2.6618181818181816
-Central America,2008-2017,Top-Down,Sample Mean,Other Natural Sources,0.8490909090909091
-Oceania,2008-2017,Top-Down,Sample Mean,Other Natural Sources,1.8631818181818183
-Africa,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.8453998027242973
-Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.30681253802729713
-Asia,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.6361535522115254
-South America,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.45849161518655873
-North America,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.19332098374160248
-Central America,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.05046926582189737
-Oceania,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.11215980089425587
+South America,2008-2017,Top-Down,Sample Mean,Other Natural Sources,6.48
+North America,2008-2017,Top-Down,Sample Mean,Other Natural Sources,2.66
+Central America,2008-2017,Top-Down,Sample Mean,Other Natural Sources,0.85
+Oceania,2008-2017,Top-Down,Sample Mean,Other Natural Sources,1.86
+Africa,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.85
+Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.31
+Asia,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.64
+South America,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.46
+North America,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.19
+Central America,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.05
+Oceania,2008-2017,Top-Down,Std of Sample Mean,Other Natural Sources,0.11
 Africa,2008-2017,Bottom-up,Sample Mean,Other Natural Sources,
 Europe and Russia,2008-2017,Bottom-up,Sample Mean,Other Natural Sources,
 Asia,2008-2017,Bottom-up,Sample Mean,Other Natural Sources,
@@ -83,76 +83,76 @@ South America,2008-2017,Bottom-up,Std of Sample Mean,Other Natural Sources,
 North America,2008-2017,Bottom-up,Std of Sample Mean,Other Natural Sources,
 Central America,2008-2017,Bottom-up,Std of Sample Mean,Other Natural Sources,
 Oceania,2008-2017,Bottom-up,Std of Sample Mean,Other Natural Sources,
-Africa,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,24.62636363636364
-Europe and Russia,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,21.923181818181817
-Asia,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,96.51636363636362
-South America,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,32.764545454545456
-North America,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,19.975454545454543
-Central America,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,6.665909090909091
-Oceania,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,4.982272727272728
-Africa,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.4958607456333104
-Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.337457105573232
-Asia,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,3.7441653047376384
-South America,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.6893228141027201
-North America,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.003319539521912
-Central America,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,0.5594221118024865
-Oceania,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,0.4747279612059185
-Africa,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,25.6425
-Europe and Russia,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,23.8325
-Asia,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,97.31500000000001
-South America,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,27.675
+Africa,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,24.63
+Europe and Russia,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,21.92
+Asia,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,96.52
+South America,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,32.76
+North America,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,19.98
+Central America,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,6.67
+Oceania,2008-2017,Top-Down,Sample Mean,Agriculture and Waste,4.98
+Africa,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.5
+Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.34
+Asia,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,3.74
+South America,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.69
+North America,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,1.0
+Central America,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,0.56
+Oceania,2008-2017,Top-Down,Std of Sample Mean,Agriculture and Waste,0.47
+Africa,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,25.64
+Europe and Russia,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,23.83
+Asia,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,97.32
+South America,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,27.68
 North America,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,18.11
 Central America,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,7.19
-Oceania,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,4.6675
-Africa,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,1.394515298111378
-Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.6628269633421178
-Asia,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,5.955144134835588
-South America,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.889386492664091
-North America,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.41334005370880805
-Central America,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.9407266694777324
-Oceania,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.08654237882871796
-Africa,2008-2017,Top-Down,Sample Mean,Fossil Fuels,12.967272727272727
-Europe and Russia,2008-2017,Top-Down,Sample Mean,Fossil Fuels,20.107727272727278
-Asia,2008-2017,Top-Down,Sample Mean,Fossil Fuels,48.79954545454545
-South America,2008-2017,Top-Down,Sample Mean,Fossil Fuels,7.184090909090909
+Oceania,2008-2017,Bottom-up,Sample Mean,Agriculture and Waste,4.67
+Africa,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,1.39
+Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.66
+Asia,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,5.96
+South America,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.89
+North America,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.41
+Central America,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.94
+Oceania,2008-2017,Bottom-up,Std of Sample Mean,Agriculture and Waste,0.09
+Africa,2008-2017,Top-Down,Sample Mean,Fossil Fuels,12.97
+Europe and Russia,2008-2017,Top-Down,Sample Mean,Fossil Fuels,20.11
+Asia,2008-2017,Top-Down,Sample Mean,Fossil Fuels,48.8
+South America,2008-2017,Top-Down,Sample Mean,Fossil Fuels,7.18
 North America,2008-2017,Top-Down,Sample Mean,Fossil Fuels,12.81
-Central America,2008-2017,Top-Down,Sample Mean,Fossil Fuels,1.8322727272727273
-Oceania,2008-2017,Top-Down,Sample Mean,Fossil Fuels,1.7390909090909092
-Africa,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.8866001460460686
-Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,1.6361755814259737
-Asia,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,2.5296335888933514
-South America,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.5161938874847163
-North America,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.90608047003664
-Central America,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.11497587139718451
-Oceania,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.09837843068361159
+Central America,2008-2017,Top-Down,Sample Mean,Fossil Fuels,1.83
+Oceania,2008-2017,Top-Down,Sample Mean,Fossil Fuels,1.74
+Africa,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.89
+Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,1.64
+Asia,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,2.53
+South America,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.52
+North America,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.91
+Central America,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.11
+Oceania,2008-2017,Top-Down,Std of Sample Mean,Fossil Fuels,0.1
 Africa,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,15.52
 Europe and Russia,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,23.08
-Asia,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,61.1375
+Asia,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,61.14
 South America,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,8.35
-North America,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,15.8775
-Central America,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,1.685
-Oceania,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,1.605
-Africa,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,0.7071892721659933
-Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,1.9479861395810796
-Asia,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,4.61304919946305
-South America,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,3.7448653736371704
-North America,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,1.4372622991878228
-Central America,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,0.27155416893626705
-Oceania,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,0.03752776749732565
-Africa,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,9.724545454545455
-Europe and Russia,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,2.9849999999999994
-Asia,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,11.667272727272728
-South America,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,3.252272727272728
-North America,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,1.4168181818181818
-Central America,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,0.5022727272727273
-Oceania,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,0.5650000000000001
-Africa,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.19599311684257043
-Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.14033162639963012
-Asia,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.4303965662622033
-South America,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.13963609448251474
-North America,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.06277282052963033
-Central America,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.024494294928848085
-Oceania,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.03295510523483366
+North America,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,15.88
+Central America,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,1.68
+Oceania,2008-2017,Bottom-up,Sample Mean,Fossil Fuels,1.6
+Africa,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,0.71
+Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,1.95
+Asia,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,4.61
+South America,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,3.74
+North America,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,1.44
+Central America,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,0.27
+Oceania,2008-2017,Bottom-up,Std of Sample Mean,Fossil Fuels,0.04
+Africa,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,9.72
+Europe and Russia,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,2.98
+Asia,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,11.67
+South America,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,3.25
+North America,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,1.42
+Central America,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,0.5
+Oceania,2008-2017,Top-Down,Sample Mean,Biomass and Biofuel Burning,0.57
+Africa,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.2
+Europe and Russia,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.14
+Asia,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.43
+South America,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.14
+North America,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.06
+Central America,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.02
+Oceania,2008-2017,Top-Down,Std of Sample Mean,Biomass and Biofuel Burning,0.03
 Africa,2008-2017,Bottom-up,Sample Mean,Biomass and Biofuel Burning,
 Europe and Russia,2008-2017,Bottom-up,Sample Mean,Biomass and Biofuel Burning,
 Asia,2008-2017,Bottom-up,Sample Mean,Biomass and Biofuel Burning,
@@ -181,20 +181,20 @@ South America,2008-2017,Top-Down,Std of Sample Mean,Biomass Burning,
 North America,2008-2017,Top-Down,Std of Sample Mean,Biomass Burning,
 Central America,2008-2017,Top-Down,Std of Sample Mean,Biomass Burning,
 Oceania,2008-2017,Top-Down,Std of Sample Mean,Biomass Burning,
-Africa,2008-2017,Bottom-up,Sample Mean,Biomass Burning,7.158333333333334
-Europe and Russia,2008-2017,Bottom-up,Sample Mean,Biomass Burning,1.4649999999999999
-Asia,2008-2017,Bottom-up,Sample Mean,Biomass Burning,3.7349999999999994
-South America,2008-2017,Bottom-up,Sample Mean,Biomass Burning,3.0233333333333334
-North America,2008-2017,Bottom-up,Sample Mean,Biomass Burning,0.9633333333333334
-Central America,2008-2017,Bottom-up,Sample Mean,Biomass Burning,0.3466666666666667
-Oceania,2008-2017,Bottom-up,Sample Mean,Biomass Burning,0.7166666666666668
-Africa,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,1.2999036289065604
-Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.27910272899657096
-Asia,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.4565066629670736
-South America,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.637540412662427
-North America,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.2650366850917896
-Central America,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.0424002096430876
-Oceania,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.19690381182473618
+Africa,2008-2017,Bottom-up,Sample Mean,Biomass Burning,7.16
+Europe and Russia,2008-2017,Bottom-up,Sample Mean,Biomass Burning,1.46
+Asia,2008-2017,Bottom-up,Sample Mean,Biomass Burning,3.73
+South America,2008-2017,Bottom-up,Sample Mean,Biomass Burning,3.02
+North America,2008-2017,Bottom-up,Sample Mean,Biomass Burning,0.96
+Central America,2008-2017,Bottom-up,Sample Mean,Biomass Burning,0.35
+Oceania,2008-2017,Bottom-up,Sample Mean,Biomass Burning,0.72
+Africa,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,1.3
+Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.28
+Asia,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.46
+South America,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.64
+North America,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.27
+Central America,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.04
+Oceania,2008-2017,Bottom-up,Std of Sample Mean,Biomass Burning,0.2
 Africa,2008-2017,Top-Down,Sample Mean,Biofuel,
 Europe and Russia,2008-2017,Top-Down,Sample Mean,Biofuel,
 Asia,2008-2017,Top-Down,Sample Mean,Biofuel,
@@ -209,17 +209,17 @@ South America,2008-2017,Top-Down,Std of Sample Mean,Biofuel,
 North America,2008-2017,Top-Down,Std of Sample Mean,Biofuel,
 Central America,2008-2017,Top-Down,Std of Sample Mean,Biofuel,
 Oceania,2008-2017,Top-Down,Std of Sample Mean,Biofuel,
-Africa,2008-2017,Bottom-up,Sample Mean,Biofuel,2.995
-Europe and Russia,2008-2017,Bottom-up,Sample Mean,Biofuel,1.225
-Asia,2008-2017,Bottom-up,Sample Mean,Biofuel,6.974999999999999
-South America,2008-2017,Bottom-up,Sample Mean,Biofuel,0.3325
-North America,2008-2017,Bottom-up,Sample Mean,Biofuel,0.5275
-Central America,2008-2017,Bottom-up,Sample Mean,Biofuel,0.23249999999999998
+Africa,2008-2017,Bottom-up,Sample Mean,Biofuel,3.0
+Europe and Russia,2008-2017,Bottom-up,Sample Mean,Biofuel,1.23
+Asia,2008-2017,Bottom-up,Sample Mean,Biofuel,6.97
+South America,2008-2017,Bottom-up,Sample Mean,Biofuel,0.33
+North America,2008-2017,Bottom-up,Sample Mean,Biofuel,0.53
+Central America,2008-2017,Bottom-up,Sample Mean,Biofuel,0.23
 Oceania,2008-2017,Bottom-up,Sample Mean,Biofuel,0.05
-Africa,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.2900718301846403
-Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.45483513496650624
-Asia,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.644392478747748
-South America,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.03350994877147183
-North America,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.22499537032273945
-Central America,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.006291528696058957
-Oceania,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.012909944487358056
+Africa,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.29
+Europe and Russia,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.45
+Asia,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.64
+South America,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.03
+North America,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.22
+Central America,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.01
+Oceania,2008-2017,Bottom-up,Std of Sample Mean,Biofuel,0.01

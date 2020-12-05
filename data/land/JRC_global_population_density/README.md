@@ -27,5 +27,5 @@ The preferred citation is as follows:
 
 
 In processing the data, we considered "urban" environments to be settlements
-with a population above 5,000 people total. See `processing.py` for further information.
-
+with a population above 5,000 people total with a minimum density of 300
+people per km^2. See `processing.py` for further information.
