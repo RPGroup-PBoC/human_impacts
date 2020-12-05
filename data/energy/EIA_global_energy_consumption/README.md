@@ -45,11 +45,19 @@ that thus organization has much bias or a conflict of interest, although data re
 may have a conflict of interest. 
 
 ## Notes
-> Values for some years may be incomplete.
-> Only production is tracked for nuclear and renewable sources of energy, which cannot be transported
+> * Values for some years may be incomplete.
+> * Only production is tracked for nuclear and renewable sources of energy, which cannot be transported
 over long distances due to the limitations of electrical storage capabilities.
-> Aggregated production and consumption numbers may differ slightly for fossil fuels due to differences
+> * Aggregated production and consumption numbers may differ slightly for fossil fuels due to differences
 in reporting and fuel loss incurred during transportation and storage.
-> Energy consumption per year is reported in watts and represents primary energy consumption. This is distinct
+> * Energy consumption per year is reported in watts and represents primary energy consumption. This is distinct
 from "useful" energy usage due to inefficiencies in the conversion of stored chemical or other forms
 of energy into useful work.
+> * Oil production volumes exclude refinery processing gain, which is included in the original source material.
+> * The generation values given for nuclear, hydroelectric and other non-fossil fuel sources of energy are given
+in terms of input-equivalent scaling and not in terms of power generated, which is smaller by a factor of 2-3.
+Fossil fuel sources of energy are generally inefficient, so that only a fraction of the total energy consumption is
+used for useful work. Non-fossil fuel sources are generally more efficient, so in order to provide a level comparison
+across different sources, their generation values are rescaled as if they had similar efficiencies to fossil fuel
+sources.
+

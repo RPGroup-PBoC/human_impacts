@@ -5,7 +5,7 @@ import glob
 renewables = ['WindGeneration', 'HydroGeneration', 'SolarGeneration','']
 
 
-YEAR = 2017
+YEAR = 2018
 for file in glob.glob('processed/*.csv'):
 	name = file.split('/')[1].split('.')[0]
 	print(name + '_' + str(YEAR))
