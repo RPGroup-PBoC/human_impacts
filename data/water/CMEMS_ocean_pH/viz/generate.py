@@ -28,11 +28,14 @@ layer.save('surface_ocean_pH.json')
 # Load the production data. 
 data = pd.read_csv('../processed/CMEMS_trends_ocean_pH.csv')
 data['year'] = pd.to_datetime(data['year'], format='%Y')
-data['[H+] percentage trend'] = data[data['Measure type']=='[H+] percentage trend']['Value']
+agg_data = pd.DataFrame()
+agg_data['[H+] percentage trend'] = data[data['Measure type']=='[H+] percentage trend']['Value'][1:]
+agg_data['year'] = data[data['Measure type']=='[H+] percentage trend']['year'][1:]
+print(agg_data.head())
 #%%
 
 # Generate a plot for global average surface pH
-chart = alt.Chart(data).encode(
+chart = alt.Chart(agg_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y(field='[H+] percentage trend', type='quantitative', title='[H+] % change'),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
