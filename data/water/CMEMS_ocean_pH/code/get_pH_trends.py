@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
 #################
@@ -15,9 +14,10 @@
 # 
 #################
 
+#%%
 import pandas as pd
 
-data_ = pd.read_csv('CMEMS_average_ocean_pH.csv', header=0)
+data_ = pd.read_csv('../processed/CMEMS_average_ocean_pH.csv', header=0)
 
 trends_ = pd.DataFrame(data_['year'])
 trends_["pH trend"] = round(data_["pH"].diff(), 3)
@@ -27,6 +27,13 @@ trends_["[H+] percentage trend"] = round((10**(-trends_["pH trend"])-1.0 )
 data_tidy = trends_.melt(id_vars=trends_.columns[0], 
                               var_name="Measure type", 
                               value_name="Value")
-print(data_tidy.head())
+
 # Save to file, stripped of index
 data_tidy.to_csv(r'CMEMS_trends_ocean_pH.csv', index = False)
+
+# Compute the mean and standard error of the percent change.
+percent = data_tidy[data_tidy['Measure type']=='[H+] percentage trend']
+mean_perc = percent['Value'].mean()
+sem_perc = percent['Value'].std()
+print(f'{mean_perc} ± {sem_perc}')
+# %%
