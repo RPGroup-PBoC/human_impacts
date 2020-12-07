@@ -41,10 +41,11 @@ for g, d in contrib.groupby('source'):
         ).properties(width='container', height=300)
     a = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
         x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-        y='observed_GMSL_lower:Q',
-        y2='observed_GMSL_upper:Q')
+        y='lower:Q',
+        y2='upper:Q')
     l = chart.mark_line(color='dodgerblue')
     p = chart.mark_point(color='dodgerblue', filled=True)
 
     layer = alt.layer(a, l, p)
     layer.save(f"{'_'.join(g.lower().split(' '))}_GMSL.json")
+# %%
