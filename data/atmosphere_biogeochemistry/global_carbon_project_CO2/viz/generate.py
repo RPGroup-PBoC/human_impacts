@@ -87,3 +87,61 @@ layer = alt.layer(l, p)
 layer.save('atmos_growth_CO2_source.json')
 
 # %%
+
+# Generate a plot for net oceanic CO2 uptake
+agg_data = pd.DataFrame()
+agg_data['year'] = (data[data['Sink/source type']=='ocean sink'])[data['Units']=='Pg CO2 yr-1']['Year']
+agg_data['ocean sink'] = (data[data['Sink/source type']==
+    'ocean sink'])[data['Units']=='Pg CO2 yr-1']['Value']
+
+chart = alt.Chart(agg_data).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y(field=r'ocean sink', type='quantitative', title=r'Oceanic [CO2] sink (Pg CO2 yr-1)'),
+            tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                     alt.Tooltip(field=r'ocean sink', type='nominal', title=r'ocean sink')]
+            ).properties(width='container', height=300)
+
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
+layer = alt.layer(l, p)
+layer.save('ocean_CO2_sink.json')
+
+# %%
+
+# Generate a plot for net land CO2 uptake
+agg_data = pd.DataFrame()
+agg_data['year'] = (data[data['Sink/source type']=='land sink'])[data['Units']=='Pg CO2 yr-1']['Year']
+agg_data['land sink'] = (data[data['Sink/source type']==
+    'land sink'])[data['Units']=='Pg CO2 yr-1']['Value']
+
+chart = alt.Chart(agg_data).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y(field=r'land sink', type='quantitative', title=r'Land [CO2] sink (Pg CO2 yr-1)'),
+            tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                     alt.Tooltip(field=r'land sink', type='nominal', title=r'land sink')]
+            ).properties(width='container', height=300)
+
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
+layer = alt.layer(l, p)
+layer.save('land_CO2_sink.json')
+
+# %%
+
+# Generate a plot for anthropogenic CO2 emissions
+agg_data = pd.DataFrame()
+agg_data['year'] = (data[data['Sink/source type']=='anthropogenic emissions'])[data['Units']=='Pg CO2 yr-1']['Year']
+agg_data['anthropogenic emissions'] = (data[data['Sink/source type']==
+    'anthropogenic emissions'])[data['Units']=='Pg CO2 yr-1']['Value']
+
+chart = alt.Chart(agg_data).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y(field=r'anthropogenic emissions', type='quantitative', title=r'Anthropogenic [CO2] emissions (Pg CO2 yr-1)'),
+            tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                     alt.Tooltip(field=r'anthropogenic emissions', type='nominal', title=r'anthropogenic emissions')]
+            ).properties(width='container', height=300)
+
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
+layer = alt.layer(l, p)
+layer.save('anthro_CO2_emissions.json')
