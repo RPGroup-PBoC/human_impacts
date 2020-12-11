@@ -1,0 +1,706 @@
+year,Reported value,Temperature anomaly (K)
+1880,global mean,0.052
+1881,global mean,0.088
+1882,global mean,0.075
+1883,global mean,-0.007
+1884,global mean,-0.095
+1885,global mean,-0.081
+1886,global mean,-0.07
+1887,global mean,-0.113
+1888,global mean,0.035
+1889,global mean,0.077
+1890,global mean,-0.18
+1891,global mean,-0.09
+1892,global mean,-0.142
+1893,global mean,-0.159
+1894,global mean,-0.142
+1895,global mean,-0.076
+1896,global mean,0.074
+1897,global mean,0.069
+1898,global mean,-0.101
+1899,global mean,0.014
+1900,global mean,0.096
+1901,global mean,0.017
+1902,global mean,-0.082
+1903,global mean,-0.203
+1904,global mean,-0.285
+1905,global mean,-0.109
+1906,global mean,-0.037
+1907,global mean,-0.211
+1908,global mean,-0.26
+1909,global mean,-0.27
+1910,global mean,-0.232
+1911,global mean,-0.271
+1912,global mean,-0.166
+1913,global mean,-0.148
+1914,global mean,0.031
+1915,global mean,0.079
+1916,global mean,-0.151
+1917,global mean,-0.223
+1918,global mean,-0.13
+1919,global mean,-0.077
+1920,global mean,-0.059
+1921,global mean,0.013
+1922,global mean,-0.071
+1923,global mean,-0.078
+1924,global mean,-0.07
+1925,global mean,-0.005
+1926,global mean,0.101
+1927,global mean,0.003
+1928,global mean,-0.006
+1929,global mean,-0.152
+1930,global mean,0.065
+1931,global mean,0.112
+1932,global mean,0.045
+1933,global mean,-0.085
+1934,global mean,0.064
+1935,global mean,0.019
+1936,global mean,0.057
+1937,global mean,0.167
+1938,global mean,0.159
+1939,global mean,0.187
+1940,global mean,0.334
+1941,global mean,0.448
+1942,global mean,0.284
+1943,global mean,0.282
+1944,global mean,0.455
+1945,global mean,0.353
+1946,global mean,0.166
+1947,global mean,0.141
+1948,global mean,0.124
+1949,global mean,0.103
+1950,global mean,0.025
+1951,global mean,0.177
+1952,global mean,0.221
+1953,global mean,0.307
+1954,global mean,0.078
+1955,global mean,0.049
+1956,global mean,-0.005
+1957,global mean,0.249
+1958,global mean,0.303
+1959,global mean,0.258
+1960,global mean,0.228
+1961,global mean,0.274
+1962,global mean,0.285
+1963,global mean,0.297
+1964,global mean,0.036
+1965,global mean,0.108
+1966,global mean,0.168
+1967,global mean,0.176
+1968,global mean,0.151
+1969,global mean,0.284
+1970,global mean,0.236
+1971,global mean,0.112
+1972,global mean,0.214
+1973,global mean,0.371
+1974,global mean,0.116
+1975,global mean,0.191
+1976,global mean,0.111
+1977,global mean,0.391
+1978,global mean,0.295
+1979,global mean,0.406
+1980,global mean,0.459
+1981,global mean,0.501
+1982,global mean,0.371
+1983,global mean,0.538
+1984,global mean,0.346
+1985,global mean,0.335
+1986,global mean,0.415
+1987,global mean,0.562
+1988,global mean,0.571
+1989,global mean,0.472
+1990,global mean,0.627
+1991,global mean,0.568
+1992,global mean,0.415
+1993,global mean,0.461
+1994,global mean,0.523
+1995,global mean,0.648
+1996,global mean,0.502
+1997,global mean,0.692
+1998,global mean,0.83
+1999,global mean,0.618
+2000,global mean,0.603
+2001,global mean,0.748
+2002,global mean,0.798
+2003,global mean,0.817
+2004,global mean,0.76
+2005,global mean,0.845
+2006,global mean,0.813
+2007,global mean,0.797
+2008,global mean,0.721
+2009,global mean,0.822
+2010,global mean,0.902
+2011,global mean,0.753
+2012,global mean,0.814
+2013,global mean,0.851
+2014,global mean,0.917
+2015,global mean,1.104
+2016,global mean,1.171
+2017,global mean,1.085
+2018,global mean,1.004
+2019,global mean,1.125
+2020,global mean,1.179
+1880,total error std,0.096
+1881,total error std,0.096
+1882,total error std,0.096
+1883,total error std,0.096
+1884,total error std,0.096
+1885,total error std,0.096
+1886,total error std,0.096
+1887,total error std,0.096
+1888,total error std,0.095
+1889,total error std,0.092
+1890,total error std,0.092
+1891,total error std,0.092
+1892,total error std,0.092
+1893,total error std,0.092
+1894,total error std,0.092
+1895,total error std,0.091
+1896,total error std,0.091
+1897,total error std,0.092
+1898,total error std,0.092
+1899,total error std,0.092
+1900,total error std,0.092
+1901,total error std,0.092
+1902,total error std,0.093
+1903,total error std,0.094
+1904,total error std,0.094
+1905,total error std,0.093
+1906,total error std,0.093
+1907,total error std,0.094
+1908,total error std,0.095
+1909,total error std,0.092
+1910,total error std,0.091
+1911,total error std,0.091
+1912,total error std,0.09
+1913,total error std,0.089
+1914,total error std,0.089
+1915,total error std,0.09
+1916,total error std,0.09
+1917,total error std,0.091
+1918,total error std,0.091
+1919,total error std,0.092
+1920,total error std,0.094
+1921,total error std,0.095
+1922,total error std,0.096
+1923,total error std,0.101
+1924,total error std,0.102
+1925,total error std,0.105
+1926,total error std,0.105
+1927,total error std,0.106
+1928,total error std,0.107
+1929,total error std,0.109
+1930,total error std,0.109
+1931,total error std,0.109
+1932,total error std,0.109
+1933,total error std,0.108
+1934,total error std,0.107
+1935,total error std,0.105
+1936,total error std,0.103
+1937,total error std,0.1
+1938,total error std,0.097
+1939,total error std,0.094
+1940,total error std,0.096
+1941,total error std,0.098
+1942,total error std,0.099
+1943,total error std,0.099
+1944,total error std,0.094
+1945,total error std,0.092
+1946,total error std,0.09
+1947,total error std,0.088
+1948,total error std,0.087
+1949,total error std,0.086
+1950,total error std,0.086
+1951,total error std,0.089
+1952,total error std,0.087
+1953,total error std,0.087
+1954,total error std,0.086
+1955,total error std,0.083
+1956,total error std,0.081
+1957,total error std,0.08
+1958,total error std,0.079
+1959,total error std,0.078
+1960,total error std,0.076
+1961,total error std,0.074
+1962,total error std,0.072
+1963,total error std,0.071
+1964,total error std,0.073
+1965,total error std,0.071
+1966,total error std,0.066
+1967,total error std,0.064
+1968,total error std,0.062
+1969,total error std,0.06
+1970,total error std,0.059
+1971,total error std,0.058
+1972,total error std,0.056
+1973,total error std,0.053
+1974,total error std,0.051
+1975,total error std,0.05
+1976,total error std,0.05
+1977,total error std,0.05
+1978,total error std,0.05
+1979,total error std,0.051
+1980,total error std,0.053
+1981,total error std,0.055
+1982,total error std,0.057
+1983,total error std,0.059
+1984,total error std,0.063
+1985,total error std,0.062
+1986,total error std,0.062
+1987,total error std,0.061
+1988,total error std,0.06
+1989,total error std,0.06
+1990,total error std,0.059
+1991,total error std,0.058
+1992,total error std,0.058
+1993,total error std,0.059
+1994,total error std,0.059
+1995,total error std,0.059
+1996,total error std,0.06
+1997,total error std,0.061
+1998,total error std,0.064
+1999,total error std,0.066
+2000,total error std,0.068
+2001,total error std,0.068
+2002,total error std,0.07
+2003,total error std,0.071
+2004,total error std,0.075
+2005,total error std,0.076
+2006,total error std,0.08
+2007,total error std,0.083
+2008,total error std,0.078
+2009,total error std,0.075
+2010,total error std,0.076
+2011,total error std,0.076
+2012,total error std,0.076
+2013,total error std,0.078
+2014,total error std,0.078
+2015,total error std,0.078
+2016,total error std,0.078
+2017,total error std,0.078
+2018,total error std,0.078
+2019,total error std,0.078
+2020,total error std,0.091
+1880,high-frequency error std,0.029
+1881,high-frequency error std,0.029
+1882,high-frequency error std,0.029
+1883,high-frequency error std,0.029
+1884,high-frequency error std,0.029
+1885,high-frequency error std,0.029
+1886,high-frequency error std,0.029
+1887,high-frequency error std,0.029
+1888,high-frequency error std,0.026
+1889,high-frequency error std,0.012
+1890,high-frequency error std,0.011
+1891,high-frequency error std,0.012
+1892,high-frequency error std,0.011
+1893,high-frequency error std,0.006
+1894,high-frequency error std,0.007
+1895,high-frequency error std,0.005
+1896,high-frequency error std,0.005
+1897,high-frequency error std,0.013
+1898,high-frequency error std,0.01
+1899,high-frequency error std,0.01
+1900,high-frequency error std,0.01
+1901,high-frequency error std,0.005
+1902,high-frequency error std,0.007
+1903,high-frequency error std,0.015
+1904,high-frequency error std,0.015
+1905,high-frequency error std,0.01
+1906,high-frequency error std,0.007
+1907,high-frequency error std,0.017
+1908,high-frequency error std,0.02
+1909,high-frequency error std,0.008
+1910,high-frequency error std,0.007
+1911,high-frequency error std,0.007
+1912,high-frequency error std,0.005
+1913,high-frequency error std,0.005
+1914,high-frequency error std,0.011
+1915,high-frequency error std,0.01
+1916,high-frequency error std,0.009
+1917,high-frequency error std,0.01
+1918,high-frequency error std,0.012
+1919,high-frequency error std,0.013
+1920,high-frequency error std,0.014
+1921,high-frequency error std,0.015
+1922,high-frequency error std,0.013
+1923,high-frequency error std,0.029
+1924,high-frequency error std,0.027
+1925,high-frequency error std,0.032
+1926,high-frequency error std,0.026
+1927,high-frequency error std,0.026
+1928,high-frequency error std,0.026
+1929,high-frequency error std,0.027
+1930,high-frequency error std,0.023
+1931,high-frequency error std,0.021
+1932,high-frequency error std,0.02
+1933,high-frequency error std,0.008
+1934,high-frequency error std,0.005
+1935,high-frequency error std,0.01
+1936,high-frequency error std,0.011
+1937,high-frequency error std,0.011
+1938,high-frequency error std,0.015
+1939,high-frequency error std,0.005
+1940,high-frequency error std,0.02
+1941,high-frequency error std,0.026
+1942,high-frequency error std,0.032
+1943,high-frequency error std,0.032
+1944,high-frequency error std,0.017
+1945,high-frequency error std,0.013
+1946,high-frequency error std,0.012
+1947,high-frequency error std,0.005
+1948,high-frequency error std,0.005
+1949,high-frequency error std,0.005
+1950,high-frequency error std,0.013
+1951,high-frequency error std,0.025
+1952,high-frequency error std,0.011
+1953,high-frequency error std,0.005
+1954,high-frequency error std,0.006
+1955,high-frequency error std,0.007
+1956,high-frequency error std,0.008
+1957,high-frequency error std,0.011
+1958,high-frequency error std,0.01
+1959,high-frequency error std,0.01
+1960,high-frequency error std,0.009
+1961,high-frequency error std,0.005
+1962,high-frequency error std,0.005
+1963,high-frequency error std,0.005
+1964,high-frequency error std,0.025
+1965,high-frequency error std,0.023
+1966,high-frequency error std,0.01
+1967,high-frequency error std,0.008
+1968,high-frequency error std,0.008
+1969,high-frequency error std,0.008
+1970,high-frequency error std,0.005
+1971,high-frequency error std,0.011
+1972,high-frequency error std,0.01
+1973,high-frequency error std,0.005
+1974,high-frequency error std,0.005
+1975,high-frequency error std,0.005
+1976,high-frequency error std,0.005
+1977,high-frequency error std,0.005
+1978,high-frequency error std,0.006
+1979,high-frequency error std,0.005
+1980,high-frequency error std,0.007
+1981,high-frequency error std,0.005
+1982,high-frequency error std,0.005
+1983,high-frequency error std,0.005
+1984,high-frequency error std,0.02
+1985,high-frequency error std,0.012
+1986,high-frequency error std,0.014
+1987,high-frequency error std,0.014
+1988,high-frequency error std,0.011
+1989,high-frequency error std,0.012
+1990,high-frequency error std,0.009
+1991,high-frequency error std,0.005
+1992,high-frequency error std,0.005
+1993,high-frequency error std,0.005
+1994,high-frequency error std,0.005
+1995,high-frequency error std,0.005
+1996,high-frequency error std,0.008
+1997,high-frequency error std,0.008
+1998,high-frequency error std,0.018
+1999,high-frequency error std,0.021
+2000,high-frequency error std,0.021
+2001,high-frequency error std,0.017
+2002,high-frequency error std,0.019
+2003,high-frequency error std,0.019
+2004,high-frequency error std,0.026
+2005,high-frequency error std,0.026
+2006,high-frequency error std,0.034
+2007,high-frequency error std,0.037
+2008,high-frequency error std,0.024
+2009,high-frequency error std,0.006
+2010,high-frequency error std,0.007
+2011,high-frequency error std,0.011
+2012,high-frequency error std,0.011
+2013,high-frequency error std,0.017
+2014,high-frequency error std,0.017
+2015,high-frequency error std,0.017
+2016,high-frequency error std,0.017
+2017,high-frequency error std,0.017
+2018,high-frequency error std,0.017
+2019,high-frequency error std,0.017
+2020,high-frequency error std,0.017
+1880,low-frequency error std,0.029
+1881,low-frequency error std,0.03
+1882,low-frequency error std,0.03
+1883,low-frequency error std,0.03
+1884,low-frequency error std,0.03
+1885,low-frequency error std,0.031
+1886,low-frequency error std,0.031
+1887,low-frequency error std,0.031
+1888,low-frequency error std,0.031
+1889,low-frequency error std,0.032
+1890,low-frequency error std,0.032
+1891,low-frequency error std,0.032
+1892,low-frequency error std,0.033
+1893,low-frequency error std,0.033
+1894,low-frequency error std,0.033
+1895,low-frequency error std,0.032
+1896,low-frequency error std,0.031
+1897,low-frequency error std,0.03
+1898,low-frequency error std,0.029
+1899,low-frequency error std,0.027
+1900,low-frequency error std,0.026
+1901,low-frequency error std,0.025
+1902,low-frequency error std,0.023
+1903,low-frequency error std,0.021
+1904,low-frequency error std,0.019
+1905,low-frequency error std,0.017
+1906,low-frequency error std,0.015
+1907,low-frequency error std,0.013
+1908,low-frequency error std,0.01
+1909,low-frequency error std,0.008
+1910,low-frequency error std,0.007
+1911,low-frequency error std,0.006
+1912,low-frequency error std,0.006
+1913,low-frequency error std,0.005
+1914,low-frequency error std,0.005
+1915,low-frequency error std,0.004
+1916,low-frequency error std,0.004
+1917,low-frequency error std,0.004
+1918,low-frequency error std,0.003
+1919,low-frequency error std,0.002
+1920,low-frequency error std,0.002
+1921,low-frequency error std,0.002
+1922,low-frequency error std,0.002
+1923,low-frequency error std,0.002
+1924,low-frequency error std,0.003
+1925,low-frequency error std,0.002
+1926,low-frequency error std,0.002
+1927,low-frequency error std,0.002
+1928,low-frequency error std,0.002
+1929,low-frequency error std,0.002
+1930,low-frequency error std,0.002
+1931,low-frequency error std,0.003
+1932,low-frequency error std,0.003
+1933,low-frequency error std,0.003
+1934,low-frequency error std,0.004
+1935,low-frequency error std,0.005
+1936,low-frequency error std,0.006
+1937,low-frequency error std,0.006
+1938,low-frequency error std,0.007
+1939,low-frequency error std,0.008
+1940,low-frequency error std,0.009
+1941,low-frequency error std,0.01
+1942,low-frequency error std,0.011
+1943,low-frequency error std,0.011
+1944,low-frequency error std,0.011
+1945,low-frequency error std,0.012
+1946,low-frequency error std,0.011
+1947,low-frequency error std,0.011
+1948,low-frequency error std,0.011
+1949,low-frequency error std,0.011
+1950,low-frequency error std,0.011
+1951,low-frequency error std,0.01
+1952,low-frequency error std,0.01
+1953,low-frequency error std,0.009
+1954,low-frequency error std,0.008
+1955,low-frequency error std,0.007
+1956,low-frequency error std,0.006
+1957,low-frequency error std,0.005
+1958,low-frequency error std,0.004
+1959,low-frequency error std,0.002
+1960,low-frequency error std,0.002
+1961,low-frequency error std,0.001
+1962,low-frequency error std,0.002
+1963,low-frequency error std,0.002
+1964,low-frequency error std,0.002
+1965,low-frequency error std,0.002
+1966,low-frequency error std,0.002
+1967,low-frequency error std,0.002
+1968,low-frequency error std,0.002
+1969,low-frequency error std,0.002
+1970,low-frequency error std,0.002
+1971,low-frequency error std,0.003
+1972,low-frequency error std,0.003
+1973,low-frequency error std,0.003
+1974,low-frequency error std,0.003
+1975,low-frequency error std,0.003
+1976,low-frequency error std,0.003
+1977,low-frequency error std,0.003
+1978,low-frequency error std,0.003
+1979,low-frequency error std,0.003
+1980,low-frequency error std,0.004
+1981,low-frequency error std,0.004
+1982,low-frequency error std,0.004
+1983,low-frequency error std,0.004
+1984,low-frequency error std,0.004
+1985,low-frequency error std,0.004
+1986,low-frequency error std,0.004
+1987,low-frequency error std,0.003
+1988,low-frequency error std,0.003
+1989,low-frequency error std,0.003
+1990,low-frequency error std,0.003
+1991,low-frequency error std,0.003
+1992,low-frequency error std,0.003
+1993,low-frequency error std,0.002
+1994,low-frequency error std,0.002
+1995,low-frequency error std,0.002
+1996,low-frequency error std,0.002
+1997,low-frequency error std,0.002
+1998,low-frequency error std,0.001
+1999,low-frequency error std,0.001
+2000,low-frequency error std,0.001
+2001,low-frequency error std,0.001
+2002,low-frequency error std,0.001
+2003,low-frequency error std,0.001
+2004,low-frequency error std,0.001
+2005,low-frequency error std,0.001
+2006,low-frequency error std,0.001
+2007,low-frequency error std,0.001
+2008,low-frequency error std,0.001
+2009,low-frequency error std,0.001
+2010,low-frequency error std,0.001
+2011,low-frequency error std,0.001
+2012,low-frequency error std,0.001
+2013,low-frequency error std,0.001
+2014,low-frequency error std,0.001
+2015,low-frequency error std,0.001
+2016,low-frequency error std,0.001
+2017,low-frequency error std,0.001
+2018,low-frequency error std,0.001
+2019,low-frequency error std,0.001
+2020,low-frequency error std,0.001
+1880,bias error std,0.087
+1881,bias error std,0.087
+1882,bias error std,0.086
+1883,bias error std,0.086
+1884,bias error std,0.086
+1885,bias error std,0.086
+1886,bias error std,0.086
+1887,bias error std,0.085
+1888,bias error std,0.086
+1889,bias error std,0.086
+1890,bias error std,0.086
+1891,bias error std,0.086
+1892,bias error std,0.086
+1893,bias error std,0.085
+1894,bias error std,0.085
+1895,bias error std,0.086
+1896,bias error std,0.086
+1897,bias error std,0.086
+1898,bias error std,0.087
+1899,bias error std,0.087
+1900,bias error std,0.088
+1901,bias error std,0.089
+1902,bias error std,0.089
+1903,bias error std,0.09
+1904,bias error std,0.09
+1905,bias error std,0.091
+1906,bias error std,0.092
+1907,bias error std,0.092
+1908,bias error std,0.092
+1909,bias error std,0.091
+1910,bias error std,0.091
+1911,bias error std,0.09
+1912,bias error std,0.089
+1913,bias error std,0.089
+1914,bias error std,0.089
+1915,bias error std,0.089
+1916,bias error std,0.089
+1917,bias error std,0.09
+1918,bias error std,0.091
+1919,bias error std,0.091
+1920,bias error std,0.093
+1921,bias error std,0.093
+1922,bias error std,0.095
+1923,bias error std,0.097
+1924,bias error std,0.098
+1925,bias error std,0.1
+1926,bias error std,0.102
+1927,bias error std,0.103
+1928,bias error std,0.104
+1929,bias error std,0.106
+1930,bias error std,0.106
+1931,bias error std,0.107
+1932,bias error std,0.108
+1933,bias error std,0.107
+1934,bias error std,0.107
+1935,bias error std,0.105
+1936,bias error std,0.102
+1937,bias error std,0.099
+1938,bias error std,0.096
+1939,bias error std,0.094
+1940,bias error std,0.093
+1941,bias error std,0.094
+1942,bias error std,0.093
+1943,bias error std,0.093
+1944,bias error std,0.092
+1945,bias error std,0.09
+1946,bias error std,0.089
+1947,bias error std,0.087
+1948,bias error std,0.086
+1949,bias error std,0.085
+1950,bias error std,0.084
+1951,bias error std,0.085
+1952,bias error std,0.085
+1953,bias error std,0.086
+1954,bias error std,0.085
+1955,bias error std,0.083
+1956,bias error std,0.08
+1957,bias error std,0.079
+1958,bias error std,0.078
+1959,bias error std,0.078
+1960,bias error std,0.076
+1961,bias error std,0.074
+1962,bias error std,0.072
+1963,bias error std,0.07
+1964,bias error std,0.069
+1965,bias error std,0.067
+1966,bias error std,0.065
+1967,bias error std,0.063
+1968,bias error std,0.062
+1969,bias error std,0.06
+1970,bias error std,0.058
+1971,bias error std,0.057
+1972,bias error std,0.055
+1973,bias error std,0.053
+1974,bias error std,0.05
+1975,bias error std,0.05
+1976,bias error std,0.05
+1977,bias error std,0.05
+1978,bias error std,0.05
+1979,bias error std,0.051
+1980,bias error std,0.053
+1981,bias error std,0.055
+1982,bias error std,0.057
+1983,bias error std,0.059
+1984,bias error std,0.06
+1985,bias error std,0.06
+1986,bias error std,0.06
+1987,bias error std,0.06
+1988,bias error std,0.059
+1989,bias error std,0.059
+1990,bias error std,0.058
+1991,bias error std,0.058
+1992,bias error std,0.058
+1993,bias error std,0.058
+1994,bias error std,0.059
+1995,bias error std,0.059
+1996,bias error std,0.06
+1997,bias error std,0.06
+1998,bias error std,0.061
+1999,bias error std,0.063
+2000,bias error std,0.064
+2001,bias error std,0.066
+2002,bias error std,0.067
+2003,bias error std,0.069
+2004,bias error std,0.07
+2005,bias error std,0.072
+2006,bias error std,0.073
+2007,bias error std,0.074
+2008,bias error std,0.075
+2009,bias error std,0.075
+2010,bias error std,0.075
+2011,bias error std,0.076
+2012,bias error std,0.076
+2013,bias error std,0.076
+2014,bias error std,0.076
+2015,bias error std,0.076
+2016,bias error std,0.076
+2017,bias error std,0.076
+2018,bias error std,0.076
+2019,bias error std,0.076
+2020,bias error std,0.076
