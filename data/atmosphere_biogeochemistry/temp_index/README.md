@@ -5,7 +5,7 @@
 The GISS Surface Temperature Analysis (GISTEMP v4) dataset contains global surface temperature change data relative to reference years 1951-1980.
 
 ## Key Numbers
-Global surface temperature change (2019): 0.98 °C
+Global surface temperature change (2019): 0.98 °C ± ≈ 0.05 °C
 
 ## Source Information
 * **Source Website**: NASA Goddard Institute for Space Studies
@@ -18,4 +18,4 @@ Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 
 * **Bias**: These data are collected by NASA, a U.S. Government Agency generally regarded to be an objective science agency.
 
 ## Notes
-The data were manually processed by retaining the J-D annual mean, which describes the global annual temperature change, and converting it to °C.
+The data were manually processed by retaining the J-D annual mean, which describes the global annual temperature change, and converting it to °C. The uncertainty is derived from Lenssen et al. 2019, where it is noted that the uncertainty of annual global means since 1960 is approximately ± 0.05 °C.
