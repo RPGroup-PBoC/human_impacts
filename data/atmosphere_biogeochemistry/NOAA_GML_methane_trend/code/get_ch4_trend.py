@@ -12,7 +12,7 @@
 #################
 import pandas as pd
 
-raw_data_ = pd.read_csv('monthly_global_ch4_data_stripped.txt', delim_whitespace=True)
+raw_data_ = pd.read_csv('../source/monthly_global_ch4_data_clean.txt', delim_whitespace=True)
 proc_data_ = raw_data_.rename(columns = {'decimal' : 'date (decimal)',
                             'average':'monthly mean',
                             'average_unc': 'mon. mean 1-sigma unc.',
