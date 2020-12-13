@@ -41,15 +41,15 @@ raw_data_ = pd.read_csv('../source/aravg.ann.land_ocean.90S.90N.v5.0.0.202010.as
                                   'bias error variance',
                                   ])
 
-# First remove 1961-1990 mean for consistency with HadCRUT4 data
+# First remove 1880-1900 mean
 noaa_data = raw_data_[['year', 'global mean']]
-noaa_data_1961_1990 = (noaa_data[noaa_data['year']>1960])[noaa_data['year']<1991].mean()['global mean']
-# Then remove the 1850-1900 mean from the HadCRUT4 dataset
+noaa_data_1880_1900 = (noaa_data[noaa_data['year']>1880])[noaa_data['year']<1900].mean()['global mean']
+#Then add the 1880-1900 mean from the HadCRUT4 dataset to center around the same reference
 hadcrut_data = pd.read_csv('../../HadCRUT4_global_temperature_trend/processed/HadCRUT4_global_surf_temperature_trend.csv')
 hadcrut_data = hadcrut_data[hadcrut_data['Reported value']=='ensemble median']
-hadcrut_data_1850_1900 = hadcrut_data[hadcrut_data['year']<1900].mean()['Temperature anomaly (K)']
+hadcrut_data_1880_1900 = (hadcrut_data[hadcrut_data['year']>1880])[hadcrut_data['year']<1900].mean()['Temperature anomaly (K)']
 # Remove both references
-raw_data_['global mean'] = raw_data_['global mean'] - hadcrut_data_1850_1900 - noaa_data_1961_1990
+raw_data_['global mean'] = raw_data_['global mean'] - noaa_data_1880_1900 + hadcrut_data_1880_1900
 
 # Convert variances to standard deviations
 raw_data_['total error std'] = np.sqrt(raw_data_['total error variance'])
