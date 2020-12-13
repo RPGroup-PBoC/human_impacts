@@ -18,9 +18,16 @@ chart = alt.Chart(data).encode(
                      alt.Tooltip(field='pH', type='nominal', title='pH')]
             ).properties(width='container', height=300)
 
+# Add uncertainty bands
+bands = alt.Chart(data).mark_area(color='dodgerblue', fillOpacity=0.4).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y='pH_uncert_low:Q',
+            y2='pH_uncert_high:Q'
+        ).properties(width='container', height=300)
+
 l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
-layer = alt.layer(l, p)
+layer = alt.layer(l, p, bands) #.resolve_scale(y='shared')
 layer.save('surface_ocean_pH.json')
 
 # %%
@@ -33,7 +40,6 @@ agg_data['year'] = data[data['Measure type']=='[H+] percentage trend']['year'][1
 agg_data['H+ percentage trend'] = data[data['Measure type']=='[H+] percentage trend']['Value'][1:]
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
-print(agg_data)
 #%%
 
 # Generate a plot for global average surface pH
