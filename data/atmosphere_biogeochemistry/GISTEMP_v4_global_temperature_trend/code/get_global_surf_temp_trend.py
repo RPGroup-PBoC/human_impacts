@@ -23,13 +23,11 @@ giss_data_1880_1900 = (proc_data_[proc_data_['Year']>1880])[proc_data_['Year']<1
 hadcrut_data = pd.read_csv('../../HadCRUT4_global_temperature_trend/processed/HadCRUT4_global_surf_temperature_trend.csv')
 hadcrut_data = hadcrut_data[hadcrut_data['Reported value']=='ensemble median']
 hadcrut_data_1880_1900 = (hadcrut_data[hadcrut_data['year']>1880])[hadcrut_data['year']<1900].mean()['Temperature anomaly (K)']
-# Remove both references
-proc_data_ ['°C'] = proc_data_ ['°C'] - giss_data_1880_1900 + hadcrut_data_1880_1900
 
-# Convert variances to standard deviations
-proc_data_['global mean'] = proc_data_['°C']
-proc_data_['low. bound, 95% CI bias unc.'] = proc_data_['°C_lower']
-proc_data_['upp. bound, 95% CI bias unc.'] = proc_data_['°C_upper']
+# Center 1880-1900 mean with respect to HadCRUT4 data, reference from HadCRUT is 1850-1900
+proc_data_['global mean'] = proc_data_ ['°C'] - giss_data_1880_1900 + hadcrut_data_1880_1900
+proc_data_['low. bound, 95% CI bias unc.'] = proc_data_['°C_lower'] - giss_data_1880_1900 + hadcrut_data_1880_1900
+proc_data_['upp. bound, 95% CI bias unc.'] = proc_data_['°C_upper'] - giss_data_1880_1900 + hadcrut_data_1880_1900
 proc_data_['95% CI'] = proc_data_['ci95']
 
 proc_data_ = proc_data_.drop(['°C', '°C_lower','°C_upper', 'ci95'], axis=1)

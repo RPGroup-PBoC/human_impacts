@@ -37,10 +37,19 @@ proc_data_ = pd.read_csv('../source/HadCRUT.4.6.0.0.annual_ns_avg.txt',
                                   'low. bound, 95% CI total uncertainty', 'upp. bound, 95% CI total uncertainty',
                                   ])
 
-# Remove 1850-1900 mean to ensure consistency with NOAAGlobalTempv5 dataset
+# Remove 1850-1900 mean to ensure consistency with other datasets
 hadcrut_data_ref = proc_data_[['year', 'ensemble median']]
 hadcrut_data_1850_1900 = hadcrut_data_ref[hadcrut_data_ref['year']<1900].mean()['ensemble median']
 proc_data_['ensemble median'] = proc_data_['ensemble median'] - hadcrut_data_1850_1900
+proc_data_['low. bound, 95% CI bias unc.'] = proc_data_['low. bound, 95% CI bias unc.'] - hadcrut_data_1850_1900
+proc_data_['upp. bound, 95% CI bias unc.'] = proc_data_['upp. bound, 95% CI bias unc.'] - hadcrut_data_1850_1900
+proc_data_['low. bound, 95% CI sampling unc.'] = proc_data_['low. bound, 95% CI sampling unc.'] - hadcrut_data_1850_1900
+proc_data_['upp. bound, 95% CI sampling unc.'] = proc_data_['upp. bound, 95% CI sampling unc.'] - hadcrut_data_1850_1900
+proc_data_['low. bound, 95% CI coverage unc.'] = proc_data_['low. bound, 95% CI coverage unc.'] - hadcrut_data_1850_1900
+proc_data_['low. bound, 95% CI bias + sampling unc.'] = proc_data_['low. bound, 95% CI bias + sampling unc.'] - hadcrut_data_1850_1900
+proc_data_['upp. bound, 95% CI bias + sampling unc.'] = proc_data_['upp. bound, 95% CI bias + sampling unc.'] - hadcrut_data_1850_1900
+proc_data_['low. bound, 95% CI total uncertainty'] = proc_data_['low. bound, 95% CI total uncertainty'] - hadcrut_data_1850_1900
+proc_data_['upp. bound, 95% CI total uncertainty'] = proc_data_['upp. bound, 95% CI total uncertainty'] - hadcrut_data_1850_1900
 
 data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0], 
                                 var_name="Reported value", 
