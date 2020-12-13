@@ -1,11 +1,11 @@
 
-# GLOBAL Land-Ocean Temperature Index
+# GISTEMP v4 GLOBAL Land-Ocean Temperature Index
 
 ## Description
-The GISS Surface Temperature Analysis (GISTEMP v4) dataset contains global surface temperature change data relative to reference years 1951-1980.
+The GISS Surface Temperature Analysis (GISTEMP v4) dataset contains global surface temperature change data relative to a reference mean. For the original data, the reference is the 1951-1980 mean.
 
 ## Key Numbers
-Global surface temperature change (2019): 0.98 °C ± ≈ 0.05 °C
+Global surface temperature change (2019) since 1850-1900 mean: 1.18 °C ± ≈ 0.05 °C
 
 ## Source Information
 * **Source Website**: NASA Goddard Institute for Space Studies
@@ -17,5 +17,9 @@ Global surface temperature change (2019): 0.98 °C ± ≈ 0.05 °C
 
 * **Bias**: These data are collected by NASA, a U.S. Government Agency generally regarded to be an objective science agency.
 
+## Files
+* `Land-OceanTemperatureIndex.csv`: manually processed data source, with anomalies with respect to the 1951-1980 mean.
+* `GISTEMPv4_global_surf_temperature_trend.csv`: Processed data, with anomalies with respect to the 1850-1900 mean from the HadCRUT4 dataset.
+
 ## Notes
-The data were manually processed by retaining the J-D annual mean, which describes the global annual temperature change, and converting it to °C. The uncertainty is derived from Lenssen et al. 2019, where it is noted that the uncertainty of annual global means since 1960 is approximately ± 0.05 °C.
+The data were manually processed by retaining the J-D annual mean, which describes the global annual temperature change, and converting it to °C. The uncertainty is derived from Lenssen et al. 2019, where it is noted that the uncertainty of annual global mean temperatures since 1960 is approximately ± 0.05 °C. The data in `GISTEMPv4_global_surf_temperature_trend.csv` were processed with script `get_global_surf_temp_trend.py` from `Land-OceanTemperatureIndex.csv`, making the reference temperature the 1850-1900 mean from the HadCRUT4 dataset.
