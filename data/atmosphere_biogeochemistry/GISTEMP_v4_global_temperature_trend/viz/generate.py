@@ -16,11 +16,11 @@ chart = alt.Chart(proc_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y(field='global mean', type='quantitative', title='Global surface temperature change (°C)', scale=alt.Scale(domain=[-0.5, 1.4])),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field='global mean', type='nominal', title='global mean')]
+                     alt.Tooltip(field='global mean', type='quantitative', title='global mean (°C)')]
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
-bands = alt.Chart(proc_data).mark_area(color='darkorange', fillOpacity=0.4).encode(
+bands = chart.mark_area(color='darkorange', fillOpacity=0.4).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y='lower bound:Q',
             y2='upper bound:Q'
@@ -28,6 +28,6 @@ bands = alt.Chart(proc_data).mark_area(color='darkorange', fillOpacity=0.4).enco
 
 l = chart.mark_line(color='darkorange')
 p = chart.mark_point(color='darkorange', filled=True)
-layer = alt.layer(l, p, bands) #.resolve_scale(y='shared')
+layer = alt.layer(bands, l, p) #.resolve_scale(y='shared')
 layer.save('surface_temp.json')
 # %%
