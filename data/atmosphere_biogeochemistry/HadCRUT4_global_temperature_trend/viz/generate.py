@@ -1,10 +1,10 @@
 #%%
-import numpy as np 
-import pandas as pd 
-import altair as alt 
+import numpy as np
+import pandas as pd
+import altair as alt
 import anthro.io
 
-# Load the HadCRUT4 data. 
+# Load the HadCRUT4 data.
 data = pd.read_csv('../processed/HadCRUT4_global_surf_temperature_trend.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data[data['Reported value']=='ensemble median']['year'], format='%Y')
@@ -16,13 +16,13 @@ proc_data['upper bound'] = (data[data['Reported value']=='upp. bound, 95% CI tot
 # Generate a plot for global mean surface temperature
 chart = alt.Chart(proc_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='global mean', type='quantitative', title='Global surface temperature change (°C)', scale=alt.Scale(domain=[-0.5, 1.4])),
+            y=alt.Y(field='global mean', type='quantitative', title='Global surface temperature change from the 1850-1900 mean [°C]', scale=alt.Scale(domain=[-0.5, 1.4])),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field='global mean', type='nominal', title='global mean')]
+                     alt.Tooltip(field='global mean', type='quantitative', title='global mean change [°C]', format='0.2f')]
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
-bands = alt.Chart(proc_data).mark_area(color='darkorange', fillOpacity=0.4).encode(
+bands = chart.mark_area(color='darkorange', fillOpacity=0.4).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y='lower bound:Q',
             y2='upper bound:Q'
@@ -30,7 +30,7 @@ bands = alt.Chart(proc_data).mark_area(color='darkorange', fillOpacity=0.4).enco
 
 l = chart.mark_line(color='darkorange')
 p = chart.mark_point(color='darkorange', filled=True)
-layer = alt.layer(l, p, bands) #.resolve_scale(y='shared')
+layer = alt.layer(bands, l, p) #.resolve_scale(y='shared')
 layer.save('HadCRUT4_global_surface_temp.json')
 
 # %%
