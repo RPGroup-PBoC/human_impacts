@@ -170,7 +170,7 @@ def region_colors(positions=True):
         returned.
     """
     colors = color_palette()
-    regions = cont_colors = {'Africa':colors['light_green'], 'North America':colors['red'],                
+    regions = cont_colors = {'Africa':'#a4b878', 'North America':colors['red'],                
                'Europe':'#000000', 
                'South America':'#9B8579',
                'Asia':colors['blue'], 'Oceania':colors['yellow']} 

@@ -1,4 +1,4 @@
-
+#%%
 #################
 # This script takes as input the FAO country definitions
 # and corresponding HuID regions, and returns different 
@@ -41,17 +41,17 @@ def plot_huid_countries(df,projection,colors,edgecolor):
     linewidth_cont_ = .4
     # Iterate through countries in HuID definition and natural earth
     for country in countries:
-        for huid_country_index in range(len(df["Area"])):
+        for huid_country_index in range(len(df["area"])):
             # Resolve country name conflicts
-            if "Viet Nam" in df["Area"][huid_country_index]:
-                df["Area"][huid_country_index] = 'Vietnam'
-            elif "Eswatini" in df["Area"][huid_country_index]:
-                df["Area"][huid_country_index] = 'Swaziland'
+            if "Viet Nam" in df["area"][huid_country_index]:
+                df["area"][huid_country_index] = 'Vietnam'
+            elif "Eswatini" in df["area"][huid_country_index]:
+                df["area"][huid_country_index] = 'Swaziland'
                 
             # If HuID and natural earth definitions coincide, change color
-            if (df["Area"][huid_country_index] in country.attributes.values() or
-                    country.attributes['NAME'] in df["Area"][huid_country_index] or
-                    country.attributes['NAME_EN'] in df["Area"][huid_country_index]):
+            if (df["area"][huid_country_index] in country.attributes.values() or
+                    country.attributes['NAME'] in df["area"][huid_country_index] or
+                    country.attributes['NAME_EN'] in df["area"][huid_country_index]):
                 
                 # color country
                 ax.add_geometries(country.geometry, ccrs.PlateCarree(),
@@ -108,14 +108,16 @@ def plot_huid_countries(df,projection,colors,edgecolor):
 plt.figure()
 projection = ccrs.PlateCarree() 
 huid_colors = anthro.viz.region_colors()[0]
-df2 = pd.read_csv('../../../miscellaneous/FAO_region_definitions.csv')
+df2 = pd.read_csv('../../../miscellaneous/region_definitions.csv')
 plot_huid_countries(df2,projection,huid_colors,edgecolor='white')
 
 plt.figure()
 projection = ccrs.Robinson() 
 huid_colors = anthro.viz.region_colors()[0]
-df2 = pd.read_csv('../../../miscellaneous/FAO_region_definitions.csv')
+df2 = pd.read_csv('../../../miscellaneous/region_definitions.csv')
 plot_huid_countries(df2,projection,huid_colors,edgecolor='white')
 
 
 
+
+# %%
