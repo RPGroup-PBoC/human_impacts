@@ -14,9 +14,9 @@ proc_data['upper bound'] = data[data['Reported value']=='upp. bound, 95% CI bias
 # Generate a plot for global mean surface temperature
 chart = alt.Chart(proc_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='global mean', type='quantitative', title='Global surface temperature change (°C)', scale=alt.Scale(domain=[-0.5, 1.4])),
+            y=alt.Y(field='global mean', type='quantitative', title='Global surface temperature change from the 1850-1900 mean [°C]', scale=alt.Scale(domain=[-0.5, 1.4])),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field='global mean', type='quantitative', title='global mean (°C)')]
+                     alt.Tooltip(field='global mean', type='quantitative', title='global mean change [°C]', format='0.01f')]
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
