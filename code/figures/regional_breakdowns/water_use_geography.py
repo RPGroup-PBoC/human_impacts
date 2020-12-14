@@ -20,9 +20,11 @@ mun_pop = pd.read_csv('../../../data/water/AQUASTAT_water_use/processed/municipa
 merged = []
 for w, p, t in zip([ag, ind, mun], [ag_pop, ind_pop, mun_pop], ['agricultural', 'industrial', 'municipal']):
     # Group by each region and sum to get total withdrawal and year
-    w = w.groupby(['region']).sum().reset_index()
     p = p.groupby(['region']).sum().reset_index()
-
+    p.loc[p['region']=='Central America', 'region'] = 'Northern America'
+    p = p.groupby(['region']).sum().reset_index()
+    w.loc[w['region']=='Central America', 'region'] = 'Northern America'
+    w = w.groupby(['region']).sum().reset_index()
     # Merge 
     m = w.merge(p, on='region')
     m['category'] = t

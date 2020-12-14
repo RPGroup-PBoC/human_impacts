@@ -1,6 +1,14 @@
 from bokeh.models import * 
 import numpy as np
 
+def region_mapper():
+    """
+    Returns a dictionary mapping FAO region definitions to our custom definitions.
+    """
+    return {'Northern America': 'North America', 'Central America': 'North America',
+            'Caribbean': 'North America', 'Europe':'Europe', 'Oceania':'Oceania',
+            'South America':'South America', 'Asia':'Asia', 'Africa':'Africa'}
+
 def load_js(fname, args):
     """
     Given external javascript file names and arguments, load a bokeh CustomJS

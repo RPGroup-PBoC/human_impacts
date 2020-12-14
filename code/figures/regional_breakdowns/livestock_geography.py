@@ -9,7 +9,6 @@ regions, positions = anthro.viz.region_colors()
 # Load the livestock data
 data = pd.read_csv('../../../data/agriculture/FAOSTAT_livestock_population/processed/FAOSTAT_livestock_population_continent.csv')
 data = data[data['year']==2018]
-data['color'] = [regions[k] for k in data['region'].values]
 
 # Load the population data
 pop = pd.read_csv('../../../data/anthropocentric/FAOSTAT_world_population/processed/FAOSTAT_population_by_region.csv')
@@ -17,7 +16,11 @@ pop = pop[pop['year']==2018]
 pop_dict = {k:v for k, v in zip(pop['region'].values, pop['population_Mhd'].values)}
 for k, v in pop_dict.items():
     data.loc[data['region']==k, 'region_pop'] = v
+data.loc[data['region']=='Central America', 'region'] = 'Northern America'
+data = data.groupby(['region', 'animal']).sum().reset_index()
 data['per_capita'] = data['population_Mhd'].values / data['region_pop'].values
+data['color'] = [regions[k] for k in data['region'].values]
+
 
 # %%
 for ls in ['cattle', 'chickens', 'pigs']:
@@ -47,6 +50,8 @@ for ls in ['cattle', 'chickens', 'pigs']:
         ax.plot(positions[_], _d['per_capita'], 'o', ms=3, color=_d['color'].values[0])
         ax.vlines(positions[_], 0, _d['per_capita'], lw=0.5, color=_d['color'].values[0])
         iter += 1
+    ylim = [0, ax.get_ylim()[1] * 1.1]
+    ax.set_ylim(ylim)
     plt.savefig(f'../../../figures/regional_breakdowns/{ls}_per_capita.svg')
 
 # %%

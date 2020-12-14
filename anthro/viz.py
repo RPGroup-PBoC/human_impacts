@@ -170,10 +170,10 @@ def region_colors(positions=True):
         returned.
     """
     colors = color_palette()
-    regions = cont_colors = {'Africa':colors['light_green'], 'Northern America':colors['light_red'],                
-               'Europe':'#4b4b4b', 'Central America':colors['purple'],
-               'South America':colors['dark_brown'],
-               'Asia':colors['blue'], 'Oceania':colors['dark_green']}
+    regions = cont_colors = {'Africa':colors['light_green'], 'North America':colors['red'],                
+               'Europe':'#000000', 
+               'South America':'#9B8579',
+               'Asia':colors['blue'], 'Oceania':colors['yellow']} 
     pos = {k:i for i, k in enumerate(cont_colors.keys())}
     if positions:
         return [regions, pos]
