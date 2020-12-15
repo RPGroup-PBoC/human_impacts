@@ -13,7 +13,7 @@ CONVERSION = 7 # mass of concrete is around 7 times the mass of cement (Monteiro
 cement = pd.read_csv('../../../data/anthropocentric/USGS_cement_production/processed/USGS_cement_by_region.csv')
 # Ensure there's only one value per region
 cement = cement.groupby(['year', 'region', 'fao_locality']).sum().reset_index()
-
+#%%
 # load the population data
 pop = pd.read_csv('../../../data/anthropocentric/FAOSTAT_world_population/processed/FAOSTAT_world_population_by_country.csv')
 
@@ -30,6 +30,9 @@ cement = pd.concat(dfs, sort=False)
 cement['concrete_kg'] = cement['value'] * 1E6 * CONVERSION
 cement['per_capita'] = (cement['concrete_kg'].values)/ cement['population'].values
 cement = cement[cement['year']==2017]
+cement.loc[cement['region']=='central america', 'region'] = 'north america'
+cement.loc[cement['region']=='northern america', 'region'] = 'north america'
+cement.loc[cement['region']=='asia', 'region'] = 'Asia'
 cement = cement.groupby('region').sum().reset_index()
 
 # Add colors and positional informatio
@@ -61,39 +64,58 @@ total_cement = cement['value'].sum()
 cement['percent'] = 100 * cement['value'].values / total_cement
 cement
 
+#%% Steel
+steel = pd.read_csv('../../../data/anthropocentric/WorldSteelAssoc_steel_production/processed/crude_steel_by_region.csv')
 
+# Remove spurious nans and convert values to floats
+steel.dropna(inplace=True)
+steel['value'] = [float(str(k).replace(',', '')) for k in steel['value'].values]
 
-#%%
-# Define the data for steel production as reported by Nicholas.
-_conts = ['Asia', 'Africa', 'Northern America', 'Central America',
-          'South America', 'Europe', 'Oceania']
-_pos = [positions[k] for k in _conts]
-_colors = [regions[k] for k in _conts]
-totals = [1.36E12, 1.74E10, 1.00E11, 2.06E10, 4.49E10, 2.69E11, 6.34E9]
-per_capita = [298, 14, 246, 117, 106, 360, 152]
+# Restrict to one year
+steel = steel[steel['year']==2018]
 
-# Set up the dataframe
-steel = pd.DataFrame(np.array([_conts, _pos, _colors, totals, per_capita]).T,
-            columns=['region', 'position', 'color', 'total', 'per_capita'])
+# Include country population
+dfs = []
+for g, d in steel.groupby(['fao_locality', 'year']):
+    _pop = pop[(pop['year']==g[1]) & (pop['region']==g[0])]['population_Mhd'].values[0] * 1E6
+    d = d.copy()
+    d['population'] = _pop
+    dfs.append(d)
+steel = pd.concat(dfs, sort=False) 
 
+# Update region definitions
+steel.loc[steel['region']=='central america', 'region'] = 'north america'
+steel.loc[steel['region']=='northern america', 'region'] = 'north america'
 
-# %%
-# Donut for steel 
+# Group and compute per capita
+steel = steel.groupby(['region']).sum().reset_index()
+steel['kg_per_capita'] = steel['value'].values * 1E6 / steel['population'].values
+
+# Add colors and positional information.
+steel['color'] = [regions[k] for k in steel['region'].values]
+steel['pos'] = [positions[k] for k in steel['region'].values]
+
+#%% Donut for steel 
 fig, ax = plt.subplots(1,1, figsize=(2.5, 2.5))
 circ = plt.Circle((0, 0), 0.6, color='white')
-steel.sort_values('total', inplace=True)
-ax.pie(steel['total'], colors=steel['color'])
+steel.sort_values('value', inplace=True)
+ax.pie(steel['value'], colors=steel['color'])
 ax.add_artist(circ)
 plt.savefig('../../../figures/regional_breakdowns/steel_regional_donut.svg')
 
-# Per Capita
 fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
 ax.set_xticks([])
 ax.set_yticks([0, 100, 200, 300, 400])
 ax.yaxis.set_tick_params(labelsize=6)
-for g, d in steel.groupby(['position', 'color']):
-    ax.plot(int(g[0]), float(d['per_capita'].values[0]), 'o', ms=3, color=g[1])
-    ax.vlines(int(g[0]), 0, float(d['per_capita'].values[0]), lw=0.5, color=g[1])
+for g, d in steel.groupby(['pos', 'color']):
+    ax.plot(int(g[0]), float(d['kg_per_capita'].values[0]), 'o', ms=3, color=g[1])
+    ax.vlines(int(g[0]), 0, float(d['kg_per_capita'].values[0]), lw=0.5, color=g[1])
 ax.set_ylim([0, 400])
 plt.savefig('../../../figures/regional_breakdowns/steel_regional_per_capita.svg')
-# %%
+
+
+#%%
+# Compute the percentages
+total_steel = steel['value'].sum()
+steel['percent'] = 100 * steel['value'].values / total_steel
+steel
