@@ -13,10 +13,13 @@ data = data[data['year']==2018]
 # Load the population data
 pop = pd.read_csv('../../../data/anthropocentric/FAOSTAT_world_population/processed/FAOSTAT_population_by_region.csv')
 pop = pop[pop['year']==2018]
+pop.loc[pop['region']=='Central America', 'region'] = 'North America'
+pop.loc[pop['region']=='Northern America', 'region'] = 'North America'
 pop_dict = {k:v for k, v in zip(pop['region'].values, pop['population_Mhd'].values)}
 for k, v in pop_dict.items():
     data.loc[data['region']==k, 'region_pop'] = v
-data.loc[data['region']=='Central America', 'region'] = 'Northern America'
+data.loc[data['region']=='Central America', 'region'] = 'North America'
+data.loc[data['region']=='Northern America', 'region'] = 'North America'
 data = data.groupby(['region', 'animal']).sum().reset_index()
 data['per_capita'] = data['population_Mhd'].values / data['region_pop'].values
 data['color'] = [regions[k] for k in data['region'].values]

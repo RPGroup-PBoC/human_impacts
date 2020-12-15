@@ -1,4 +1,4 @@
-
+#%%
 #################
 # This script takes as input the FAO country definitions
 # and corresponding HuID regions, and returns different 
@@ -183,3 +183,5 @@ plot_huid_countries(df2,projection,huid_colors,edgecolor='white')
 
 
 
+
+# %%
