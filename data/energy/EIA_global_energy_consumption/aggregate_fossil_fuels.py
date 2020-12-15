@@ -22,5 +22,6 @@ total_fossils['Per Capita'] = total_fossils['Watts']/total_fossils['population']
 total_fossils.drop(['population'], axis=1, inplace=True)
 total_fossils = total_fossils[total_fossils['year'] <= 2017]
 
+total_fossils = total_fossils[['Country Group', 'year', 'Watts', 'Percentage', 'Per Capita']]
 
-total_fossils.to_csv('processed/EIA_FossilFuelConsumption.csv')
+total_fossils.to_csv('processed/EIA_FossilFuelConsumption.csv', index=False)
