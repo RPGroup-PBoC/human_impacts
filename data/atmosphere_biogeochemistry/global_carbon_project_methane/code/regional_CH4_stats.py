@@ -22,13 +22,13 @@ def add_agg_col(df, col_inds, type_ = float):
     return df_agg_col
 
 ######### Get TD 2008-2017 data #########
-data_ = pd.read_csv('TD_2008_2017_clean.csv', header=0)
+data_ = pd.read_csv('../source/TD_2008_2017_clean.csv', header=0)
 
 # Drop spurious row
 data_ = data_.drop([0], axis=0)
 
 # Generate standard regional data
-data_['North America'] = add_agg_col(data_, ["Canada", "USA"])
+data_['North America'] = add_agg_col(data_, ["Canada", "USA", "Central America"])
 data_['Africa'] = add_agg_col(data_, ['Northern Africa',
        'Equatorial Africa', 'Southern Africa'])
 data_['Europe and Russia'] = add_agg_col(data_, ['Europe', 'Russia'])
@@ -40,8 +40,7 @@ data_['South America'] = add_agg_col(data_, ['Northern South America',
 
 # Create new DataFrame to store regional data
 cols = ['Africa', 'Europe and Russia', 'Asia',
-                   'South America', 'North America',
-                   'Central America', 'Oceania']
+          'South America', 'North America', 'Oceania']
 sectors_ = ['Wetlands', 'Other Natural Sources',
             'Agriculture and Waste', 'Fossil Fuels',
             'Biomass and Biofuel Burning',
@@ -82,13 +81,13 @@ td_total = td_total[["Region", "Period", "Estimate type", "Measure",
 
 
 ######### Get BU 2008-2017 data #########
-data_ = pd.read_csv('BU_2008_2017_clean.csv', header=0)
+data_ = pd.read_csv('../source/BU_2008_2017_clean.csv', header=0)
 
 # Drop spurious row
 data_ = data_.drop([0], axis=0)
 
 # Generate standard regional data
-data_['North America'] = add_agg_col(data_, ["Canada", "USA"])
+data_['North America'] = add_agg_col(data_, ["Canada", "USA", "Central America"])
 data_['Africa'] = add_agg_col(data_, ['Northern Africa',
         'Equatorial Africa', 'Southern Africa'])
 data_['Europe and Russia'] = add_agg_col(data_, ['Europe', 'Russia'])
@@ -100,8 +99,7 @@ data_['South America'] = add_agg_col(data_, ['Northern South America',
 
 # Create new DataFrame to store regional data
 cols = ['Africa', 'Europe and Russia', 'Asia',
-                    'South America', 'North America',
-                    'Central America', 'Oceania']
+          'South America', 'North America', 'Oceania']
 sectors_ = ['Biomass Burning', 'Biofuel', 'Fossil Fuels',
             'Agriculture and Waste', 'Wetlands',
             'Total Anthropogenic']
