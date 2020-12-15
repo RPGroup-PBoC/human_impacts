@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 #
 #################
-# This script takes as an input the supplementary national-level data 
+# This script takes as input the supplementary national-level data 
 # from Friedlingstein et al. (2019), imported in csv format from
 # the original .xlsx file, and returns a csv file with
 # data for the 2008-2017 period, for 2017, and for 2018
 # for the different regions defined in Human Impacts by the Numbers. 
 # Data is provided in Tg C /year and Tg CO2 /year.
 #
-# Last updated: Nov 2020
+# Last updated: Dec 2020
 # Author: Ignacio Lopez-Gomez
 # 
 #################
@@ -24,7 +24,7 @@ def add_agg_col(df, col_inds, type_ = float):
 
 def correct_col(column_name):
     """
-    Takes FAO country names and returns the corresponding
+    Takes HuID country names and returns the corresponding
     country name from the Friedlingstein et al (2019)
     national data.
     """
@@ -37,6 +37,8 @@ def correct_col(column_name):
     # Corrected Asia
     elif 'Hong Kong' in column_name:
         corr_col_name = 'Hong Kong'
+    elif 'Macao' in column_name:
+        corr_col_name = 'Macao'
     elif 'China, mainland' in column_name:
         corr_col_name = 'China'
     elif 'Taiwan' in column_name:
@@ -74,45 +76,53 @@ def correct_col(column_name):
     # Corrected North America
     elif 'United States of America' in column_name:
         corr_col_name = 'USA'
+    elif 'Bonaire, Sint Eustatius and Saba' in column_name:
+        corr_col_name  = 'Bonaire, Saint Eustatius and Saba'
         
     return corr_col_name
 
 ######### Get national CO2 data #########
-data_ = pd.DataFrame(pd.read_csv('National_Carbon_Emissions_2019v1.0.csv', header=0))
+data_ = pd.DataFrame(pd.read_csv('../source/National_Carbon_Emissions_2019v1.0.csv', header=0))
 # Get region definitions used in Human Impacts by the Numbers
-regions_ = pd.read_csv('../../../../miscellaneous/FAO_region_definitions.csv', header=0)
+regions_ = pd.read_csv('../../../../miscellaneous/region_definitions.csv', header=0)
 
-# Get FAO regions
-africa_ = np.array(regions_.loc[regions_['region'] == 'Africa', 'Area'])
+# Get HuID regions
+africa_ = np.array(regions_.loc[regions_['region'] == 'Africa', 'area'])
 # Remove unspecified
 africa_  = africa_[africa_ != "Mayotte"]
 africa_  = africa_[africa_ != "Réunion"]
 africa_  = africa_[africa_ != "Western Sahara"]
 
-north_am_ = np.array(regions_.loc[regions_['region'] == 'Northern America', 'Area'])
+north_am_ = np.array(regions_.loc[regions_['region'] == 'North America', 'area'])
 # Remove unspecified
 north_am_  = north_am_[north_am_ != "Cayman Islands"]
 north_am_  = north_am_[north_am_ != "Guadeloupe"]
 north_am_  = north_am_[north_am_ != "Martinique"]
+north_am_  = north_am_[north_am_ != "Netherlands Antilles (former)"]
 north_am_  = north_am_[north_am_ != "Puerto Rico"]
 north_am_  = north_am_[north_am_ != "United States Virgin Islands"]
+north_am_  = north_am_[north_am_ != "Saint-Martin (French part)"]
+north_am_  = north_am_[north_am_ != "Sint Maarten  (Dutch part)"]
 
-central_am_ = np.array(regions_.loc[regions_['region'] == 'Central America', 'Area'])
 
-south_am_ = np.array(regions_.loc[regions_['region'] == 'South America', 'Area'])
+south_am_ = np.array(regions_.loc[regions_['region'] == 'South America', 'area'])
 # Remove unspecified
+south_am_ = south_am_[south_am_ != "Falkland Islands (Malvinas)"]
 south_am_  = south_am_[south_am_ != "French Guyana"]
 
-asia_ = np.array(regions_.loc[regions_['region'] == 'Asia', 'Area'])
+asia_ = np.array(regions_.loc[regions_['region'] == 'Asia', 'area'])
 
-europe_russia_ = np.array(regions_.loc[regions_['region'] == 'Europe', 'Area'])
+europe_russia_ = np.array(regions_.loc[regions_['region'] == 'Europe', 'area'])
 # Remove unspecified
 europe_russia_  = europe_russia_[europe_russia_ != "Channel Islands"]
 europe_russia_  = europe_russia_[europe_russia_ != "Faroe Islands"]
 europe_russia_  = europe_russia_[europe_russia_ != "Isle of Man"]
 europe_russia_  = europe_russia_[europe_russia_ != "San Marino"]
+europe_russia_  = europe_russia_[europe_russia_ != "Gibraltar"]
+europe_russia_  = europe_russia_[europe_russia_ != "Holy See"]
+europe_russia_  = europe_russia_[europe_russia_ != "Monaco"]
 
-oceania_ = np.array(regions_.loc[regions_['region'] == 'Oceania', 'Area'])
+oceania_ = np.array(regions_.loc[regions_['region'] == 'Oceania', 'area'])
 # Remove unspecified
 oceania_  = oceania_[oceania_ != "American Samoa"]
 oceania_  = oceania_[oceania_ != "Guam"]
@@ -123,7 +133,6 @@ oceania_  = oceania_[oceania_ != "Tokelau"]
 # # Generate standard regional data
 data_['North America'] = add_agg_col(data_, north_am_)
 data_['South America'] = add_agg_col(data_, south_am_)
-data_['Central America'] = add_agg_col(data_, central_am_)
 data_['Africa'] = add_agg_col(data_, africa_)
 data_['Europe and Russia'] = add_agg_col(data_, europe_russia_)
 data_['Asia'] = add_agg_col(data_, asia_)
@@ -132,8 +141,7 @@ data_['Oceania'] = add_agg_col(data_, oceania_)
 
 # Create new DataFrame to store regional data
 cols = ['Africa', 'Europe and Russia', 'Asia',
-                    'South America', 'North America',
-                    'Central America', 'Oceania']
+            'South America', 'North America', 'Oceania']
 # # Add 10 year mean 2008-2017
 reg_data = pd.DataFrame(data_[cols].iloc[
     -11:-1].astype(float).mean(),
