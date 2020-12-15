@@ -17,7 +17,11 @@ import pandas as pd
 import anthro.viz
 
 def plot_huid_countries(df,projection,colors,edgecolor):
-    
+    """
+    Returns a world map using a projection. Continents
+    are colored based on the Human Impacts regional
+    definitions and the anthro.viz colors.
+    """
     colors_huid = anthro.viz.plotting_style()
     ocean = colors_huid['light_blue']
     ax = plt.axes(projection=projection)
@@ -26,12 +30,14 @@ def plot_huid_countries(df,projection,colors,edgecolor):
                    facecolor=ocean,
                    edgecolor='black',
                    linewidth=1.5)
+    # Get countries
     shpfilename = shpreader.natural_earth(resolution='110m',
                                           category='cultural',
                                           name='admin_0_countries')
     reader = shpreader.Reader(shpfilename)
     countries = reader.records()
     
+    # Get provinces and subnational territories
     shpfilename_2 = shpreader.natural_earth(resolution='10m',
                                       category='cultural',
                                       name='admin_1_states_provinces')
@@ -39,7 +45,7 @@ def plot_huid_countries(df,projection,colors,edgecolor):
     subcountries = reader2.records()
 
     linewidth_cont_ = .4
-    # Iterate through countries in HuID definition and natural earth
+    # Iterate through countries in HuID definition and natural earth dataset
     for country in countries:
         for huid_country_index in range(len(df["area"])):
             # Resolve country name conflicts
@@ -93,13 +99,71 @@ def plot_huid_countries(df,projection,colors,edgecolor):
                                   label="Antarctica",
                                   edgecolor='white',
                                   linewidth=linewidth_cont_)
-    # Correct French Guiana
+            
+    # Correct provinces and subnational territories
     for subcountry in subcountries:
+        # Fix French Guyana
         if "French" in subcountry.attributes["name_en"]:
             ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
                               facecolor=(colors["South America"]),
                               label="French Guyana",
                               edgecolor=(colors["South America"]),
+                              linewidth=linewidth_cont_)
+        # Fix Greenland
+        elif "Greenland" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["North America"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["North America"]),
+                              linewidth=linewidth_cont_)
+        elif "Pituffik" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["North America"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["North America"]),
+                              linewidth=linewidth_cont_)
+        elif "Qeqqata" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["North America"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["North America"]),
+                              linewidth=linewidth_cont_)
+        elif "Kujalleq" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["North America"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["North America"]),
+                              linewidth=linewidth_cont_)
+        elif "Qaasuitsup" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["North America"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["North America"]),
+                              linewidth=linewidth_cont_)
+        elif "Sermersooq" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["North America"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["North America"]),
+                              linewidth=linewidth_cont_)
+        # Fix missing islands
+        elif "Santa Cruz de Tenerife" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["Europe"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["Europe"]),
+                              linewidth=linewidth_cont_)
+        elif "Las Palmas" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["Europe"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["Europe"]),
+                              linewidth=linewidth_cont_)
+        elif "Balearic Islands" in subcountry.attributes["name_en"]:
+            ax.add_geometries(subcountry.geometry, ccrs.PlateCarree(),
+                              facecolor=(colors["Europe"]),
+                              label=subcountry.attributes["name_en"],
+                              edgecolor=(colors["Europe"]),
                               linewidth=linewidth_cont_)
     return
 
