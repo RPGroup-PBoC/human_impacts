@@ -13,6 +13,15 @@ urban = pd.read_csv('../../../data/land/JRC_global_population_density/processed/
 rural = rural[rural['year'] == 2015]
 urban = urban[urban['year'] == 2015]
 
+# Adjust for the redefinition of regions
+rural.loc[rural['region']=='Northern America', 'region'] = 'North America'
+rural.loc[rural['region']=='Central America', 'region'] = 'North America'
+urban.loc[urban['region']=='Northern America', 'region'] = 'North America'
+urban.loc[urban['region']=='Central America', 'region'] = 'North America'
+urban = urban.groupby(['region']).sum().reset_index()
+rural = rural.groupby(['region']).sum().reset_index()
+
+#%%
 # Add color information
 rural['color'] = [regions[k] for k in rural['region'].values]
 urban['color'] = [regions[k] for k in urban['region'].values]

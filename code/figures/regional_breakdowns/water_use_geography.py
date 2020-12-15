@@ -21,9 +21,11 @@ merged = []
 for w, p, t in zip([ag, ind, mun], [ag_pop, ind_pop, mun_pop], ['agricultural', 'industrial', 'municipal']):
     # Group by each region and sum to get total withdrawal and year
     p = p.groupby(['region']).sum().reset_index()
-    p.loc[p['region']=='Central America', 'region'] = 'Northern America'
+    p.loc[p['region']=='Central America', 'region'] = 'North America'
+    p.loc[p['region']=='Northern America', 'region'] = 'North America'
     p = p.groupby(['region']).sum().reset_index()
-    w.loc[w['region']=='Central America', 'region'] = 'Northern America'
+    w.loc[w['region']=='Central America', 'region'] = 'North America'
+    w.loc[w['region']=='Northern America', 'region'] = 'North America'
     w = w.groupby(['region']).sum().reset_index()
     # Merge 
     m = w.merge(p, on='region')
