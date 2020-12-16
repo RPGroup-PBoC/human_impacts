@@ -26,11 +26,15 @@ def per_capita(region_populations, data, value_str='value'):
 	return joint[value_str].divide(joint['population'])
 
 # get FAO country groups
-regions = ['Africa', 'Europe', 'Northern America', 'Central America', 'South America', 'Asia', 'Oceania']
-country_groupings = pd.read_csv('source/FAOSTAT_groupings.csv')
-country_groupings.loc[country_groupings['Country Group'] == 'Caribbean', 'Country Group'] = 'Northern America'
-country_groupings = country_groupings[country_groupings['Country Group'].isin(regions)]
-country_groupings.rename(columns={'ISO3 Code': 'iso'}, inplace=True)
+exceptions = {'China, mainland': 'China'}
+country_groupings = pd.read_csv('../../../miscellaneous/region_definitions.csv')
+country_groupings.rename(columns={'region': 'Country Group'}, inplace=True)
+country_groupings.area = country_groupings.area.replace(exceptions)
+country_codes = pd.read_csv('source/FAOSTAT_groupings.csv')
+country_codes.rename(columns={'Country': 'area', 'ISO3 Code': 'iso'}, inplace=True)
+country_groupings = pd.merge(country_codes[['iso', 'area']], country_groupings[['Country Group', 'area']], on='area', how='inner')
+country_groupings = country_groupings.drop_duplicates(subset=['area']).reset_index()
+
 
 # get country group populations
 country_populations = load_eia_json('source/EIA_population.json')

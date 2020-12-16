@@ -29,9 +29,8 @@ to 2018.
 |:--:|:--:|:--:|:--:|
 |Africa| 6.6e+11| 530| 3.4%|
 |Asia| 9.7e+12| 2200| 50.1%|
-|Central America| 3.1e+11| 1800| 1.6%|
 |Europe| 3.8e+12| 5100| 19.6%|
-|Northern America| 3.8e+12| 9500| 19.7%|
+|North America| 4.1e+12| 7200| 21.3%|
 |South America| 8.4e+11| 2000| 4.3%|
 |Oceania| 2.4e+11| 6100| 1.3%|
 
