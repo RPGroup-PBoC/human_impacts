@@ -9,7 +9,7 @@ data = pd.read_csv('../processed/IFA_ammonia_tidy.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data['year'], format='%Y')
 proc_data['production (kt)'] = data['value']
-proc_data['label'] = anthro.io.numeric_formatter(data['value'].values, unit='t')
+proc_data['label'] = anthro.io.numeric_formatter(data['value'].values * 1E3, unit='t')
 
 # Generate a plot for global mean surface temperature
 chart = alt.Chart(proc_data).encode(
