@@ -64,7 +64,7 @@ def numeric_formatter(values, digits=3, sci=False, unit=''):
     base_powers = np.floor(np.log10(values))
     str_vals = []
     base_dict = {'p':[-15, -12], 'n':[-12, -9], 'µ':[-9, -6], 'm':[-6, -3],
-                 '':[-3, 3], 'K':[3,6], 'M':[6, 9], 'B':[9, 12],
+                 '':[-3, 3], 'k':[3,6], 'M':[6, 9], 'B':[9, 12],
                  'T':[12,15]}
     for i, v in enumerate(values):
         base = base_powers[i]
