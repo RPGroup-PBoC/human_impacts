@@ -47,13 +47,15 @@ filenames = glob.glob('source/*.json')
 filenames.remove('source/EIA_Population.json')
 for file in filenames:
 	print(file)
+	name = file.split('/')[1].split('.')[0]
 	data = load_eia_json(file)
 	conversion = unit_conversions[data['unit'][0]]
 	data['value'] *= conversion[0]
 	data.rename(columns={'value': conversion[1]}, inplace=True)
+	totals = data[['year', conversion[1]]].groupby('year').sum().reset_index()
+	totals.to_csv(f'processed/{name}_totals.csv', index=False)
 	regional_data = aggregate_by_region(country_groupings, data, value_str=conversion[1])
 	regional_data['Per Capita'] = per_capita(region_populations, regional_data, value_str=conversion[1])
-	name = file.split('/')[1].split('.')[0]
 	regional_data.to_csv(f'processed/{name}.csv', index=False)
 
 region_populations.to_csv('processed/EIA_population.csv', index=False)
