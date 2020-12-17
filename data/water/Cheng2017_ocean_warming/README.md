@@ -1,8 +1,8 @@
 
-# Linear Trends in Global Ocean Warming
+# Trends in Global Ocean Warming
 
 ## Description
-The linear trend of global ocean heat content (OHC) and temperature increase constructed from in situ temperature data reported for periods 1960–1991 and 1992–2015.
+The linear trend of global ocean heat content (OHC) and temperature increase constructed from in situ temperature data reported for periods 1960–1991 and 1992–2015. Cumulative temperature increase since 1960 is also reported for layers 0-700 m and 700-2000 m.
 
 ## Key Numbers
 

@@ -21,6 +21,7 @@ for d in [total, renewables, fossils, nuclear]:
     d['color'] = [regions[k] for k in d['Country Group'].values]
     d['pos'] = [positions[k] for k in d['Country Group'].values]
 
+total.head()
 #%% Fossil fuel consumption
 fossils.sort_values('Watts', inplace=True)
 fig, ax = plt.subplots(1, 1, figsize=(2.5, 2.5))
@@ -53,13 +54,13 @@ plt.savefig('../../../figures/regional_breakdowns/renewables_consumption_donut.s
 fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
 ax.xaxis.set_tick_params(labelsize=6)
 ax.yaxis.set_tick_params(labelsize=6)
-ax.set_ylim([0, 1.2])
+ax.set_ylim([0, 0.8])
 ax.set_ylabel('per capita\n[1000 W]', fontsize=6)
 for g, d in renewables.groupby(['Country Group']):
     ax.plot(positions[g], int(d['Per Capita']) / 1E3, 'o', ms=3, color=regions[g])
     ax.vlines(positions[g], 0, int(d['Per Capita']) / 1E3, lw=0.5, color=regions[g])
 
-ax.set_yticks([0, 0.25, 0.5, 0.75, 1])
+ax.set_yticks([0, 0.25, 0.5, 0.75])
 plt.savefig('../../../figures/regional_breakdowns/renewables_consumption_per_capita.svg')
 
 #%% Nuclear
@@ -74,7 +75,7 @@ plt.savefig('../../../figures/regional_breakdowns/nuclear_generation_donut.svg')
 fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
 ax.xaxis.set_tick_params(labelsize=6)
 ax.yaxis.set_tick_params(labelsize=6)
-ax.set_ylim([0, 1.2])
+ax.set_ylim([0, 0.75])
 
 ax.set_ylabel('per capita\n[1000 W]', fontsize=6)
 for g, d in nuclear.groupby(['Country Group']):
@@ -82,8 +83,8 @@ for g, d in nuclear.groupby(['Country Group']):
     ax.vlines(positions[g], 0, int(d['Per Capita']) / 1E3, lw=0.5, color=regions[g])
 
 # need to hardcode oceania in
-ax.plot(6, 0, 'o', ms=3, color=regions['Oceania'])
-ax.set_yticks([0, 0.25, 0.5, 0.75, 1])
+ax.plot(5, 0, 'o', ms=3, color=regions['Oceania'])
+ax.set_yticks([0, 0.25, 0.5, 0.75])
 plt.savefig('../../../figures/regional_breakdowns/nuclear_generation_per_capita.svg')
 
 #%% Total
@@ -98,7 +99,7 @@ plt.savefig('../../../figures/regional_breakdowns/total_power_consumption_donut.
 fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
 ax.xaxis.set_tick_params(labelsize=6)
 ax.yaxis.set_tick_params(labelsize=6)
-ax.set_ylim([0, 12])
+ax.set_ylim([0, 9])
 ax.set_ylabel('per capita\n[1000 W]', fontsize=6)
 for g, d in total.groupby(['Country Group']):
     ax.plot(positions[g], int(d['Per Capita']) / 1E3, 'o', ms=3, color=regions[g])

@@ -14,12 +14,16 @@ pop = pd.read_csv('../../../data/anthropocentric/FAOSTAT_world_population/proces
 # Restrict to the same decadal average (2008 - 2017)
 co2 = co2[(co2['Period']=='2008-2017') & (co2['Emission Units']=='Tg CO2 yr-1')]
 
+
 # For CH4, keep only the sample mean for the anthropogenic total and compute mean of top-down and bototm-up
 ch4 = ch4[(ch4['Measure']=='Sample Mean') & (ch4['Category']=='Total Anthropogenic')]
 ch4 = ch4.groupby(['Region']).mean().reset_index()
 
 # Compute the decadal average population for 2008 - 2017.
 pop = pop[(pop['year'] >= 2008) & (pop['year'] <= 2017)]
+pop.loc[pop['region']=='Northern America', 'region'] = 'North America'
+pop.loc[pop['region']=='Central America', 'region'] = 'North America'
+pop = pop.groupby(['region', 'year']).sum().reset_index()
 pop = pop.groupby(['region']).mean().reset_index()
 pop['year'] = '2008-2017'
 pop.rename(columns={'region':'Region', 'year':'Period'}, inplace=True)
@@ -27,8 +31,8 @@ pop.rename(columns={'region':'Region', 'year':'Period'}, inplace=True)
 # Tidy the annotation of the regions
 co2.loc[co2['Region']=='Europe and Russia', 'Region'] = 'Europe'
 ch4.loc[ch4['Region']=='Europe and Russia', 'Region'] = 'Europe'
-co2.loc[co2['Region']=='North America', 'Region'] = 'Northern America'
-ch4.loc[ch4['Region']=='North America', 'Region'] = 'Northern America'
+# co2.loc[co2['Region']=='North America', 'Region'] = 'Northern America'
+# ch4.loc[ch4['Region']=='North America', 'Region'] = 'Northern America'
 ch4.rename(columns={'Emissions (Tg CH4 yr-1)': 'Emissions'}, inplace=True)
 # Add color and positional information
 co2['color'] = [regions[k] for k in co2['Region'].values]
