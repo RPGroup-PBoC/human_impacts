@@ -11,7 +11,7 @@ proc_data['year'] = pd.to_datetime(data['year'], format='%Y')
 proc_data['production (kt)'] = data['value']
 proc_data['label'] = anthro.io.numeric_formatter(data['value'].values * 1E3, unit='t')
 
-# Generate a plot for global mean surface temperature
+# Generate a plot for global nitrogen production.
 chart = alt.Chart(proc_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y(field='production (kt)', type='quantitative', title='Mass of nitrogen in synthesized ammonia [kt]', scale=alt.Scale(domain=[120000, 160000])),
