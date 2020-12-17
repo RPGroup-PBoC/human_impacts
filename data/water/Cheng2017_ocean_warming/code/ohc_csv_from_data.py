@@ -58,12 +58,16 @@ data_tidy.to_csv(r'ohc_trends_cheng2017.csv', index = False)
 
 #### Ocean temperature increase trends ####
 
-rho = 1025.0 # Seawater density (kg / m3)
-c_p = 3998.9 # Specific heat of seawater (J / kg K)
-A_s = 3.6184*1e14 # Surface area of the ocean (m2)
-d = np.array([700.0, 1300.0]) # Depth of two first layers (m)
+# The average global near-surface temperature is ~20 deg C, ~6 deg C at 700 m 
+# and ~2.5 deg C at 2000 m. Source: Global Marine Argo Atlas, http://climate4you.com/SeaTemperatures.htm#Global%20ocean%20temperatures%20from%20surface%20to%202000%20m%20depth
 
-heat_over_temp_inc = rho*c_p*A_s*d
+# Source of seawater properties: http://web.mit.edu/seawater/2017_MIT_Seawater_Property_Tables_r2b.pdf
+d = np.array([700.0, 1300.0]) # Depth of two first layers (m)
+rho = np.array([1026.4, 1027.6]) # Seawater density (kg / m3) at 13 (resp., 4) deg celsius and salinity 35 g/kg.
+c_p = np.array([3996.1, 3992.0]) # Specific heat of seawater (J / kg K) at 13 (resp., 4) deg celsius and salinity 35 g/kg.
+A_s = 3.6184*1e14 # Surface area of the ocean (m2)
+
+heat_over_temp_inc = A_s*np.multiply(np.multiply(rho,c_p),d)
 
 df_temp = pd.DataFrame()
 df_temp['Time Period'] = df['Time Period']
@@ -77,3 +81,26 @@ data_temp_tidy = df_temp.melt(id_vars=df_temp.columns[:2],
                               value_name="Warming (deg C / yr)")
 # Save to file, stripped of index
 data_temp_tidy.to_csv(r'temp_trends_cheng2017.csv', index = False)
+
+
+#### Cumulative ocean temperature change ####
+
+df_temp_cm = data_temp_tidy.copy()
+df_temp_cm.loc[df_temp_cm['Time Period']=='1960-1991', ['Warming (deg C / yr)']] *= 32
+df_temp_cm.loc[df_temp_cm['Time Period']=='1992-2015', ['Warming (deg C / yr)']] *= 24
+df_temp_cm['Temperature increase (K)'] = df_temp_cm['Warming (deg C / yr)']
+df_temp_cm = df_temp_cm.drop(columns=['Warming (deg C / yr)'])
+
+full_period_increase = ((df_temp_cm.loc[df_temp_cm['Time Period']=='1960-1991', ['Temperature increase (K)']]).to_numpy() + 
+      df_temp_cm.loc[df_temp_cm['Time Period']=='1992-2015', ['Temperature increase (K)']].to_numpy()).flatten()
+
+
+df2 = pd.DataFrame([['1960-2015', 'Mean', '0-700 m', full_period_increase[0]],
+                     ['1960-2015', '95% error bar', '0-700 m', full_period_increase[1]],
+                     ['1960-2015', 'Mean', '700-2000 m', full_period_increase[2]],
+                     ['1960-2015', '95% error bar', '700-2000 m', full_period_increase[3]]],
+      columns=df_temp_cm.columns)
+df_temp_cm = df_temp_cm.append(df2).sort_values('Measure', ascending=False)
+df_temp_cm = df_temp_cm.sort_values('Layer')
+df_temp_cm['Temperature increase (K)'] = round(df_temp_cm['Temperature increase (K)'], 4)
+df_temp_cm.to_csv(r'cumulative_temp_increase_cheng2017.csv', index = False)
