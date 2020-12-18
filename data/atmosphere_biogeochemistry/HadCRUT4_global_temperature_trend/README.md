@@ -4,6 +4,9 @@
 ## Description
 HadCRUT4 is a gridded dataset of global historical surface temperatures. Data are available for each month since January 1850, on a 5 degree grid. Retrieved December 11th 2020.
 
+## Key Numbers
+Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.11 °C ± 0.09 °C
+
 ## Source Information
 * **Source Website**: Met Office Hadley Centre observations datasets, HadCRUT4 Data
 * **URL**: [Article](https://doi.org/10.1029/2011JD017187), [data](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
