@@ -139,6 +139,7 @@ Year,Reported value,Temperature anomaly (K)
 2017,global mean,1.122
 2018,global mean,1.052
 2019,global mean,1.182
+2020,global mean,1.242
 1880,"low. bound, 95% CI bias unc.",-0.097
 1881,"low. bound, 95% CI bias unc.",-0.002
 1882,"low. bound, 95% CI bias unc.",-0.035
@@ -278,7 +279,8 @@ Year,Reported value,Temperature anomaly (K)
 2016,"low. bound, 95% CI bias unc.",1.158
 2017,"low. bound, 95% CI bias unc.",1.068
 2018,"low. bound, 95% CI bias unc.",0.998
-2019,"low. bound, 95% CI bias unc.",1.128
+2019,"low. bound, 95% CI bias unc.",1.132
+2020,"low. bound, 95% CI bias unc.",1.192
 1880,"upp. bound, 95% CI bias unc.",0.181
 1881,"upp. bound, 95% CI bias unc.",0.266
 1882,"upp. bound, 95% CI bias unc.",0.239
@@ -418,7 +420,8 @@ Year,Reported value,Temperature anomaly (K)
 2016,"upp. bound, 95% CI bias unc.",1.266
 2017,"upp. bound, 95% CI bias unc.",1.176
 2018,"upp. bound, 95% CI bias unc.",1.106
-2019,"upp. bound, 95% CI bias unc.",1.236
+2019,"upp. bound, 95% CI bias unc.",1.232
+2020,"upp. bound, 95% CI bias unc.",1.292
 1880,95% CI,0.139
 1881,95% CI,0.134
 1882,95% CI,0.137
@@ -558,4 +561,5 @@ Year,Reported value,Temperature anomaly (K)
 2016,95% CI,0.054
 2017,95% CI,0.054
 2018,95% CI,0.054
-2019,95% CI,0.054
+2019,95% CI,0.05
+2020,95% CI,0.05
