@@ -7,10 +7,10 @@ The linear trend of global ocean heat content (OHC) and temperature increase con
 ## Key Numbers
 
 ### Ocean heat content trend
-| Time Interval |  OHC trend 0-700 m (10<sup>22</sup> J / yr) |   OHC trend 700-2000 m (10<sup>22</sup> J / yr) |   OHC trend 2000- m (10<sup>22</sup> J / yr) |
-|:--:|:--:|:--:|:--:|
-|1960–1991| 0.15 &plusmn; 0.08 | 0.04 &plusmn; 0.08 | 0.0 &plusmn; 0.04 |
-|1992–2015| 0.61 &plusmn; 0.04 | 0.37 &plusmn; 0.02 | 0.11 &plusmn; 0.10 |
+| Time Interval |  OHC trend 0-700 m (10<sup>22</sup> J / yr) |   OHC trend 700-2000 m (10<sup>22</sup> J / yr) |   OHC trend 2000- m (10<sup>22</sup> J / yr) | OHC trend full depth (10<sup>22</sup> J / yr) |
+|:--:|:--:|:--:|:--:|:--:|
+|1960–1991| 0.15 &plusmn; 0.08 | 0.04 &plusmn; 0.08 | 0.0 &plusmn; 0.04 | 0.19 &plusmn; 0.20 |
+|1992–2015| 0.61 &plusmn; 0.04 | 0.37 &plusmn; 0.02 | 0.11 &plusmn; 0.10 | 1.09 &plusmn; 0.16 |
 
 ## Source Information
 
