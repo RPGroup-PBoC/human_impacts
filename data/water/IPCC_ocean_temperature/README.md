@@ -15,4 +15,4 @@ The global ocean heat uptake rate for 0-2000 m (2005 - 2017): ≈ 9 ZJ / yr.
 * **Bias**: These data are collected by the IPCC, an intergovernmental agency generally regarded to be an objective science agency.
 
 ## Notes
-The data were processed into tidy format manually and only observational values for the most recent (2005-2017) period were retained in the processed dataset. This period was chosen because "the 2005–2017 period has the most complete interior ocean data coverage and the greatest consistency between estimates." For details see Table 5.1 on pp. 458 of the full report. The average fluxes in W m<sup>-2</sup> are computed considering Earth's surface area.
+The data were processed into tidy format manually and only observational values for the most recent (2005-2017) period were retained in the processed dataset. The 2005–2017 period has the most complete interior ocean data coverage and the greatest consistency between estimates. For details see Table 5.1 on pp. 458, Chapter 5 of the report. The average fluxes in W m<sup>-2</sup> are computed considering Earth's surface area.
