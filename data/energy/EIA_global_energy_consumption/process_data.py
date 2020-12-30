@@ -49,6 +49,7 @@ for file in filenames:
 	print(file)
 	name = file.split('/')[1].split('.')[0]
 	data = load_eia_json(file)
+	data = data[data['iso'] != 'WORL']
 	conversion = unit_conversions[data['unit'][0]]
 	data['value'] *= conversion[0]
 	data.rename(columns={'value': conversion[1]}, inplace=True)
