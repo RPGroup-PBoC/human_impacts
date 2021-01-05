@@ -25,14 +25,14 @@ chart = alt.Chart(proc_data).encode(
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
-bands = chart.mark_area(color='darkorange', fillOpacity=0.4).encode(
+bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y='lower bound:Q',
             y2='upper bound:Q'
         ).properties(width='container', height=300)
 
-l = chart.mark_line(color='darkorange')
-p = chart.mark_point(color='darkorange', filled=True)
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(bands, l, p)
 layer.save('NOAA_NCEI_global_700m_temp.json')
 # %%
