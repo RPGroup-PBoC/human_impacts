@@ -26,14 +26,14 @@
 #
 # NOTE: anomalies are based on the climatology from 1971 to 2000
 #
-# Last updated: Dec 2020
+# Last updated: Jan 2021
 # Author: Ignacio Lopez-Gomez
 # 
 #################
 import pandas as pd
 import numpy as np
 
-raw_data_ = pd.read_csv('../source/aravg.ann.land_ocean.90S.90N.v5.0.0.202010.asc.txt',
+raw_data_ = pd.read_csv('../source/aravg.ann.land_ocean.90S.90N.v5.0.0.202011.asc.txt',
     delim_whitespace=True, names=['year', 'global mean',
                                   'total error variance',
                                   'high-frequency error variance',
@@ -43,16 +43,17 @@ raw_data_ = pd.read_csv('../source/aravg.ann.land_ocean.90S.90N.v5.0.0.202010.as
 
 # First remove 1880-1900 mean
 noaa_data = raw_data_[['year', 'global mean']]
-noaa_data_1880_1900 = (noaa_data[noaa_data['year']>1880])[noaa_data['year']<1900].mean()['global mean']
+noaa_data_1880_1900 = noaa_data[(noaa_data['year']>1880) & (noaa_data['year']<1900)].mean()['global mean']
 #Then add the 1880-1900 mean from the HadCRUT4 dataset to center around the same reference
 hadcrut_data = pd.read_csv('../../HadCRUT4_global_temperature_trend/processed/HadCRUT4_global_surf_temperature_trend.csv')
 hadcrut_data = hadcrut_data[hadcrut_data['Reported value']=='ensemble median']
-hadcrut_data_1880_1900 = (hadcrut_data[hadcrut_data['year']>1880])[hadcrut_data['year']<1900].mean()['Temperature anomaly (K)']
+hadcrut_data_1880_1900 = hadcrut_data[(hadcrut_data['year']>1880) & (hadcrut_data['year']<1900)].mean()['Temperature anomaly (K)']
 # Remove both references
 raw_data_['global mean'] = raw_data_['global mean'] - noaa_data_1880_1900 + hadcrut_data_1880_1900
 
 # Convert variances to standard deviations
 raw_data_['total error std'] = np.sqrt(raw_data_['total error variance'])
+raw_data_['total error 95% CI'] = 1.96*np.sqrt(raw_data_['total error variance'])
 raw_data_['high-frequency error std'] = np.sqrt(raw_data_['high-frequency error variance'])
 raw_data_['low-frequency error std'] = np.sqrt(raw_data_['low-frequency error variance'])
 raw_data_['bias error std'] = np.sqrt(raw_data_['bias error variance'])
