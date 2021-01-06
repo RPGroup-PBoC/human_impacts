@@ -2,7 +2,10 @@
 # NOAA Global Monitoring Laboratory CH<sub>4</sub> Monthly Time Series
 
 ## Description
-Globally-averaged, monthly mean atmospheric CH<sub>4</sub> concentrations determined from marine surface sites from 1983-Present. Retrieved on November 30th 2020.
+Globally-averaged, monthly mean atmospheric CH<sub>4</sub> concentrations determined from marine surface sites from 1983-Present. Retrieved on January 5th 2020.
+
+## Key Numbers
+Methane atmospheric concentration (2020) : ≈ 1880 parts per billion (ppb)
 
 ## Source Information
 * **Source Website**: Global Monitoring Laboratory, Earth System Research Laboratories, NOAA
