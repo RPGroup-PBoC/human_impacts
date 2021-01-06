@@ -10,8 +10,8 @@ proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data[data['Reported value']=='global mean']['year'], format='%Y')
 proc_data['global mean'] = data[data['Reported value']=='global mean']['Temperature anomaly (K)']
 proc_data['total error std'] = data[data['Reported value']=='total error std']['Temperature anomaly (K)'].to_numpy()
-proc_data['lower bound'] = proc_data['global mean'] - 2.0*proc_data['total error std'] # 95% confidence interval
-proc_data['upper bound'] = proc_data['global mean'] + 2.0*proc_data['total error std'] # 95% confidence interval
+proc_data['lower bound'] = proc_data['global mean'] - 1.96*proc_data['total error std'] # 95% confidence interval
+proc_data['upper bound'] = proc_data['global mean'] + 1.96*proc_data['total error std'] # 95% confidence interval
 #%%
 
 # Generate a plot for global mean surface temperature
@@ -23,14 +23,14 @@ chart = alt.Chart(proc_data).encode(
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
-bands = chart.mark_area(color='darkorange', fillOpacity=0.4).encode(
+bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y='lower bound:Q',
             y2='upper bound:Q'
         ).properties(width='container', height=300)
 
-l = chart.mark_line(color='darkorange')
-p = chart.mark_point(color='darkorange', filled=True)
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(bands, l, p) #.resolve_scale(y='shared')
 layer.save('NOAAGlobalTempv5_global_surface_temp.json')
 
