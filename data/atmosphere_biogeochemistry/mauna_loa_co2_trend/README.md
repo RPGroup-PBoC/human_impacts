@@ -2,7 +2,10 @@
 # Mauna Loa CO<sub>2</sub> Time Series
 
 ## Description
-Atmospheric CO<sub>2</sub> concentrations measured at the Mauna Loa Observatory, Hawaii from 1958-Present. Retrieved on December 9th 2020.
+Atmospheric CO<sub>2</sub> concentrations measured at the Mauna Loa Observatory, Hawaii from 1958-Present. Retrieved on January 6th 2021.
+
+## Key Numbers
+Methane atmospheric concentration (December 2020) : ≈ 415 parts per million (ppm)
 
 ## Source Information
 * **Source Website**: Primary Mauna Loa CO<sub>2</sub> Record, Scripps CO<sub>2</sub> Program
@@ -17,4 +20,4 @@ Atmospheric CO<sub>2</sub> concentrations measured at the Mauna Loa Observatory,
 
 ## Notes
 The original data file below contains 10 columns.  Columns 1-4 give the dates in several redundant
-formats. Column 5 below gives monthly Mauna Loa CO<sub>2</sub> concentrations in micro-mol CO<sub>2</sub> per mole (ppm), reported on the 2008A SIO manometric mole fraction scale.  This is the standard version of the data most often sought.  The monthly values have been adjusted to 24:00 hours on the 15th of each month.  Column 6 gives the same data after a seasonal adjustment to remove the quasi-regular seasonal cycle.  The adjustment involves subtracting from the data a 4-harmonic fit with a linear gain factor.  Column 7 is a smoothed version of the data generated from a stiff cubic spline function plus 4-harmonic functions with linear gain.  Column 8 is the same smoothed version with the seasonal cycle removed.  Column 9 is identical to Column 5 except that the missing values from Column 5 have been filled with values from Column 7.  Column 10 is identical to Column 6 except missing values have been filled with values from Column 8.  Missing values are denoted by -99.99.   
+formats. Column 5 below gives monthly Mauna Loa CO<sub>2</sub> concentrations in micro-mol CO<sub>2</sub> per mole (ppm), reported on the 2008A SIO manometric mole fraction scale.  This is the standard version of the data most often sought.  The monthly values have been adjusted to 24:00 hours on the 15th of each month.  Column 6 gives the same data after a seasonal adjustment to remove the quasi-regular seasonal cycle.  The adjustment involves subtracting from the data a 4-harmonic fit with a linear gain factor.  Column 7 is a smoothed version of the data generated from a stiff cubic spline function plus 4-harmonic functions with linear gain.  Column 8 is the same smoothed version with the seasonal cycle removed.  Column 9 is identical to Column 5 except that the missing values from Column 5 have been filled with values from Column 7.  Column 10 is identical to Column 6 except missing values have been filled with values from Column 8.  Missing values are denoted by -99.99. Uncertainty in measurements is not reported in original source.
