@@ -169,7 +169,7 @@ year,Reported value,Temperature anomaly (K)
 2017,ensemble median,0.991
 2018,ensemble median,0.911
 2019,ensemble median,1.05
-2020,ensemble median,1.108
+2020,ensemble median,1.105
 1850,"low. bound, 95% CI bias unc.",-0.111
 1851,"low. bound, 95% CI bias unc.",0.04
 1852,"low. bound, 95% CI bias unc.",0.034
@@ -340,7 +340,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"low. bound, 95% CI bias unc.",0.95
 2018,"low. bound, 95% CI bias unc.",0.874
 2019,"low. bound, 95% CI bias unc.",1.014
-2020,"low. bound, 95% CI bias unc.",1.074
+2020,"low. bound, 95% CI bias unc.",1.071
 1850,"upp. bound, 95% CI bias unc.",-0.025
 1851,"upp. bound, 95% CI bias unc.",0.13
 1852,"upp. bound, 95% CI bias unc.",0.118
@@ -511,7 +511,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"upp. bound, 95% CI bias unc.",1.03
 2018,"upp. bound, 95% CI bias unc.",0.95
 2019,"upp. bound, 95% CI bias unc.",1.09
-2020,"upp. bound, 95% CI bias unc.",1.151
+2020,"upp. bound, 95% CI bias unc.",1.148
 1850,"low. bound, 95% CI sampling unc.",-0.188
 1851,"low. bound, 95% CI sampling unc.",-0.036
 1852,"low. bound, 95% CI sampling unc.",-0.039
@@ -682,7 +682,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"low. bound, 95% CI sampling unc.",0.969
 2018,"low. bound, 95% CI sampling unc.",0.896
 2019,"low. bound, 95% CI sampling unc.",1.034
-2020,"low. bound, 95% CI sampling unc.",1.091
+2020,"low. bound, 95% CI sampling unc.",1.088
 1850,"upp. bound, 95% CI sampling unc.",0.071
 1851,"upp. bound, 95% CI sampling unc.",0.228
 1852,"upp. bound, 95% CI sampling unc.",0.211
@@ -853,7 +853,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"upp. bound, 95% CI sampling unc.",1.012
 2018,"upp. bound, 95% CI sampling unc.",0.926
 2019,"upp. bound, 95% CI sampling unc.",1.067
-2020,"upp. bound, 95% CI sampling unc.",1.125
+2020,"upp. bound, 95% CI sampling unc.",1.121
 1850,"low. bound, 95% CI coverage unc.",-0.222
 1851,"low. bound, 95% CI coverage unc.",-0.054
 1852,"low. bound, 95% CI coverage unc.",-0.064
@@ -1024,7 +1024,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"low. bound, 95% CI coverage unc.",0.913
 2018,"low. bound, 95% CI coverage unc.",0.836
 2019,"low. bound, 95% CI coverage unc.",0.97
-2020,"low. bound, 95% CI coverage unc.",1.028
+2020,"low. bound, 95% CI coverage unc.",1.027
 1850,"upp. bound, 95% CI coverage unc.",-0.21
 1851,"upp. bound, 95% CI coverage unc.",-0.068
 1852,"upp. bound, 95% CI coverage unc.",-0.078
@@ -1195,7 +1195,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"upp. bound, 95% CI coverage unc.",0.754
 2018,"upp. bound, 95% CI coverage unc.",0.672
 2019,"upp. bound, 95% CI coverage unc.",0.817
-2020,"upp. bound, 95% CI coverage unc.",0.873
+2020,"upp. bound, 95% CI coverage unc.",0.868
 1850,"low. bound, 95% CI bias + sampling unc.",-0.201
 1851,"low. bound, 95% CI bias + sampling unc.",-0.051
 1852,"low. bound, 95% CI bias + sampling unc.",-0.053
@@ -1366,7 +1366,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"low. bound, 95% CI bias + sampling unc.",0.946
 2018,"low. bound, 95% CI bias + sampling unc.",0.87
 2019,"low. bound, 95% CI bias + sampling unc.",1.007
-2020,"low. bound, 95% CI bias + sampling unc.",1.066
+2020,"low. bound, 95% CI bias + sampling unc.",1.064
 1850,"upp. bound, 95% CI bias + sampling unc.",0.076
 1851,"upp. bound, 95% CI bias + sampling unc.",0.233
 1852,"upp. bound, 95% CI bias + sampling unc.",0.216
@@ -1537,7 +1537,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"upp. bound, 95% CI bias + sampling unc.",1.039
 2018,"upp. bound, 95% CI bias + sampling unc.",0.956
 2019,"upp. bound, 95% CI bias + sampling unc.",1.095
-2020,"upp. bound, 95% CI bias + sampling unc.",1.156
+2020,"upp. bound, 95% CI bias + sampling unc.",1.153
 1850,"low. bound, 95% CI total uncertainty",-0.277
 1851,"low. bound, 95% CI total uncertainty",-0.115
 1852,"low. bound, 95% CI total uncertainty",-0.12
@@ -1708,7 +1708,7 @@ year,Reported value,Temperature anomaly (K)
 2017,"low. bound, 95% CI total uncertainty",0.901
 2018,"low. bound, 95% CI total uncertainty",0.825
 2019,"low. bound, 95% CI total uncertainty",0.958
-2020,"low. bound, 95% CI total uncertainty",1.019
+2020,"low. bound, 95% CI total uncertainty",1.018
 1850,"upp. bound, 95% CI total uncertainty",0.152
 1851,"upp. bound, 95% CI total uncertainty",0.298
 1852,"upp. bound, 95% CI total uncertainty",0.284
@@ -1879,4 +1879,4 @@ year,Reported value,Temperature anomaly (K)
 2017,"upp. bound, 95% CI total uncertainty",1.083
 2018,"upp. bound, 95% CI total uncertainty",1.0
 2019,"upp. bound, 95% CI total uncertainty",1.143
-2020,"upp. bound, 95% CI total uncertainty",1.203
+2020,"upp. bound, 95% CI total uncertainty",1.198

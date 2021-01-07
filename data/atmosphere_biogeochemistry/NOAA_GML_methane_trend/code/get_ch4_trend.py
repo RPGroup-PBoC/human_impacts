@@ -6,7 +6,7 @@
 # and returns a csv file with the processed time series.
 # Data is provided in ppb (parts per billion).
 #
-# Last updated: Nov 2020
+# Last updated: Jan 2021
 # Author: Ignacio Lopez-Gomez
 # 
 #################
@@ -23,5 +23,10 @@ proc_data_['date (decimal)'] = round(proc_data_['date (decimal)'], 3)
 data_tidy = proc_data_.melt(id_vars=proc_data_.columns[:3], 
                                 var_name="Reported value", 
                                 value_name="Concentration (ppb)")
+
+# Fix absent value formatting
+data_tidy["Concentration (ppb)"] = data_tidy["Concentration (ppb)"].astype(float)
+data_tidy["Concentration (ppb)"] = data_tidy["Concentration (ppb)"].where(data_tidy["Concentration (ppb)"] > 0)
+
 # # Save to file, stripped of index
 data_tidy.to_csv(r'monthly_global_ch4_data_processed.csv', index = False)

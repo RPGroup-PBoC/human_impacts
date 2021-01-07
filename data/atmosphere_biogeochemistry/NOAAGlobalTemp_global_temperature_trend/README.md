@@ -3,10 +3,10 @@
 
 ## Description
 The NOAA Merged Land Ocean Global Surface Temperature Analysis Dataset
-(NOAAGlobalTemp) is a merged land–ocean surface temperature analysis. It is a spatially gridded (5° × 5°) global surface temperature dataset, with monthly resolution from January 1880 to present. Retrieved December 11th 2020.
+(NOAAGlobalTemp) is a merged land–ocean surface temperature analysis. It is a spatially gridded (5° × 5°) global surface temperature dataset, with monthly resolution from January 1880 to present. Retrieved January 5th 2020.
 
 ## Key Numbers
-Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.20 °C ± 0.18 °C
+Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.20 °C ± 0.16 °C
 
 ## Source Information
 * **Source Website**: NOAA Merged Land Ocean Global Surface Temperature Analysis (NOAAGlobalTemp) v5
@@ -17,10 +17,10 @@ Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.20 °C ± 0
   - Cite dataset when used as a source. See the dataset's DOI landing page for citation details at doi:10.7289/V5FN144H.
 
 ## Files
-* `aravg.ann.land_ocean.90S.90N.v5.0.0.202010.asc.txt`: original data source, with anomalies with respect to the 1971–2000 mean. 
+* `aravg.ann.land_ocean.90S.90N.v5.0.0.202011.asc.txt`: original data source, with anomalies with respect to the 1971–2000 mean. 
 * `NOAAGlobalTempv5_global_surf_temperature_trend.csv`: Processed data, with anomalies with respect to the 1850-1900 mean of the HadCRUT4 dataset. 
 
 ## Notes
-Temperature anomalies are provided relative to a 1971–2000 monthly climatology in the source file, following the World Meteorological Organization convention. In the processed file, anomalies are presented with respect to the 1850-1900 mean of the HadCRUT4 dataset for ease of comparison. This is the same reference used in the WMO Provisional Report on the State of the Global Climate 2020. Obtained by combining a global sea surface (water) temperature (SST) dataset with a global land surface air temperature dataset into a merged dataset of both the Earth’s land and ocean surface temperatures.
+Temperature anomalies are provided relative to a 1971–2000 monthly climatology in the source file, following the World Meteorological Organization convention. In the processed file, anomalies are presented with respect to the 1850-1900 mean of the HadCRUT4 dataset for ease of comparison. This is the same reference used in the WMO Provisional Report on the State of the Global Climate 2020. Obtained by combining a global sea surface (water) temperature (SST) dataset with a global land surface air temperature dataset into a merged dataset of both the Earth’s land and ocean surface temperatures. The Extended Reconstructed Sea Surface Temperature (ERSST) version 5 provides the foundational SST observations. The land surface air temperature observations come from the Global Historical Climatology Network Monthly (GHCN-Monthly) database, version 4.
 
 

@@ -2,7 +2,7 @@
 # HadCRUT4 Global Surface Temperature Time Series
 
 ## Description
-HadCRUT4 is a gridded dataset of global historical surface temperatures. Data are available for each month since January 1850, on a 5 degree grid. Retrieved December 11th 2020.
+HadCRUT4 is a gridded dataset of global historical surface temperatures. Data are available for each month since January 1850, on a 5 degree grid. Retrieved January 5th 2020.
 
 ## Key Numbers
 Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.11 °C ± 0.09 °C
@@ -19,6 +19,6 @@ Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.11 °C ± 0
 * `HadCRUT4_global_surf_temperature_trend.csv`: Processed data, with anomalies with respect to the 1850-1900 mean.
 
 ## Notes
-The HadCRUT4 near surface temperature data set is produced by blending data from the CRUTEM4 surface air temperature dataset and the HadSST3 sea-surface temperature dataset. These *best estimate* series are computed as the medians of regional time series computed for each of the 100 ensemble member realisations. Time series are presented as temperature anomalies (deg C) relative to 1961-1990 in the original file, and as anomalies with respect to the 1850-1900 mean in the processed file. This is the same reference used in the WMO Provisional Report on the State of the Global Climate 2020.
+The HadCRUT4 near surface temperature data set is produced by blending data from the CRUTEM4 surface air temperature dataset and the HadSST3 sea-surface temperature dataset. These *best estimate* series are computed as the medians of regional time series computed for each of the 100 ensemble member realisations. Time series are presented as temperature anomalies (deg C) relative to 1961-1990 in the original file, and as anomalies with respect to the 1850-1900 mean in the processed file. This is the same reference used in the WMO Provisional Report on the State of the Global Climate 2020. The uncertainty represents the 95% confidence interval of the combined effects of all the uncertainties described in the HadCRUT4 error model (measurement and sampling, bias and coverage uncertainties).
 
 
