@@ -32,7 +32,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
@@ -67,7 +67,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
@@ -101,7 +101,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
@@ -135,7 +135,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
@@ -170,7 +170,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
@@ -205,7 +205,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
@@ -240,7 +240,7 @@ chart = alt.Chart(agg_data).encode(
 
 # Add uncertainty bands
 bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
-            x=alt.X(field='date', type='temporal', timeUnit='year', title='year'),
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
             y2='upper bound:Q'
         ).properties(width='container', height=300)
