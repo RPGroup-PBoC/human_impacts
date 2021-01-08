@@ -31,4 +31,3 @@ oil_total = pd.read_csv('processed/EIA_OilConsumption_totals.csv')
 coal_total = pd.read_csv('processed/EIA_CoalConsumption_totals.csv')
 coal_total['Watts'] = nat_gas_total['Watts'] + oil_total['Watts'] + coal_total['Watts']
 coal_total.to_csv('processed/EIA_FossilFuelConsumption_totals.csv', index=False)
-print(coal_total)
