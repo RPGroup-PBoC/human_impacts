@@ -5,10 +5,10 @@
 The Global Carbon Budget contains data on CO<sub>2</sub> emissions from fossil-fuel use and land-use change.
 
 ## Key Numbers
-* CO<sub>2</sub> emissions total (2018): ≈ 11.5 GtC / yr (≈ 42.1 GtCO<sub>2</sub> / yr)
-* CO<sub>2</sub> emissions from fossil fuel combustion and industrial processes (2018): ≈ 10 GtC / yr (≈ 36.6 GtCO<sub>2</sub> / yr)
+* CO<sub>2</sub> emissions total (2018): ≈ 11.5 GtC / yr (≈ 42.2 GtCO<sub>2</sub> / yr)
+* CO<sub>2</sub> emissions from fossil fuel combustion and industrial processes (2018): ≈ 10 GtC / yr (≈ 36.7 GtCO<sub>2</sub> / yr)
 * CO<sub>2</sub> emissions from land-use change (2018): ≈ 1.5 GtC / yr (≈ 5.5 GtCO<sub>2</sub> / yr)
-* Atmospheric CO<sub>2</sub> growth rate (2018): ≈ 5.1 GtC / yr (≈ 18.8 GtCO<sub>2</sub> / yr)
+* Atmospheric CO<sub>2</sub> growth rate (2018): ≈ 5.1 GtC / yr (≈ 18.7 GtCO<sub>2</sub> / yr)
 
 ## Source Information
 * **Source Website**: Global Carbon Budget 2019
@@ -23,6 +23,6 @@ The Global Carbon Budget contains data on CO<sub>2</sub> emissions from fossil-f
 * **Bias**: These data are mostly from original publications but collected and curated by the Global Carbon Project, a Global Research Project of Future Earth and a research partner of the World Climate Research Programme. No inherent bias seems to be present.
 
 ## Notes
-The global data were processed by converting the source tab "Global Carbon Budget" in `source/Global_Carbon_Budget_2019v1.0.xlsx` to csv. Please see the source data for more detailed information. Values are present in units of GtC / yr but can easily be converted to Gt CO<sub>2</sub> / yr as 1 gigatonne C = 3.664 billion tonnes of CO<sub>2</sub>.
+The global data were processed by converting the source tab "Global Carbon Budget" in `source/Global_Carbon_Budget_2019v1.0.xlsx` to csv. Please see the source data for more detailed information. Values are present in units of Pg C / yr and Pg CO<sub>2</sub> / yr. The uncertainty reported in `processed/global_carbon_budget_processed.csv` is taken from the header of `source/Global_Carbon_Budget_2019v1.0.xlsx`. The uncertainty of the net natural sink and the total anthropogenic emissions is obtained by assuming uncorrelated biases, following Table 6 in Friedlingstein, P. et al. (2019).
 
 The regional data were processed by first converting the source tab "Territorial Emissions" in `source/National_Carbon_Emissions_2019v1.0.xlsx` to csv. This csv, containing the data at a national level, was then processed into `processed/regional_co2_data_processed.csv` using `code/get_regional_CO2.py`.
