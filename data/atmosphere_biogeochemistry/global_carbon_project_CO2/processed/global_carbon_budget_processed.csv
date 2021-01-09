@@ -1,961 +1,1921 @@
-Year,Flux into atmosphere,Sink/source type,Units,Value
-1959,source,fossil fuel and industry,Pg C yr-1,2.42
-1960,source,fossil fuel and industry,Pg C yr-1,2.55
-1961,source,fossil fuel and industry,Pg C yr-1,2.56
-1962,source,fossil fuel and industry,Pg C yr-1,2.65
-1963,source,fossil fuel and industry,Pg C yr-1,2.8
-1964,source,fossil fuel and industry,Pg C yr-1,2.94
-1965,source,fossil fuel and industry,Pg C yr-1,3.08
-1966,source,fossil fuel and industry,Pg C yr-1,3.22
-1967,source,fossil fuel and industry,Pg C yr-1,3.32
-1968,source,fossil fuel and industry,Pg C yr-1,3.51
-1969,source,fossil fuel and industry,Pg C yr-1,3.74
-1970,source,fossil fuel and industry,Pg C yr-1,4.05
-1971,source,fossil fuel and industry,Pg C yr-1,4.21
-1972,source,fossil fuel and industry,Pg C yr-1,4.41
-1973,source,fossil fuel and industry,Pg C yr-1,4.64
-1974,source,fossil fuel and industry,Pg C yr-1,4.62
-1975,source,fossil fuel and industry,Pg C yr-1,4.62
-1976,source,fossil fuel and industry,Pg C yr-1,4.86
-1977,source,fossil fuel and industry,Pg C yr-1,5.0
-1978,source,fossil fuel and industry,Pg C yr-1,5.18
-1979,source,fossil fuel and industry,Pg C yr-1,5.32
-1980,source,fossil fuel and industry,Pg C yr-1,5.29
-1981,source,fossil fuel and industry,Pg C yr-1,5.15
-1982,source,fossil fuel and industry,Pg C yr-1,5.11
-1983,source,fossil fuel and industry,Pg C yr-1,5.16
-1984,source,fossil fuel and industry,Pg C yr-1,5.31
-1985,source,fossil fuel and industry,Pg C yr-1,5.5
-1986,source,fossil fuel and industry,Pg C yr-1,5.58
-1987,source,fossil fuel and industry,Pg C yr-1,5.76
-1988,source,fossil fuel and industry,Pg C yr-1,5.98
-1989,source,fossil fuel and industry,Pg C yr-1,6.07
-1990,source,fossil fuel and industry,Pg C yr-1,6.2
-1991,source,fossil fuel and industry,Pg C yr-1,6.33
-1992,source,fossil fuel and industry,Pg C yr-1,6.13
-1993,source,fossil fuel and industry,Pg C yr-1,6.2
-1994,source,fossil fuel and industry,Pg C yr-1,6.24
-1995,source,fossil fuel and industry,Pg C yr-1,6.38
-1996,source,fossil fuel and industry,Pg C yr-1,6.58
-1997,source,fossil fuel and industry,Pg C yr-1,6.62
-1998,source,fossil fuel and industry,Pg C yr-1,6.59
-1999,source,fossil fuel and industry,Pg C yr-1,6.68
-2000,source,fossil fuel and industry,Pg C yr-1,6.86
-2001,source,fossil fuel and industry,Pg C yr-1,6.92
-2002,source,fossil fuel and industry,Pg C yr-1,7.07
-2003,source,fossil fuel and industry,Pg C yr-1,7.42
-2004,source,fossil fuel and industry,Pg C yr-1,7.76
-2005,source,fossil fuel and industry,Pg C yr-1,8.02
-2006,source,fossil fuel and industry,Pg C yr-1,8.29
-2007,source,fossil fuel and industry,Pg C yr-1,8.54
-2008,source,fossil fuel and industry,Pg C yr-1,8.73
-2009,source,fossil fuel and industry,Pg C yr-1,8.61
-2010,source,fossil fuel and industry,Pg C yr-1,9.05
-2011,source,fossil fuel and industry,Pg C yr-1,9.35
-2012,source,fossil fuel and industry,Pg C yr-1,9.5
-2013,source,fossil fuel and industry,Pg C yr-1,9.54
-2014,source,fossil fuel and industry,Pg C yr-1,9.61
-2015,source,fossil fuel and industry,Pg C yr-1,9.62
-2016,source,fossil fuel and industry,Pg C yr-1,9.66
-2017,source,fossil fuel and industry,Pg C yr-1,9.77
-2018,source,fossil fuel and industry,Pg C yr-1,9.98
-1959,source,land-use change emissions,Pg C yr-1,1.81
-1960,source,land-use change emissions,Pg C yr-1,1.65
-1961,source,land-use change emissions,Pg C yr-1,1.58
-1962,source,land-use change emissions,Pg C yr-1,1.53
-1963,source,land-use change emissions,Pg C yr-1,1.47
-1964,source,land-use change emissions,Pg C yr-1,1.41
-1965,source,land-use change emissions,Pg C yr-1,1.36
-1966,source,land-use change emissions,Pg C yr-1,1.32
-1967,source,land-use change emissions,Pg C yr-1,1.3
-1968,source,land-use change emissions,Pg C yr-1,1.29
-1969,source,land-use change emissions,Pg C yr-1,1.3
-1970,source,land-use change emissions,Pg C yr-1,1.27
-1971,source,land-use change emissions,Pg C yr-1,1.25
-1972,source,land-use change emissions,Pg C yr-1,1.22
-1973,source,land-use change emissions,Pg C yr-1,1.19
-1974,source,land-use change emissions,Pg C yr-1,1.16
-1975,source,land-use change emissions,Pg C yr-1,1.14
-1976,source,land-use change emissions,Pg C yr-1,1.12
-1977,source,land-use change emissions,Pg C yr-1,1.1
-1978,source,land-use change emissions,Pg C yr-1,1.07
-1979,source,land-use change emissions,Pg C yr-1,1.04
-1980,source,land-use change emissions,Pg C yr-1,1.08
-1981,source,land-use change emissions,Pg C yr-1,1.1
-1982,source,land-use change emissions,Pg C yr-1,1.12
-1983,source,land-use change emissions,Pg C yr-1,1.16
-1984,source,land-use change emissions,Pg C yr-1,1.2
-1985,source,land-use change emissions,Pg C yr-1,1.22
-1986,source,land-use change emissions,Pg C yr-1,1.25
-1987,source,land-use change emissions,Pg C yr-1,1.29
-1988,source,land-use change emissions,Pg C yr-1,1.31
-1989,source,land-use change emissions,Pg C yr-1,1.34
-1990,source,land-use change emissions,Pg C yr-1,1.31
-1991,source,land-use change emissions,Pg C yr-1,1.31
-1992,source,land-use change emissions,Pg C yr-1,1.32
-1993,source,land-use change emissions,Pg C yr-1,1.31
-1994,source,land-use change emissions,Pg C yr-1,1.31
-1995,source,land-use change emissions,Pg C yr-1,1.29
-1996,source,land-use change emissions,Pg C yr-1,1.27
-1997,source,land-use change emissions,Pg C yr-1,1.74
-1998,source,land-use change emissions,Pg C yr-1,1.19
-1999,source,land-use change emissions,Pg C yr-1,1.16
-2000,source,land-use change emissions,Pg C yr-1,1.34
-2001,source,land-use change emissions,Pg C yr-1,1.27
-2002,source,land-use change emissions,Pg C yr-1,1.46
-2003,source,land-use change emissions,Pg C yr-1,1.52
-2004,source,land-use change emissions,Pg C yr-1,1.48
-2005,source,land-use change emissions,Pg C yr-1,1.37
-2006,source,land-use change emissions,Pg C yr-1,1.42
-2007,source,land-use change emissions,Pg C yr-1,1.24
-2008,source,land-use change emissions,Pg C yr-1,1.3
-2009,source,land-use change emissions,Pg C yr-1,1.5
-2010,source,land-use change emissions,Pg C yr-1,1.38
-2011,source,land-use change emissions,Pg C yr-1,1.34
-2012,source,land-use change emissions,Pg C yr-1,1.47
-2013,source,land-use change emissions,Pg C yr-1,1.52
-2014,source,land-use change emissions,Pg C yr-1,1.66
-2015,source,land-use change emissions,Pg C yr-1,1.7
-2016,source,land-use change emissions,Pg C yr-1,1.54
-2017,source,land-use change emissions,Pg C yr-1,1.47
-2018,source,land-use change emissions,Pg C yr-1,1.51
-1959,source,atmospheric growth,Pg C yr-1,2.04
-1960,source,atmospheric growth,Pg C yr-1,1.51
-1961,source,atmospheric growth,Pg C yr-1,1.66
-1962,source,atmospheric growth,Pg C yr-1,1.19
-1963,source,atmospheric growth,Pg C yr-1,1.21
-1964,source,atmospheric growth,Pg C yr-1,1.04
-1965,source,atmospheric growth,Pg C yr-1,2.34
-1966,source,atmospheric growth,Pg C yr-1,2.34
-1967,source,atmospheric growth,Pg C yr-1,1.3
-1968,source,atmospheric growth,Pg C yr-1,2.11
-1969,source,atmospheric growth,Pg C yr-1,2.81
-1970,source,atmospheric growth,Pg C yr-1,2.41
-1971,source,atmospheric growth,Pg C yr-1,1.56
-1972,source,atmospheric growth,Pg C yr-1,3.13
-1973,source,atmospheric growth,Pg C yr-1,3.11
-1974,source,atmospheric growth,Pg C yr-1,1.45
-1975,source,atmospheric growth,Pg C yr-1,2.62
-1976,source,atmospheric growth,Pg C yr-1,2.07
-1977,source,atmospheric growth,Pg C yr-1,4.09
-1978,source,atmospheric growth,Pg C yr-1,2.75
-1979,source,atmospheric growth,Pg C yr-1,4.56
-1980,source,atmospheric growth,Pg C yr-1,3.62
-1981,source,atmospheric growth,Pg C yr-1,2.45
-1982,source,atmospheric growth,Pg C yr-1,2.13
-1983,source,atmospheric growth,Pg C yr-1,3.94
-1984,source,atmospheric growth,Pg C yr-1,2.64
-1985,source,atmospheric growth,Pg C yr-1,3.45
-1986,source,atmospheric growth,Pg C yr-1,2.17
-1987,source,atmospheric growth,Pg C yr-1,5.75
-1988,source,atmospheric growth,Pg C yr-1,4.79
-1989,source,atmospheric growth,Pg C yr-1,2.94
-1990,source,atmospheric growth,Pg C yr-1,2.49
-1991,source,atmospheric growth,Pg C yr-1,1.58
-1992,source,atmospheric growth,Pg C yr-1,1.49
-1993,source,atmospheric growth,Pg C yr-1,2.62
-1994,source,atmospheric growth,Pg C yr-1,3.58
-1995,source,atmospheric growth,Pg C yr-1,4.15
-1996,source,atmospheric growth,Pg C yr-1,2.26
-1997,source,atmospheric growth,Pg C yr-1,4.2
-1998,source,atmospheric growth,Pg C yr-1,6.01
-1999,source,atmospheric growth,Pg C yr-1,2.92
-2000,source,atmospheric growth,Pg C yr-1,2.62
-2001,source,atmospheric growth,Pg C yr-1,3.88
-2002,source,atmospheric growth,Pg C yr-1,5.03
-2003,source,atmospheric growth,Pg C yr-1,4.88
-2004,source,atmospheric growth,Pg C yr-1,3.34
-2005,source,atmospheric growth,Pg C yr-1,5.2
-2006,source,atmospheric growth,Pg C yr-1,3.73
-2007,source,atmospheric growth,Pg C yr-1,4.47
-2008,source,atmospheric growth,Pg C yr-1,3.79
-2009,source,atmospheric growth,Pg C yr-1,3.43
-2010,source,atmospheric growth,Pg C yr-1,5.18
-2011,source,atmospheric growth,Pg C yr-1,3.62
-2012,source,atmospheric growth,Pg C yr-1,5.09
-2013,source,atmospheric growth,Pg C yr-1,5.13
-2014,source,atmospheric growth,Pg C yr-1,4.32
-2015,source,atmospheric growth,Pg C yr-1,6.33
-2016,source,atmospheric growth,Pg C yr-1,6.07
-2017,source,atmospheric growth,Pg C yr-1,4.58
-2018,source,atmospheric growth,Pg C yr-1,5.16
-1959,sink,ocean sink,Pg C yr-1,0.76
-1960,sink,ocean sink,Pg C yr-1,0.79
-1961,sink,ocean sink,Pg C yr-1,0.68
-1962,sink,ocean sink,Pg C yr-1,0.75
-1963,sink,ocean sink,Pg C yr-1,0.89
-1964,sink,ocean sink,Pg C yr-1,1.04
-1965,sink,ocean sink,Pg C yr-1,1.17
-1966,sink,ocean sink,Pg C yr-1,1.15
-1967,sink,ocean sink,Pg C yr-1,0.97
-1968,sink,ocean sink,Pg C yr-1,1.07
-1969,sink,ocean sink,Pg C yr-1,1.11
-1970,sink,ocean sink,Pg C yr-1,1.03
-1971,sink,ocean sink,Pg C yr-1,1.13
-1972,sink,ocean sink,Pg C yr-1,1.34
-1973,sink,ocean sink,Pg C yr-1,1.3
-1974,sink,ocean sink,Pg C yr-1,1.24
-1975,sink,ocean sink,Pg C yr-1,1.23
-1976,sink,ocean sink,Pg C yr-1,1.32
-1977,sink,ocean sink,Pg C yr-1,1.4
-1978,sink,ocean sink,Pg C yr-1,1.44
-1979,sink,ocean sink,Pg C yr-1,1.36
-1980,sink,ocean sink,Pg C yr-1,1.63
-1981,sink,ocean sink,Pg C yr-1,1.62
-1982,sink,ocean sink,Pg C yr-1,1.7
-1983,sink,ocean sink,Pg C yr-1,1.83
-1984,sink,ocean sink,Pg C yr-1,1.7
-1985,sink,ocean sink,Pg C yr-1,1.65
-1986,sink,ocean sink,Pg C yr-1,1.73
-1987,sink,ocean sink,Pg C yr-1,1.82
-1988,sink,ocean sink,Pg C yr-1,1.71
-1989,sink,ocean sink,Pg C yr-1,1.7
-1990,sink,ocean sink,Pg C yr-1,1.82
-1991,sink,ocean sink,Pg C yr-1,1.91
-1992,sink,ocean sink,Pg C yr-1,2.1
-1993,sink,ocean sink,Pg C yr-1,2.03
-1994,sink,ocean sink,Pg C yr-1,1.9
-1995,sink,ocean sink,Pg C yr-1,1.91
-1996,sink,ocean sink,Pg C yr-1,1.86
-1997,sink,ocean sink,Pg C yr-1,1.99
-1998,sink,ocean sink,Pg C yr-1,2.09
-1999,sink,ocean sink,Pg C yr-1,1.94
-2000,sink,ocean sink,Pg C yr-1,1.91
-2001,sink,ocean sink,Pg C yr-1,1.8
-2002,sink,ocean sink,Pg C yr-1,2.15
-2003,sink,ocean sink,Pg C yr-1,2.22
-2004,sink,ocean sink,Pg C yr-1,2.15
-2005,sink,ocean sink,Pg C yr-1,2.22
-2006,sink,ocean sink,Pg C yr-1,2.28
-2007,sink,ocean sink,Pg C yr-1,2.32
-2008,sink,ocean sink,Pg C yr-1,2.27
-2009,sink,ocean sink,Pg C yr-1,2.34
-2010,sink,ocean sink,Pg C yr-1,2.31
-2011,sink,ocean sink,Pg C yr-1,2.43
-2012,sink,ocean sink,Pg C yr-1,2.48
-2013,sink,ocean sink,Pg C yr-1,2.5
-2014,sink,ocean sink,Pg C yr-1,2.58
-2015,sink,ocean sink,Pg C yr-1,2.64
-2016,sink,ocean sink,Pg C yr-1,2.67
-2017,sink,ocean sink,Pg C yr-1,2.54
-2018,sink,ocean sink,Pg C yr-1,2.63
-1959,sink,land sink,Pg C yr-1,0.56
-1960,sink,land sink,Pg C yr-1,1.33
-1961,sink,land sink,Pg C yr-1,0.69
-1962,sink,land sink,Pg C yr-1,1.32
-1963,sink,land sink,Pg C yr-1,1.09
-1964,sink,land sink,Pg C yr-1,1.48
-1965,sink,land sink,Pg C yr-1,0.54
-1966,sink,land sink,Pg C yr-1,1.43
-1967,sink,land sink,Pg C yr-1,1.69
-1968,sink,land sink,Pg C yr-1,2.48
-1969,sink,land sink,Pg C yr-1,0.52
-1970,sink,land sink,Pg C yr-1,0.43
-1971,sink,land sink,Pg C yr-1,2.52
-1972,sink,land sink,Pg C yr-1,1.17
-1973,sink,land sink,Pg C yr-1,1.39
-1974,sink,land sink,Pg C yr-1,3.93
-1975,sink,land sink,Pg C yr-1,2.4
-1976,sink,land sink,Pg C yr-1,2.98
-1977,sink,land sink,Pg C yr-1,1.42
-1978,sink,land sink,Pg C yr-1,2.65
-1979,sink,land sink,Pg C yr-1,1.44
-1980,sink,land sink,Pg C yr-1,0.5
-1981,sink,land sink,Pg C yr-1,2.25
-1982,sink,land sink,Pg C yr-1,1.49
-1983,sink,land sink,Pg C yr-1,0.23
-1984,sink,land sink,Pg C yr-1,2.71
-1985,sink,land sink,Pg C yr-1,2.65
-1986,sink,land sink,Pg C yr-1,2.21
-1987,sink,land sink,Pg C yr-1,0.43
-1988,sink,land sink,Pg C yr-1,1.93
-1989,sink,land sink,Pg C yr-1,3.36
-1990,sink,land sink,Pg C yr-1,2.27
-1991,sink,land sink,Pg C yr-1,2.19
-1992,sink,land sink,Pg C yr-1,2.1
-1993,sink,land sink,Pg C yr-1,2.83
-1994,sink,land sink,Pg C yr-1,1.41
-1995,sink,land sink,Pg C yr-1,1.69
-1996,sink,land sink,Pg C yr-1,3.06
-1997,sink,land sink,Pg C yr-1,3.19
-1998,sink,land sink,Pg C yr-1,1.43
-1999,sink,land sink,Pg C yr-1,3.38
-2000,sink,land sink,Pg C yr-1,3.73
-2001,sink,land sink,Pg C yr-1,2.39
-2002,sink,land sink,Pg C yr-1,1.04
-2003,sink,land sink,Pg C yr-1,2.28
-2004,sink,land sink,Pg C yr-1,3.45
-2005,sink,land sink,Pg C yr-1,1.82
-2006,sink,land sink,Pg C yr-1,3.02
-2007,sink,land sink,Pg C yr-1,2.83
-2008,sink,land sink,Pg C yr-1,3.5
-2009,sink,land sink,Pg C yr-1,2.72
-2010,sink,land sink,Pg C yr-1,3.13
-2011,sink,land sink,Pg C yr-1,4.13
-2012,sink,land sink,Pg C yr-1,2.55
-2013,sink,land sink,Pg C yr-1,3.28
-2014,sink,land sink,Pg C yr-1,3.72
-2015,sink,land sink,Pg C yr-1,2.2
-2016,sink,land sink,Pg C yr-1,2.72
-2017,sink,land sink,Pg C yr-1,3.58
-2018,sink,land sink,Pg C yr-1,3.47
-1959,source,budget imbalance,Pg C yr-1,0.86
-1960,source,budget imbalance,Pg C yr-1,0.57
-1961,source,budget imbalance,Pg C yr-1,1.1
-1962,source,budget imbalance,Pg C yr-1,0.91
-1963,source,budget imbalance,Pg C yr-1,1.07
-1964,source,budget imbalance,Pg C yr-1,0.8
-1965,source,budget imbalance,Pg C yr-1,0.39
-1966,source,budget imbalance,Pg C yr-1,-0.38
-1967,source,budget imbalance,Pg C yr-1,0.67
-1968,source,budget imbalance,Pg C yr-1,-0.86
-1969,source,budget imbalance,Pg C yr-1,0.6
-1970,source,budget imbalance,Pg C yr-1,1.46
-1971,source,budget imbalance,Pg C yr-1,0.26
-1972,source,budget imbalance,Pg C yr-1,-0.02
-1973,source,budget imbalance,Pg C yr-1,0.03
-1974,source,budget imbalance,Pg C yr-1,-0.83
-1975,source,budget imbalance,Pg C yr-1,-0.49
-1976,source,budget imbalance,Pg C yr-1,-0.39
-1977,source,budget imbalance,Pg C yr-1,-0.81
-1978,source,budget imbalance,Pg C yr-1,-0.59
-1979,source,budget imbalance,Pg C yr-1,-1.0
-1980,source,budget imbalance,Pg C yr-1,0.63
-1981,source,budget imbalance,Pg C yr-1,-0.07
-1982,source,budget imbalance,Pg C yr-1,0.9
-1983,source,budget imbalance,Pg C yr-1,0.32
-1984,source,budget imbalance,Pg C yr-1,-0.54
-1985,source,budget imbalance,Pg C yr-1,-1.03
-1986,source,budget imbalance,Pg C yr-1,0.72
-1987,source,budget imbalance,Pg C yr-1,-0.95
-1988,source,budget imbalance,Pg C yr-1,-1.14
-1989,source,budget imbalance,Pg C yr-1,-0.6
-1990,source,budget imbalance,Pg C yr-1,0.93
-1991,source,budget imbalance,Pg C yr-1,1.96
-1992,source,budget imbalance,Pg C yr-1,1.76
-1993,source,budget imbalance,Pg C yr-1,0.03
-1994,source,budget imbalance,Pg C yr-1,0.66
-1995,source,budget imbalance,Pg C yr-1,-0.08
-1996,source,budget imbalance,Pg C yr-1,0.67
-1997,source,budget imbalance,Pg C yr-1,-1.02
-1998,source,budget imbalance,Pg C yr-1,-1.75
-1999,source,budget imbalance,Pg C yr-1,-0.4
-2000,source,budget imbalance,Pg C yr-1,-0.05
-2001,source,budget imbalance,Pg C yr-1,0.12
-2002,source,budget imbalance,Pg C yr-1,0.32
-2003,source,budget imbalance,Pg C yr-1,-0.44
-2004,source,budget imbalance,Pg C yr-1,0.29
-2005,source,budget imbalance,Pg C yr-1,0.16
-2006,source,budget imbalance,Pg C yr-1,0.68
-2007,source,budget imbalance,Pg C yr-1,0.16
-2008,source,budget imbalance,Pg C yr-1,0.46
-2009,source,budget imbalance,Pg C yr-1,1.63
-2010,source,budget imbalance,Pg C yr-1,-0.18
-2011,source,budget imbalance,Pg C yr-1,0.52
-2012,source,budget imbalance,Pg C yr-1,0.85
-2013,source,budget imbalance,Pg C yr-1,0.14
-2014,source,budget imbalance,Pg C yr-1,0.66
-2015,source,budget imbalance,Pg C yr-1,0.16
-2016,source,budget imbalance,Pg C yr-1,-0.27
-2017,source,budget imbalance,Pg C yr-1,0.54
-2018,source,budget imbalance,Pg C yr-1,0.24
-1959,source,anthropogenic emissions,Pg C yr-1,4.23
-1960,source,anthropogenic emissions,Pg C yr-1,4.2
-1961,source,anthropogenic emissions,Pg C yr-1,4.13
-1962,source,anthropogenic emissions,Pg C yr-1,4.17
-1963,source,anthropogenic emissions,Pg C yr-1,4.26
-1964,source,anthropogenic emissions,Pg C yr-1,4.36
-1965,source,anthropogenic emissions,Pg C yr-1,4.44
-1966,source,anthropogenic emissions,Pg C yr-1,4.54
-1967,source,anthropogenic emissions,Pg C yr-1,4.62
-1968,source,anthropogenic emissions,Pg C yr-1,4.8
-1969,source,anthropogenic emissions,Pg C yr-1,5.04
-1970,source,anthropogenic emissions,Pg C yr-1,5.32
-1971,source,anthropogenic emissions,Pg C yr-1,5.46
-1972,source,anthropogenic emissions,Pg C yr-1,5.63
-1973,source,anthropogenic emissions,Pg C yr-1,5.84
-1974,source,anthropogenic emissions,Pg C yr-1,5.78
-1975,source,anthropogenic emissions,Pg C yr-1,5.75
-1976,source,anthropogenic emissions,Pg C yr-1,5.98
-1977,source,anthropogenic emissions,Pg C yr-1,6.1
-1978,source,anthropogenic emissions,Pg C yr-1,6.25
-1979,source,anthropogenic emissions,Pg C yr-1,6.36
-1980,source,anthropogenic emissions,Pg C yr-1,6.38
-1981,source,anthropogenic emissions,Pg C yr-1,6.25
-1982,source,anthropogenic emissions,Pg C yr-1,6.23
-1983,source,anthropogenic emissions,Pg C yr-1,6.32
-1984,source,anthropogenic emissions,Pg C yr-1,6.51
-1985,source,anthropogenic emissions,Pg C yr-1,6.72
-1986,source,anthropogenic emissions,Pg C yr-1,6.83
-1987,source,anthropogenic emissions,Pg C yr-1,7.05
-1988,source,anthropogenic emissions,Pg C yr-1,7.28
-1989,source,anthropogenic emissions,Pg C yr-1,7.4
-1990,source,anthropogenic emissions,Pg C yr-1,7.51
-1991,source,anthropogenic emissions,Pg C yr-1,7.64
-1992,source,anthropogenic emissions,Pg C yr-1,7.45
-1993,source,anthropogenic emissions,Pg C yr-1,7.51
-1994,source,anthropogenic emissions,Pg C yr-1,7.55
-1995,source,anthropogenic emissions,Pg C yr-1,7.67
-1996,source,anthropogenic emissions,Pg C yr-1,7.84
-1997,source,anthropogenic emissions,Pg C yr-1,8.35
-1998,source,anthropogenic emissions,Pg C yr-1,7.78
-1999,source,anthropogenic emissions,Pg C yr-1,7.84
-2000,source,anthropogenic emissions,Pg C yr-1,8.21
-2001,source,anthropogenic emissions,Pg C yr-1,8.19
-2002,source,anthropogenic emissions,Pg C yr-1,8.54
-2003,source,anthropogenic emissions,Pg C yr-1,8.94
-2004,source,anthropogenic emissions,Pg C yr-1,9.24
-2005,source,anthropogenic emissions,Pg C yr-1,9.39
-2006,source,anthropogenic emissions,Pg C yr-1,9.71
-2007,source,anthropogenic emissions,Pg C yr-1,9.77
-2008,source,anthropogenic emissions,Pg C yr-1,10.03
-2009,source,anthropogenic emissions,Pg C yr-1,10.11
-2010,source,anthropogenic emissions,Pg C yr-1,10.43
-2011,source,anthropogenic emissions,Pg C yr-1,10.7
-2012,source,anthropogenic emissions,Pg C yr-1,10.96
-2013,source,anthropogenic emissions,Pg C yr-1,11.06
-2014,source,anthropogenic emissions,Pg C yr-1,11.27
-2015,source,anthropogenic emissions,Pg C yr-1,11.32
-2016,source,anthropogenic emissions,Pg C yr-1,11.19
-2017,source,anthropogenic emissions,Pg C yr-1,11.24
-2018,source,anthropogenic emissions,Pg C yr-1,11.49
-1959,sink,natural sink,Pg C yr-1,1.32
-1960,sink,natural sink,Pg C yr-1,2.12
-1961,sink,natural sink,Pg C yr-1,1.37
-1962,sink,natural sink,Pg C yr-1,2.07
-1963,sink,natural sink,Pg C yr-1,1.98
-1964,sink,natural sink,Pg C yr-1,2.51
-1965,sink,natural sink,Pg C yr-1,1.71
-1966,sink,natural sink,Pg C yr-1,2.58
-1967,sink,natural sink,Pg C yr-1,2.65
-1968,sink,natural sink,Pg C yr-1,3.55
-1969,sink,natural sink,Pg C yr-1,1.62
-1970,sink,natural sink,Pg C yr-1,1.46
-1971,sink,natural sink,Pg C yr-1,3.64
-1972,sink,natural sink,Pg C yr-1,2.51
-1973,sink,natural sink,Pg C yr-1,2.69
-1974,sink,natural sink,Pg C yr-1,5.16
-1975,sink,natural sink,Pg C yr-1,3.63
-1976,sink,natural sink,Pg C yr-1,4.3
-1977,sink,natural sink,Pg C yr-1,2.82
-1978,sink,natural sink,Pg C yr-1,4.09
-1979,sink,natural sink,Pg C yr-1,2.8
-1980,sink,natural sink,Pg C yr-1,2.13
-1981,sink,natural sink,Pg C yr-1,3.87
-1982,sink,natural sink,Pg C yr-1,3.2
-1983,sink,natural sink,Pg C yr-1,2.05
-1984,sink,natural sink,Pg C yr-1,4.41
-1985,sink,natural sink,Pg C yr-1,4.3
-1986,sink,natural sink,Pg C yr-1,3.94
-1987,sink,natural sink,Pg C yr-1,2.25
-1988,sink,natural sink,Pg C yr-1,3.64
-1989,sink,natural sink,Pg C yr-1,5.06
-1990,sink,natural sink,Pg C yr-1,4.08
-1991,sink,natural sink,Pg C yr-1,4.1
-1992,sink,natural sink,Pg C yr-1,4.2
-1993,sink,natural sink,Pg C yr-1,4.86
-1994,sink,natural sink,Pg C yr-1,3.32
-1995,sink,natural sink,Pg C yr-1,3.6
-1996,sink,natural sink,Pg C yr-1,4.92
-1997,sink,natural sink,Pg C yr-1,5.18
-1998,sink,natural sink,Pg C yr-1,3.53
-1999,sink,natural sink,Pg C yr-1,5.32
-2000,sink,natural sink,Pg C yr-1,5.64
-2001,sink,natural sink,Pg C yr-1,4.19
-2002,sink,natural sink,Pg C yr-1,3.19
-2003,sink,natural sink,Pg C yr-1,4.5
-2004,sink,natural sink,Pg C yr-1,5.6
-2005,sink,natural sink,Pg C yr-1,4.03
-2006,sink,natural sink,Pg C yr-1,5.3
-2007,sink,natural sink,Pg C yr-1,5.14
-2008,sink,natural sink,Pg C yr-1,5.78
-2009,sink,natural sink,Pg C yr-1,5.05
-2010,sink,natural sink,Pg C yr-1,5.44
-2011,sink,natural sink,Pg C yr-1,6.56
-2012,sink,natural sink,Pg C yr-1,5.03
-2013,sink,natural sink,Pg C yr-1,5.78
-2014,sink,natural sink,Pg C yr-1,6.29
-2015,sink,natural sink,Pg C yr-1,4.84
-2016,sink,natural sink,Pg C yr-1,5.39
-2017,sink,natural sink,Pg C yr-1,6.12
-2018,sink,natural sink,Pg C yr-1,6.1
-1959,source,fossil fuel and industry,Pg CO2 yr-1,8.86
-1960,source,fossil fuel and industry,Pg CO2 yr-1,9.35
-1961,source,fossil fuel and industry,Pg CO2 yr-1,9.37
-1962,source,fossil fuel and industry,Pg CO2 yr-1,9.71
-1963,source,fossil fuel and industry,Pg CO2 yr-1,10.26
-1964,source,fossil fuel and industry,Pg CO2 yr-1,10.79
-1965,source,fossil fuel and industry,Pg CO2 yr-1,11.29
-1966,source,fossil fuel and industry,Pg CO2 yr-1,11.81
-1967,source,fossil fuel and industry,Pg CO2 yr-1,12.19
-1968,source,fossil fuel and industry,Pg CO2 yr-1,12.86
-1969,source,fossil fuel and industry,Pg CO2 yr-1,13.71
-1970,source,fossil fuel and industry,Pg CO2 yr-1,14.85
-1971,source,fossil fuel and industry,Pg CO2 yr-1,15.45
-1972,source,fossil fuel and industry,Pg CO2 yr-1,16.17
-1973,source,fossil fuel and industry,Pg CO2 yr-1,17.03
-1974,source,fossil fuel and industry,Pg CO2 yr-1,16.95
-1975,source,fossil fuel and industry,Pg CO2 yr-1,16.93
-1976,source,fossil fuel and industry,Pg CO2 yr-1,17.83
-1977,source,fossil fuel and industry,Pg CO2 yr-1,18.32
-1978,source,fossil fuel and industry,Pg CO2 yr-1,18.99
-1979,source,fossil fuel and industry,Pg CO2 yr-1,19.5
-1980,source,fossil fuel and industry,Pg CO2 yr-1,19.4
-1981,source,fossil fuel and industry,Pg CO2 yr-1,18.88
-1982,source,fossil fuel and industry,Pg CO2 yr-1,18.74
-1983,source,fossil fuel and industry,Pg CO2 yr-1,18.92
-1984,source,fossil fuel and industry,Pg CO2 yr-1,19.47
-1985,source,fossil fuel and industry,Pg CO2 yr-1,20.16
-1986,source,fossil fuel and industry,Pg CO2 yr-1,20.45
-1987,source,fossil fuel and industry,Pg CO2 yr-1,21.11
-1988,source,fossil fuel and industry,Pg CO2 yr-1,21.92
-1989,source,fossil fuel and industry,Pg CO2 yr-1,22.25
-1990,source,fossil fuel and industry,Pg CO2 yr-1,22.73
-1991,source,fossil fuel and industry,Pg CO2 yr-1,23.21
-1992,source,fossil fuel and industry,Pg CO2 yr-1,22.48
-1993,source,fossil fuel and industry,Pg CO2 yr-1,22.73
-1994,source,fossil fuel and industry,Pg CO2 yr-1,22.89
-1995,source,fossil fuel and industry,Pg CO2 yr-1,23.39
-1996,source,fossil fuel and industry,Pg CO2 yr-1,24.12
-1997,source,fossil fuel and industry,Pg CO2 yr-1,24.26
-1998,source,fossil fuel and industry,Pg CO2 yr-1,24.17
-1999,source,fossil fuel and industry,Pg CO2 yr-1,24.48
-2000,source,fossil fuel and industry,Pg CO2 yr-1,25.17
-2001,source,fossil fuel and industry,Pg CO2 yr-1,25.38
-2002,source,fossil fuel and industry,Pg CO2 yr-1,25.94
-2003,source,fossil fuel and industry,Pg CO2 yr-1,27.19
-2004,source,fossil fuel and industry,Pg CO2 yr-1,28.46
-2005,source,fossil fuel and industry,Pg CO2 yr-1,29.42
-2006,source,fossil fuel and industry,Pg CO2 yr-1,30.4
-2007,source,fossil fuel and industry,Pg CO2 yr-1,31.31
-2008,source,fossil fuel and industry,Pg CO2 yr-1,32.02
-2009,source,fossil fuel and industry,Pg CO2 yr-1,31.56
-2010,source,fossil fuel and industry,Pg CO2 yr-1,33.18
-2011,source,fossil fuel and industry,Pg CO2 yr-1,34.3
-2012,source,fossil fuel and industry,Pg CO2 yr-1,34.82
-2013,source,fossil fuel and industry,Pg CO2 yr-1,34.98
-2014,source,fossil fuel and industry,Pg CO2 yr-1,35.25
-2015,source,fossil fuel and industry,Pg CO2 yr-1,35.27
-2016,source,fossil fuel and industry,Pg CO2 yr-1,35.41
-2017,source,fossil fuel and industry,Pg CO2 yr-1,35.84
-2018,source,fossil fuel and industry,Pg CO2 yr-1,36.6
-1959,source,land-use change emissions,Pg CO2 yr-1,6.64
-1960,source,land-use change emissions,Pg CO2 yr-1,6.06
-1961,source,land-use change emissions,Pg CO2 yr-1,5.78
-1962,source,land-use change emissions,Pg CO2 yr-1,5.6
-1963,source,land-use change emissions,Pg CO2 yr-1,5.38
-1964,source,land-use change emissions,Pg CO2 yr-1,5.18
-1965,source,land-use change emissions,Pg CO2 yr-1,5.0
-1966,source,land-use change emissions,Pg CO2 yr-1,4.83
-1967,source,land-use change emissions,Pg CO2 yr-1,4.75
-1968,source,land-use change emissions,Pg CO2 yr-1,4.73
-1969,source,land-use change emissions,Pg CO2 yr-1,4.75
-1970,source,land-use change emissions,Pg CO2 yr-1,4.66
-1971,source,land-use change emissions,Pg CO2 yr-1,4.57
-1972,source,land-use change emissions,Pg CO2 yr-1,4.46
-1973,source,land-use change emissions,Pg CO2 yr-1,4.37
-1974,source,land-use change emissions,Pg CO2 yr-1,4.25
-1975,source,land-use change emissions,Pg CO2 yr-1,4.17
-1976,source,land-use change emissions,Pg CO2 yr-1,4.11
-1977,source,land-use change emissions,Pg CO2 yr-1,4.04
-1978,source,land-use change emissions,Pg CO2 yr-1,3.91
-1979,source,land-use change emissions,Pg CO2 yr-1,3.81
-1980,source,land-use change emissions,Pg CO2 yr-1,3.98
-1981,source,land-use change emissions,Pg CO2 yr-1,4.04
-1982,source,land-use change emissions,Pg CO2 yr-1,4.1
-1983,source,land-use change emissions,Pg CO2 yr-1,4.25
-1984,source,land-use change emissions,Pg CO2 yr-1,4.39
-1985,source,land-use change emissions,Pg CO2 yr-1,4.47
-1986,source,land-use change emissions,Pg CO2 yr-1,4.6
-1987,source,land-use change emissions,Pg CO2 yr-1,4.73
-1988,source,land-use change emissions,Pg CO2 yr-1,4.8
-1989,source,land-use change emissions,Pg CO2 yr-1,4.89
-1990,source,land-use change emissions,Pg CO2 yr-1,4.8
-1991,source,land-use change emissions,Pg CO2 yr-1,4.79
-1992,source,land-use change emissions,Pg CO2 yr-1,4.82
-1993,source,land-use change emissions,Pg CO2 yr-1,4.81
-1994,source,land-use change emissions,Pg CO2 yr-1,4.79
-1995,source,land-use change emissions,Pg CO2 yr-1,4.74
-1996,source,land-use change emissions,Pg CO2 yr-1,4.64
-1997,source,land-use change emissions,Pg CO2 yr-1,6.37
-1998,source,land-use change emissions,Pg CO2 yr-1,4.35
-1999,source,land-use change emissions,Pg CO2 yr-1,4.26
-2000,source,land-use change emissions,Pg CO2 yr-1,4.92
-2001,source,land-use change emissions,Pg CO2 yr-1,4.66
-2002,source,land-use change emissions,Pg CO2 yr-1,5.36
-2003,source,land-use change emissions,Pg CO2 yr-1,5.57
-2004,source,land-use change emissions,Pg CO2 yr-1,5.42
-2005,source,land-use change emissions,Pg CO2 yr-1,5.02
-2006,source,land-use change emissions,Pg CO2 yr-1,5.2
-2007,source,land-use change emissions,Pg CO2 yr-1,4.53
-2008,source,land-use change emissions,Pg CO2 yr-1,4.76
-2009,source,land-use change emissions,Pg CO2 yr-1,5.51
-2010,source,land-use change emissions,Pg CO2 yr-1,5.08
-2011,source,land-use change emissions,Pg CO2 yr-1,4.92
-2012,source,land-use change emissions,Pg CO2 yr-1,5.38
-2013,source,land-use change emissions,Pg CO2 yr-1,5.57
-2014,source,land-use change emissions,Pg CO2 yr-1,6.08
-2015,source,land-use change emissions,Pg CO2 yr-1,6.25
-2016,source,land-use change emissions,Pg CO2 yr-1,5.64
-2017,source,land-use change emissions,Pg CO2 yr-1,5.39
-2018,source,land-use change emissions,Pg CO2 yr-1,5.53
-1959,source,atmospheric growth,Pg CO2 yr-1,7.5
-1960,source,atmospheric growth,Pg CO2 yr-1,5.54
-1961,source,atmospheric growth,Pg CO2 yr-1,6.09
-1962,source,atmospheric growth,Pg CO2 yr-1,4.37
-1963,source,atmospheric growth,Pg CO2 yr-1,4.45
-1964,source,atmospheric growth,Pg CO2 yr-1,3.83
-1965,source,atmospheric growth,Pg CO2 yr-1,8.59
-1966,source,atmospheric growth,Pg CO2 yr-1,8.59
-1967,source,atmospheric growth,Pg CO2 yr-1,4.76
-1968,source,atmospheric growth,Pg CO2 yr-1,7.73
-1969,source,atmospheric growth,Pg CO2 yr-1,10.31
-1970,source,atmospheric growth,Pg CO2 yr-1,8.83
-1971,source,atmospheric growth,Pg CO2 yr-1,5.7
-1972,source,atmospheric growth,Pg CO2 yr-1,11.48
-1973,source,atmospheric growth,Pg CO2 yr-1,11.4
-1974,source,atmospheric growth,Pg CO2 yr-1,5.31
-1975,source,atmospheric growth,Pg CO2 yr-1,9.61
-1976,source,atmospheric growth,Pg CO2 yr-1,7.58
-1977,source,atmospheric growth,Pg CO2 yr-1,15.0
-1978,source,atmospheric growth,Pg CO2 yr-1,10.08
-1979,source,atmospheric growth,Pg CO2 yr-1,16.71
-1980,source,atmospheric growth,Pg CO2 yr-1,13.28
-1981,source,atmospheric growth,Pg CO2 yr-1,8.98
-1982,source,atmospheric growth,Pg CO2 yr-1,7.81
-1983,source,atmospheric growth,Pg CO2 yr-1,14.45
-1984,source,atmospheric growth,Pg CO2 yr-1,9.68
-1985,source,atmospheric growth,Pg CO2 yr-1,12.65
-1986,source,atmospheric growth,Pg CO2 yr-1,7.97
-1987,source,atmospheric growth,Pg CO2 yr-1,21.09
-1988,source,atmospheric growth,Pg CO2 yr-1,17.57
-1989,source,atmospheric growth,Pg CO2 yr-1,10.78
-1990,source,atmospheric growth,Pg CO2 yr-1,9.14
-1991,source,atmospheric growth,Pg CO2 yr-1,5.78
-1992,source,atmospheric growth,Pg CO2 yr-1,5.47
-1993,source,atmospheric growth,Pg CO2 yr-1,9.61
-1994,source,atmospheric growth,Pg CO2 yr-1,13.12
-1995,source,atmospheric growth,Pg CO2 yr-1,15.23
-1996,source,atmospheric growth,Pg CO2 yr-1,8.28
-1997,source,atmospheric growth,Pg CO2 yr-1,15.39
-1998,source,atmospheric growth,Pg CO2 yr-1,22.03
-1999,source,atmospheric growth,Pg CO2 yr-1,10.7
-2000,source,atmospheric growth,Pg CO2 yr-1,9.61
-2001,source,atmospheric growth,Pg CO2 yr-1,14.22
-2002,source,atmospheric growth,Pg CO2 yr-1,18.43
-2003,source,atmospheric growth,Pg CO2 yr-1,17.89
-2004,source,atmospheric growth,Pg CO2 yr-1,12.26
-2005,source,atmospheric growth,Pg CO2 yr-1,19.06
-2006,source,atmospheric growth,Pg CO2 yr-1,13.67
-2007,source,atmospheric growth,Pg CO2 yr-1,16.4
-2008,source,atmospheric growth,Pg CO2 yr-1,13.9
-2009,source,atmospheric growth,Pg CO2 yr-1,12.57
-2010,source,atmospheric growth,Pg CO2 yr-1,18.98
-2011,source,atmospheric growth,Pg CO2 yr-1,13.28
-2012,source,atmospheric growth,Pg CO2 yr-1,18.67
-2013,source,atmospheric growth,Pg CO2 yr-1,18.82
-2014,source,atmospheric growth,Pg CO2 yr-1,15.85
-2015,source,atmospheric growth,Pg CO2 yr-1,23.2
-2016,source,atmospheric growth,Pg CO2 yr-1,22.26
-2017,source,atmospheric growth,Pg CO2 yr-1,16.79
-2018,source,atmospheric growth,Pg CO2 yr-1,18.9
-1959,sink,ocean sink,Pg CO2 yr-1,2.78
-1960,sink,ocean sink,Pg CO2 yr-1,2.9
-1961,sink,ocean sink,Pg CO2 yr-1,2.5
-1962,sink,ocean sink,Pg CO2 yr-1,2.76
-1963,sink,ocean sink,Pg CO2 yr-1,3.26
-1964,sink,ocean sink,Pg CO2 yr-1,3.81
-1965,sink,ocean sink,Pg CO2 yr-1,4.3
-1966,sink,ocean sink,Pg CO2 yr-1,4.21
-1967,sink,ocean sink,Pg CO2 yr-1,3.54
-1968,sink,ocean sink,Pg CO2 yr-1,3.92
-1969,sink,ocean sink,Pg CO2 yr-1,4.06
-1970,sink,ocean sink,Pg CO2 yr-1,3.79
-1971,sink,ocean sink,Pg CO2 yr-1,4.14
-1972,sink,ocean sink,Pg CO2 yr-1,4.92
-1973,sink,ocean sink,Pg CO2 yr-1,4.76
-1974,sink,ocean sink,Pg CO2 yr-1,4.53
-1975,sink,ocean sink,Pg CO2 yr-1,4.51
-1976,sink,ocean sink,Pg CO2 yr-1,4.84
-1977,sink,ocean sink,Pg CO2 yr-1,5.13
-1978,sink,ocean sink,Pg CO2 yr-1,5.27
-1979,sink,ocean sink,Pg CO2 yr-1,4.97
-1980,sink,ocean sink,Pg CO2 yr-1,5.97
-1981,sink,ocean sink,Pg CO2 yr-1,5.93
-1982,sink,ocean sink,Pg CO2 yr-1,6.24
-1983,sink,ocean sink,Pg CO2 yr-1,6.7
-1984,sink,ocean sink,Pg CO2 yr-1,6.22
-1985,sink,ocean sink,Pg CO2 yr-1,6.05
-1986,sink,ocean sink,Pg CO2 yr-1,6.34
-1987,sink,ocean sink,Pg CO2 yr-1,6.69
-1988,sink,ocean sink,Pg CO2 yr-1,6.26
-1989,sink,ocean sink,Pg CO2 yr-1,6.24
-1990,sink,ocean sink,Pg CO2 yr-1,6.66
-1991,sink,ocean sink,Pg CO2 yr-1,7.0
-1992,sink,ocean sink,Pg CO2 yr-1,7.7
-1993,sink,ocean sink,Pg CO2 yr-1,7.44
-1994,sink,ocean sink,Pg CO2 yr-1,6.98
-1995,sink,ocean sink,Pg CO2 yr-1,7.0
-1996,sink,ocean sink,Pg CO2 yr-1,6.82
-1997,sink,ocean sink,Pg CO2 yr-1,7.3
-1998,sink,ocean sink,Pg CO2 yr-1,7.67
-1999,sink,ocean sink,Pg CO2 yr-1,7.11
-2000,sink,ocean sink,Pg CO2 yr-1,6.99
-2001,sink,ocean sink,Pg CO2 yr-1,6.62
-2002,sink,ocean sink,Pg CO2 yr-1,7.88
-2003,sink,ocean sink,Pg CO2 yr-1,8.14
-2004,sink,ocean sink,Pg CO2 yr-1,7.89
-2005,sink,ocean sink,Pg CO2 yr-1,8.13
-2006,sink,ocean sink,Pg CO2 yr-1,8.37
-2007,sink,ocean sink,Pg CO2 yr-1,8.5
-2008,sink,ocean sink,Pg CO2 yr-1,8.33
-2009,sink,ocean sink,Pg CO2 yr-1,8.57
-2010,sink,ocean sink,Pg CO2 yr-1,8.45
-2011,sink,ocean sink,Pg CO2 yr-1,8.9
-2012,sink,ocean sink,Pg CO2 yr-1,9.09
-2013,sink,ocean sink,Pg CO2 yr-1,9.18
-2014,sink,ocean sink,Pg CO2 yr-1,9.46
-2015,sink,ocean sink,Pg CO2 yr-1,9.68
-2016,sink,ocean sink,Pg CO2 yr-1,9.79
-2017,sink,ocean sink,Pg CO2 yr-1,9.32
-2018,sink,ocean sink,Pg CO2 yr-1,9.64
-1959,sink,land sink,Pg CO2 yr-1,2.07
-1960,sink,land sink,Pg CO2 yr-1,4.88
-1961,sink,land sink,Pg CO2 yr-1,2.52
-1962,sink,land sink,Pg CO2 yr-1,4.84
-1963,sink,land sink,Pg CO2 yr-1,4.0
-1964,sink,land sink,Pg CO2 yr-1,5.41
-1965,sink,land sink,Pg CO2 yr-1,1.96
-1966,sink,land sink,Pg CO2 yr-1,5.25
-1967,sink,land sink,Pg CO2 yr-1,6.19
-1968,sink,land sink,Pg CO2 yr-1,9.1
-1969,sink,land sink,Pg CO2 yr-1,1.9
-1970,sink,land sink,Pg CO2 yr-1,1.56
-1971,sink,land sink,Pg CO2 yr-1,9.23
-1972,sink,land sink,Pg CO2 yr-1,4.28
-1973,sink,land sink,Pg CO2 yr-1,5.11
-1974,sink,land sink,Pg CO2 yr-1,14.4
-1975,sink,land sink,Pg CO2 yr-1,8.78
-1976,sink,land sink,Pg CO2 yr-1,10.94
-1977,sink,land sink,Pg CO2 yr-1,5.22
-1978,sink,land sink,Pg CO2 yr-1,9.72
-1979,sink,land sink,Pg CO2 yr-1,5.29
-1980,sink,land sink,Pg CO2 yr-1,1.84
-1981,sink,land sink,Pg CO2 yr-1,8.25
-1982,sink,land sink,Pg CO2 yr-1,5.48
-1983,sink,land sink,Pg CO2 yr-1,0.83
-1984,sink,land sink,Pg CO2 yr-1,9.95
-1985,sink,land sink,Pg CO2 yr-1,9.72
-1986,sink,land sink,Pg CO2 yr-1,8.09
-1987,sink,land sink,Pg CO2 yr-1,1.57
-1988,sink,land sink,Pg CO2 yr-1,7.08
-1989,sink,land sink,Pg CO2 yr-1,12.33
-1990,sink,land sink,Pg CO2 yr-1,8.32
-1991,sink,land sink,Pg CO2 yr-1,8.04
-1992,sink,land sink,Pg CO2 yr-1,7.7
-1993,sink,land sink,Pg CO2 yr-1,10.38
-1994,sink,land sink,Pg CO2 yr-1,5.18
-1995,sink,land sink,Pg CO2 yr-1,6.21
-1996,sink,land sink,Pg CO2 yr-1,11.21
-1997,sink,land sink,Pg CO2 yr-1,11.69
-1998,sink,land sink,Pg CO2 yr-1,5.25
-1999,sink,land sink,Pg CO2 yr-1,12.39
-2000,sink,land sink,Pg CO2 yr-1,13.67
-2001,sink,land sink,Pg CO2 yr-1,8.76
-2002,sink,land sink,Pg CO2 yr-1,3.83
-2003,sink,land sink,Pg CO2 yr-1,8.36
-2004,sink,land sink,Pg CO2 yr-1,12.66
-2005,sink,land sink,Pg CO2 yr-1,6.66
-2006,sink,land sink,Pg CO2 yr-1,11.07
-2007,sink,land sink,Pg CO2 yr-1,10.37
-2008,sink,land sink,Pg CO2 yr-1,12.85
-2009,sink,land sink,Pg CO2 yr-1,9.96
-2010,sink,land sink,Pg CO2 yr-1,11.49
-2011,sink,land sink,Pg CO2 yr-1,15.14
-2012,sink,land sink,Pg CO2 yr-1,9.34
-2013,sink,land sink,Pg CO2 yr-1,12.03
-2014,sink,land sink,Pg CO2 yr-1,13.62
-2015,sink,land sink,Pg CO2 yr-1,8.05
-2016,sink,land sink,Pg CO2 yr-1,9.97
-2017,sink,land sink,Pg CO2 yr-1,13.14
-2018,sink,land sink,Pg CO2 yr-1,12.72
-1959,source,budget imbalance,Pg CO2 yr-1,3.16
-1960,source,budget imbalance,Pg CO2 yr-1,2.08
-1961,source,budget imbalance,Pg CO2 yr-1,4.04
-1962,source,budget imbalance,Pg CO2 yr-1,3.33
-1963,source,budget imbalance,Pg CO2 yr-1,3.93
-1964,source,budget imbalance,Pg CO2 yr-1,2.93
-1965,source,budget imbalance,Pg CO2 yr-1,1.43
-1966,source,budget imbalance,Pg CO2 yr-1,-1.41
-1967,source,budget imbalance,Pg CO2 yr-1,2.44
-1968,source,budget imbalance,Pg CO2 yr-1,-3.16
-1969,source,budget imbalance,Pg CO2 yr-1,2.2
-1970,source,budget imbalance,Pg CO2 yr-1,5.34
-1971,source,budget imbalance,Pg CO2 yr-1,0.96
-1972,source,budget imbalance,Pg CO2 yr-1,-0.05
-1973,source,budget imbalance,Pg CO2 yr-1,0.12
-1974,source,budget imbalance,Pg CO2 yr-1,-3.04
-1975,source,budget imbalance,Pg CO2 yr-1,-1.8
-1976,source,budget imbalance,Pg CO2 yr-1,-1.42
-1977,source,budget imbalance,Pg CO2 yr-1,-2.98
-1978,source,budget imbalance,Pg CO2 yr-1,-2.16
-1979,source,budget imbalance,Pg CO2 yr-1,-3.67
-1980,source,budget imbalance,Pg CO2 yr-1,2.3
-1981,source,budget imbalance,Pg CO2 yr-1,-0.24
-1982,source,budget imbalance,Pg CO2 yr-1,3.31
-1983,source,budget imbalance,Pg CO2 yr-1,1.19
-1984,source,budget imbalance,Pg CO2 yr-1,-1.99
-1985,source,budget imbalance,Pg CO2 yr-1,-3.79
-1986,source,budget imbalance,Pg CO2 yr-1,2.65
-1987,source,budget imbalance,Pg CO2 yr-1,-3.5
-1988,source,budget imbalance,Pg CO2 yr-1,-4.2
-1989,source,budget imbalance,Pg CO2 yr-1,-2.21
-1990,source,budget imbalance,Pg CO2 yr-1,3.41
-1991,source,budget imbalance,Pg CO2 yr-1,7.18
-1992,source,budget imbalance,Pg CO2 yr-1,6.44
-1993,source,budget imbalance,Pg CO2 yr-1,0.12
-1994,source,budget imbalance,Pg CO2 yr-1,2.41
-1995,source,budget imbalance,Pg CO2 yr-1,-0.3
-1996,source,budget imbalance,Pg CO2 yr-1,2.46
-1997,source,budget imbalance,Pg CO2 yr-1,-3.75
-1998,source,budget imbalance,Pg CO2 yr-1,-6.43
-1999,source,budget imbalance,Pg CO2 yr-1,-1.47
-2000,source,budget imbalance,Pg CO2 yr-1,-0.18
-2001,source,budget imbalance,Pg CO2 yr-1,0.45
-2002,source,budget imbalance,Pg CO2 yr-1,1.16
-2003,source,budget imbalance,Pg CO2 yr-1,-1.62
-2004,source,budget imbalance,Pg CO2 yr-1,1.07
-2005,source,budget imbalance,Pg CO2 yr-1,0.59
-2006,source,budget imbalance,Pg CO2 yr-1,2.49
-2007,source,budget imbalance,Pg CO2 yr-1,0.57
-2008,source,budget imbalance,Pg CO2 yr-1,1.69
-2009,source,budget imbalance,Pg CO2 yr-1,5.97
-2010,source,budget imbalance,Pg CO2 yr-1,-0.66
-2011,source,budget imbalance,Pg CO2 yr-1,1.9
-2012,source,budget imbalance,Pg CO2 yr-1,3.11
-2013,source,budget imbalance,Pg CO2 yr-1,0.52
-2014,source,budget imbalance,Pg CO2 yr-1,2.4
-2015,source,budget imbalance,Pg CO2 yr-1,0.58
-2016,source,budget imbalance,Pg CO2 yr-1,-0.98
-2017,source,budget imbalance,Pg CO2 yr-1,1.98
-2018,source,budget imbalance,Pg CO2 yr-1,0.88
-1959,source,anthropogenic emissions,Pg CO2 yr-1,15.5
-1960,source,anthropogenic emissions,Pg CO2 yr-1,15.41
-1961,source,anthropogenic emissions,Pg CO2 yr-1,15.15
-1962,source,anthropogenic emissions,Pg CO2 yr-1,15.3
-1963,source,anthropogenic emissions,Pg CO2 yr-1,15.64
-1964,source,anthropogenic emissions,Pg CO2 yr-1,15.97
-1965,source,anthropogenic emissions,Pg CO2 yr-1,16.29
-1966,source,anthropogenic emissions,Pg CO2 yr-1,16.65
-1967,source,anthropogenic emissions,Pg CO2 yr-1,16.94
-1968,source,anthropogenic emissions,Pg CO2 yr-1,17.59
-1969,source,anthropogenic emissions,Pg CO2 yr-1,18.47
-1970,source,anthropogenic emissions,Pg CO2 yr-1,19.51
-1971,source,anthropogenic emissions,Pg CO2 yr-1,20.02
-1972,source,anthropogenic emissions,Pg CO2 yr-1,20.63
-1973,source,anthropogenic emissions,Pg CO2 yr-1,21.4
-1974,source,anthropogenic emissions,Pg CO2 yr-1,21.2
-1975,source,anthropogenic emissions,Pg CO2 yr-1,21.1
-1976,source,anthropogenic emissions,Pg CO2 yr-1,21.94
-1977,source,anthropogenic emissions,Pg CO2 yr-1,22.36
-1978,source,anthropogenic emissions,Pg CO2 yr-1,22.9
-1979,source,anthropogenic emissions,Pg CO2 yr-1,23.31
-1980,source,anthropogenic emissions,Pg CO2 yr-1,23.38
-1981,source,anthropogenic emissions,Pg CO2 yr-1,22.92
-1982,source,anthropogenic emissions,Pg CO2 yr-1,22.83
-1983,source,anthropogenic emissions,Pg CO2 yr-1,23.17
-1984,source,anthropogenic emissions,Pg CO2 yr-1,23.86
-1985,source,anthropogenic emissions,Pg CO2 yr-1,24.63
-1986,source,anthropogenic emissions,Pg CO2 yr-1,25.04
-1987,source,anthropogenic emissions,Pg CO2 yr-1,25.84
-1988,source,anthropogenic emissions,Pg CO2 yr-1,26.71
-1989,source,anthropogenic emissions,Pg CO2 yr-1,27.14
-1990,source,anthropogenic emissions,Pg CO2 yr-1,27.53
-1991,source,anthropogenic emissions,Pg CO2 yr-1,28.0
-1992,source,anthropogenic emissions,Pg CO2 yr-1,27.31
-1993,source,anthropogenic emissions,Pg CO2 yr-1,27.55
-1994,source,anthropogenic emissions,Pg CO2 yr-1,27.69
-1995,source,anthropogenic emissions,Pg CO2 yr-1,28.13
-1996,source,anthropogenic emissions,Pg CO2 yr-1,28.76
-1997,source,anthropogenic emissions,Pg CO2 yr-1,30.63
-1998,source,anthropogenic emissions,Pg CO2 yr-1,28.52
-1999,source,anthropogenic emissions,Pg CO2 yr-1,28.73
-2000,source,anthropogenic emissions,Pg CO2 yr-1,30.09
-2001,source,anthropogenic emissions,Pg CO2 yr-1,30.05
-2002,source,anthropogenic emissions,Pg CO2 yr-1,31.3
-2003,source,anthropogenic emissions,Pg CO2 yr-1,32.76
-2004,source,anthropogenic emissions,Pg CO2 yr-1,33.89
-2005,source,anthropogenic emissions,Pg CO2 yr-1,34.44
-2006,source,anthropogenic emissions,Pg CO2 yr-1,35.6
-2007,source,anthropogenic emissions,Pg CO2 yr-1,35.84
-2008,source,anthropogenic emissions,Pg CO2 yr-1,36.78
-2009,source,anthropogenic emissions,Pg CO2 yr-1,37.07
-2010,source,anthropogenic emissions,Pg CO2 yr-1,38.25
-2011,source,anthropogenic emissions,Pg CO2 yr-1,39.22
-2012,source,anthropogenic emissions,Pg CO2 yr-1,40.2
-2013,source,anthropogenic emissions,Pg CO2 yr-1,40.55
-2014,source,anthropogenic emissions,Pg CO2 yr-1,41.33
-2015,source,anthropogenic emissions,Pg CO2 yr-1,41.51
-2016,source,anthropogenic emissions,Pg CO2 yr-1,41.04
-2017,source,anthropogenic emissions,Pg CO2 yr-1,41.22
-2018,source,anthropogenic emissions,Pg CO2 yr-1,42.13
-1959,sink,natural sink,Pg CO2 yr-1,4.84
-1960,sink,natural sink,Pg CO2 yr-1,7.78
-1961,sink,natural sink,Pg CO2 yr-1,5.02
-1962,sink,natural sink,Pg CO2 yr-1,7.6
-1963,sink,natural sink,Pg CO2 yr-1,7.26
-1964,sink,natural sink,Pg CO2 yr-1,9.22
-1965,sink,natural sink,Pg CO2 yr-1,6.26
-1966,sink,natural sink,Pg CO2 yr-1,9.47
-1967,sink,natural sink,Pg CO2 yr-1,9.73
-1968,sink,natural sink,Pg CO2 yr-1,13.02
-1969,sink,natural sink,Pg CO2 yr-1,5.96
-1970,sink,natural sink,Pg CO2 yr-1,5.35
-1971,sink,natural sink,Pg CO2 yr-1,13.36
-1972,sink,natural sink,Pg CO2 yr-1,9.2
-1973,sink,natural sink,Pg CO2 yr-1,9.87
-1974,sink,natural sink,Pg CO2 yr-1,18.93
-1975,sink,natural sink,Pg CO2 yr-1,13.3
-1976,sink,natural sink,Pg CO2 yr-1,15.78
-1977,sink,natural sink,Pg CO2 yr-1,10.35
-1978,sink,natural sink,Pg CO2 yr-1,14.99
-1979,sink,natural sink,Pg CO2 yr-1,10.27
-1980,sink,natural sink,Pg CO2 yr-1,7.81
-1981,sink,natural sink,Pg CO2 yr-1,14.18
-1982,sink,natural sink,Pg CO2 yr-1,11.72
-1983,sink,natural sink,Pg CO2 yr-1,7.53
-1984,sink,natural sink,Pg CO2 yr-1,16.16
-1985,sink,natural sink,Pg CO2 yr-1,15.77
-1986,sink,natural sink,Pg CO2 yr-1,14.43
-1987,sink,natural sink,Pg CO2 yr-1,8.26
-1988,sink,natural sink,Pg CO2 yr-1,13.34
-1989,sink,natural sink,Pg CO2 yr-1,18.57
-1990,sink,natural sink,Pg CO2 yr-1,14.98
-1991,sink,natural sink,Pg CO2 yr-1,15.04
-1992,sink,natural sink,Pg CO2 yr-1,15.4
-1993,sink,natural sink,Pg CO2 yr-1,17.82
-1994,sink,natural sink,Pg CO2 yr-1,12.16
-1995,sink,natural sink,Pg CO2 yr-1,13.2
-1996,sink,natural sink,Pg CO2 yr-1,18.03
-1997,sink,natural sink,Pg CO2 yr-1,19.0
-1998,sink,natural sink,Pg CO2 yr-1,12.93
-1999,sink,natural sink,Pg CO2 yr-1,19.5
-2000,sink,natural sink,Pg CO2 yr-1,20.67
-2001,sink,natural sink,Pg CO2 yr-1,15.38
-2002,sink,natural sink,Pg CO2 yr-1,11.7
-2003,sink,natural sink,Pg CO2 yr-1,16.5
-2004,sink,natural sink,Pg CO2 yr-1,20.55
-2005,sink,natural sink,Pg CO2 yr-1,14.79
-2006,sink,natural sink,Pg CO2 yr-1,19.43
-2007,sink,natural sink,Pg CO2 yr-1,18.86
-2008,sink,natural sink,Pg CO2 yr-1,21.18
-2009,sink,natural sink,Pg CO2 yr-1,18.52
-2010,sink,natural sink,Pg CO2 yr-1,19.94
-2011,sink,natural sink,Pg CO2 yr-1,24.04
-2012,sink,natural sink,Pg CO2 yr-1,18.42
-2013,sink,natural sink,Pg CO2 yr-1,21.21
-2014,sink,natural sink,Pg CO2 yr-1,23.08
-2015,sink,natural sink,Pg CO2 yr-1,17.73
-2016,sink,natural sink,Pg CO2 yr-1,19.76
-2017,sink,natural sink,Pg CO2 yr-1,22.46
-2018,sink,natural sink,Pg CO2 yr-1,22.36
+Year,Flux into atmosphere,Sink/source type,Reported value,Units,Value
+1959,source,fossil fuel and industry,mean,Pg C yr-1,2.42
+1960,source,fossil fuel and industry,mean,Pg C yr-1,2.55
+1961,source,fossil fuel and industry,mean,Pg C yr-1,2.56
+1962,source,fossil fuel and industry,mean,Pg C yr-1,2.65
+1963,source,fossil fuel and industry,mean,Pg C yr-1,2.8
+1964,source,fossil fuel and industry,mean,Pg C yr-1,2.94
+1965,source,fossil fuel and industry,mean,Pg C yr-1,3.08
+1966,source,fossil fuel and industry,mean,Pg C yr-1,3.22
+1967,source,fossil fuel and industry,mean,Pg C yr-1,3.32
+1968,source,fossil fuel and industry,mean,Pg C yr-1,3.51
+1969,source,fossil fuel and industry,mean,Pg C yr-1,3.74
+1970,source,fossil fuel and industry,mean,Pg C yr-1,4.05
+1971,source,fossil fuel and industry,mean,Pg C yr-1,4.21
+1972,source,fossil fuel and industry,mean,Pg C yr-1,4.41
+1973,source,fossil fuel and industry,mean,Pg C yr-1,4.64
+1974,source,fossil fuel and industry,mean,Pg C yr-1,4.62
+1975,source,fossil fuel and industry,mean,Pg C yr-1,4.62
+1976,source,fossil fuel and industry,mean,Pg C yr-1,4.86
+1977,source,fossil fuel and industry,mean,Pg C yr-1,5.0
+1978,source,fossil fuel and industry,mean,Pg C yr-1,5.18
+1979,source,fossil fuel and industry,mean,Pg C yr-1,5.32
+1980,source,fossil fuel and industry,mean,Pg C yr-1,5.29
+1981,source,fossil fuel and industry,mean,Pg C yr-1,5.15
+1982,source,fossil fuel and industry,mean,Pg C yr-1,5.11
+1983,source,fossil fuel and industry,mean,Pg C yr-1,5.16
+1984,source,fossil fuel and industry,mean,Pg C yr-1,5.31
+1985,source,fossil fuel and industry,mean,Pg C yr-1,5.5
+1986,source,fossil fuel and industry,mean,Pg C yr-1,5.58
+1987,source,fossil fuel and industry,mean,Pg C yr-1,5.76
+1988,source,fossil fuel and industry,mean,Pg C yr-1,5.98
+1989,source,fossil fuel and industry,mean,Pg C yr-1,6.07
+1990,source,fossil fuel and industry,mean,Pg C yr-1,6.2
+1991,source,fossil fuel and industry,mean,Pg C yr-1,6.33
+1992,source,fossil fuel and industry,mean,Pg C yr-1,6.13
+1993,source,fossil fuel and industry,mean,Pg C yr-1,6.2
+1994,source,fossil fuel and industry,mean,Pg C yr-1,6.24
+1995,source,fossil fuel and industry,mean,Pg C yr-1,6.38
+1996,source,fossil fuel and industry,mean,Pg C yr-1,6.58
+1997,source,fossil fuel and industry,mean,Pg C yr-1,6.62
+1998,source,fossil fuel and industry,mean,Pg C yr-1,6.59
+1999,source,fossil fuel and industry,mean,Pg C yr-1,6.68
+2000,source,fossil fuel and industry,mean,Pg C yr-1,6.86
+2001,source,fossil fuel and industry,mean,Pg C yr-1,6.92
+2002,source,fossil fuel and industry,mean,Pg C yr-1,7.07
+2003,source,fossil fuel and industry,mean,Pg C yr-1,7.42
+2004,source,fossil fuel and industry,mean,Pg C yr-1,7.76
+2005,source,fossil fuel and industry,mean,Pg C yr-1,8.02
+2006,source,fossil fuel and industry,mean,Pg C yr-1,8.29
+2007,source,fossil fuel and industry,mean,Pg C yr-1,8.54
+2008,source,fossil fuel and industry,mean,Pg C yr-1,8.73
+2009,source,fossil fuel and industry,mean,Pg C yr-1,8.61
+2010,source,fossil fuel and industry,mean,Pg C yr-1,9.05
+2011,source,fossil fuel and industry,mean,Pg C yr-1,9.35
+2012,source,fossil fuel and industry,mean,Pg C yr-1,9.5
+2013,source,fossil fuel and industry,mean,Pg C yr-1,9.54
+2014,source,fossil fuel and industry,mean,Pg C yr-1,9.61
+2015,source,fossil fuel and industry,mean,Pg C yr-1,9.62
+2016,source,fossil fuel and industry,mean,Pg C yr-1,9.66
+2017,source,fossil fuel and industry,mean,Pg C yr-1,9.77
+2018,source,fossil fuel and industry,mean,Pg C yr-1,9.98
+1959,source,land-use change emissions,mean,Pg C yr-1,1.81
+1960,source,land-use change emissions,mean,Pg C yr-1,1.65
+1961,source,land-use change emissions,mean,Pg C yr-1,1.58
+1962,source,land-use change emissions,mean,Pg C yr-1,1.53
+1963,source,land-use change emissions,mean,Pg C yr-1,1.47
+1964,source,land-use change emissions,mean,Pg C yr-1,1.41
+1965,source,land-use change emissions,mean,Pg C yr-1,1.36
+1966,source,land-use change emissions,mean,Pg C yr-1,1.32
+1967,source,land-use change emissions,mean,Pg C yr-1,1.3
+1968,source,land-use change emissions,mean,Pg C yr-1,1.29
+1969,source,land-use change emissions,mean,Pg C yr-1,1.3
+1970,source,land-use change emissions,mean,Pg C yr-1,1.27
+1971,source,land-use change emissions,mean,Pg C yr-1,1.25
+1972,source,land-use change emissions,mean,Pg C yr-1,1.22
+1973,source,land-use change emissions,mean,Pg C yr-1,1.19
+1974,source,land-use change emissions,mean,Pg C yr-1,1.16
+1975,source,land-use change emissions,mean,Pg C yr-1,1.14
+1976,source,land-use change emissions,mean,Pg C yr-1,1.12
+1977,source,land-use change emissions,mean,Pg C yr-1,1.1
+1978,source,land-use change emissions,mean,Pg C yr-1,1.07
+1979,source,land-use change emissions,mean,Pg C yr-1,1.04
+1980,source,land-use change emissions,mean,Pg C yr-1,1.08
+1981,source,land-use change emissions,mean,Pg C yr-1,1.1
+1982,source,land-use change emissions,mean,Pg C yr-1,1.12
+1983,source,land-use change emissions,mean,Pg C yr-1,1.16
+1984,source,land-use change emissions,mean,Pg C yr-1,1.2
+1985,source,land-use change emissions,mean,Pg C yr-1,1.22
+1986,source,land-use change emissions,mean,Pg C yr-1,1.25
+1987,source,land-use change emissions,mean,Pg C yr-1,1.29
+1988,source,land-use change emissions,mean,Pg C yr-1,1.31
+1989,source,land-use change emissions,mean,Pg C yr-1,1.34
+1990,source,land-use change emissions,mean,Pg C yr-1,1.31
+1991,source,land-use change emissions,mean,Pg C yr-1,1.31
+1992,source,land-use change emissions,mean,Pg C yr-1,1.32
+1993,source,land-use change emissions,mean,Pg C yr-1,1.31
+1994,source,land-use change emissions,mean,Pg C yr-1,1.31
+1995,source,land-use change emissions,mean,Pg C yr-1,1.29
+1996,source,land-use change emissions,mean,Pg C yr-1,1.27
+1997,source,land-use change emissions,mean,Pg C yr-1,1.74
+1998,source,land-use change emissions,mean,Pg C yr-1,1.19
+1999,source,land-use change emissions,mean,Pg C yr-1,1.16
+2000,source,land-use change emissions,mean,Pg C yr-1,1.34
+2001,source,land-use change emissions,mean,Pg C yr-1,1.27
+2002,source,land-use change emissions,mean,Pg C yr-1,1.46
+2003,source,land-use change emissions,mean,Pg C yr-1,1.52
+2004,source,land-use change emissions,mean,Pg C yr-1,1.48
+2005,source,land-use change emissions,mean,Pg C yr-1,1.37
+2006,source,land-use change emissions,mean,Pg C yr-1,1.42
+2007,source,land-use change emissions,mean,Pg C yr-1,1.24
+2008,source,land-use change emissions,mean,Pg C yr-1,1.3
+2009,source,land-use change emissions,mean,Pg C yr-1,1.5
+2010,source,land-use change emissions,mean,Pg C yr-1,1.38
+2011,source,land-use change emissions,mean,Pg C yr-1,1.34
+2012,source,land-use change emissions,mean,Pg C yr-1,1.47
+2013,source,land-use change emissions,mean,Pg C yr-1,1.52
+2014,source,land-use change emissions,mean,Pg C yr-1,1.66
+2015,source,land-use change emissions,mean,Pg C yr-1,1.7
+2016,source,land-use change emissions,mean,Pg C yr-1,1.54
+2017,source,land-use change emissions,mean,Pg C yr-1,1.47
+2018,source,land-use change emissions,mean,Pg C yr-1,1.51
+1959,source,atmospheric growth,mean,Pg C yr-1,2.04
+1960,source,atmospheric growth,mean,Pg C yr-1,1.51
+1961,source,atmospheric growth,mean,Pg C yr-1,1.66
+1962,source,atmospheric growth,mean,Pg C yr-1,1.19
+1963,source,atmospheric growth,mean,Pg C yr-1,1.21
+1964,source,atmospheric growth,mean,Pg C yr-1,1.04
+1965,source,atmospheric growth,mean,Pg C yr-1,2.34
+1966,source,atmospheric growth,mean,Pg C yr-1,2.34
+1967,source,atmospheric growth,mean,Pg C yr-1,1.3
+1968,source,atmospheric growth,mean,Pg C yr-1,2.11
+1969,source,atmospheric growth,mean,Pg C yr-1,2.81
+1970,source,atmospheric growth,mean,Pg C yr-1,2.41
+1971,source,atmospheric growth,mean,Pg C yr-1,1.56
+1972,source,atmospheric growth,mean,Pg C yr-1,3.13
+1973,source,atmospheric growth,mean,Pg C yr-1,3.11
+1974,source,atmospheric growth,mean,Pg C yr-1,1.45
+1975,source,atmospheric growth,mean,Pg C yr-1,2.62
+1976,source,atmospheric growth,mean,Pg C yr-1,2.07
+1977,source,atmospheric growth,mean,Pg C yr-1,4.09
+1978,source,atmospheric growth,mean,Pg C yr-1,2.75
+1979,source,atmospheric growth,mean,Pg C yr-1,4.56
+1980,source,atmospheric growth,mean,Pg C yr-1,3.62
+1981,source,atmospheric growth,mean,Pg C yr-1,2.45
+1982,source,atmospheric growth,mean,Pg C yr-1,2.13
+1983,source,atmospheric growth,mean,Pg C yr-1,3.94
+1984,source,atmospheric growth,mean,Pg C yr-1,2.64
+1985,source,atmospheric growth,mean,Pg C yr-1,3.45
+1986,source,atmospheric growth,mean,Pg C yr-1,2.17
+1987,source,atmospheric growth,mean,Pg C yr-1,5.75
+1988,source,atmospheric growth,mean,Pg C yr-1,4.79
+1989,source,atmospheric growth,mean,Pg C yr-1,2.94
+1990,source,atmospheric growth,mean,Pg C yr-1,2.49
+1991,source,atmospheric growth,mean,Pg C yr-1,1.58
+1992,source,atmospheric growth,mean,Pg C yr-1,1.49
+1993,source,atmospheric growth,mean,Pg C yr-1,2.62
+1994,source,atmospheric growth,mean,Pg C yr-1,3.58
+1995,source,atmospheric growth,mean,Pg C yr-1,4.15
+1996,source,atmospheric growth,mean,Pg C yr-1,2.26
+1997,source,atmospheric growth,mean,Pg C yr-1,4.2
+1998,source,atmospheric growth,mean,Pg C yr-1,6.01
+1999,source,atmospheric growth,mean,Pg C yr-1,2.92
+2000,source,atmospheric growth,mean,Pg C yr-1,2.62
+2001,source,atmospheric growth,mean,Pg C yr-1,3.88
+2002,source,atmospheric growth,mean,Pg C yr-1,5.03
+2003,source,atmospheric growth,mean,Pg C yr-1,4.88
+2004,source,atmospheric growth,mean,Pg C yr-1,3.34
+2005,source,atmospheric growth,mean,Pg C yr-1,5.2
+2006,source,atmospheric growth,mean,Pg C yr-1,3.73
+2007,source,atmospheric growth,mean,Pg C yr-1,4.47
+2008,source,atmospheric growth,mean,Pg C yr-1,3.79
+2009,source,atmospheric growth,mean,Pg C yr-1,3.43
+2010,source,atmospheric growth,mean,Pg C yr-1,5.18
+2011,source,atmospheric growth,mean,Pg C yr-1,3.62
+2012,source,atmospheric growth,mean,Pg C yr-1,5.09
+2013,source,atmospheric growth,mean,Pg C yr-1,5.13
+2014,source,atmospheric growth,mean,Pg C yr-1,4.32
+2015,source,atmospheric growth,mean,Pg C yr-1,6.33
+2016,source,atmospheric growth,mean,Pg C yr-1,6.07
+2017,source,atmospheric growth,mean,Pg C yr-1,4.58
+2018,source,atmospheric growth,mean,Pg C yr-1,5.16
+1959,sink,ocean sink,mean,Pg C yr-1,0.76
+1960,sink,ocean sink,mean,Pg C yr-1,0.79
+1961,sink,ocean sink,mean,Pg C yr-1,0.68
+1962,sink,ocean sink,mean,Pg C yr-1,0.75
+1963,sink,ocean sink,mean,Pg C yr-1,0.89
+1964,sink,ocean sink,mean,Pg C yr-1,1.04
+1965,sink,ocean sink,mean,Pg C yr-1,1.17
+1966,sink,ocean sink,mean,Pg C yr-1,1.15
+1967,sink,ocean sink,mean,Pg C yr-1,0.97
+1968,sink,ocean sink,mean,Pg C yr-1,1.07
+1969,sink,ocean sink,mean,Pg C yr-1,1.11
+1970,sink,ocean sink,mean,Pg C yr-1,1.03
+1971,sink,ocean sink,mean,Pg C yr-1,1.13
+1972,sink,ocean sink,mean,Pg C yr-1,1.34
+1973,sink,ocean sink,mean,Pg C yr-1,1.3
+1974,sink,ocean sink,mean,Pg C yr-1,1.24
+1975,sink,ocean sink,mean,Pg C yr-1,1.23
+1976,sink,ocean sink,mean,Pg C yr-1,1.32
+1977,sink,ocean sink,mean,Pg C yr-1,1.4
+1978,sink,ocean sink,mean,Pg C yr-1,1.44
+1979,sink,ocean sink,mean,Pg C yr-1,1.36
+1980,sink,ocean sink,mean,Pg C yr-1,1.63
+1981,sink,ocean sink,mean,Pg C yr-1,1.62
+1982,sink,ocean sink,mean,Pg C yr-1,1.7
+1983,sink,ocean sink,mean,Pg C yr-1,1.83
+1984,sink,ocean sink,mean,Pg C yr-1,1.7
+1985,sink,ocean sink,mean,Pg C yr-1,1.65
+1986,sink,ocean sink,mean,Pg C yr-1,1.73
+1987,sink,ocean sink,mean,Pg C yr-1,1.82
+1988,sink,ocean sink,mean,Pg C yr-1,1.71
+1989,sink,ocean sink,mean,Pg C yr-1,1.7
+1990,sink,ocean sink,mean,Pg C yr-1,1.82
+1991,sink,ocean sink,mean,Pg C yr-1,1.91
+1992,sink,ocean sink,mean,Pg C yr-1,2.1
+1993,sink,ocean sink,mean,Pg C yr-1,2.03
+1994,sink,ocean sink,mean,Pg C yr-1,1.9
+1995,sink,ocean sink,mean,Pg C yr-1,1.91
+1996,sink,ocean sink,mean,Pg C yr-1,1.86
+1997,sink,ocean sink,mean,Pg C yr-1,1.99
+1998,sink,ocean sink,mean,Pg C yr-1,2.09
+1999,sink,ocean sink,mean,Pg C yr-1,1.94
+2000,sink,ocean sink,mean,Pg C yr-1,1.91
+2001,sink,ocean sink,mean,Pg C yr-1,1.8
+2002,sink,ocean sink,mean,Pg C yr-1,2.15
+2003,sink,ocean sink,mean,Pg C yr-1,2.22
+2004,sink,ocean sink,mean,Pg C yr-1,2.15
+2005,sink,ocean sink,mean,Pg C yr-1,2.22
+2006,sink,ocean sink,mean,Pg C yr-1,2.28
+2007,sink,ocean sink,mean,Pg C yr-1,2.32
+2008,sink,ocean sink,mean,Pg C yr-1,2.27
+2009,sink,ocean sink,mean,Pg C yr-1,2.34
+2010,sink,ocean sink,mean,Pg C yr-1,2.31
+2011,sink,ocean sink,mean,Pg C yr-1,2.43
+2012,sink,ocean sink,mean,Pg C yr-1,2.48
+2013,sink,ocean sink,mean,Pg C yr-1,2.5
+2014,sink,ocean sink,mean,Pg C yr-1,2.58
+2015,sink,ocean sink,mean,Pg C yr-1,2.64
+2016,sink,ocean sink,mean,Pg C yr-1,2.67
+2017,sink,ocean sink,mean,Pg C yr-1,2.54
+2018,sink,ocean sink,mean,Pg C yr-1,2.63
+1959,sink,land sink,mean,Pg C yr-1,0.56
+1960,sink,land sink,mean,Pg C yr-1,1.33
+1961,sink,land sink,mean,Pg C yr-1,0.69
+1962,sink,land sink,mean,Pg C yr-1,1.32
+1963,sink,land sink,mean,Pg C yr-1,1.09
+1964,sink,land sink,mean,Pg C yr-1,1.48
+1965,sink,land sink,mean,Pg C yr-1,0.54
+1966,sink,land sink,mean,Pg C yr-1,1.43
+1967,sink,land sink,mean,Pg C yr-1,1.69
+1968,sink,land sink,mean,Pg C yr-1,2.48
+1969,sink,land sink,mean,Pg C yr-1,0.52
+1970,sink,land sink,mean,Pg C yr-1,0.43
+1971,sink,land sink,mean,Pg C yr-1,2.52
+1972,sink,land sink,mean,Pg C yr-1,1.17
+1973,sink,land sink,mean,Pg C yr-1,1.39
+1974,sink,land sink,mean,Pg C yr-1,3.93
+1975,sink,land sink,mean,Pg C yr-1,2.4
+1976,sink,land sink,mean,Pg C yr-1,2.98
+1977,sink,land sink,mean,Pg C yr-1,1.42
+1978,sink,land sink,mean,Pg C yr-1,2.65
+1979,sink,land sink,mean,Pg C yr-1,1.44
+1980,sink,land sink,mean,Pg C yr-1,0.5
+1981,sink,land sink,mean,Pg C yr-1,2.25
+1982,sink,land sink,mean,Pg C yr-1,1.49
+1983,sink,land sink,mean,Pg C yr-1,0.23
+1984,sink,land sink,mean,Pg C yr-1,2.71
+1985,sink,land sink,mean,Pg C yr-1,2.65
+1986,sink,land sink,mean,Pg C yr-1,2.21
+1987,sink,land sink,mean,Pg C yr-1,0.43
+1988,sink,land sink,mean,Pg C yr-1,1.93
+1989,sink,land sink,mean,Pg C yr-1,3.36
+1990,sink,land sink,mean,Pg C yr-1,2.27
+1991,sink,land sink,mean,Pg C yr-1,2.19
+1992,sink,land sink,mean,Pg C yr-1,2.1
+1993,sink,land sink,mean,Pg C yr-1,2.83
+1994,sink,land sink,mean,Pg C yr-1,1.41
+1995,sink,land sink,mean,Pg C yr-1,1.69
+1996,sink,land sink,mean,Pg C yr-1,3.06
+1997,sink,land sink,mean,Pg C yr-1,3.19
+1998,sink,land sink,mean,Pg C yr-1,1.43
+1999,sink,land sink,mean,Pg C yr-1,3.38
+2000,sink,land sink,mean,Pg C yr-1,3.73
+2001,sink,land sink,mean,Pg C yr-1,2.39
+2002,sink,land sink,mean,Pg C yr-1,1.04
+2003,sink,land sink,mean,Pg C yr-1,2.28
+2004,sink,land sink,mean,Pg C yr-1,3.45
+2005,sink,land sink,mean,Pg C yr-1,1.82
+2006,sink,land sink,mean,Pg C yr-1,3.02
+2007,sink,land sink,mean,Pg C yr-1,2.83
+2008,sink,land sink,mean,Pg C yr-1,3.5
+2009,sink,land sink,mean,Pg C yr-1,2.72
+2010,sink,land sink,mean,Pg C yr-1,3.13
+2011,sink,land sink,mean,Pg C yr-1,4.13
+2012,sink,land sink,mean,Pg C yr-1,2.55
+2013,sink,land sink,mean,Pg C yr-1,3.28
+2014,sink,land sink,mean,Pg C yr-1,3.72
+2015,sink,land sink,mean,Pg C yr-1,2.2
+2016,sink,land sink,mean,Pg C yr-1,2.72
+2017,sink,land sink,mean,Pg C yr-1,3.58
+2018,sink,land sink,mean,Pg C yr-1,3.47
+1959,source,budget imbalance,mean,Pg C yr-1,0.86
+1960,source,budget imbalance,mean,Pg C yr-1,0.57
+1961,source,budget imbalance,mean,Pg C yr-1,1.1
+1962,source,budget imbalance,mean,Pg C yr-1,0.91
+1963,source,budget imbalance,mean,Pg C yr-1,1.07
+1964,source,budget imbalance,mean,Pg C yr-1,0.8
+1965,source,budget imbalance,mean,Pg C yr-1,0.39
+1966,source,budget imbalance,mean,Pg C yr-1,-0.38
+1967,source,budget imbalance,mean,Pg C yr-1,0.67
+1968,source,budget imbalance,mean,Pg C yr-1,-0.86
+1969,source,budget imbalance,mean,Pg C yr-1,0.6
+1970,source,budget imbalance,mean,Pg C yr-1,1.46
+1971,source,budget imbalance,mean,Pg C yr-1,0.26
+1972,source,budget imbalance,mean,Pg C yr-1,-0.02
+1973,source,budget imbalance,mean,Pg C yr-1,0.03
+1974,source,budget imbalance,mean,Pg C yr-1,-0.83
+1975,source,budget imbalance,mean,Pg C yr-1,-0.49
+1976,source,budget imbalance,mean,Pg C yr-1,-0.39
+1977,source,budget imbalance,mean,Pg C yr-1,-0.81
+1978,source,budget imbalance,mean,Pg C yr-1,-0.59
+1979,source,budget imbalance,mean,Pg C yr-1,-1.0
+1980,source,budget imbalance,mean,Pg C yr-1,0.63
+1981,source,budget imbalance,mean,Pg C yr-1,-0.07
+1982,source,budget imbalance,mean,Pg C yr-1,0.9
+1983,source,budget imbalance,mean,Pg C yr-1,0.32
+1984,source,budget imbalance,mean,Pg C yr-1,-0.54
+1985,source,budget imbalance,mean,Pg C yr-1,-1.03
+1986,source,budget imbalance,mean,Pg C yr-1,0.72
+1987,source,budget imbalance,mean,Pg C yr-1,-0.95
+1988,source,budget imbalance,mean,Pg C yr-1,-1.14
+1989,source,budget imbalance,mean,Pg C yr-1,-0.6
+1990,source,budget imbalance,mean,Pg C yr-1,0.93
+1991,source,budget imbalance,mean,Pg C yr-1,1.96
+1992,source,budget imbalance,mean,Pg C yr-1,1.76
+1993,source,budget imbalance,mean,Pg C yr-1,0.03
+1994,source,budget imbalance,mean,Pg C yr-1,0.66
+1995,source,budget imbalance,mean,Pg C yr-1,-0.08
+1996,source,budget imbalance,mean,Pg C yr-1,0.67
+1997,source,budget imbalance,mean,Pg C yr-1,-1.02
+1998,source,budget imbalance,mean,Pg C yr-1,-1.75
+1999,source,budget imbalance,mean,Pg C yr-1,-0.4
+2000,source,budget imbalance,mean,Pg C yr-1,-0.05
+2001,source,budget imbalance,mean,Pg C yr-1,0.12
+2002,source,budget imbalance,mean,Pg C yr-1,0.32
+2003,source,budget imbalance,mean,Pg C yr-1,-0.44
+2004,source,budget imbalance,mean,Pg C yr-1,0.29
+2005,source,budget imbalance,mean,Pg C yr-1,0.16
+2006,source,budget imbalance,mean,Pg C yr-1,0.68
+2007,source,budget imbalance,mean,Pg C yr-1,0.16
+2008,source,budget imbalance,mean,Pg C yr-1,0.46
+2009,source,budget imbalance,mean,Pg C yr-1,1.63
+2010,source,budget imbalance,mean,Pg C yr-1,-0.18
+2011,source,budget imbalance,mean,Pg C yr-1,0.52
+2012,source,budget imbalance,mean,Pg C yr-1,0.85
+2013,source,budget imbalance,mean,Pg C yr-1,0.14
+2014,source,budget imbalance,mean,Pg C yr-1,0.66
+2015,source,budget imbalance,mean,Pg C yr-1,0.16
+2016,source,budget imbalance,mean,Pg C yr-1,-0.27
+2017,source,budget imbalance,mean,Pg C yr-1,0.54
+2018,source,budget imbalance,mean,Pg C yr-1,0.24
+1959,source,anthropogenic emissions,mean,Pg C yr-1,4.23
+1960,source,anthropogenic emissions,mean,Pg C yr-1,4.2
+1961,source,anthropogenic emissions,mean,Pg C yr-1,4.13
+1962,source,anthropogenic emissions,mean,Pg C yr-1,4.17
+1963,source,anthropogenic emissions,mean,Pg C yr-1,4.26
+1964,source,anthropogenic emissions,mean,Pg C yr-1,4.36
+1965,source,anthropogenic emissions,mean,Pg C yr-1,4.44
+1966,source,anthropogenic emissions,mean,Pg C yr-1,4.54
+1967,source,anthropogenic emissions,mean,Pg C yr-1,4.62
+1968,source,anthropogenic emissions,mean,Pg C yr-1,4.8
+1969,source,anthropogenic emissions,mean,Pg C yr-1,5.04
+1970,source,anthropogenic emissions,mean,Pg C yr-1,5.32
+1971,source,anthropogenic emissions,mean,Pg C yr-1,5.46
+1972,source,anthropogenic emissions,mean,Pg C yr-1,5.63
+1973,source,anthropogenic emissions,mean,Pg C yr-1,5.84
+1974,source,anthropogenic emissions,mean,Pg C yr-1,5.78
+1975,source,anthropogenic emissions,mean,Pg C yr-1,5.75
+1976,source,anthropogenic emissions,mean,Pg C yr-1,5.98
+1977,source,anthropogenic emissions,mean,Pg C yr-1,6.1
+1978,source,anthropogenic emissions,mean,Pg C yr-1,6.25
+1979,source,anthropogenic emissions,mean,Pg C yr-1,6.36
+1980,source,anthropogenic emissions,mean,Pg C yr-1,6.38
+1981,source,anthropogenic emissions,mean,Pg C yr-1,6.25
+1982,source,anthropogenic emissions,mean,Pg C yr-1,6.23
+1983,source,anthropogenic emissions,mean,Pg C yr-1,6.32
+1984,source,anthropogenic emissions,mean,Pg C yr-1,6.51
+1985,source,anthropogenic emissions,mean,Pg C yr-1,6.72
+1986,source,anthropogenic emissions,mean,Pg C yr-1,6.83
+1987,source,anthropogenic emissions,mean,Pg C yr-1,7.05
+1988,source,anthropogenic emissions,mean,Pg C yr-1,7.28
+1989,source,anthropogenic emissions,mean,Pg C yr-1,7.4
+1990,source,anthropogenic emissions,mean,Pg C yr-1,7.51
+1991,source,anthropogenic emissions,mean,Pg C yr-1,7.64
+1992,source,anthropogenic emissions,mean,Pg C yr-1,7.45
+1993,source,anthropogenic emissions,mean,Pg C yr-1,7.51
+1994,source,anthropogenic emissions,mean,Pg C yr-1,7.55
+1995,source,anthropogenic emissions,mean,Pg C yr-1,7.67
+1996,source,anthropogenic emissions,mean,Pg C yr-1,7.84
+1997,source,anthropogenic emissions,mean,Pg C yr-1,8.35
+1998,source,anthropogenic emissions,mean,Pg C yr-1,7.78
+1999,source,anthropogenic emissions,mean,Pg C yr-1,7.84
+2000,source,anthropogenic emissions,mean,Pg C yr-1,8.21
+2001,source,anthropogenic emissions,mean,Pg C yr-1,8.19
+2002,source,anthropogenic emissions,mean,Pg C yr-1,8.54
+2003,source,anthropogenic emissions,mean,Pg C yr-1,8.94
+2004,source,anthropogenic emissions,mean,Pg C yr-1,9.24
+2005,source,anthropogenic emissions,mean,Pg C yr-1,9.39
+2006,source,anthropogenic emissions,mean,Pg C yr-1,9.71
+2007,source,anthropogenic emissions,mean,Pg C yr-1,9.77
+2008,source,anthropogenic emissions,mean,Pg C yr-1,10.03
+2009,source,anthropogenic emissions,mean,Pg C yr-1,10.11
+2010,source,anthropogenic emissions,mean,Pg C yr-1,10.43
+2011,source,anthropogenic emissions,mean,Pg C yr-1,10.7
+2012,source,anthropogenic emissions,mean,Pg C yr-1,10.96
+2013,source,anthropogenic emissions,mean,Pg C yr-1,11.06
+2014,source,anthropogenic emissions,mean,Pg C yr-1,11.27
+2015,source,anthropogenic emissions,mean,Pg C yr-1,11.32
+2016,source,anthropogenic emissions,mean,Pg C yr-1,11.19
+2017,source,anthropogenic emissions,mean,Pg C yr-1,11.24
+2018,source,anthropogenic emissions,mean,Pg C yr-1,11.49
+1959,sink,natural sink,mean,Pg C yr-1,1.32
+1960,sink,natural sink,mean,Pg C yr-1,2.12
+1961,sink,natural sink,mean,Pg C yr-1,1.37
+1962,sink,natural sink,mean,Pg C yr-1,2.07
+1963,sink,natural sink,mean,Pg C yr-1,1.98
+1964,sink,natural sink,mean,Pg C yr-1,2.51
+1965,sink,natural sink,mean,Pg C yr-1,1.71
+1966,sink,natural sink,mean,Pg C yr-1,2.58
+1967,sink,natural sink,mean,Pg C yr-1,2.65
+1968,sink,natural sink,mean,Pg C yr-1,3.55
+1969,sink,natural sink,mean,Pg C yr-1,1.62
+1970,sink,natural sink,mean,Pg C yr-1,1.46
+1971,sink,natural sink,mean,Pg C yr-1,3.64
+1972,sink,natural sink,mean,Pg C yr-1,2.51
+1973,sink,natural sink,mean,Pg C yr-1,2.69
+1974,sink,natural sink,mean,Pg C yr-1,5.16
+1975,sink,natural sink,mean,Pg C yr-1,3.63
+1976,sink,natural sink,mean,Pg C yr-1,4.3
+1977,sink,natural sink,mean,Pg C yr-1,2.82
+1978,sink,natural sink,mean,Pg C yr-1,4.09
+1979,sink,natural sink,mean,Pg C yr-1,2.8
+1980,sink,natural sink,mean,Pg C yr-1,2.13
+1981,sink,natural sink,mean,Pg C yr-1,3.87
+1982,sink,natural sink,mean,Pg C yr-1,3.2
+1983,sink,natural sink,mean,Pg C yr-1,2.05
+1984,sink,natural sink,mean,Pg C yr-1,4.41
+1985,sink,natural sink,mean,Pg C yr-1,4.3
+1986,sink,natural sink,mean,Pg C yr-1,3.94
+1987,sink,natural sink,mean,Pg C yr-1,2.25
+1988,sink,natural sink,mean,Pg C yr-1,3.64
+1989,sink,natural sink,mean,Pg C yr-1,5.06
+1990,sink,natural sink,mean,Pg C yr-1,4.08
+1991,sink,natural sink,mean,Pg C yr-1,4.1
+1992,sink,natural sink,mean,Pg C yr-1,4.2
+1993,sink,natural sink,mean,Pg C yr-1,4.86
+1994,sink,natural sink,mean,Pg C yr-1,3.32
+1995,sink,natural sink,mean,Pg C yr-1,3.6
+1996,sink,natural sink,mean,Pg C yr-1,4.92
+1997,sink,natural sink,mean,Pg C yr-1,5.18
+1998,sink,natural sink,mean,Pg C yr-1,3.53
+1999,sink,natural sink,mean,Pg C yr-1,5.32
+2000,sink,natural sink,mean,Pg C yr-1,5.64
+2001,sink,natural sink,mean,Pg C yr-1,4.19
+2002,sink,natural sink,mean,Pg C yr-1,3.19
+2003,sink,natural sink,mean,Pg C yr-1,4.5
+2004,sink,natural sink,mean,Pg C yr-1,5.6
+2005,sink,natural sink,mean,Pg C yr-1,4.03
+2006,sink,natural sink,mean,Pg C yr-1,5.3
+2007,sink,natural sink,mean,Pg C yr-1,5.14
+2008,sink,natural sink,mean,Pg C yr-1,5.78
+2009,sink,natural sink,mean,Pg C yr-1,5.05
+2010,sink,natural sink,mean,Pg C yr-1,5.44
+2011,sink,natural sink,mean,Pg C yr-1,6.56
+2012,sink,natural sink,mean,Pg C yr-1,5.03
+2013,sink,natural sink,mean,Pg C yr-1,5.78
+2014,sink,natural sink,mean,Pg C yr-1,6.29
+2015,sink,natural sink,mean,Pg C yr-1,4.84
+2016,sink,natural sink,mean,Pg C yr-1,5.39
+2017,sink,natural sink,mean,Pg C yr-1,6.12
+2018,sink,natural sink,mean,Pg C yr-1,6.1
+1959,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.12
+1960,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.13
+1961,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.13
+1962,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.13
+1963,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.14
+1964,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.15
+1965,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.15
+1966,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.16
+1967,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.17
+1968,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.18
+1969,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.19
+1970,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.2
+1971,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.21
+1972,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.22
+1973,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.23
+1974,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.23
+1975,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.23
+1976,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.24
+1977,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.25
+1978,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.26
+1979,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.27
+1980,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.26
+1981,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.26
+1982,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.26
+1983,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.26
+1984,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.27
+1985,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.27
+1986,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.28
+1987,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.29
+1988,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.3
+1989,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.3
+1990,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.31
+1991,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.32
+1992,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.31
+1993,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.31
+1994,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.31
+1995,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.32
+1996,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.33
+1997,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.33
+1998,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.33
+1999,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.33
+2000,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.34
+2001,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.35
+2002,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.35
+2003,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.37
+2004,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.39
+2005,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.4
+2006,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.41
+2007,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.43
+2008,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.44
+2009,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.43
+2010,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.45
+2011,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.47
+2012,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.47
+2013,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.48
+2014,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.48
+2015,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.48
+2016,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.48
+2017,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.49
+2018,source,fossil fuel and industry,standard deviation,Pg C yr-1,0.5
+1959,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1960,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1961,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1962,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1963,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1964,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1965,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1966,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1967,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1968,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1969,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1970,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1971,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1972,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1973,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1974,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1975,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1976,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1977,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1978,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1979,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1980,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1981,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1982,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1983,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1984,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1985,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1986,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1987,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1988,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1989,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1990,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1991,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1992,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1993,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1994,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1995,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1996,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1997,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1998,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1999,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2000,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2001,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2002,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2003,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2004,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2005,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2006,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2007,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2008,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2009,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2010,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2011,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2012,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2013,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2014,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2015,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2016,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2017,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+2018,source,land-use change emissions,standard deviation,Pg C yr-1,0.7
+1959,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1960,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1961,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1962,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1963,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1964,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1965,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1966,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1967,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1968,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1969,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1970,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1971,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1972,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1973,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1974,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1975,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1976,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1977,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1978,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1979,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1980,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1981,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1982,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1983,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1984,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1985,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1986,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1987,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1988,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1989,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1990,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1991,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1992,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1993,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1994,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1995,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1996,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1997,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1998,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1999,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2000,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2001,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2002,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2003,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2004,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2005,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2006,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2007,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2008,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2009,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2010,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2011,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2012,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2013,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2014,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2015,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2016,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2017,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+2018,source,atmospheric growth,standard deviation,Pg C yr-1,0.2
+1959,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1960,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1961,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1962,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1963,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1964,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1965,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1966,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1967,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1968,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1969,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1970,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1971,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1972,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1973,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1974,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1975,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1976,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1977,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1978,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1979,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1980,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1981,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1982,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1983,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1984,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1985,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1986,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1987,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1988,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1989,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1990,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1991,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1992,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1993,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1994,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1995,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1996,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1997,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1998,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1999,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2000,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2001,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2002,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2003,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2004,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2005,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2006,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2007,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2008,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2009,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2010,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2011,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2012,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2013,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2014,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2015,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2016,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2017,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+2018,sink,ocean sink,standard deviation,Pg C yr-1,0.5
+1959,sink,land sink,standard deviation,Pg C yr-1,0.9
+1960,sink,land sink,standard deviation,Pg C yr-1,0.9
+1961,sink,land sink,standard deviation,Pg C yr-1,0.9
+1962,sink,land sink,standard deviation,Pg C yr-1,0.9
+1963,sink,land sink,standard deviation,Pg C yr-1,0.9
+1964,sink,land sink,standard deviation,Pg C yr-1,0.9
+1965,sink,land sink,standard deviation,Pg C yr-1,0.9
+1966,sink,land sink,standard deviation,Pg C yr-1,0.9
+1967,sink,land sink,standard deviation,Pg C yr-1,0.9
+1968,sink,land sink,standard deviation,Pg C yr-1,0.9
+1969,sink,land sink,standard deviation,Pg C yr-1,0.9
+1970,sink,land sink,standard deviation,Pg C yr-1,0.9
+1971,sink,land sink,standard deviation,Pg C yr-1,0.9
+1972,sink,land sink,standard deviation,Pg C yr-1,0.9
+1973,sink,land sink,standard deviation,Pg C yr-1,0.9
+1974,sink,land sink,standard deviation,Pg C yr-1,0.9
+1975,sink,land sink,standard deviation,Pg C yr-1,0.9
+1976,sink,land sink,standard deviation,Pg C yr-1,0.9
+1977,sink,land sink,standard deviation,Pg C yr-1,0.9
+1978,sink,land sink,standard deviation,Pg C yr-1,0.9
+1979,sink,land sink,standard deviation,Pg C yr-1,0.9
+1980,sink,land sink,standard deviation,Pg C yr-1,0.9
+1981,sink,land sink,standard deviation,Pg C yr-1,0.9
+1982,sink,land sink,standard deviation,Pg C yr-1,0.9
+1983,sink,land sink,standard deviation,Pg C yr-1,0.9
+1984,sink,land sink,standard deviation,Pg C yr-1,0.9
+1985,sink,land sink,standard deviation,Pg C yr-1,0.9
+1986,sink,land sink,standard deviation,Pg C yr-1,0.9
+1987,sink,land sink,standard deviation,Pg C yr-1,0.9
+1988,sink,land sink,standard deviation,Pg C yr-1,0.9
+1989,sink,land sink,standard deviation,Pg C yr-1,0.9
+1990,sink,land sink,standard deviation,Pg C yr-1,0.9
+1991,sink,land sink,standard deviation,Pg C yr-1,0.9
+1992,sink,land sink,standard deviation,Pg C yr-1,0.9
+1993,sink,land sink,standard deviation,Pg C yr-1,0.9
+1994,sink,land sink,standard deviation,Pg C yr-1,0.9
+1995,sink,land sink,standard deviation,Pg C yr-1,0.9
+1996,sink,land sink,standard deviation,Pg C yr-1,0.9
+1997,sink,land sink,standard deviation,Pg C yr-1,0.9
+1998,sink,land sink,standard deviation,Pg C yr-1,0.9
+1999,sink,land sink,standard deviation,Pg C yr-1,0.9
+2000,sink,land sink,standard deviation,Pg C yr-1,0.9
+2001,sink,land sink,standard deviation,Pg C yr-1,0.9
+2002,sink,land sink,standard deviation,Pg C yr-1,0.9
+2003,sink,land sink,standard deviation,Pg C yr-1,0.9
+2004,sink,land sink,standard deviation,Pg C yr-1,0.9
+2005,sink,land sink,standard deviation,Pg C yr-1,0.9
+2006,sink,land sink,standard deviation,Pg C yr-1,0.9
+2007,sink,land sink,standard deviation,Pg C yr-1,0.9
+2008,sink,land sink,standard deviation,Pg C yr-1,0.9
+2009,sink,land sink,standard deviation,Pg C yr-1,0.9
+2010,sink,land sink,standard deviation,Pg C yr-1,0.9
+2011,sink,land sink,standard deviation,Pg C yr-1,0.9
+2012,sink,land sink,standard deviation,Pg C yr-1,0.9
+2013,sink,land sink,standard deviation,Pg C yr-1,0.9
+2014,sink,land sink,standard deviation,Pg C yr-1,0.9
+2015,sink,land sink,standard deviation,Pg C yr-1,0.9
+2016,sink,land sink,standard deviation,Pg C yr-1,0.9
+2017,sink,land sink,standard deviation,Pg C yr-1,0.9
+2018,sink,land sink,standard deviation,Pg C yr-1,0.9
+1959,source,budget imbalance,standard deviation,Pg C yr-1,
+1960,source,budget imbalance,standard deviation,Pg C yr-1,
+1961,source,budget imbalance,standard deviation,Pg C yr-1,
+1962,source,budget imbalance,standard deviation,Pg C yr-1,
+1963,source,budget imbalance,standard deviation,Pg C yr-1,
+1964,source,budget imbalance,standard deviation,Pg C yr-1,
+1965,source,budget imbalance,standard deviation,Pg C yr-1,
+1966,source,budget imbalance,standard deviation,Pg C yr-1,
+1967,source,budget imbalance,standard deviation,Pg C yr-1,
+1968,source,budget imbalance,standard deviation,Pg C yr-1,
+1969,source,budget imbalance,standard deviation,Pg C yr-1,
+1970,source,budget imbalance,standard deviation,Pg C yr-1,
+1971,source,budget imbalance,standard deviation,Pg C yr-1,
+1972,source,budget imbalance,standard deviation,Pg C yr-1,
+1973,source,budget imbalance,standard deviation,Pg C yr-1,
+1974,source,budget imbalance,standard deviation,Pg C yr-1,
+1975,source,budget imbalance,standard deviation,Pg C yr-1,
+1976,source,budget imbalance,standard deviation,Pg C yr-1,
+1977,source,budget imbalance,standard deviation,Pg C yr-1,
+1978,source,budget imbalance,standard deviation,Pg C yr-1,
+1979,source,budget imbalance,standard deviation,Pg C yr-1,
+1980,source,budget imbalance,standard deviation,Pg C yr-1,
+1981,source,budget imbalance,standard deviation,Pg C yr-1,
+1982,source,budget imbalance,standard deviation,Pg C yr-1,
+1983,source,budget imbalance,standard deviation,Pg C yr-1,
+1984,source,budget imbalance,standard deviation,Pg C yr-1,
+1985,source,budget imbalance,standard deviation,Pg C yr-1,
+1986,source,budget imbalance,standard deviation,Pg C yr-1,
+1987,source,budget imbalance,standard deviation,Pg C yr-1,
+1988,source,budget imbalance,standard deviation,Pg C yr-1,
+1989,source,budget imbalance,standard deviation,Pg C yr-1,
+1990,source,budget imbalance,standard deviation,Pg C yr-1,
+1991,source,budget imbalance,standard deviation,Pg C yr-1,
+1992,source,budget imbalance,standard deviation,Pg C yr-1,
+1993,source,budget imbalance,standard deviation,Pg C yr-1,
+1994,source,budget imbalance,standard deviation,Pg C yr-1,
+1995,source,budget imbalance,standard deviation,Pg C yr-1,
+1996,source,budget imbalance,standard deviation,Pg C yr-1,
+1997,source,budget imbalance,standard deviation,Pg C yr-1,
+1998,source,budget imbalance,standard deviation,Pg C yr-1,
+1999,source,budget imbalance,standard deviation,Pg C yr-1,
+2000,source,budget imbalance,standard deviation,Pg C yr-1,
+2001,source,budget imbalance,standard deviation,Pg C yr-1,
+2002,source,budget imbalance,standard deviation,Pg C yr-1,
+2003,source,budget imbalance,standard deviation,Pg C yr-1,
+2004,source,budget imbalance,standard deviation,Pg C yr-1,
+2005,source,budget imbalance,standard deviation,Pg C yr-1,
+2006,source,budget imbalance,standard deviation,Pg C yr-1,
+2007,source,budget imbalance,standard deviation,Pg C yr-1,
+2008,source,budget imbalance,standard deviation,Pg C yr-1,
+2009,source,budget imbalance,standard deviation,Pg C yr-1,
+2010,source,budget imbalance,standard deviation,Pg C yr-1,
+2011,source,budget imbalance,standard deviation,Pg C yr-1,
+2012,source,budget imbalance,standard deviation,Pg C yr-1,
+2013,source,budget imbalance,standard deviation,Pg C yr-1,
+2014,source,budget imbalance,standard deviation,Pg C yr-1,
+2015,source,budget imbalance,standard deviation,Pg C yr-1,
+2016,source,budget imbalance,standard deviation,Pg C yr-1,
+2017,source,budget imbalance,standard deviation,Pg C yr-1,
+2018,source,budget imbalance,standard deviation,Pg C yr-1,
+1959,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.71
+1960,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.71
+1961,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.71
+1962,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.71
+1963,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.71
+1964,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.72
+1965,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.72
+1966,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.72
+1967,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.72
+1968,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.72
+1969,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.72
+1970,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.73
+1971,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.73
+1972,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.73
+1973,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.74
+1974,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.74
+1975,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.74
+1976,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.74
+1977,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.74
+1978,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1979,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1980,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1981,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1982,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1983,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1984,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1985,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1986,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.75
+1987,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.76
+1988,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.76
+1989,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.76
+1990,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1991,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1992,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.76
+1993,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1994,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1995,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1996,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1997,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1998,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.77
+1999,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.78
+2000,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.78
+2001,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.78
+2002,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.78
+2003,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.79
+2004,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.8
+2005,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.81
+2006,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.81
+2007,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.82
+2008,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.82
+2009,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.82
+2010,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.83
+2011,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.84
+2012,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.85
+2013,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.85
+2014,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.85
+2015,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.85
+2016,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.85
+2017,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.85
+2018,source,anthropogenic emissions,standard deviation,Pg C yr-1,0.86
+1959,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1960,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1961,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1962,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1963,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1964,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1965,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1966,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1967,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1968,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1969,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1970,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1971,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1972,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1973,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1974,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1975,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1976,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1977,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1978,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1979,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1980,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1981,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1982,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1983,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1984,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1985,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1986,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1987,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1988,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1989,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1990,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1991,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1992,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1993,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1994,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1995,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1996,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1997,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1998,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1999,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2000,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2001,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2002,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2003,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2004,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2005,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2006,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2007,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2008,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2009,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2010,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2011,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2012,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2013,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2014,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2015,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2016,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2017,sink,natural sink,standard deviation,Pg C yr-1,1.03
+2018,sink,natural sink,standard deviation,Pg C yr-1,1.03
+1959,source,fossil fuel and industry,mean,Pg CO2 yr-1,8.86
+1960,source,fossil fuel and industry,mean,Pg CO2 yr-1,9.35
+1961,source,fossil fuel and industry,mean,Pg CO2 yr-1,9.37
+1962,source,fossil fuel and industry,mean,Pg CO2 yr-1,9.71
+1963,source,fossil fuel and industry,mean,Pg CO2 yr-1,10.26
+1964,source,fossil fuel and industry,mean,Pg CO2 yr-1,10.79
+1965,source,fossil fuel and industry,mean,Pg CO2 yr-1,11.29
+1966,source,fossil fuel and industry,mean,Pg CO2 yr-1,11.81
+1967,source,fossil fuel and industry,mean,Pg CO2 yr-1,12.19
+1968,source,fossil fuel and industry,mean,Pg CO2 yr-1,12.86
+1969,source,fossil fuel and industry,mean,Pg CO2 yr-1,13.71
+1970,source,fossil fuel and industry,mean,Pg CO2 yr-1,14.85
+1971,source,fossil fuel and industry,mean,Pg CO2 yr-1,15.45
+1972,source,fossil fuel and industry,mean,Pg CO2 yr-1,16.17
+1973,source,fossil fuel and industry,mean,Pg CO2 yr-1,17.03
+1974,source,fossil fuel and industry,mean,Pg CO2 yr-1,16.95
+1975,source,fossil fuel and industry,mean,Pg CO2 yr-1,16.93
+1976,source,fossil fuel and industry,mean,Pg CO2 yr-1,17.83
+1977,source,fossil fuel and industry,mean,Pg CO2 yr-1,18.32
+1978,source,fossil fuel and industry,mean,Pg CO2 yr-1,18.99
+1979,source,fossil fuel and industry,mean,Pg CO2 yr-1,19.5
+1980,source,fossil fuel and industry,mean,Pg CO2 yr-1,19.4
+1981,source,fossil fuel and industry,mean,Pg CO2 yr-1,18.88
+1982,source,fossil fuel and industry,mean,Pg CO2 yr-1,18.74
+1983,source,fossil fuel and industry,mean,Pg CO2 yr-1,18.92
+1984,source,fossil fuel and industry,mean,Pg CO2 yr-1,19.47
+1985,source,fossil fuel and industry,mean,Pg CO2 yr-1,20.16
+1986,source,fossil fuel and industry,mean,Pg CO2 yr-1,20.45
+1987,source,fossil fuel and industry,mean,Pg CO2 yr-1,21.11
+1988,source,fossil fuel and industry,mean,Pg CO2 yr-1,21.92
+1989,source,fossil fuel and industry,mean,Pg CO2 yr-1,22.25
+1990,source,fossil fuel and industry,mean,Pg CO2 yr-1,22.73
+1991,source,fossil fuel and industry,mean,Pg CO2 yr-1,23.21
+1992,source,fossil fuel and industry,mean,Pg CO2 yr-1,22.48
+1993,source,fossil fuel and industry,mean,Pg CO2 yr-1,22.73
+1994,source,fossil fuel and industry,mean,Pg CO2 yr-1,22.89
+1995,source,fossil fuel and industry,mean,Pg CO2 yr-1,23.39
+1996,source,fossil fuel and industry,mean,Pg CO2 yr-1,24.12
+1997,source,fossil fuel and industry,mean,Pg CO2 yr-1,24.26
+1998,source,fossil fuel and industry,mean,Pg CO2 yr-1,24.17
+1999,source,fossil fuel and industry,mean,Pg CO2 yr-1,24.48
+2000,source,fossil fuel and industry,mean,Pg CO2 yr-1,25.17
+2001,source,fossil fuel and industry,mean,Pg CO2 yr-1,25.38
+2002,source,fossil fuel and industry,mean,Pg CO2 yr-1,25.94
+2003,source,fossil fuel and industry,mean,Pg CO2 yr-1,27.19
+2004,source,fossil fuel and industry,mean,Pg CO2 yr-1,28.46
+2005,source,fossil fuel and industry,mean,Pg CO2 yr-1,29.42
+2006,source,fossil fuel and industry,mean,Pg CO2 yr-1,30.4
+2007,source,fossil fuel and industry,mean,Pg CO2 yr-1,31.31
+2008,source,fossil fuel and industry,mean,Pg CO2 yr-1,32.02
+2009,source,fossil fuel and industry,mean,Pg CO2 yr-1,31.56
+2010,source,fossil fuel and industry,mean,Pg CO2 yr-1,33.18
+2011,source,fossil fuel and industry,mean,Pg CO2 yr-1,34.3
+2012,source,fossil fuel and industry,mean,Pg CO2 yr-1,34.82
+2013,source,fossil fuel and industry,mean,Pg CO2 yr-1,34.98
+2014,source,fossil fuel and industry,mean,Pg CO2 yr-1,35.25
+2015,source,fossil fuel and industry,mean,Pg CO2 yr-1,35.27
+2016,source,fossil fuel and industry,mean,Pg CO2 yr-1,35.41
+2017,source,fossil fuel and industry,mean,Pg CO2 yr-1,35.84
+2018,source,fossil fuel and industry,mean,Pg CO2 yr-1,36.6
+1959,source,land-use change emissions,mean,Pg CO2 yr-1,6.64
+1960,source,land-use change emissions,mean,Pg CO2 yr-1,6.06
+1961,source,land-use change emissions,mean,Pg CO2 yr-1,5.78
+1962,source,land-use change emissions,mean,Pg CO2 yr-1,5.6
+1963,source,land-use change emissions,mean,Pg CO2 yr-1,5.38
+1964,source,land-use change emissions,mean,Pg CO2 yr-1,5.18
+1965,source,land-use change emissions,mean,Pg CO2 yr-1,5.0
+1966,source,land-use change emissions,mean,Pg CO2 yr-1,4.83
+1967,source,land-use change emissions,mean,Pg CO2 yr-1,4.75
+1968,source,land-use change emissions,mean,Pg CO2 yr-1,4.73
+1969,source,land-use change emissions,mean,Pg CO2 yr-1,4.75
+1970,source,land-use change emissions,mean,Pg CO2 yr-1,4.66
+1971,source,land-use change emissions,mean,Pg CO2 yr-1,4.57
+1972,source,land-use change emissions,mean,Pg CO2 yr-1,4.46
+1973,source,land-use change emissions,mean,Pg CO2 yr-1,4.37
+1974,source,land-use change emissions,mean,Pg CO2 yr-1,4.25
+1975,source,land-use change emissions,mean,Pg CO2 yr-1,4.17
+1976,source,land-use change emissions,mean,Pg CO2 yr-1,4.11
+1977,source,land-use change emissions,mean,Pg CO2 yr-1,4.04
+1978,source,land-use change emissions,mean,Pg CO2 yr-1,3.91
+1979,source,land-use change emissions,mean,Pg CO2 yr-1,3.81
+1980,source,land-use change emissions,mean,Pg CO2 yr-1,3.98
+1981,source,land-use change emissions,mean,Pg CO2 yr-1,4.04
+1982,source,land-use change emissions,mean,Pg CO2 yr-1,4.1
+1983,source,land-use change emissions,mean,Pg CO2 yr-1,4.25
+1984,source,land-use change emissions,mean,Pg CO2 yr-1,4.39
+1985,source,land-use change emissions,mean,Pg CO2 yr-1,4.47
+1986,source,land-use change emissions,mean,Pg CO2 yr-1,4.6
+1987,source,land-use change emissions,mean,Pg CO2 yr-1,4.73
+1988,source,land-use change emissions,mean,Pg CO2 yr-1,4.8
+1989,source,land-use change emissions,mean,Pg CO2 yr-1,4.89
+1990,source,land-use change emissions,mean,Pg CO2 yr-1,4.8
+1991,source,land-use change emissions,mean,Pg CO2 yr-1,4.79
+1992,source,land-use change emissions,mean,Pg CO2 yr-1,4.82
+1993,source,land-use change emissions,mean,Pg CO2 yr-1,4.81
+1994,source,land-use change emissions,mean,Pg CO2 yr-1,4.79
+1995,source,land-use change emissions,mean,Pg CO2 yr-1,4.74
+1996,source,land-use change emissions,mean,Pg CO2 yr-1,4.64
+1997,source,land-use change emissions,mean,Pg CO2 yr-1,6.37
+1998,source,land-use change emissions,mean,Pg CO2 yr-1,4.35
+1999,source,land-use change emissions,mean,Pg CO2 yr-1,4.26
+2000,source,land-use change emissions,mean,Pg CO2 yr-1,4.92
+2001,source,land-use change emissions,mean,Pg CO2 yr-1,4.66
+2002,source,land-use change emissions,mean,Pg CO2 yr-1,5.36
+2003,source,land-use change emissions,mean,Pg CO2 yr-1,5.57
+2004,source,land-use change emissions,mean,Pg CO2 yr-1,5.42
+2005,source,land-use change emissions,mean,Pg CO2 yr-1,5.02
+2006,source,land-use change emissions,mean,Pg CO2 yr-1,5.2
+2007,source,land-use change emissions,mean,Pg CO2 yr-1,4.53
+2008,source,land-use change emissions,mean,Pg CO2 yr-1,4.76
+2009,source,land-use change emissions,mean,Pg CO2 yr-1,5.51
+2010,source,land-use change emissions,mean,Pg CO2 yr-1,5.08
+2011,source,land-use change emissions,mean,Pg CO2 yr-1,4.92
+2012,source,land-use change emissions,mean,Pg CO2 yr-1,5.38
+2013,source,land-use change emissions,mean,Pg CO2 yr-1,5.57
+2014,source,land-use change emissions,mean,Pg CO2 yr-1,6.08
+2015,source,land-use change emissions,mean,Pg CO2 yr-1,6.25
+2016,source,land-use change emissions,mean,Pg CO2 yr-1,5.64
+2017,source,land-use change emissions,mean,Pg CO2 yr-1,5.39
+2018,source,land-use change emissions,mean,Pg CO2 yr-1,5.53
+1959,source,atmospheric growth,mean,Pg CO2 yr-1,7.5
+1960,source,atmospheric growth,mean,Pg CO2 yr-1,5.54
+1961,source,atmospheric growth,mean,Pg CO2 yr-1,6.09
+1962,source,atmospheric growth,mean,Pg CO2 yr-1,4.37
+1963,source,atmospheric growth,mean,Pg CO2 yr-1,4.45
+1964,source,atmospheric growth,mean,Pg CO2 yr-1,3.83
+1965,source,atmospheric growth,mean,Pg CO2 yr-1,8.59
+1966,source,atmospheric growth,mean,Pg CO2 yr-1,8.59
+1967,source,atmospheric growth,mean,Pg CO2 yr-1,4.76
+1968,source,atmospheric growth,mean,Pg CO2 yr-1,7.73
+1969,source,atmospheric growth,mean,Pg CO2 yr-1,10.31
+1970,source,atmospheric growth,mean,Pg CO2 yr-1,8.83
+1971,source,atmospheric growth,mean,Pg CO2 yr-1,5.7
+1972,source,atmospheric growth,mean,Pg CO2 yr-1,11.48
+1973,source,atmospheric growth,mean,Pg CO2 yr-1,11.4
+1974,source,atmospheric growth,mean,Pg CO2 yr-1,5.31
+1975,source,atmospheric growth,mean,Pg CO2 yr-1,9.61
+1976,source,atmospheric growth,mean,Pg CO2 yr-1,7.58
+1977,source,atmospheric growth,mean,Pg CO2 yr-1,15.0
+1978,source,atmospheric growth,mean,Pg CO2 yr-1,10.08
+1979,source,atmospheric growth,mean,Pg CO2 yr-1,16.71
+1980,source,atmospheric growth,mean,Pg CO2 yr-1,13.28
+1981,source,atmospheric growth,mean,Pg CO2 yr-1,8.98
+1982,source,atmospheric growth,mean,Pg CO2 yr-1,7.81
+1983,source,atmospheric growth,mean,Pg CO2 yr-1,14.45
+1984,source,atmospheric growth,mean,Pg CO2 yr-1,9.68
+1985,source,atmospheric growth,mean,Pg CO2 yr-1,12.65
+1986,source,atmospheric growth,mean,Pg CO2 yr-1,7.97
+1987,source,atmospheric growth,mean,Pg CO2 yr-1,21.09
+1988,source,atmospheric growth,mean,Pg CO2 yr-1,17.57
+1989,source,atmospheric growth,mean,Pg CO2 yr-1,10.78
+1990,source,atmospheric growth,mean,Pg CO2 yr-1,9.14
+1991,source,atmospheric growth,mean,Pg CO2 yr-1,5.78
+1992,source,atmospheric growth,mean,Pg CO2 yr-1,5.47
+1993,source,atmospheric growth,mean,Pg CO2 yr-1,9.61
+1994,source,atmospheric growth,mean,Pg CO2 yr-1,13.12
+1995,source,atmospheric growth,mean,Pg CO2 yr-1,15.23
+1996,source,atmospheric growth,mean,Pg CO2 yr-1,8.28
+1997,source,atmospheric growth,mean,Pg CO2 yr-1,15.39
+1998,source,atmospheric growth,mean,Pg CO2 yr-1,22.03
+1999,source,atmospheric growth,mean,Pg CO2 yr-1,10.7
+2000,source,atmospheric growth,mean,Pg CO2 yr-1,9.61
+2001,source,atmospheric growth,mean,Pg CO2 yr-1,14.22
+2002,source,atmospheric growth,mean,Pg CO2 yr-1,18.43
+2003,source,atmospheric growth,mean,Pg CO2 yr-1,17.89
+2004,source,atmospheric growth,mean,Pg CO2 yr-1,12.26
+2005,source,atmospheric growth,mean,Pg CO2 yr-1,19.06
+2006,source,atmospheric growth,mean,Pg CO2 yr-1,13.67
+2007,source,atmospheric growth,mean,Pg CO2 yr-1,16.4
+2008,source,atmospheric growth,mean,Pg CO2 yr-1,13.9
+2009,source,atmospheric growth,mean,Pg CO2 yr-1,12.57
+2010,source,atmospheric growth,mean,Pg CO2 yr-1,18.98
+2011,source,atmospheric growth,mean,Pg CO2 yr-1,13.28
+2012,source,atmospheric growth,mean,Pg CO2 yr-1,18.67
+2013,source,atmospheric growth,mean,Pg CO2 yr-1,18.82
+2014,source,atmospheric growth,mean,Pg CO2 yr-1,15.85
+2015,source,atmospheric growth,mean,Pg CO2 yr-1,23.2
+2016,source,atmospheric growth,mean,Pg CO2 yr-1,22.26
+2017,source,atmospheric growth,mean,Pg CO2 yr-1,16.79
+2018,source,atmospheric growth,mean,Pg CO2 yr-1,18.9
+1959,sink,ocean sink,mean,Pg CO2 yr-1,2.78
+1960,sink,ocean sink,mean,Pg CO2 yr-1,2.9
+1961,sink,ocean sink,mean,Pg CO2 yr-1,2.5
+1962,sink,ocean sink,mean,Pg CO2 yr-1,2.76
+1963,sink,ocean sink,mean,Pg CO2 yr-1,3.26
+1964,sink,ocean sink,mean,Pg CO2 yr-1,3.81
+1965,sink,ocean sink,mean,Pg CO2 yr-1,4.3
+1966,sink,ocean sink,mean,Pg CO2 yr-1,4.21
+1967,sink,ocean sink,mean,Pg CO2 yr-1,3.54
+1968,sink,ocean sink,mean,Pg CO2 yr-1,3.92
+1969,sink,ocean sink,mean,Pg CO2 yr-1,4.06
+1970,sink,ocean sink,mean,Pg CO2 yr-1,3.79
+1971,sink,ocean sink,mean,Pg CO2 yr-1,4.14
+1972,sink,ocean sink,mean,Pg CO2 yr-1,4.92
+1973,sink,ocean sink,mean,Pg CO2 yr-1,4.76
+1974,sink,ocean sink,mean,Pg CO2 yr-1,4.53
+1975,sink,ocean sink,mean,Pg CO2 yr-1,4.51
+1976,sink,ocean sink,mean,Pg CO2 yr-1,4.84
+1977,sink,ocean sink,mean,Pg CO2 yr-1,5.13
+1978,sink,ocean sink,mean,Pg CO2 yr-1,5.27
+1979,sink,ocean sink,mean,Pg CO2 yr-1,4.97
+1980,sink,ocean sink,mean,Pg CO2 yr-1,5.97
+1981,sink,ocean sink,mean,Pg CO2 yr-1,5.93
+1982,sink,ocean sink,mean,Pg CO2 yr-1,6.24
+1983,sink,ocean sink,mean,Pg CO2 yr-1,6.7
+1984,sink,ocean sink,mean,Pg CO2 yr-1,6.22
+1985,sink,ocean sink,mean,Pg CO2 yr-1,6.05
+1986,sink,ocean sink,mean,Pg CO2 yr-1,6.34
+1987,sink,ocean sink,mean,Pg CO2 yr-1,6.69
+1988,sink,ocean sink,mean,Pg CO2 yr-1,6.26
+1989,sink,ocean sink,mean,Pg CO2 yr-1,6.24
+1990,sink,ocean sink,mean,Pg CO2 yr-1,6.66
+1991,sink,ocean sink,mean,Pg CO2 yr-1,7.0
+1992,sink,ocean sink,mean,Pg CO2 yr-1,7.7
+1993,sink,ocean sink,mean,Pg CO2 yr-1,7.44
+1994,sink,ocean sink,mean,Pg CO2 yr-1,6.98
+1995,sink,ocean sink,mean,Pg CO2 yr-1,7.0
+1996,sink,ocean sink,mean,Pg CO2 yr-1,6.82
+1997,sink,ocean sink,mean,Pg CO2 yr-1,7.3
+1998,sink,ocean sink,mean,Pg CO2 yr-1,7.67
+1999,sink,ocean sink,mean,Pg CO2 yr-1,7.11
+2000,sink,ocean sink,mean,Pg CO2 yr-1,6.99
+2001,sink,ocean sink,mean,Pg CO2 yr-1,6.62
+2002,sink,ocean sink,mean,Pg CO2 yr-1,7.88
+2003,sink,ocean sink,mean,Pg CO2 yr-1,8.14
+2004,sink,ocean sink,mean,Pg CO2 yr-1,7.89
+2005,sink,ocean sink,mean,Pg CO2 yr-1,8.13
+2006,sink,ocean sink,mean,Pg CO2 yr-1,8.37
+2007,sink,ocean sink,mean,Pg CO2 yr-1,8.5
+2008,sink,ocean sink,mean,Pg CO2 yr-1,8.33
+2009,sink,ocean sink,mean,Pg CO2 yr-1,8.57
+2010,sink,ocean sink,mean,Pg CO2 yr-1,8.45
+2011,sink,ocean sink,mean,Pg CO2 yr-1,8.9
+2012,sink,ocean sink,mean,Pg CO2 yr-1,9.09
+2013,sink,ocean sink,mean,Pg CO2 yr-1,9.18
+2014,sink,ocean sink,mean,Pg CO2 yr-1,9.46
+2015,sink,ocean sink,mean,Pg CO2 yr-1,9.68
+2016,sink,ocean sink,mean,Pg CO2 yr-1,9.79
+2017,sink,ocean sink,mean,Pg CO2 yr-1,9.32
+2018,sink,ocean sink,mean,Pg CO2 yr-1,9.64
+1959,sink,land sink,mean,Pg CO2 yr-1,2.07
+1960,sink,land sink,mean,Pg CO2 yr-1,4.88
+1961,sink,land sink,mean,Pg CO2 yr-1,2.52
+1962,sink,land sink,mean,Pg CO2 yr-1,4.84
+1963,sink,land sink,mean,Pg CO2 yr-1,4.0
+1964,sink,land sink,mean,Pg CO2 yr-1,5.41
+1965,sink,land sink,mean,Pg CO2 yr-1,1.96
+1966,sink,land sink,mean,Pg CO2 yr-1,5.25
+1967,sink,land sink,mean,Pg CO2 yr-1,6.19
+1968,sink,land sink,mean,Pg CO2 yr-1,9.1
+1969,sink,land sink,mean,Pg CO2 yr-1,1.9
+1970,sink,land sink,mean,Pg CO2 yr-1,1.56
+1971,sink,land sink,mean,Pg CO2 yr-1,9.23
+1972,sink,land sink,mean,Pg CO2 yr-1,4.28
+1973,sink,land sink,mean,Pg CO2 yr-1,5.11
+1974,sink,land sink,mean,Pg CO2 yr-1,14.4
+1975,sink,land sink,mean,Pg CO2 yr-1,8.78
+1976,sink,land sink,mean,Pg CO2 yr-1,10.94
+1977,sink,land sink,mean,Pg CO2 yr-1,5.22
+1978,sink,land sink,mean,Pg CO2 yr-1,9.72
+1979,sink,land sink,mean,Pg CO2 yr-1,5.29
+1980,sink,land sink,mean,Pg CO2 yr-1,1.84
+1981,sink,land sink,mean,Pg CO2 yr-1,8.25
+1982,sink,land sink,mean,Pg CO2 yr-1,5.48
+1983,sink,land sink,mean,Pg CO2 yr-1,0.83
+1984,sink,land sink,mean,Pg CO2 yr-1,9.95
+1985,sink,land sink,mean,Pg CO2 yr-1,9.72
+1986,sink,land sink,mean,Pg CO2 yr-1,8.09
+1987,sink,land sink,mean,Pg CO2 yr-1,1.57
+1988,sink,land sink,mean,Pg CO2 yr-1,7.08
+1989,sink,land sink,mean,Pg CO2 yr-1,12.33
+1990,sink,land sink,mean,Pg CO2 yr-1,8.32
+1991,sink,land sink,mean,Pg CO2 yr-1,8.04
+1992,sink,land sink,mean,Pg CO2 yr-1,7.7
+1993,sink,land sink,mean,Pg CO2 yr-1,10.38
+1994,sink,land sink,mean,Pg CO2 yr-1,5.18
+1995,sink,land sink,mean,Pg CO2 yr-1,6.21
+1996,sink,land sink,mean,Pg CO2 yr-1,11.21
+1997,sink,land sink,mean,Pg CO2 yr-1,11.69
+1998,sink,land sink,mean,Pg CO2 yr-1,5.25
+1999,sink,land sink,mean,Pg CO2 yr-1,12.39
+2000,sink,land sink,mean,Pg CO2 yr-1,13.67
+2001,sink,land sink,mean,Pg CO2 yr-1,8.76
+2002,sink,land sink,mean,Pg CO2 yr-1,3.83
+2003,sink,land sink,mean,Pg CO2 yr-1,8.36
+2004,sink,land sink,mean,Pg CO2 yr-1,12.66
+2005,sink,land sink,mean,Pg CO2 yr-1,6.66
+2006,sink,land sink,mean,Pg CO2 yr-1,11.07
+2007,sink,land sink,mean,Pg CO2 yr-1,10.37
+2008,sink,land sink,mean,Pg CO2 yr-1,12.85
+2009,sink,land sink,mean,Pg CO2 yr-1,9.96
+2010,sink,land sink,mean,Pg CO2 yr-1,11.49
+2011,sink,land sink,mean,Pg CO2 yr-1,15.14
+2012,sink,land sink,mean,Pg CO2 yr-1,9.34
+2013,sink,land sink,mean,Pg CO2 yr-1,12.03
+2014,sink,land sink,mean,Pg CO2 yr-1,13.62
+2015,sink,land sink,mean,Pg CO2 yr-1,8.05
+2016,sink,land sink,mean,Pg CO2 yr-1,9.97
+2017,sink,land sink,mean,Pg CO2 yr-1,13.14
+2018,sink,land sink,mean,Pg CO2 yr-1,12.72
+1959,source,budget imbalance,mean,Pg CO2 yr-1,3.16
+1960,source,budget imbalance,mean,Pg CO2 yr-1,2.08
+1961,source,budget imbalance,mean,Pg CO2 yr-1,4.04
+1962,source,budget imbalance,mean,Pg CO2 yr-1,3.33
+1963,source,budget imbalance,mean,Pg CO2 yr-1,3.93
+1964,source,budget imbalance,mean,Pg CO2 yr-1,2.93
+1965,source,budget imbalance,mean,Pg CO2 yr-1,1.43
+1966,source,budget imbalance,mean,Pg CO2 yr-1,-1.41
+1967,source,budget imbalance,mean,Pg CO2 yr-1,2.44
+1968,source,budget imbalance,mean,Pg CO2 yr-1,-3.16
+1969,source,budget imbalance,mean,Pg CO2 yr-1,2.2
+1970,source,budget imbalance,mean,Pg CO2 yr-1,5.34
+1971,source,budget imbalance,mean,Pg CO2 yr-1,0.96
+1972,source,budget imbalance,mean,Pg CO2 yr-1,-0.05
+1973,source,budget imbalance,mean,Pg CO2 yr-1,0.12
+1974,source,budget imbalance,mean,Pg CO2 yr-1,-3.04
+1975,source,budget imbalance,mean,Pg CO2 yr-1,-1.8
+1976,source,budget imbalance,mean,Pg CO2 yr-1,-1.42
+1977,source,budget imbalance,mean,Pg CO2 yr-1,-2.98
+1978,source,budget imbalance,mean,Pg CO2 yr-1,-2.16
+1979,source,budget imbalance,mean,Pg CO2 yr-1,-3.67
+1980,source,budget imbalance,mean,Pg CO2 yr-1,2.3
+1981,source,budget imbalance,mean,Pg CO2 yr-1,-0.24
+1982,source,budget imbalance,mean,Pg CO2 yr-1,3.31
+1983,source,budget imbalance,mean,Pg CO2 yr-1,1.19
+1984,source,budget imbalance,mean,Pg CO2 yr-1,-1.99
+1985,source,budget imbalance,mean,Pg CO2 yr-1,-3.79
+1986,source,budget imbalance,mean,Pg CO2 yr-1,2.65
+1987,source,budget imbalance,mean,Pg CO2 yr-1,-3.5
+1988,source,budget imbalance,mean,Pg CO2 yr-1,-4.2
+1989,source,budget imbalance,mean,Pg CO2 yr-1,-2.21
+1990,source,budget imbalance,mean,Pg CO2 yr-1,3.41
+1991,source,budget imbalance,mean,Pg CO2 yr-1,7.18
+1992,source,budget imbalance,mean,Pg CO2 yr-1,6.44
+1993,source,budget imbalance,mean,Pg CO2 yr-1,0.12
+1994,source,budget imbalance,mean,Pg CO2 yr-1,2.41
+1995,source,budget imbalance,mean,Pg CO2 yr-1,-0.3
+1996,source,budget imbalance,mean,Pg CO2 yr-1,2.46
+1997,source,budget imbalance,mean,Pg CO2 yr-1,-3.75
+1998,source,budget imbalance,mean,Pg CO2 yr-1,-6.43
+1999,source,budget imbalance,mean,Pg CO2 yr-1,-1.47
+2000,source,budget imbalance,mean,Pg CO2 yr-1,-0.18
+2001,source,budget imbalance,mean,Pg CO2 yr-1,0.45
+2002,source,budget imbalance,mean,Pg CO2 yr-1,1.16
+2003,source,budget imbalance,mean,Pg CO2 yr-1,-1.62
+2004,source,budget imbalance,mean,Pg CO2 yr-1,1.07
+2005,source,budget imbalance,mean,Pg CO2 yr-1,0.59
+2006,source,budget imbalance,mean,Pg CO2 yr-1,2.49
+2007,source,budget imbalance,mean,Pg CO2 yr-1,0.57
+2008,source,budget imbalance,mean,Pg CO2 yr-1,1.69
+2009,source,budget imbalance,mean,Pg CO2 yr-1,5.97
+2010,source,budget imbalance,mean,Pg CO2 yr-1,-0.66
+2011,source,budget imbalance,mean,Pg CO2 yr-1,1.9
+2012,source,budget imbalance,mean,Pg CO2 yr-1,3.11
+2013,source,budget imbalance,mean,Pg CO2 yr-1,0.52
+2014,source,budget imbalance,mean,Pg CO2 yr-1,2.4
+2015,source,budget imbalance,mean,Pg CO2 yr-1,0.58
+2016,source,budget imbalance,mean,Pg CO2 yr-1,-0.98
+2017,source,budget imbalance,mean,Pg CO2 yr-1,1.98
+2018,source,budget imbalance,mean,Pg CO2 yr-1,0.88
+1959,source,anthropogenic emissions,mean,Pg CO2 yr-1,15.5
+1960,source,anthropogenic emissions,mean,Pg CO2 yr-1,15.41
+1961,source,anthropogenic emissions,mean,Pg CO2 yr-1,15.15
+1962,source,anthropogenic emissions,mean,Pg CO2 yr-1,15.3
+1963,source,anthropogenic emissions,mean,Pg CO2 yr-1,15.64
+1964,source,anthropogenic emissions,mean,Pg CO2 yr-1,15.97
+1965,source,anthropogenic emissions,mean,Pg CO2 yr-1,16.29
+1966,source,anthropogenic emissions,mean,Pg CO2 yr-1,16.65
+1967,source,anthropogenic emissions,mean,Pg CO2 yr-1,16.94
+1968,source,anthropogenic emissions,mean,Pg CO2 yr-1,17.59
+1969,source,anthropogenic emissions,mean,Pg CO2 yr-1,18.47
+1970,source,anthropogenic emissions,mean,Pg CO2 yr-1,19.51
+1971,source,anthropogenic emissions,mean,Pg CO2 yr-1,20.02
+1972,source,anthropogenic emissions,mean,Pg CO2 yr-1,20.63
+1973,source,anthropogenic emissions,mean,Pg CO2 yr-1,21.4
+1974,source,anthropogenic emissions,mean,Pg CO2 yr-1,21.2
+1975,source,anthropogenic emissions,mean,Pg CO2 yr-1,21.1
+1976,source,anthropogenic emissions,mean,Pg CO2 yr-1,21.94
+1977,source,anthropogenic emissions,mean,Pg CO2 yr-1,22.36
+1978,source,anthropogenic emissions,mean,Pg CO2 yr-1,22.9
+1979,source,anthropogenic emissions,mean,Pg CO2 yr-1,23.31
+1980,source,anthropogenic emissions,mean,Pg CO2 yr-1,23.38
+1981,source,anthropogenic emissions,mean,Pg CO2 yr-1,22.92
+1982,source,anthropogenic emissions,mean,Pg CO2 yr-1,22.83
+1983,source,anthropogenic emissions,mean,Pg CO2 yr-1,23.17
+1984,source,anthropogenic emissions,mean,Pg CO2 yr-1,23.86
+1985,source,anthropogenic emissions,mean,Pg CO2 yr-1,24.63
+1986,source,anthropogenic emissions,mean,Pg CO2 yr-1,25.04
+1987,source,anthropogenic emissions,mean,Pg CO2 yr-1,25.84
+1988,source,anthropogenic emissions,mean,Pg CO2 yr-1,26.71
+1989,source,anthropogenic emissions,mean,Pg CO2 yr-1,27.14
+1990,source,anthropogenic emissions,mean,Pg CO2 yr-1,27.53
+1991,source,anthropogenic emissions,mean,Pg CO2 yr-1,28.0
+1992,source,anthropogenic emissions,mean,Pg CO2 yr-1,27.31
+1993,source,anthropogenic emissions,mean,Pg CO2 yr-1,27.55
+1994,source,anthropogenic emissions,mean,Pg CO2 yr-1,27.69
+1995,source,anthropogenic emissions,mean,Pg CO2 yr-1,28.13
+1996,source,anthropogenic emissions,mean,Pg CO2 yr-1,28.76
+1997,source,anthropogenic emissions,mean,Pg CO2 yr-1,30.63
+1998,source,anthropogenic emissions,mean,Pg CO2 yr-1,28.52
+1999,source,anthropogenic emissions,mean,Pg CO2 yr-1,28.73
+2000,source,anthropogenic emissions,mean,Pg CO2 yr-1,30.09
+2001,source,anthropogenic emissions,mean,Pg CO2 yr-1,30.05
+2002,source,anthropogenic emissions,mean,Pg CO2 yr-1,31.3
+2003,source,anthropogenic emissions,mean,Pg CO2 yr-1,32.76
+2004,source,anthropogenic emissions,mean,Pg CO2 yr-1,33.89
+2005,source,anthropogenic emissions,mean,Pg CO2 yr-1,34.44
+2006,source,anthropogenic emissions,mean,Pg CO2 yr-1,35.6
+2007,source,anthropogenic emissions,mean,Pg CO2 yr-1,35.84
+2008,source,anthropogenic emissions,mean,Pg CO2 yr-1,36.78
+2009,source,anthropogenic emissions,mean,Pg CO2 yr-1,37.07
+2010,source,anthropogenic emissions,mean,Pg CO2 yr-1,38.25
+2011,source,anthropogenic emissions,mean,Pg CO2 yr-1,39.22
+2012,source,anthropogenic emissions,mean,Pg CO2 yr-1,40.2
+2013,source,anthropogenic emissions,mean,Pg CO2 yr-1,40.55
+2014,source,anthropogenic emissions,mean,Pg CO2 yr-1,41.33
+2015,source,anthropogenic emissions,mean,Pg CO2 yr-1,41.51
+2016,source,anthropogenic emissions,mean,Pg CO2 yr-1,41.04
+2017,source,anthropogenic emissions,mean,Pg CO2 yr-1,41.22
+2018,source,anthropogenic emissions,mean,Pg CO2 yr-1,42.13
+1959,sink,natural sink,mean,Pg CO2 yr-1,4.84
+1960,sink,natural sink,mean,Pg CO2 yr-1,7.78
+1961,sink,natural sink,mean,Pg CO2 yr-1,5.02
+1962,sink,natural sink,mean,Pg CO2 yr-1,7.6
+1963,sink,natural sink,mean,Pg CO2 yr-1,7.26
+1964,sink,natural sink,mean,Pg CO2 yr-1,9.22
+1965,sink,natural sink,mean,Pg CO2 yr-1,6.26
+1966,sink,natural sink,mean,Pg CO2 yr-1,9.47
+1967,sink,natural sink,mean,Pg CO2 yr-1,9.73
+1968,sink,natural sink,mean,Pg CO2 yr-1,13.02
+1969,sink,natural sink,mean,Pg CO2 yr-1,5.96
+1970,sink,natural sink,mean,Pg CO2 yr-1,5.35
+1971,sink,natural sink,mean,Pg CO2 yr-1,13.36
+1972,sink,natural sink,mean,Pg CO2 yr-1,9.2
+1973,sink,natural sink,mean,Pg CO2 yr-1,9.87
+1974,sink,natural sink,mean,Pg CO2 yr-1,18.93
+1975,sink,natural sink,mean,Pg CO2 yr-1,13.3
+1976,sink,natural sink,mean,Pg CO2 yr-1,15.78
+1977,sink,natural sink,mean,Pg CO2 yr-1,10.35
+1978,sink,natural sink,mean,Pg CO2 yr-1,14.99
+1979,sink,natural sink,mean,Pg CO2 yr-1,10.27
+1980,sink,natural sink,mean,Pg CO2 yr-1,7.81
+1981,sink,natural sink,mean,Pg CO2 yr-1,14.18
+1982,sink,natural sink,mean,Pg CO2 yr-1,11.72
+1983,sink,natural sink,mean,Pg CO2 yr-1,7.53
+1984,sink,natural sink,mean,Pg CO2 yr-1,16.16
+1985,sink,natural sink,mean,Pg CO2 yr-1,15.77
+1986,sink,natural sink,mean,Pg CO2 yr-1,14.43
+1987,sink,natural sink,mean,Pg CO2 yr-1,8.26
+1988,sink,natural sink,mean,Pg CO2 yr-1,13.34
+1989,sink,natural sink,mean,Pg CO2 yr-1,18.57
+1990,sink,natural sink,mean,Pg CO2 yr-1,14.98
+1991,sink,natural sink,mean,Pg CO2 yr-1,15.04
+1992,sink,natural sink,mean,Pg CO2 yr-1,15.4
+1993,sink,natural sink,mean,Pg CO2 yr-1,17.82
+1994,sink,natural sink,mean,Pg CO2 yr-1,12.16
+1995,sink,natural sink,mean,Pg CO2 yr-1,13.2
+1996,sink,natural sink,mean,Pg CO2 yr-1,18.03
+1997,sink,natural sink,mean,Pg CO2 yr-1,19.0
+1998,sink,natural sink,mean,Pg CO2 yr-1,12.93
+1999,sink,natural sink,mean,Pg CO2 yr-1,19.5
+2000,sink,natural sink,mean,Pg CO2 yr-1,20.67
+2001,sink,natural sink,mean,Pg CO2 yr-1,15.38
+2002,sink,natural sink,mean,Pg CO2 yr-1,11.7
+2003,sink,natural sink,mean,Pg CO2 yr-1,16.5
+2004,sink,natural sink,mean,Pg CO2 yr-1,20.55
+2005,sink,natural sink,mean,Pg CO2 yr-1,14.79
+2006,sink,natural sink,mean,Pg CO2 yr-1,19.43
+2007,sink,natural sink,mean,Pg CO2 yr-1,18.86
+2008,sink,natural sink,mean,Pg CO2 yr-1,21.18
+2009,sink,natural sink,mean,Pg CO2 yr-1,18.52
+2010,sink,natural sink,mean,Pg CO2 yr-1,19.94
+2011,sink,natural sink,mean,Pg CO2 yr-1,24.04
+2012,sink,natural sink,mean,Pg CO2 yr-1,18.42
+2013,sink,natural sink,mean,Pg CO2 yr-1,21.21
+2014,sink,natural sink,mean,Pg CO2 yr-1,23.08
+2015,sink,natural sink,mean,Pg CO2 yr-1,17.73
+2016,sink,natural sink,mean,Pg CO2 yr-1,19.76
+2017,sink,natural sink,mean,Pg CO2 yr-1,22.46
+2018,sink,natural sink,mean,Pg CO2 yr-1,22.36
+1959,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.44
+1960,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.47
+1961,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.47
+1962,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.49
+1963,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.51
+1964,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.54
+1965,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.56
+1966,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.59
+1967,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.61
+1968,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.64
+1969,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.69
+1970,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.74
+1971,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.77
+1972,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.81
+1973,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.85
+1974,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.85
+1975,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.85
+1976,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.89
+1977,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.92
+1978,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.95
+1979,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.97
+1980,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.97
+1981,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.94
+1982,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.94
+1983,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.95
+1984,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,0.97
+1985,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.01
+1986,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.02
+1987,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.06
+1988,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.1
+1989,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.11
+1990,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.14
+1991,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.16
+1992,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.12
+1993,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.14
+1994,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.14
+1995,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.17
+1996,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.21
+1997,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.21
+1998,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.21
+1999,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.22
+2000,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.26
+2001,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.27
+2002,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.3
+2003,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.36
+2004,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.42
+2005,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.47
+2006,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.52
+2007,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.57
+2008,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.6
+2009,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.58
+2010,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.66
+2011,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.71
+2012,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.74
+2013,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.75
+2014,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.76
+2015,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.76
+2016,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.77
+2017,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.79
+2018,source,fossil fuel and industry,standard deviation,Pg CO2 yr-1,1.83
+1959,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1960,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1961,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1962,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1963,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1964,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1965,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1966,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1967,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1968,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1969,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1970,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1971,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1972,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1973,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1974,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1975,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1976,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1977,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1978,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1979,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1980,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1981,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1982,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1983,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1984,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1985,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1986,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1987,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1988,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1989,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1990,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1991,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1992,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1993,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1994,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1995,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1996,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1997,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1998,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1999,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2000,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2001,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2002,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2003,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2004,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2005,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2006,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2007,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2008,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2009,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2010,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2011,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2012,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2013,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2014,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2015,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2016,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2017,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+2018,source,land-use change emissions,standard deviation,Pg CO2 yr-1,2.57
+1959,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1960,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1961,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1962,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1963,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1964,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1965,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1966,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1967,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1968,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1969,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1970,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1971,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1972,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1973,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1974,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1975,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1976,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1977,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1978,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1979,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1980,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1981,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1982,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1983,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1984,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1985,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1986,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1987,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1988,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1989,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1990,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1991,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1992,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1993,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1994,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1995,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1996,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1997,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1998,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1999,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2000,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2001,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2002,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2003,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2004,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2005,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2006,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2007,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2008,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2009,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2010,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2011,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2012,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2013,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2014,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2015,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2016,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2017,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+2018,source,atmospheric growth,standard deviation,Pg CO2 yr-1,0.73
+1959,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1960,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1961,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1962,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1963,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1964,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1965,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1966,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1967,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1968,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1969,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1970,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1971,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1972,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1973,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1974,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1975,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1976,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1977,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1978,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1979,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1980,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1981,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1982,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1983,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1984,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1985,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1986,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1987,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1988,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1989,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1990,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1991,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1992,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1993,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1994,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1995,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1996,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1997,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1998,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1999,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2000,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2001,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2002,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2003,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2004,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2005,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2006,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2007,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2008,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2009,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2010,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2011,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2012,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2013,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2014,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2015,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2016,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2017,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+2018,sink,ocean sink,standard deviation,Pg CO2 yr-1,1.83
+1959,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1960,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1961,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1962,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1963,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1964,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1965,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1966,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1967,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1968,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1969,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1970,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1971,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1972,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1973,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1974,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1975,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1976,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1977,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1978,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1979,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1980,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1981,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1982,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1983,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1984,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1985,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1986,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1987,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1988,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1989,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1990,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1991,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1992,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1993,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1994,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1995,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1996,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1997,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1998,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1999,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2000,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2001,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2002,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2003,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2004,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2005,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2006,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2007,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2008,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2009,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2010,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2011,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2012,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2013,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2014,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2015,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2016,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2017,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+2018,sink,land sink,standard deviation,Pg CO2 yr-1,3.3
+1959,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1960,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1961,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1962,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1963,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1964,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1965,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1966,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1967,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1968,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1969,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1970,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1971,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1972,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1973,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1974,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1975,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1976,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1977,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1978,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1979,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1980,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1981,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1982,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1983,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1984,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1985,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1986,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1987,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1988,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1989,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1990,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1991,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1992,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1993,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1994,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1995,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1996,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1997,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1998,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1999,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2000,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2001,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2002,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2003,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2004,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2005,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2006,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2007,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2008,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2009,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2010,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2011,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2012,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2013,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2014,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2015,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2016,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2017,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+2018,source,budget imbalance,standard deviation,Pg CO2 yr-1,
+1959,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.6
+1960,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.61
+1961,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.61
+1962,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.61
+1963,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.62
+1964,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.62
+1965,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.63
+1966,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.63
+1967,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.64
+1968,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.65
+1969,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.66
+1970,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.67
+1971,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.68
+1972,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.69
+1973,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.7
+1974,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.7
+1975,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.7
+1976,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.72
+1977,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.73
+1978,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.74
+1979,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.75
+1980,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.74
+1981,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.73
+1982,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.73
+1983,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.74
+1984,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.75
+1985,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.76
+1986,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.76
+1987,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.78
+1988,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.79
+1989,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.8
+1990,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.81
+1991,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.82
+1992,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.8
+1993,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.81
+1994,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.81
+1995,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.82
+1996,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.84
+1997,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.84
+1998,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.84
+1999,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.84
+2000,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.86
+2001,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.86
+2002,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.88
+2003,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.9
+2004,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.93
+2005,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.96
+2006,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,2.98
+2007,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.01
+2008,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.02
+2009,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.01
+2010,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.06
+2011,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.09
+2012,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.1
+2013,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.11
+2014,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.11
+2015,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.11
+2016,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.12
+2017,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.13
+2018,source,anthropogenic emissions,standard deviation,Pg CO2 yr-1,3.15
+1959,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1960,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1961,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1962,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1963,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1964,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1965,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1966,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1967,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1968,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1969,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1970,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1971,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1972,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1973,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1974,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1975,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1976,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1977,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1978,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1979,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1980,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1981,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1982,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1983,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1984,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1985,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1986,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1987,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1988,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1989,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1990,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1991,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1992,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1993,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1994,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1995,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1996,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1997,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1998,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+1999,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2000,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2001,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2002,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2003,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2004,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2005,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2006,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2007,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2008,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2009,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2010,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2011,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2012,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2013,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2014,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2015,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2016,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2017,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
+2018,sink,natural sink,standard deviation,Pg CO2 yr-1,3.78
