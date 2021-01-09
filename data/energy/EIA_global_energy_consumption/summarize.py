@@ -1,7 +1,7 @@
 import pandas as pd
 import glob
 
-YEAR = 1990
+YEAR = 2018
 regional_population_data = pd.read_csv('processed/EIA_Population.csv')
 recorded_pop = regional_population_data[regional_population_data['year']==YEAR]['population'].sum()
 total_population_data = pd.read_csv('processed/EIA_Population_totals.csv')
