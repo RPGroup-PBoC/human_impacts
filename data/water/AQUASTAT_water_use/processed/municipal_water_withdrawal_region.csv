@@ -1,87 +1,88 @@
-,region,water_withdrawal_10^9_m^3/year
-156,Central America,0.652
-157,Central America,0.7591
-158,Northern America,1.7
-159,Northern America,0.14
-160,Northern America,0.031
-161,Northern America,0.012
-162,Northern America,0.0085
-163,Northern America,4.888
-164,Northern America,58.39
-165,Central America,14.23
-166,South America,3.49
-167,South America,2.7969999999999997
-168,South America,16.74
-169,Africa,3.6
-170,Africa,0.145
-171,Africa,0.1006
-172,Africa,0.32
-173,Africa,10.75
-174,Africa,0.2996
-175,Africa,0.495
-176,Africa,0.26
-177,Africa,0.37200000000000005
-178,Africa,0.1789
-179,Africa,0.0147
-180,Africa,3.89
-181,Africa,0.13699999999999998
-182,Africa,0.4877
-183,Asia,0.6164
-184,Asia,0.4496
-185,Asia,0.2756
-186,Asia,79.4
-187,Asia,23.8
-188,Asia,1.23
-189,Asia,0.983
-190,Asia,0.4569
-191,Asia,2.347
-192,Asia,0.24
-193,Asia,0.0453
-194,Asia,0.13
-195,Asia,0.1812
-196,Asia,8.929
-197,Asia,0.4772
-198,Asia,6.672000000000001
-199,Asia,3.15
-200,Asia,5.8389999999999995
-201,Asia,2.41
-202,Europe,0.28300000000000003
-203,Europe,0.523
-204,Europe,0.7390000000000001
-205,Europe,0.3608
-206,Europe,0.882
-207,Europe,0.455
-208,Europe,0.11
-209,Europe,0.6166
-210,Europe,0.3815
-211,Europe,0.0594
-212,Europe,0.4
-213,Europe,5.175
-214,Europe,4.388
-215,Europe,1.9909999999999999
-216,Europe,0.6245
-217,Europe,0.08
-218,Europe,0.631
-219,Europe,9.488
-220,Europe,0.0944
-221,Europe,0.0079
-222,Europe,0.1304
-223,Europe,0.0436
-224,Europe,0.0374
-225,Europe,1.26
-226,Europe,0.2775
-227,Europe,0.7753
-228,Europe,2.028
-229,Europe,0.9141
-230,Europe,0.14800000000000002
-231,Europe,1.048
-232,Europe,17.71
-233,Europe,0.6595
-234,Europe,0.2935
-235,Europe,0.1695
-236,Europe,4.89
-237,Europe,0.955
-238,Europe,0.9309999999999999
-239,Europe,2.397
-240,Europe,6.227
-241,Oceania,3.392
+,Unnamed: 0,region,water_withdrawal_10^9_m^3/year,year
+0,156.0,Central America,0.652,
+1,157.0,Central America,0.7591,
+2,158.0,Northern America,1.7,
+3,159.0,Northern America,0.14,
+4,160.0,Northern America,0.031,
+5,161.0,Northern America,0.012,
+6,162.0,Northern America,0.0085,
+7,163.0,Northern America,4.888,
+8,164.0,Northern America,58.39,
+9,165.0,Central America,14.23,
+10,166.0,South America,3.49,
+11,167.0,South America,2.797,
+12,168.0,South America,16.74,
+13,169.0,Africa,3.6,
+14,170.0,Africa,0.145,
+15,171.0,Africa,0.1006,
+16,172.0,Africa,0.32,
+17,173.0,Africa,10.75,
+18,174.0,Africa,0.2996,
+19,175.0,Africa,0.495,
+20,176.0,Africa,0.26,
+21,177.0,Africa,0.3720000000000001,
+22,178.0,Africa,0.1789,
+23,179.0,Africa,0.0147,
+24,180.0,Africa,3.89,
+25,181.0,Africa,0.13699999999999998,
+26,182.0,Africa,0.4877,
+27,183.0,Asia,0.6164,
+28,184.0,Asia,0.4496,
+29,185.0,Asia,0.2756,
+30,186.0,Asia,79.4,
+31,187.0,Asia,23.8,
+32,188.0,Asia,1.23,
+33,189.0,Asia,0.983,
+34,190.0,Asia,0.4569,
+35,191.0,Asia,2.347,
+36,192.0,Asia,0.24,
+37,193.0,Asia,0.0453,
+38,194.0,Asia,0.13,
+39,195.0,Asia,0.1812,
+40,196.0,Asia,8.929,
+41,197.0,Asia,0.4772,
+42,198.0,Asia,6.6720000000000015,
+43,199.0,Asia,3.15,
+44,200.0,Asia,5.839,
+45,201.0,Asia,2.41,
+46,202.0,Europe,0.28300000000000003,
+47,203.0,Europe,0.523,
+48,204.0,Europe,0.7390000000000001,
+49,205.0,Europe,0.3608,
+50,206.0,Europe,0.882,
+51,207.0,Europe,0.455,
+52,208.0,Europe,0.11,
+53,209.0,Europe,0.6166,
+54,210.0,Europe,0.3815,
+55,211.0,Europe,0.0594,
+56,212.0,Europe,0.4,
+57,213.0,Europe,5.175,
+58,214.0,Europe,4.388,
+59,215.0,Europe,1.991,
+60,216.0,Europe,0.6245,
+61,217.0,Europe,0.08,
+62,218.0,Europe,0.631,
+63,219.0,Europe,9.488,
+64,220.0,Europe,0.0944,
+65,221.0,Europe,0.0079,
+66,222.0,Europe,0.1304,
+67,223.0,Europe,0.0436,
+68,224.0,Europe,0.0374,
+69,225.0,Europe,1.26,
+70,226.0,Europe,0.2775,
+71,227.0,Europe,0.7753,
+72,228.0,Europe,2.028,
+73,229.0,Europe,0.9141,
+74,230.0,Europe,0.14800000000000002,
+75,231.0,Europe,1.048,
+76,232.0,Europe,17.71,
+77,233.0,Europe,0.6595,
+78,234.0,Europe,0.2935,
+79,235.0,Europe,0.1695,
+80,236.0,Europe,4.89,
+81,237.0,Europe,0.955,
+82,238.0,Europe,0.931,
+83,239.0,Europe,2.397,
+84,240.0,Europe,6.227,
+85,241.0,Oceania,3.392,
+86,,world,334.09719999999993,2013-2017
