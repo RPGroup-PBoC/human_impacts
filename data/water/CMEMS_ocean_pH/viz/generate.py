@@ -19,15 +19,15 @@ chart = alt.Chart(data).encode(
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
-bands = alt.Chart(data).mark_area(color='dodgerblue', fillOpacity=0.4).encode(
+bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y='pH_uncert_low:Q',
+            y=alt.Y('pH_uncert_low:Q', scale=alt.Scale(zero=False)),
             y2='pH_uncert_high:Q'
         ).properties(width='container', height=300)
 
 l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
-layer = alt.layer(l, p, bands) #.resolve_scale(y='shared')
+layer = alt.layer(l, p, bands)
 layer.save('surface_ocean_pH.json')
 
 # %%
