@@ -3,7 +3,7 @@
 
 ## Description
 The NOAA Merged Land Ocean Global Surface Temperature Analysis Dataset
-(NOAAGlobalTemp) is a merged land–ocean surface temperature analysis. It is a spatially gridded (5° × 5°) global surface temperature dataset, with monthly resolution from January 1880 to present. Retrieved January 5th 2020.
+(NOAAGlobalTemp) is a merged land–ocean surface temperature analysis. It is a spatially gridded (5° × 5°) global surface temperature dataset, with monthly resolution from January 1880 to present. Retrieved January 5th 2021.
 
 ## Key Numbers
 Global surface temperature change (2020) since 1850-1900 mean: ≈ 1.20 °C ± 0.16 °C
