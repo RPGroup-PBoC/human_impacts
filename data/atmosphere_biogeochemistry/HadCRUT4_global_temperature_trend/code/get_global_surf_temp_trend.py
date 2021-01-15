@@ -22,7 +22,7 @@
 # Columns 11 and 12 are the lower and upper bounds of the 95% confidence interval of
 #   the combined effects of all the uncertainties described in the HadCRUT4 error model (measurement and sampling, bias and coverage uncertainties).
 #
-# Last updated: Dec 2020
+# Last updated: Jan 2021
 # Author: Ignacio Lopez-Gomez
 # 
 #################
@@ -56,4 +56,4 @@ data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0],
                                 value_name="Temperature anomaly (K)")
 data_tidy['Temperature anomaly (K)'] = round(data_tidy['Temperature anomaly (K)'], 3)
 # # # Save to file, stripped of index
-data_tidy.to_csv(r'HadCRUT4_global_surf_temperature_trend.csv', index = False)
+data_tidy.to_csv(r'../processed/HadCRUT4_global_surf_temperature_trend.csv', index = False)
