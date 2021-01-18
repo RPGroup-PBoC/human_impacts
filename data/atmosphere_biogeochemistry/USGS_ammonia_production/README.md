@@ -5,8 +5,8 @@
 This entry gives the global production mass of nitrogen contained in ammonia in the years 2018 and 2019.
 
 ## Key Numbers
-Global ammonia production (2018): 1.44 x 10<sup>11</sup> kg N / yr,
-Global ammonia production (2019): 1.50 x 10<sup>11</sup> kg N / yr
+Global ammonia production (2018): 1.44 &times; 10<sup>11</sup> kg N / yr,
+Global ammonia production (2019): 1.50 &times; 10<sup>11</sup> kg N / yr
 
 ## Source Information
 * **Source Website**: United States Geological Survey (USGS) Mineral Commodity Summaries 2020
