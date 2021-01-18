@@ -2,15 +2,15 @@
 #
 #################
 # This script takes as input the manually processed GISTEMP v4 dataset in .csv format,
-# and returns a csv file with the tidy time series with respect to the 
+# and returns a csv file with the tidy time series with respect to the
 # 1850-1900 HadCRUT4 mean.
 #
-# Data originally provided is temperature anomaly with respect to 
+# Data originally provided is temperature anomaly with respect to
 # the 1951-1980 climatology in degrees Celsius.
 #
 # Last updated: Dec 2020
 # Author: Ignacio Lopez-Gomez
-# 
+#
 #################
 import pandas as pd
 import numpy as np
@@ -32,9 +32,9 @@ proc_data_['95% CI'] = proc_data_['ci95']
 
 proc_data_ = proc_data_.drop(['°C', '°C_lower','°C_upper', 'ci95'], axis=1)
 
-data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0], 
+data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0],
                                 var_name="Reported value", 
                                 value_name="Temperature anomaly (K)")
 data_tidy['Temperature anomaly (K)'] = round(data_tidy['Temperature anomaly (K)'], 3)
 # # # Save to file, stripped of index
-data_tidy.to_csv(r'GISTEMPv4_global_surf_temperature_trend.csv', index = False)
+data_tidy.to_csv(r'GISTEMPv4_global_surf_temperature_trend_1880-2020.csv', index = False)
