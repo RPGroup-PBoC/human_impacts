@@ -5,7 +5,7 @@
 This entry gives the global production mass of nitrogen contained in ammonia in the years 2008-2019.
 
 ## Key Numbers
-Global ammonia production (2019): 150,307 kt
+Global ammonia production (2019): 1.50 &times; 10<sup>11</sup> kg N / yr
 
 ## Source Information
 * **Source Website**: International Fertilizer Association (IFA) Statistical Database: Supply Database – Ammonia – Production & Trade Tables by Region (2020)
