@@ -144,4 +144,4 @@ data_tidy = reg_total.melt(id_vars=reg_total.columns[:4],
                               value_name="Emissions (Tg CH4 yr-1)")
 data_tidy["Emissions (Tg CH4 yr-1)"] = round(data_tidy["Emissions (Tg CH4 yr-1)"], 2)
 # Save to file, stripped of index
-data_tidy.to_csv(r'regional_ch4_data_processed.csv', index = False)
+data_tidy.to_csv(r'../processed/regional_ch4_data_processed.csv', index = False)
