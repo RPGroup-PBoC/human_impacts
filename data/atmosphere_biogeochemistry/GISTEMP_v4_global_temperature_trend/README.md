@@ -2,10 +2,10 @@
 # GISTEMP v4 Global Surface Temperature Time Series
 
 ## Description
-The NASA Goddard Institute for Space Studies (GISS) Surface Temperature Analysis ver. 4 (GISTEMP v4) contains merged land-ocean global surface temperature anomaly data relative to a reference mean. For the original data, the reference is the 1951-1980 mean. Retrieved December 17th, 2020.
+The NASA Goddard Institute for Space Studies (GISS) Surface Temperature Analysis ver. 4 (GISTEMP v4) contains merged land-ocean global surface temperature anomaly data relative to a reference mean. For the original data, the reference is the 1951-1980 mean. Retrieved January 18th, 2021.
 
 ## Key Numbers
-Global surface temperature change (2020) since 1850-1900 mean: 1.24 °C ± ≈ 0.05 °C
+Global surface temperature change (2020) since 1850-1900 mean: 1.22 °C ± ≈ 0.05 °C
 
 ## Source Information
 * **Source Website**: NASA Goddard Institute for Space Studies (GISS) Surface Temperature Analysis ver. 4 (GISTEMP v4)
@@ -22,9 +22,9 @@ Global surface temperature change (2020) since 1850-1900 mean: 1.24 °C ± ≈ 0
 * `GLB.Ts+dSST.txt`: original data source, with the most up-to-date anomalies with respect to the 1951-1980 mean.
 * `totalCI_ERA.csv`: original data source, with previously calculated anomalies and uncertainty data with respect to the 1951-1980 mean.
 * `Land-OceanTemperatureIndex.csv`: manually processed data source, with anomalies with respect to the 1951-1980 mean.
-* `GISTEMPv4_global_surf_temperature_trend.csv`: Processed data, with anomalies with respect to the 1850-1900 mean from the HadCRUT4 dataset.
+* `GISTEMPv4_global_surf_temperature_trend_1880-2020.csv`: Processed data, with anomalies with respect to the 1850-1900 mean from the HadCRUT4 dataset.
 
 ## Notes
-The GISTEMP v4 surface temperature analysis is produced by blending data from the GHCN v4 surface air temperature dataset and the ERSST v5 sea-surface temperature dataset. The data were manually processed by retaining the J-D annual mean in `GLB.Ts+dSST.csv`, which describes the global annual temperature anomaly in 0.01 °C, and converting it to °C. For the year 2020, J-D data were not available at the time of accession so D-N data were used. Temperature anomalies are provided relative to the 1951–1980 mean in the source file. The data in `GISTEMPv4_global_surf_temperature_trend.csv` were processed with script `get_global_surf_temp_trend.py` from `Land-OceanTemperatureIndex.csv`, making the reference temperature the 1850-1900 mean from the HadCRUT4 dataset.
+The GISTEMP v4 surface temperature analysis is produced by blending data from the GHCN v4 surface air temperature dataset and the ERSST v5 sea-surface temperature dataset. The data were manually processed by retaining the J-D annual mean in `GLB.Ts+dSST.csv`, which describes the global annual temperature anomaly in 0.01 °C, and converting it to °C. Temperature anomalies are provided relative to the 1951–1980 mean in the source file. The data in `GISTEMPv4_global_surf_temperature_trend.csv` were processed with script `get_global_surf_temp_trend.py` from `Land-OceanTemperatureIndex.csv`, making the reference temperature the 1850-1900 mean from the HadCRUT4 dataset.
 
 The uncertainty (95% confidence interval) for years 1880-2018 is is derived from `totalCI_ERA.csv` which can be downloaded from the uncertainty analysis webpage (given above) of Lenssen et al. 2019. The uncertainty for 2019 and 2020 given here is derived from Lenssen et al. 2019 where it is noted that the uncertainty of annual global mean temperatures since 1960 is approximately ± 0.05 °C.
