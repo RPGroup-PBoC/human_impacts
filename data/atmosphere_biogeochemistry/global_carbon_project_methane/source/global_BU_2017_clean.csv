@@ -1,0 +1,66 @@
+﻿Emission totals,Regions,GLOBAL
+,,
+Total anthropogenic excl. biomass burning,CEDSgridded,383.2
+Total anthropogenic excl. biomass burning,EDGARv432,366.5
+Total anthropogenic excl. biomass burning,GAINSgridded,347.4
+Total anthropogenic excl. biomass burning,USEPA,345.4
+Biomass burning,FAO,23.6
+Biomass burning,"FINNv1,5",11.6
+Biomass burning,GFEDv41s,11.2
+Biomass burning,"QFEDv2,5",14.0
+Biomass burning,USEPA,20.1
+Biofuel,CEDSgridded,12.4
+Biofuel,EDGARv432,13.5
+Biofuel,GAINSgridded,14.2
+Biofuel,USEPA,10.1
+Fossil fuel,CEDSgridded,163.7
+Fossil fuel,EDGARv432,120.9
+Fossil fuel,GAINSgridded,126.1
+Fossil fuel,USEPA,131.4
+Coal mining,CEDScount,63.0
+Coal mining,EDGARv432,40.0
+Coal mining,GAINSgridded,40.5
+Coal mining,USEPA,30.8
+Oil and gas,CEDScount,96.7
+Oil and gas,EDGARv432,71.6
+Oil and gas,GAINSgridded,81.4
+Oil and gas,USEPA,87.2
+Industry,CEDSgridded,1.0
+Industry,EDGARv432,8.2
+Industry,GAINSgridded,1.7
+Industry,USEPA,0.3
+Transport,CEDSgridded,0.6
+Transport,EDGARv432,1.0
+Transport,GAINSgridded,2.4
+Transport,USEPA,13.1
+Agriculture and Waste,CEDSgridded,207.2
+Agriculture and Waste,EDGARv432,232.2
+Agriculture and Waste,GAINSgridded,207.2
+Agriculture and Waste,USEPA,203.9
+Landfills and Waste,CEDSgridded,67.3
+Landfills and Waste,EDGARv432,71.4
+Landfills and Waste,GAINSgridded,63.6
+Landfills and Waste,USEPA,69.2
+Enteric fermentation and Manure,CEDScount,114.5
+Enteric fermentation and Manure,EDGARv432,120.9
+Enteric fermentation and Manure,FAO,118.7
+Enteric fermentation and Manure,GAINSgridded,111.5
+Enteric fermentation and Manure,USEPA,110.3
+Rice cultivation,CEDScount,24.6
+Rice cultivation,EDGARv432,39.8
+Rice cultivation,FAO,29.4
+Rice cultivation,GAINSgridded,32.0
+Rice cultivation,USEPA,24.5
+Wetland,CLASS-CTEM,183.2
+Wetland,DLEM,152.1
+Wetland,ELM,154.7
+Wetland,JSBACH,131.5
+Wetland,JULES,182.1
+Wetland,LPJ-GUESS,156.1
+Wetland,LPJ-MPI,162.0
+Wetland,LPJ-WSL,147.8
+Wetland,LPX,140.2
+Wetland,ORCHIDEE,117.2
+Wetland,TEM-MDM,104.2
+Wetland,TRIPLEX-GHG,100.1
+Wetland,VISIT,154.5

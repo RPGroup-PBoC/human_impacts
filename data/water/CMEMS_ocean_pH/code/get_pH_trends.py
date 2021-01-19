@@ -9,7 +9,7 @@
 # Change in [H+] is given as a percentage.
 #
 #
-# Last updated: Dec 2020
+# Last updated: Jan 2021
 # Author: Ignacio Lopez-Gomez
 # 
 #################
@@ -29,7 +29,7 @@ data_tidy = trends_.melt(id_vars=trends_.columns[0],
                               value_name="Value")
 
 # Save to file, stripped of index
-data_tidy.to_csv(r'CMEMS_trends_ocean_pH.csv', index = False)
+data_tidy.to_csv(r'../processed/CMEMS_trends_ocean_pH.csv', index = False)
 
 # Compute the mean and standard error of the percent change.
 percent = data_tidy[data_tidy['Measure type']=='[H+] percentage trend']

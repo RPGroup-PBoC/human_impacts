@@ -68,4 +68,4 @@ data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0],
                                 value_name="Temperature anomaly (K)")
 data_tidy['Temperature anomaly (K)'] = round(data_tidy['Temperature anomaly (K)'], 3)
 # # # Save to file, stripped of index
-data_tidy.to_csv(r'NOAAGlobalTempv5_global_surf_temperature_trend.csv', index = False)
+data_tidy.to_csv(r'../processed/NOAAGlobalTempv5_global_surf_temperature_trend.csv', index = False)

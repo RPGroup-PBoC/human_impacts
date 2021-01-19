@@ -1,0 +1,308 @@
+Sink/source type,Estimate type,Original data source,Value (Tg CH4 yr-1)
+Agriculture and Waste,Bottom-up,USEPA,197
+Agriculture and Waste,Bottom-up,Ensemble min,197
+Agriculture and Waste,Bottom-up,GAINSgridded,199
+Agriculture and Waste,Bottom-up,CEDSgridded,200
+Agriculture and Waste,Bottom-up,EDGARv432,223
+Agriculture and Waste,Bottom-up,Ensemble max,223
+Agriculture and Waste,Top-down,TOMCAT/surf,176
+Agriculture and Waste,Top-down,Ensemble min,176
+Agriculture and Waste,Top-down,PYVARLMDZ/GOSAT6,201
+Agriculture and Waste,Top-down,PYVARLMDZ/SURF2,202
+Agriculture and Waste,Top-down,PYVARLMDZ/GOSAT4,203
+Agriculture and Waste,Top-down,TM5-4Dvar/SURF1,207
+Agriculture and Waste,Top-down,PYVARLMDZ/GOSAT5,211
+Agriculture and Waste,Top-down,TM5-CAMS/SURF,211
+Agriculture and Waste,Top-down,PYVARLMDZ/GOSAT2,212
+Agriculture and Waste,Top-down,PYVARLMDZ/SURF1,212
+Agriculture and Waste,Top-down,GELCA/SURF,213
+Agriculture and Waste,Top-down,PYVARLMDZ/GOSAT3,214
+Agriculture and Waste,Top-down,NIES-TM-FLEXPART/GOSAT,216
+Agriculture and Waste,Top-down,PYVARLMDZ/GOSAT1,218
+Agriculture and Waste,Top-down,TM5-4Dvar/GOSAT1,218
+Agriculture and Waste,Top-down,MIROC4-ACTM-Cao/SURF,219
+Agriculture and Waste,Top-down,NIES-TM-FLEXPART/SURF,221
+Agriculture and Waste,Top-down,TM5-4Dvar/SURF2,224
+Agriculture and Waste,Top-down,TM5-CAMS/GOSAT,224
+Agriculture and Waste,Top-down,NICAM-TM/4DVar,230
+Agriculture and Waste,Top-down,CTE-CH4/SURF,236
+Agriculture and Waste,Top-down,TM5-4Dvar/GOSAT2,236
+Agriculture and Waste,Top-down,CTE-CH4/GOSAT,240
+Agriculture and Waste,Top-down,Ensemble max,240
+Biofuel,Bottom-up,USEPA,10
+Biofuel,Bottom-up,Ensemble min,10
+Biofuel,Bottom-up,CEDSgridded,12
+Biofuel,Bottom-up,EDGARv432,14
+Biofuel,Bottom-up,GAINSgridded,14
+Biofuel,Bottom-up,Ensemble max,14
+Biomass and Biofuel Burning,Top-down,TOMCAT/surf,22
+Biomass and Biofuel Burning,Top-down,Ensemble min,22
+Biomass and Biofuel Burning,Top-down,NICAM-TM/4DVar,27
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/GOSAT2,27
+Biomass and Biofuel Burning,Top-down,CTE-CH4/GOSAT,28
+Biomass and Biofuel Burning,Top-down,CTE-CH4/SURF,28
+Biomass and Biofuel Burning,Top-down,TM5-CAMS/SURF,28
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/GOSAT1,29
+Biomass and Biofuel Burning,Top-down,TM5-4Dvar/GOSAT2,29
+Biomass and Biofuel Burning,Top-down,TM5-CAMS/GOSAT,29
+Biomass and Biofuel Burning,Top-down,GELCA/SURF,30
+Biomass and Biofuel Burning,Top-down,TM5-4Dvar/GOSAT1,30
+Biomass and Biofuel Burning,Top-down,TM5-4Dvar/SURF2,30
+Biomass and Biofuel Burning,Top-down,TM5-4Dvar/SURF1,31
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/SURF2,32
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/GOSAT6,33
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/SURF1,33
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/GOSAT3,34
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/GOSAT4,34
+Biomass and Biofuel Burning,Top-down,PYVARLMDZ/GOSAT5,34
+Biomass and Biofuel Burning,Top-down,NIES-TM-FLEXPART/GOSAT,35
+Biomass and Biofuel Burning,Top-down,NIES-TM-FLEXPART/SURF,35
+Biomass and Biofuel Burning,Top-down,MIROC4-ACTM-Cao/SURF,36
+Biomass and Biofuel Burning,Top-down,Ensemble max,36
+Biomass burning,Bottom-up,GFEDv41s,14
+Biomass burning,Bottom-up,"QFEDv2,5",14
+Biomass burning,Bottom-up,Ensemble min,14
+Biomass burning,Bottom-up,"FINNv1,5",15
+Biomass burning,Bottom-up,GFASv13,16
+Biomass burning,Bottom-up,USEPA,20
+Biomass burning,Bottom-up,FAO,26
+Biomass burning,Bottom-up,Ensemble max,26
+Coal mining,Bottom-up,USEPA,29
+Coal mining,Bottom-up,Ensemble min,29
+Coal mining,Bottom-up,EDGARv432,37
+Coal mining,Bottom-up,GAINSgridded,41
+Coal mining,Bottom-up,CEDScount,61
+Coal mining,Bottom-up,Ensemble max,61
+Enteric fermentation and Manure,Bottom-up,USEPA,106
+Enteric fermentation and Manure,Bottom-up,Ensemble min,106
+Enteric fermentation and Manure,Bottom-up,GAINSgridded,107
+Enteric fermentation and Manure,Bottom-up,CEDScount,110
+Enteric fermentation and Manure,Bottom-up,FAO,115
+Enteric fermentation and Manure,Bottom-up,EDGARv432,116
+Enteric fermentation and Manure,Bottom-up,Ensemble max,116
+Fossil fuel,Bottom-up,EDGARv432,113
+Fossil fuel,Bottom-up,Ensemble min,113
+Fossil fuel,Bottom-up,GAINSgridded,122
+Fossil fuel,Bottom-up,USEPA,124
+Fossil fuel,Bottom-up,CEDSgridded,154
+Fossil fuel,Bottom-up,Ensemble max,154
+Fossil fuels,Top-down,MIROC4-ACTM-Cao/SURF,80
+Fossil fuels,Top-down,Ensemble min,80
+Fossil fuels,Top-down,TM5-4Dvar/GOSAT1,83
+Fossil fuels,Top-down,TM5-4Dvar/SURF1,88
+Fossil fuels,Top-down,TM5-4Dvar/GOSAT2,92
+Fossil fuels,Top-down,TM5-4Dvar/SURF2,97
+Fossil fuels,Top-down,PYVARLMDZ/GOSAT2,100
+Fossil fuels,Top-down,PYVARLMDZ/GOSAT6,102
+Fossil fuels,Top-down,NICAM-TM/4DVar,104
+Fossil fuels,Top-down,PYVARLMDZ/GOSAT4,105
+Fossil fuels,Top-down,TM5-CAMS/SURF,105
+Fossil fuels,Top-down,CTE-CH4/GOSAT,107
+Fossil fuels,Top-down,PYVARLMDZ/GOSAT1,107
+Fossil fuels,Top-down,PYVARLMDZ/GOSAT3,110
+Fossil fuels,Top-down,TM5-CAMS/GOSAT,110
+Fossil fuels,Top-down,NIES-TM-FLEXPART/GOSAT,112
+Fossil fuels,Top-down,PYVARLMDZ/GOSAT5,112
+Fossil fuels,Top-down,CTE-CH4/SURF,113
+Fossil fuels,Top-down,NIES-TM-FLEXPART/SURF,115
+Fossil fuels,Top-down,PYVARLMDZ/SURF2,119
+Fossil fuels,Top-down,PYVARLMDZ/SURF1,124
+Fossil fuels,Top-down,GELCA/SURF,132
+Fossil fuels,Top-down,TOMCAT/surf,170
+Fossil fuels,Top-down,Ensemble max,170
+Industry,Bottom-up,USEPA,0
+Industry,Bottom-up,Ensemble min,0
+Industry,Bottom-up,CEDSgridded,1
+Industry,Bottom-up,GAINSgridded,2
+Industry,Bottom-up,EDGARv432,7
+Industry,Bottom-up,Ensemble max,7
+Landfills and Waste,Bottom-up,GAINSgridded,60
+Landfills and Waste,Bottom-up,Ensemble min,60
+Landfills and Waste,Bottom-up,CEDSgridded,65
+Landfills and Waste,Bottom-up,USEPA,67
+Landfills and Waste,Bottom-up,EDGARv432,68
+Landfills and Waste,Bottom-up,Ensemble max,68
+Oil and Gas,Bottom-up,EDGARv432,68
+Oil and Gas,Bottom-up,Ensemble min,68
+Oil and Gas,Bottom-up,GAINSgridded,78
+Oil and Gas,Bottom-up,USEPA,82
+Oil and Gas,Bottom-up,CEDScount,92
+Oil and Gas,Bottom-up,Ensemble max,92
+Other Natural Sources,Top-down,NIES-TM-FLEXPART/GOSAT,21
+Other Natural Sources,Top-down,NIES-TM-FLEXPART/SURF,21
+Other Natural Sources,Top-down,Ensemble min,21
+Other Natural Sources,Top-down,GELCA/SURF,22
+Other Natural Sources,Top-down,TOMCAT/surf,24
+Other Natural Sources,Top-down,PYVARLMDZ/SURF2,35
+Other Natural Sources,Top-down,PYVARLMDZ/SURF1,36
+Other Natural Sources,Top-down,CTE-CH4/GOSAT,38
+Other Natural Sources,Top-down,CTE-CH4/SURF,38
+Other Natural Sources,Top-down,NICAM-TM/4DVar,38
+Other Natural Sources,Top-down,TM5-4Dvar/GOSAT2,38
+Other Natural Sources,Top-down,PYVARLMDZ/GOSAT2,39
+Other Natural Sources,Top-down,PYVARLMDZ/GOSAT4,39
+Other Natural Sources,Top-down,PYVARLMDZ/GOSAT5,39
+Other Natural Sources,Top-down,PYVARLMDZ/GOSAT6,39
+Other Natural Sources,Top-down,TM5-4Dvar/SURF2,39
+Other Natural Sources,Top-down,PYVARLMDZ/GOSAT3,41
+Other Natural Sources,Top-down,PYVARLMDZ/GOSAT1,45
+Other Natural Sources,Top-down,TM5-CAMS/SURF,45
+Other Natural Sources,Top-down,MIROC4-ACTM-Cao/SURF,46
+Other Natural Sources,Top-down,TM5-CAMS/GOSAT,46
+Other Natural Sources,Top-down,TM5-4Dvar/SURF1,57
+Other Natural Sources,Top-down,TM5-4Dvar/GOSAT1,61
+Other Natural Sources,Top-down,Ensemble max,61
+Rice cultivation,Bottom-up,CEDScount,25
+Rice cultivation,Bottom-up,USEPA,25
+Rice cultivation,Bottom-up,Ensemble min,25
+Rice cultivation,Bottom-up,FAO,30
+Rice cultivation,Bottom-up,GAINSgridded,32
+Rice cultivation,Bottom-up,EDGARv432,38
+Rice cultivation,Bottom-up,Ensemble max,38
+Soil Sink,Top-down,TOMCAT/surf,27
+Soil Sink,Top-down,Ensemble min,27
+Soil Sink,Top-down,GELCA/SURF,34
+Soil Sink,Top-down,NICAM-TM/4DVar,35
+Soil Sink,Top-down,MIROC4-ACTM-Cao/SURF,36
+Soil Sink,Top-down,NIES-TM-FLEXPART/GOSAT,37
+Soil Sink,Top-down,NIES-TM-FLEXPART/SURF,37
+Soil Sink,Top-down,CTE-CH4/GOSAT,38
+Soil Sink,Top-down,CTE-CH4/SURF,38
+Soil Sink,Top-down,PYVARLMDZ/GOSAT1,38
+Soil Sink,Top-down,PYVARLMDZ/GOSAT2,38
+Soil Sink,Top-down,PYVARLMDZ/GOSAT3,38
+Soil Sink,Top-down,PYVARLMDZ/GOSAT4,38
+Soil Sink,Top-down,PYVARLMDZ/GOSAT5,38
+Soil Sink,Top-down,PYVARLMDZ/GOSAT6,38
+Soil Sink,Top-down,PYVARLMDZ/SURF1,38
+Soil Sink,Top-down,PYVARLMDZ/SURF2,38
+Soil Sink,Top-down,TM5-4Dvar/SURF1,40
+Soil Sink,Top-down,TM5-4Dvar/SURF2,40
+Soil Sink,Top-down,TM5-4Dvar/GOSAT2,42
+Soil Sink,Top-down,TM5-CAMS/SURF,42
+Soil Sink,Top-down,TM5-4Dvar/GOSAT1,44
+Soil Sink,Top-down,TM5-CAMS/GOSAT,45
+Soil Sink,Top-down,Ensemble max,45
+Total Anthropogenic Sources,Top-down,TM5-4Dvar/SURF1,325
+Total Anthropogenic Sources,Top-down,Ensemble min,325
+Total Anthropogenic Sources,Top-down,TM5-4Dvar/GOSAT1,332
+Total Anthropogenic Sources,Top-down,MIROC4-ACTM-Cao/SURF,336
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/GOSAT6,336
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/GOSAT2,340
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/GOSAT4,341
+Total Anthropogenic Sources,Top-down,TM5-CAMS/SURF,344
+Total Anthropogenic Sources,Top-down,TM5-4Dvar/SURF2,350
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/GOSAT1,353
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/SURF2,353
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/GOSAT3,358
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/GOSAT5,358
+Total Anthropogenic Sources,Top-down,TM5-4Dvar/GOSAT2,358
+Total Anthropogenic Sources,Top-down,NICAM-TM/4DVar,361
+Total Anthropogenic Sources,Top-down,TM5-CAMS/GOSAT,362
+Total Anthropogenic Sources,Top-down,NIES-TM-FLEXPART/GOSAT,364
+Total Anthropogenic Sources,Top-down,TOMCAT/surf,367
+Total Anthropogenic Sources,Top-down,PYVARLMDZ/SURF1,370
+Total Anthropogenic Sources,Top-down,NIES-TM-FLEXPART/SURF,371
+Total Anthropogenic Sources,Top-down,GELCA/SURF,374
+Total Anthropogenic Sources,Top-down,CTE-CH4/GOSAT,375
+Total Anthropogenic Sources,Top-down,CTE-CH4/SURF,376
+Total Anthropogenic Sources,Top-down,Ensemble max,376
+Total Sources,Top-down,TOMCAT/surf,550
+Total Sources,Top-down,Ensemble min,550
+Total Sources,Top-down,PYVARLMDZ/SURF2,559
+Total Sources,Top-down,PYVARLMDZ/GOSAT6,564
+Total Sources,Top-down,PYVARLMDZ/GOSAT2,566
+Total Sources,Top-down,PYVARLMDZ/GOSAT4,566
+Total Sources,Top-down,PYVARLMDZ/GOSAT1,567
+Total Sources,Top-down,GELCA/SURF,568
+Total Sources,Top-down,NIES-TM-FLEXPART/SURF,573
+Total Sources,Top-down,CTE-CH4/SURF,576
+Total Sources,Top-down,NIES-TM-FLEXPART/GOSAT,576
+Total Sources,Top-down,MIROC4-ACTM-Cao/SURF,578
+Total Sources,Top-down,PYVARLMDZ/SURF1,580
+Total Sources,Top-down,NICAM-TM/4DVar,581
+Total Sources,Top-down,PYVARLMDZ/GOSAT5,584
+Total Sources,Top-down,TM5-4Dvar/SURF1,584
+Total Sources,Top-down,TM5-CAMS/SURF,584
+Total Sources,Top-down,CTE-CH4/GOSAT,585
+Total Sources,Top-down,PYVARLMDZ/GOSAT3,586
+Total Sources,Top-down,TM5-4Dvar/SURF2,587
+Total Sources,Top-down,TM5-4Dvar/GOSAT1,592
+Total Sources,Top-down,TM5-4Dvar/GOSAT2,593
+Total Sources,Top-down,TM5-CAMS/GOSAT,594
+Total Sources,Top-down,Ensemble max,594
+"Total anthropogenic excl, biomass burning",Bottom-up,USEPA,331
+"Total anthropogenic excl, biomass burning",Bottom-up,Ensemble min,331
+"Total anthropogenic excl, biomass burning",Bottom-up,GAINSgridded,336
+"Total anthropogenic excl, biomass burning",Bottom-up,EDGARv432,349
+"Total anthropogenic excl, biomass burning",Bottom-up,CEDSgridded,367
+"Total anthropogenic excl, biomass burning",Bottom-up,Ensemble max,367
+Total natural Sources,Top-down,TOMCAT/surf,183
+Total natural Sources,Top-down,Ensemble min,183
+Total natural Sources,Top-down,GELCA/SURF,194
+Total natural Sources,Top-down,CTE-CH4/SURF,199
+Total natural Sources,Top-down,NIES-TM-FLEXPART/SURF,203
+Total natural Sources,Top-down,PYVARLMDZ/SURF2,206
+Total natural Sources,Top-down,CTE-CH4/GOSAT,209
+Total natural Sources,Top-down,PYVARLMDZ/SURF1,210
+Total natural Sources,Top-down,NIES-TM-FLEXPART/GOSAT,213
+Total natural Sources,Top-down,PYVARLMDZ/GOSAT1,214
+Total natural Sources,Top-down,NICAM-TM/4DVar,220
+Total natural Sources,Top-down,PYVARLMDZ/GOSAT4,225
+Total natural Sources,Top-down,MIROC4-ACTM-Cao/SURF,226
+Total natural Sources,Top-down,PYVARLMDZ/GOSAT2,226
+Total natural Sources,Top-down,PYVARLMDZ/GOSAT5,226
+Total natural Sources,Top-down,PYVARLMDZ/GOSAT3,228
+Total natural Sources,Top-down,PYVARLMDZ/GOSAT6,228
+Total natural Sources,Top-down,TM5-CAMS/GOSAT,232
+Total natural Sources,Top-down,TM5-4Dvar/GOSAT2,235
+Total natural Sources,Top-down,TM5-4Dvar/SURF2,237
+Total natural Sources,Top-down,TM5-CAMS/SURF,240
+Total natural Sources,Top-down,TM5-4Dvar/SURF1,259
+Total natural Sources,Top-down,TM5-4Dvar/GOSAT1,260
+Total natural Sources,Top-down,Ensemble max,260
+Transport,Bottom-up,CEDSgridded,1
+Transport,Bottom-up,EDGARv432,1
+Transport,Bottom-up,Ensemble min,1
+Transport,Bottom-up,GAINSgridded,2
+Transport,Bottom-up,USEPA,12
+Transport,Bottom-up,Ensemble max,12
+Wetlands,Bottom-up,TRIPLEX-GHG,102
+Wetlands,Bottom-up,Ensemble min,102
+Wetlands,Bottom-up,TEM-MDM,106
+Wetlands,Bottom-up,JSBACH,130
+Wetlands,Bottom-up,LPX,139
+Wetlands,Bottom-up,ORCHIDEE,143
+Wetlands,Bottom-up,LPJ-WSL,145
+Wetlands,Bottom-up,DLEM,150
+Wetlands,Bottom-up,LPJ-MPI,162
+Wetlands,Bottom-up,VISIT,163
+Wetlands,Bottom-up,ELM,165
+Wetlands,Bottom-up,LPJ-GUESS,166
+Wetlands,Bottom-up,CLASS-CTEM,181
+Wetlands,Bottom-up,JULES,182
+Wetlands,Bottom-up,Ensemble max,182
+Wetlands,Top-down,TOMCAT/surf,159
+Wetlands,Top-down,Ensemble min,159
+Wetlands,Top-down,CTE-CH4/SURF,161
+Wetlands,Top-down,PYVARLMDZ/GOSAT1,168
+Wetlands,Top-down,CTE-CH4/GOSAT,171
+Wetlands,Top-down,PYVARLMDZ/SURF2,171
+Wetlands,Top-down,GELCA/SURF,172
+Wetlands,Top-down,PYVARLMDZ/SURF1,174
+Wetlands,Top-down,MIROC4-ACTM-Cao/SURF,180
+Wetlands,Top-down,NICAM-TM/4DVar,182
+Wetlands,Top-down,NIES-TM-FLEXPART/SURF,182
+Wetlands,Top-down,PYVARLMDZ/GOSAT4,185
+Wetlands,Top-down,TM5-CAMS/GOSAT,186
+Wetlands,Top-down,PYVARLMDZ/GOSAT2,187
+Wetlands,Top-down,PYVARLMDZ/GOSAT3,187
+Wetlands,Top-down,PYVARLMDZ/GOSAT5,188
+Wetlands,Top-down,PYVARLMDZ/GOSAT6,189
+Wetlands,Top-down,NIES-TM-FLEXPART/GOSAT,192
+Wetlands,Top-down,TM5-CAMS/SURF,195
+Wetlands,Top-down,TM5-4Dvar/GOSAT2,197
+Wetlands,Top-down,TM5-4Dvar/SURF2,198
+Wetlands,Top-down,TM5-4Dvar/GOSAT1,199
+Wetlands,Top-down,TM5-4Dvar/SURF1,202
+Wetlands,Top-down,Ensemble max,202

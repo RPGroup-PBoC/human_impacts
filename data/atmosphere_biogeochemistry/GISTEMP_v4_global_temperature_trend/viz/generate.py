@@ -4,7 +4,7 @@ import pandas as pd
 import altair as alt
 
 # Load the NOAAGlobalTempv5 data.
-data = pd.read_csv('../processed/GISTEMPv4_global_surf_temperature_trend.csv')
+data = pd.read_csv('../processed/GISTEMPv4_global_surf_temperature_trend_1880-2020.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data[data['Reported value']=='global mean']['Year'], format='%Y')
 proc_data['global mean'] = data[data['Reported value']=='global mean']['Temperature anomaly (K)']
