@@ -1,0 +1,67 @@
+﻿Emission totals,Regions,GLOBAL
+,,
+"Total anthropogenic excl, biomass burning",CEDSgridded,366.7
+"Total anthropogenic excl, biomass burning",EDGARv432,348.9
+"Total anthropogenic excl, biomass burning",GAINSgridded,335.5
+"Total anthropogenic excl, biomass burning",USEPA,330.6
+Biomass burning,FAO,25.9
+Biomass burning,"FINNv1,5",14.8
+Biomass burning,GFASv13,15.6
+Biomass burning,GFEDv41s,14.0
+Biomass burning,"QFEDv2,5",14.3
+Biomass burning,USEPA,20.1
+Biofuel,CEDSgridded,12.1
+Biofuel,EDGARv432,13.5
+Biofuel,GAINSgridded,13.9
+Biofuel,USEPA,9.9
+Fossil fuel,CEDSgridded,154.5
+Fossil fuel,EDGARv432,112.8
+Fossil fuel,GAINSgridded,122.2
+Fossil fuel,USEPA,123.6
+Coal mining,CEDScount,60.7
+Coal mining,EDGARv432,36.9
+Coal mining,GAINSgridded,40.7
+Coal mining,USEPA,28.9
+Oil and Gas,CEDScount,91.5
+Oil and Gas,EDGARv432,67.7
+Oil and Gas,GAINSgridded,77.5
+Oil and Gas,USEPA,82.3
+Industry,CEDSgridded,0.9
+Industry,EDGARv432,7.3
+Industry,GAINSgridded,1.6
+Industry,USEPA,0.3
+Transport,CEDSgridded,0.6
+Transport,EDGARv432,0.9
+Transport,GAINSgridded,2.5
+Transport,USEPA,12.1
+Agriculture and Waste,CEDSgridded,200.1
+Agriculture and Waste,EDGARv432,222.6
+Agriculture and Waste,GAINSgridded,199.3
+Agriculture and Waste,USEPA,197.1
+Landfills and Waste,CEDSgridded,64.9
+Landfills and Waste,EDGARv432,68.5
+Landfills and Waste,GAINSgridded,60.2
+Landfills and Waste,USEPA,66.7
+Enteric fermentation and Manure,CEDScount,110.0
+Enteric fermentation and Manure,EDGARv432,116.4
+Enteric fermentation and Manure,FAO,114.7
+Enteric fermentation and Manure,GAINSgridded,107.0
+Enteric fermentation and Manure,USEPA,105.8
+Rice cultivation,CEDScount,24.9
+Rice cultivation,EDGARv432,37.7
+Rice cultivation,FAO,29.9
+Rice cultivation,GAINSgridded,32.1
+Rice cultivation,USEPA,24.6
+Wetland,CLASS-CTEM,180.7
+Wetland,DLEM,150.3
+Wetland,ELM,164.9
+Wetland,JSBACH,129.7
+Wetland,JULES,182.5
+Wetland,LPJ-GUESS,166.3
+Wetland,LPJ-MPI,162.0
+Wetland,LPJ-WSL,145.1
+Wetland,LPX,138.6
+Wetland,ORCHIDEE,142.6
+Wetland,TEM-MDM,106.5
+Wetland,TRIPLEX-GHG,102.4
+Wetland,VISIT,163.2

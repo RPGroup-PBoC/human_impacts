@@ -1,0 +1,200 @@
+﻿Emission totals,Regions,GLOBAL
+,,
+Total Sources,CTE-CH4/GOSAT,585.0
+Total Sources,CTE-CH4/SURF,575.8
+Total Sources,GELCA/SURF,568.2
+Total Sources,MIROC4-ACTM-Cao/SURF,577.8
+Total Sources,NICAM-TM/4DVar,581.2
+Total Sources,NIES-TM-FLEXPART/GOSAT,576.4
+Total Sources,NIES-TM-FLEXPART/SURF,573.4
+Total Sources,PYVARLMDZ/GOSAT1,567.0
+Total Sources,PYVARLMDZ/GOSAT2,566.0
+Total Sources,PYVARLMDZ/GOSAT3,586.4
+Total Sources,PYVARLMDZ/GOSAT4,566.1
+Total Sources,PYVARLMDZ/GOSAT5,584.1
+Total Sources,PYVARLMDZ/GOSAT6,564.1
+Total Sources,PYVARLMDZ/SURF1,580.0
+Total Sources,PYVARLMDZ/SURF2,559.2
+Total Sources,TM5-4Dvar/GOSAT1,591.7
+Total Sources,TM5-4Dvar/GOSAT2,593.0
+Total Sources,TM5-4Dvar/SURF1,584.0
+Total Sources,TM5-4Dvar/SURF2,587.0
+Total Sources,TM5-CAMS/GOSAT,594.1
+Total Sources,TM5-CAMS/SURF,584.2
+Total Sources,TOMCAT/surf,549.9
+Total natural Sources,CTE-CH4/GOSAT,209.1
+Total natural Sources,CTE-CH4/SURF,199.4
+Total natural Sources,GELCA/SURF,193.8
+Total natural Sources,MIROC4-ACTM-Cao/SURF,226.4
+Total natural Sources,NICAM-TM/4DVar,220.2
+Total natural Sources,NIES-TM-FLEXPART/GOSAT,212.7
+Total natural Sources,NIES-TM-FLEXPART/SURF,202.6
+Total natural Sources,PYVARLMDZ/GOSAT1,213.6
+Total natural Sources,PYVARLMDZ/GOSAT2,226.1
+Total natural Sources,PYVARLMDZ/GOSAT3,228.1
+Total natural Sources,PYVARLMDZ/GOSAT4,224.8
+Total natural Sources,PYVARLMDZ/GOSAT5,226.5
+Total natural Sources,PYVARLMDZ/GOSAT6,228.4
+Total natural Sources,PYVARLMDZ/SURF1,210.4
+Total natural Sources,PYVARLMDZ/SURF2,206.5
+Total natural Sources,TM5-4Dvar/GOSAT1,260.1
+Total natural Sources,TM5-4Dvar/GOSAT2,235.1
+Total natural Sources,TM5-4Dvar/SURF1,259.0
+Total natural Sources,TM5-4Dvar/SURF2,237.0
+Total natural Sources,TM5-CAMS/GOSAT,232.2
+Total natural Sources,TM5-CAMS/SURF,239.9
+Total natural Sources,TOMCAT/surf,182.8
+Total Anthropogenic Sources,CTE-CH4/GOSAT,374.7
+Total Anthropogenic Sources,CTE-CH4/SURF,376.2
+Total Anthropogenic Sources,GELCA/SURF,374.4
+Total Anthropogenic Sources,MIROC4-ACTM-Cao/SURF,336.0
+Total Anthropogenic Sources,NICAM-TM/4DVar,361.0
+Total Anthropogenic Sources,NIES-TM-FLEXPART/GOSAT,363.8
+Total Anthropogenic Sources,NIES-TM-FLEXPART/SURF,370.8
+Total Anthropogenic Sources,PYVARLMDZ/GOSAT1,353.4
+Total Anthropogenic Sources,PYVARLMDZ/GOSAT2,339.9
+Total Anthropogenic Sources,PYVARLMDZ/GOSAT3,358.3
+Total Anthropogenic Sources,PYVARLMDZ/GOSAT4,341.3
+Total Anthropogenic Sources,PYVARLMDZ/GOSAT5,357.5
+Total Anthropogenic Sources,PYVARLMDZ/GOSAT6,335.7
+Total Anthropogenic Sources,PYVARLMDZ/SURF1,369.6
+Total Anthropogenic Sources,PYVARLMDZ/SURF2,352.7
+Total Anthropogenic Sources,TM5-4Dvar/GOSAT1,331.6
+Total Anthropogenic Sources,TM5-4Dvar/GOSAT2,358.0
+Total Anthropogenic Sources,TM5-4Dvar/SURF1,325.0
+Total Anthropogenic Sources,TM5-4Dvar/SURF2,350.1
+Total Anthropogenic Sources,TM5-CAMS/GOSAT,361.9
+Total Anthropogenic Sources,TM5-CAMS/SURF,344.3
+Total Anthropogenic Sources,TOMCAT/surf,367.1
+Wetlands,CTE-CH4/GOSAT,171.0
+Wetlands,CTE-CH4/SURF,161.3
+Wetlands,GELCA/SURF,172.1
+Wetlands,MIROC4-ACTM-Cao/SURF,179.8
+Wetlands,NICAM-TM/4DVar,181.9
+Wetlands,NIES-TM-FLEXPART/GOSAT,191.8
+Wetlands,NIES-TM-FLEXPART/SURF,181.7
+Wetlands,PYVARLMDZ/GOSAT1,168.4
+Wetlands,PYVARLMDZ/GOSAT2,187.0
+Wetlands,PYVARLMDZ/GOSAT3,187.4
+Wetlands,PYVARLMDZ/GOSAT4,185.4
+Wetlands,PYVARLMDZ/GOSAT5,187.8
+Wetlands,PYVARLMDZ/GOSAT6,189.3
+Wetlands,PYVARLMDZ/SURF1,174.4
+Wetlands,PYVARLMDZ/SURF2,171.2
+Wetlands,TM5-4Dvar/GOSAT1,199.1
+Wetlands,TM5-4Dvar/GOSAT2,196.9
+Wetlands,TM5-4Dvar/SURF1,202.1
+Wetlands,TM5-4Dvar/SURF2,198.4
+Wetlands,TM5-CAMS/GOSAT,185.9
+Wetlands,TM5-CAMS/SURF,195.1
+Wetlands,TOMCAT/surf,158.7
+Other Natural Sources,CTE-CH4/GOSAT,38.1
+Other Natural Sources,CTE-CH4/SURF,38.1
+Other Natural Sources,GELCA/SURF,21.8
+Other Natural Sources,MIROC4-ACTM-Cao/SURF,46.5
+Other Natural Sources,NICAM-TM/4DVar,38.3
+Other Natural Sources,NIES-TM-FLEXPART/GOSAT,20.9
+Other Natural Sources,NIES-TM-FLEXPART/SURF,20.9
+Other Natural Sources,PYVARLMDZ/GOSAT1,45.3
+Other Natural Sources,PYVARLMDZ/GOSAT2,39.1
+Other Natural Sources,PYVARLMDZ/GOSAT3,40.7
+Other Natural Sources,PYVARLMDZ/GOSAT4,39.4
+Other Natural Sources,PYVARLMDZ/GOSAT5,38.8
+Other Natural Sources,PYVARLMDZ/GOSAT6,39.1
+Other Natural Sources,PYVARLMDZ/SURF1,36.0
+Other Natural Sources,PYVARLMDZ/SURF2,35.3
+Other Natural Sources,TM5-4Dvar/GOSAT1,61.0
+Other Natural Sources,TM5-4Dvar/GOSAT2,38.2
+Other Natural Sources,TM5-4Dvar/SURF1,56.9
+Other Natural Sources,TM5-4Dvar/SURF2,38.7
+Other Natural Sources,TM5-CAMS/GOSAT,46.2
+Other Natural Sources,TM5-CAMS/SURF,44.8
+Other Natural Sources,TOMCAT/surf,24.1
+Agriculture and Waste,CTE-CH4/GOSAT,239.5
+Agriculture and Waste,CTE-CH4/SURF,236.0
+Agriculture and Waste,GELCA/SURF,213.2
+Agriculture and Waste,MIROC4-ACTM-Cao/SURF,219.4
+Agriculture and Waste,NICAM-TM/4DVar,229.6
+Agriculture and Waste,NIES-TM-FLEXPART/GOSAT,216.4
+Agriculture and Waste,NIES-TM-FLEXPART/SURF,221.3
+Agriculture and Waste,PYVARLMDZ/GOSAT1,217.8
+Agriculture and Waste,PYVARLMDZ/GOSAT2,212.4
+Agriculture and Waste,PYVARLMDZ/GOSAT3,213.8
+Agriculture and Waste,PYVARLMDZ/GOSAT4,203.1
+Agriculture and Waste,PYVARLMDZ/GOSAT5,211.3
+Agriculture and Waste,PYVARLMDZ/GOSAT6,200.7
+Agriculture and Waste,PYVARLMDZ/SURF1,211.9
+Agriculture and Waste,PYVARLMDZ/SURF2,201.7
+Agriculture and Waste,TM5-4Dvar/GOSAT1,218.1
+Agriculture and Waste,TM5-4Dvar/GOSAT2,236.2
+Agriculture and Waste,TM5-4Dvar/SURF1,206.6
+Agriculture and Waste,TM5-4Dvar/SURF2,223.8
+Agriculture and Waste,TM5-CAMS/GOSAT,223.5
+Agriculture and Waste,TM5-CAMS/SURF,211.0
+Agriculture and Waste,TOMCAT/surf,175.5
+Fossil fuels,CTE-CH4/GOSAT,107.2
+Fossil fuels,CTE-CH4/SURF,112.6
+Fossil fuels,GELCA/SURF,131.5
+Fossil fuels,MIROC4-ACTM-Cao/SURF,80.5
+Fossil fuels,NICAM-TM/4DVar,104.4
+Fossil fuels,NIES-TM-FLEXPART/GOSAT,112.5
+Fossil fuels,NIES-TM-FLEXPART/SURF,114.9
+Fossil fuels,PYVARLMDZ/GOSAT1,106.8
+Fossil fuels,PYVARLMDZ/GOSAT2,100.4
+Fossil fuels,PYVARLMDZ/GOSAT3,110.1
+Fossil fuels,PYVARLMDZ/GOSAT4,104.7
+Fossil fuels,PYVARLMDZ/GOSAT5,112.5
+Fossil fuels,PYVARLMDZ/GOSAT6,102.0
+Fossil fuels,PYVARLMDZ/SURF1,124.4
+Fossil fuels,PYVARLMDZ/SURF2,119.1
+Fossil fuels,TM5-4Dvar/GOSAT1,83.2
+Fossil fuels,TM5-4Dvar/GOSAT2,92.5
+Fossil fuels,TM5-4Dvar/SURF1,87.7
+Fossil fuels,TM5-4Dvar/SURF2,96.7
+Fossil fuels,TM5-CAMS/GOSAT,109.8
+Fossil fuels,TM5-CAMS/SURF,104.9
+Fossil fuels,TOMCAT/surf,170.1
+Biomass and Biofuel Burning,CTE-CH4/GOSAT,28.0
+Biomass and Biofuel Burning,CTE-CH4/SURF,27.7
+Biomass and Biofuel Burning,GELCA/SURF,29.7
+Biomass and Biofuel Burning,MIROC4-ACTM-Cao/SURF,36.0
+Biomass and Biofuel Burning,NICAM-TM/4DVar,27.0
+Biomass and Biofuel Burning,NIES-TM-FLEXPART/GOSAT,34.9
+Biomass and Biofuel Burning,NIES-TM-FLEXPART/SURF,34.6
+Biomass and Biofuel Burning,PYVARLMDZ/GOSAT1,28.8
+Biomass and Biofuel Burning,PYVARLMDZ/GOSAT2,27.1
+Biomass and Biofuel Burning,PYVARLMDZ/GOSAT3,34.3
+Biomass and Biofuel Burning,PYVARLMDZ/GOSAT4,33.6
+Biomass and Biofuel Burning,PYVARLMDZ/GOSAT5,33.8
+Biomass and Biofuel Burning,PYVARLMDZ/GOSAT6,33.0
+Biomass and Biofuel Burning,PYVARLMDZ/SURF1,33.2
+Biomass and Biofuel Burning,PYVARLMDZ/SURF2,31.9
+Biomass and Biofuel Burning,TM5-4Dvar/GOSAT1,30.3
+Biomass and Biofuel Burning,TM5-4Dvar/GOSAT2,29.3
+Biomass and Biofuel Burning,TM5-4Dvar/SURF1,30.7
+Biomass and Biofuel Burning,TM5-4Dvar/SURF2,29.5
+Biomass and Biofuel Burning,TM5-CAMS/GOSAT,28.6
+Biomass and Biofuel Burning,TM5-CAMS/SURF,28.4
+Biomass and Biofuel Burning,TOMCAT/surf,21.5
+Soil Sink,CTE-CH4/GOSAT,37.9
+Soil Sink,CTE-CH4/SURF,37.9
+Soil Sink,GELCA/SURF,33.9
+Soil Sink,MIROC4-ACTM-Cao/SURF,36.5
+Soil Sink,NICAM-TM/4DVar,34.6
+Soil Sink,NIES-TM-FLEXPART/GOSAT,36.9
+Soil Sink,NIES-TM-FLEXPART/SURF,36.6
+Soil Sink,PYVARLMDZ/GOSAT1,37.9
+Soil Sink,PYVARLMDZ/GOSAT2,37.9
+Soil Sink,PYVARLMDZ/GOSAT3,38.3
+Soil Sink,PYVARLMDZ/GOSAT4,38.3
+Soil Sink,PYVARLMDZ/GOSAT5,38.3
+Soil Sink,PYVARLMDZ/GOSAT6,38.3
+Soil Sink,PYVARLMDZ/SURF1,38.3
+Soil Sink,PYVARLMDZ/SURF2,38.3
+Soil Sink,TM5-4Dvar/GOSAT1,43.7
+Soil Sink,TM5-4Dvar/GOSAT2,42.5
+Soil Sink,TM5-4Dvar/SURF1,39.6
+Soil Sink,TM5-4Dvar/SURF2,40.0
+Soil Sink,TM5-CAMS/GOSAT,45.0
+Soil Sink,TM5-CAMS/SURF,41.7
+Soil Sink,TOMCAT/surf,27.1
