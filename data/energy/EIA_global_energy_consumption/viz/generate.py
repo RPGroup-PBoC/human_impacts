@@ -4,6 +4,8 @@ import pandas as pd
 import altair as alt
 import glob
 
+alt.renderers.enable('default')
+
 filenames = glob.glob('../processed/*_totals.csv')
 filenames.remove('../processed/EIA_population_totals.csv')
 title_dict = {'OilProduction': 'Oil Production',
@@ -34,12 +36,13 @@ for file in filenames:
 	if valname in units_conversion.keys():
 		data[valname] *= units_conversion[valname]
 	data['year'] = pd.to_datetime(data['year'], format='%Y')
+	data.rename(columns={valname:unit_name}, inplace=True)
 	
 	chart = alt.Chart(data).encode(
 				x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-				y=alt.Y(field=valname,  type='quantitative', title=f'{title} [{unit_name}]'),
+				y=alt.Y(field=unit_name,  type='quantitative', title=f'{title} [{unit_name}]'),
 				tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-						alt.Tooltip(field=valname, type='nominal')]
+						alt.Tooltip(field=unit_name, type='nominal')]
 				).properties(
 					width=800,
 					height=300
