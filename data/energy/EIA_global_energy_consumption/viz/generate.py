@@ -44,7 +44,7 @@ for file in filenames:
 				tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
 						alt.Tooltip(field=unit_name, type='nominal')]
 				).properties(
-					width=800,
+					width="container",
 					height=300
 				)
 
