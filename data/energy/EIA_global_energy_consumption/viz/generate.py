@@ -39,15 +39,14 @@ for file in filenames:
 				x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
 				y=alt.Y(field=valname,  type='quantitative', title=f'{title} [{unit_name}]'),
 				tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-						alt.Tooltip(field='consumption', type='nominal')]
+						alt.Tooltip(field=valname, type='nominal')]
 				).properties(
-					width="container",
+					width=800,
 					height=300
 				)
 
 	l = chart.mark_line(color='dodgerblue')
 	p = chart.mark_point(color='dodgerblue', filled=True)
 	layer = alt.layer(l, p)
-	layer.show()
 	layer.save(f'./{name}.json')
 # %%
