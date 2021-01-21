@@ -41,8 +41,8 @@ for file in filenames:
 	chart = alt.Chart(data).encode(
 				x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
 				y=alt.Y(field=unit_name,  type='quantitative', title=f'{title} [{unit_name}]'),
-				tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='.2f'),
-						alt.Tooltip(field=unit_name, type='nominal')]
+				tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+						alt.Tooltip(field=unit_name, type='nominal', format='.2f')]
 				).properties(
 					width="container",
 					height=300
