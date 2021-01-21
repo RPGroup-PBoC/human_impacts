@@ -1,0 +1,6 @@
+README.md
+setup.py
+anthro.egg-info/PKG-INFO
+anthro.egg-info/SOURCES.txt
+anthro.egg-info/dependency_links.txt
+anthro.egg-info/top_level.txt
