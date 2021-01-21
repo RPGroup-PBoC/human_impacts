@@ -24,12 +24,28 @@ river_df_summary = river_df_summary[['CONTINENT','CSI_FF1', 'BB_OCEAN','LENGTH_K
 # convert thousant cubic meters to cubic meters
 river_df_summary['VOLUME_TCM'] = river_df_summary['VOLUME_TCM'].apply(lambda x: x * 1000)
 
-# convert non-free-flowing entries to 0
-river_df_summary['CSI_FF1'] = river_df_summary['CSI_FF1'].replace(3,0)
+# convert numeric representations of free flowing status and ocean connectivity to strings
+river_df_summary['BB_OCEAN'] = river_df_summary['BB_OCEAN'].replace(1,"directly connected to ocean")
+river_df_summary['BB_OCEAN'] = river_df_summary['BB_OCEAN'].replace(0,"non directly connected to ocean")
+river_df_summary['CSI_FF1'] = river_df_summary['CSI_FF1'].replace(3,"non-free-flowing")
+river_df_summary['CSI_FF1'] = river_df_summary['CSI_FF1'].replace(1,"free-flowing")
+river_df_summary
 
-#rename columns
-river_df_summary.columns = ['continent','free_flowing_status','ocean_connectivity','length_km','volume_m^3','discharge_m^3_s-1']
-del river_df_summary['']
+# rename columns
+river_df_summary.columns = ['region','free_flowing_status','ocean_connectivity','length_km','volume_m^3','discharge_m^3_s-1']
 
-river_df_summary.to_csv('processed/river_fragmentation_summary.csv')
+# group by free flowing status and ocean connectivity at the global scale
+river_df_global = river_df_summary.groupby(["free_flowing_status", 'ocean_connectivity']).sum().reset_index()
+river_df_global['region'] = ["Global", "Global", "Global", "Global"]
+
+# group by free flowing status at the global scale
+river_df_global_all = river_df_summary.groupby(["free_flowing_status"]).sum().reset_index()
+river_df_global_all['region'] = ["Global", "Global"]
+river_df_global_all['ocean_connectivity'] = ["all rivers", "all rivers"]
+
+# concatenate dataframes and reorder columns
+river_df_final = pd.concat([river_df_summary, river_df_global, river_df_global_all])
+river_df_final = river_df_final[['region', 'free_flowing_status', 'ocean_connectivity', 'length_km', 'volume_m^3', 'discharge_m^3_s-1']]
+
+river_df_final.to_csv('processed/Grill_et_al_river_fragmentation_summary.csv')
 # %%
