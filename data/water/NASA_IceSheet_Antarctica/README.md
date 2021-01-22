@@ -6,7 +6,7 @@ This dataset contains mass anomalies and the NASA calculated mass trend for the 
 
 ## Key Numbers
 Antarctic mass loss trend (04/2002 - 10/2020): -(1.49 ± 0.39) &times; 10<sup>14</sup> kg / yr,
-Antarctic mass anomaly (change) since 2002(10/2020): -(2.537 ± 0.06348) &times; 10<sup>15</sup> kg
+Antarctic mass anomaly (change) since 2002 (10/2020): -(2.537 ± 0.06348) &times; 10<sup>15</sup> kg
 
 ## Source Information
 * **Source Website**: Wiese, D. N., D.-N. Yuan, C. Boening, F. W. Landerer, and M. M. Watkins (2019) JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL06M CRI Filtered Version 2.0, Ver. 2.0, PO.DAAC, CA, USA. Dataset accessed [2021-Jan-21] at http://dx.doi.org/10.5067/TEMSC-3MJ62.
