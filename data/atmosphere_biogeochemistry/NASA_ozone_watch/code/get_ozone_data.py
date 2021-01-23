@@ -28,7 +28,7 @@ area_data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0],
                                 var_name="Reported value", 
                                 value_name="Value")
 area_data_tidy["Units"] = "Millions of km2 (10^12 m2)"
-
+area_data_tidy["Variable"] = "Ozone hole area"
 
 ########## Get minimum ozone amount
 proc_data_ = pd.read_csv('../source/to3min_0921-1016_toms+omi+omps.txt',
@@ -44,10 +44,11 @@ du_data_tidy = proc_data_.melt(id_vars=proc_data_.columns[0],
                                 var_name="Reported value", 
                                 value_name="Value")
 du_data_tidy["Units"] = "Dobson Units"
+du_data_tidy["Variable"] = "Ozone minimum"
 
 # # Concatenate area and ozone levels data, order
 data_tidy = pd.concat([area_data_tidy,du_data_tidy], axis=0, ignore_index=True)
-data_tidy = data_tidy[['Year', 'Reported value', 'Units', 'Value']]
+data_tidy = data_tidy[['Year', 'Variable', 'Reported value', 'Units', 'Value']]
 
 # # # # Save to file, stripped of index
 data_tidy.to_csv(r'../processed/NASA_ozone_hole_evolution_SH_spring.csv', index = False)
