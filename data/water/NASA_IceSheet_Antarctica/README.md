@@ -1,15 +1,15 @@
 
-# Antarctica Ice Sheet Mass Loss
+# Mass loss from Antarctic Ice Sheet since 2002
 
 ## Description
-This dataset contains mass anomalies and the NASA calculated mass trend for the Antarctic Ice Sheet from 2002-2020.
+This dataset contains mass anomalies and the NASA calculated mass trend for the Antarctic Ice Sheet from 2002-2020. Dataset accessed January 21, 2021.
 
 ## Key Numbers
-Antarctic Mass Trend (04/2002 - 05/2020): -147.35 ± 39.00 Gt/yr,
-Antarctic Mass Anomaly (May 2020): -2446.87 ± 63.71 Gt
+Antarctic mass loss trend (04/2002 - 10/2020): -(1.49 ± 0.39) &times; 10<sup>14</sup> kg / yr,
+Antarctic mass anomaly (change) since 2002 (10/2020): -(2.537 ± 0.06348) &times; 10<sup>15</sup> kg
 
 ## Source Information
-* **Source Website**: Wiese, D. N., D.-N. Yuan, C. Boening, F. W. Landerer, and M. M. Watkins (2019) JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL06M CRI Filtered Version 2.0, Ver. 2.0, PO.DAAC, CA, USA. Dataset accessed [2020-Aug-10] at http://dx.doi.org/10.5067/TEMSC-3MJ62.
+* **Source Website**: Wiese, D. N., D.-N. Yuan, C. Boening, F. W. Landerer, and M. M. Watkins (2019) JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL06M CRI Filtered Version 2.0, Ver. 2.0, PO.DAAC, CA, USA. Dataset accessed [2021-Jan-21] at http://dx.doi.org/10.5067/TEMSC-3MJ62.
 * **URL**: https://podaac-tools.jpl.nasa.gov/drive/files/allData/tellus/L4/ice_mass/RL06/v02/mascon_CRI/
 * **Original License**: From the PO.DAAC Data Use and Citation Policy Page: "Data hosted by the PO.DAAC is openly shared, without restriction, in accordance with NASA's Earth Science program Data and Information Policy."
 * **Bias**: These data are collected by NASA, a U.S. Government Agency generally regarded to be an objective science agency. PO.DAAC is a CoreTrustSeal Certified Repository.

@@ -1,0 +1,31 @@
+,region,free_flowing_status,ocean_connectivity,length_km,volume_m^3,discharge_m^3_s-1
+0,Africa,free-flowing,non directly connected to ocean,6807440.780006209,45619035898.99786,11715142.894004684
+1,Africa,free-flowing,directly connected to ocean,157695.6880000011,35812751580.000175,20963190.87299999
+2,Asia,free-flowing,non directly connected to ocean,7710318.4870119905,82368563511.99968,16414891.06200255
+3,Asia,free-flowing,directly connected to ocean,247823.58099999442,71445082591.00018,22270538.57000002
+4,Australia,free-flowing,non directly connected to ocean,2612747.260999453,9266802452.000666,2911594.1780017084
+5,Australia,free-flowing,directly connected to ocean,315054.0350000108,14857525155.999855,8337984.234000113
+6,Europe,free-flowing,non directly connected to ocean,3797870.8339991393,14437512937.000792,1659014.4779998227
+7,Europe,free-flowing,directly connected to ocean,245879.55500000448,9941677540.000122,1932079.3740000157
+8,North America,free-flowing,non directly connected to ocean,5730393.78499856,20998663339.00047,3673647.0249999566
+9,North America,free-flowing,directly connected to ocean,479139.3930000015,19919166249.000015,5229858.303000089
+10,South America,free-flowing,non directly connected to ocean,5474589.911001932,123869023698.00468,64450223.81198028
+11,South America,free-flowing,directly connected to ocean,224236.82499999905,155125519260.00006,127333986.4220008
+12,Africa,non-free-flowing,non directly connected to ocean,215318.2449999984,13296066171.000154,2552781.8019999904
+13,Africa,non-free-flowing,directly connected to ocean,69363.71400000063,32927145504.999996,9639197.084000042
+14,Asia,non-free-flowing,non directly connected to ocean,558000.805000024,76763048922.99959,17879206.090000506
+15,Asia,non-free-flowing,directly connected to ocean,119337.7670000011,151721669574.00113,59060763.50800023
+16,Australia,non-free-flowing,non directly connected to ocean,41208.281000000134,920064276.9999988,166286.49399999913
+17,Australia,non-free-flowing,directly connected to ocean,25374.954000000027,3209407165.9999986,1505799.3500000006
+18,Europe,non-free-flowing,non directly connected to ocean,267094.88100000157,19685541977.000225,3491414.625000087
+19,Europe,non-free-flowing,directly connected to ocean,111278.71999999988,43307395299.99967,10397911.51100009
+20,North America,non-free-flowing,non directly connected to ocean,306488.88400000177,26392893317.000156,6958541.226999993
+21,North America,non-free-flowing,directly connected to ocean,68680.52800000159,58285655966.99975,24773494.229
+22,South America,non-free-flowing,non directly connected to ocean,190017.8479999995,65109571467.00054,34315795.200999066
+23,South America,non-free-flowing,directly connected to ocean,75257.76700000063,72670394595.00014,31478447.08199981
+0,Global,free-flowing,directly connected to ocean,1669829.0770000112,307101722376.0004,186067637.77600104
+1,Global,free-flowing,non directly connected to ocean,32133361.05801728,296559601837.00415,100824513.448989
+2,Global,non-free-flowing,directly connected to ocean,469293.45000000385,362121668107.0007,136855612.76400018
+3,Global,non-free-flowing,non directly connected to ocean,1578128.9440000253,202167186132.00067,65364025.43899964
+0,Global,free-flowing,all rivers,33803190.13501729,603661324213.0046,286892151.22499
+1,Global,non-free-flowing,all rivers,2047422.3940000294,564288854239.0015,202219638.2029998

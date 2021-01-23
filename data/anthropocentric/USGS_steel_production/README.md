@@ -5,8 +5,8 @@
 This entry gives the global production of steel in the years 2018 and 2019.
 
 ## Key Numbers
-Global steel production (2018): 1810 Mt,
-Global steel production (2019): 1900 Mt (estimated)
+Global steel production (2018): 1.810 &times; 10<sup>12</sup> kg,
+Global steel production (2019): 1.900 &times; 10<sup>12</sup> kg (estimated)
 
 ## Source Information
 * **Source Website**: United States Geological Survey (USGS) Mineral Commodity Summaries 2020
