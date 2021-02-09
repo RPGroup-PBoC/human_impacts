@@ -1,0 +1,64 @@
+year,Fishery status,Percentage of fish stocks
+1974,maximally sustainably fished,51.0
+1978,maximally sustainably fished,50.6
+1979,maximally sustainably fished,49.7
+1981,maximally sustainably fished,49.3
+1983,maximally sustainably fished,52.8
+1985,maximally sustainably fished,50.1
+1987,maximally sustainably fished,43.0
+1989,maximally sustainably fished,42.3
+1990,maximally sustainably fished,49.6
+1992,maximally sustainably fished,46.6
+1995,maximally sustainably fished,43.8
+1997,maximally sustainably fished,50.6
+2000,maximally sustainably fished,48.3
+2004,maximally sustainably fished,53.9
+2006,maximally sustainably fished,52.5
+2008,maximally sustainably fished,53.7
+2009,maximally sustainably fished,58.1
+2011,maximally sustainably fished,61.2
+2013,maximally sustainably fished,57.7
+2015,maximally sustainably fished,59.4
+2017,maximally sustainably fished,59.3
+1974,underfished,39.1
+1978,underfished,40.5
+1979,underfished,37.1
+1981,underfished,37.1
+1983,underfished,30.5
+1985,underfished,31.5
+1987,underfished,32.4
+1989,underfished,31.5
+1990,underfished,32.1
+1992,underfished,30.1
+1995,underfished,30.4
+1997,underfished,26.1
+2000,underfished,24.6
+2004,underfished,22.5
+2006,underfished,19.7
+2008,underfished,13.3
+2009,underfished,11.5
+2011,underfished,9.6
+2013,underfished,10.2
+2015,underfished,7.0
+2017,underfished,6.0
+1974,overfished,9.9
+1978,overfished,8.9
+1979,overfished,13.2
+1981,overfished,13.6
+1983,overfished,16.7
+1985,overfished,18.4
+1987,overfished,24.6
+1989,overfished,26.2
+1990,overfished,18.3
+1992,overfished,23.2
+1995,overfished,25.8
+1997,overfished,23.2
+2000,overfished,27.1
+2004,overfished,23.6
+2006,overfished,27.8
+2008,overfished,33.0
+2009,overfished,30.4
+2011,overfished,29.2
+2013,overfished,32.2
+2015,overfished,33.6
+2017,overfished,34.8
