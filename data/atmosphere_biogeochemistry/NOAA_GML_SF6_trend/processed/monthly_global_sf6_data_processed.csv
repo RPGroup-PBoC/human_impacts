@@ -1,0 +1,1121 @@
+year,month,date (decimal),Reported value,Concentration (ppt)
+1997,7,1997.542,monthly mean,4.0
+1997,8,1997.625,monthly mean,4.0
+1997,9,1997.708,monthly mean,4.02
+1997,10,1997.792,monthly mean,4.05
+1997,11,1997.875,monthly mean,4.08
+1997,12,1997.958,monthly mean,4.1
+1998,1,1998.042,monthly mean,4.11
+1998,2,1998.125,monthly mean,4.13
+1998,3,1998.208,monthly mean,4.15
+1998,4,1998.292,monthly mean,4.18
+1998,5,1998.375,monthly mean,4.19
+1998,6,1998.458,monthly mean,4.2
+1998,7,1998.542,monthly mean,4.21
+1998,8,1998.625,monthly mean,4.22
+1998,9,1998.708,monthly mean,4.24
+1998,10,1998.792,monthly mean,4.27
+1998,11,1998.875,monthly mean,4.29
+1998,12,1998.958,monthly mean,4.31
+1999,1,1999.042,monthly mean,4.33
+1999,2,1999.125,monthly mean,4.35
+1999,3,1999.208,monthly mean,4.36
+1999,4,1999.292,monthly mean,4.36
+1999,5,1999.375,monthly mean,4.35
+1999,6,1999.458,monthly mean,4.36
+1999,7,1999.542,monthly mean,4.37
+1999,8,1999.625,monthly mean,4.38
+1999,9,1999.708,monthly mean,4.4
+1999,10,1999.792,monthly mean,4.43
+1999,11,1999.875,monthly mean,4.46
+1999,12,1999.958,monthly mean,4.48
+2000,1,2000.042,monthly mean,4.5
+2000,2,2000.125,monthly mean,4.51
+2000,3,2000.208,monthly mean,4.53
+2000,4,2000.292,monthly mean,4.55
+2000,5,2000.375,monthly mean,4.57
+2000,6,2000.458,monthly mean,4.57
+2000,7,2000.542,monthly mean,4.58
+2000,8,2000.625,monthly mean,4.59
+2000,9,2000.708,monthly mean,4.62
+2000,10,2000.792,monthly mean,4.65
+2000,11,2000.875,monthly mean,4.66
+2000,12,2000.958,monthly mean,4.68
+2001,1,2001.042,monthly mean,4.69
+2001,2,2001.125,monthly mean,4.71
+2001,3,2001.208,monthly mean,4.73
+2001,4,2001.292,monthly mean,4.75
+2001,5,2001.375,monthly mean,4.76
+2001,6,2001.458,monthly mean,4.76
+2001,7,2001.542,monthly mean,4.77
+2001,8,2001.625,monthly mean,4.79
+2001,9,2001.708,monthly mean,4.81
+2001,10,2001.792,monthly mean,4.83
+2001,11,2001.875,monthly mean,4.86
+2001,12,2001.958,monthly mean,4.88
+2002,1,2002.042,monthly mean,4.89
+2002,2,2002.125,monthly mean,4.91
+2002,3,2002.208,monthly mean,4.93
+2002,4,2002.292,monthly mean,4.95
+2002,5,2002.375,monthly mean,4.96
+2002,6,2002.458,monthly mean,4.96
+2002,7,2002.542,monthly mean,4.98
+2002,8,2002.625,monthly mean,4.99
+2002,9,2002.708,monthly mean,5.01
+2002,10,2002.792,monthly mean,5.03
+2002,11,2002.875,monthly mean,5.06
+2002,12,2002.958,monthly mean,5.09
+2003,1,2003.042,monthly mean,5.11
+2003,2,2003.125,monthly mean,5.12
+2003,3,2003.208,monthly mean,5.15
+2003,4,2003.292,monthly mean,5.19
+2003,5,2003.375,monthly mean,5.22
+2003,6,2003.458,monthly mean,5.23
+2003,7,2003.542,monthly mean,5.24
+2003,8,2003.625,monthly mean,5.25
+2003,9,2003.708,monthly mean,5.28
+2003,10,2003.792,monthly mean,5.3
+2003,11,2003.875,monthly mean,5.32
+2003,12,2003.958,monthly mean,5.34
+2004,1,2004.042,monthly mean,5.36
+2004,2,2004.125,monthly mean,5.38
+2004,3,2004.208,monthly mean,5.4
+2004,4,2004.292,monthly mean,5.42
+2004,5,2004.375,monthly mean,5.44
+2004,6,2004.458,monthly mean,5.44
+2004,7,2004.542,monthly mean,5.45
+2004,8,2004.625,monthly mean,5.47
+2004,9,2004.708,monthly mean,5.49
+2004,10,2004.792,monthly mean,5.51
+2004,11,2004.875,monthly mean,5.54
+2004,12,2004.958,monthly mean,5.56
+2005,1,2005.042,monthly mean,5.58
+2005,2,2005.125,monthly mean,5.6
+2005,3,2005.208,monthly mean,5.62
+2005,4,2005.292,monthly mean,5.64
+2005,5,2005.375,monthly mean,5.65
+2005,6,2005.458,monthly mean,5.65
+2005,7,2005.542,monthly mean,5.66
+2005,8,2005.625,monthly mean,5.68
+2005,9,2005.708,monthly mean,5.7
+2005,10,2005.792,monthly mean,5.73
+2005,11,2005.875,monthly mean,5.75
+2005,12,2005.958,monthly mean,5.78
+2006,1,2006.042,monthly mean,5.81
+2006,2,2006.125,monthly mean,5.83
+2006,3,2006.208,monthly mean,5.85
+2006,4,2006.292,monthly mean,5.87
+2006,5,2006.375,monthly mean,5.89
+2006,6,2006.458,monthly mean,5.9
+2006,7,2006.542,monthly mean,5.91
+2006,8,2006.625,monthly mean,5.93
+2006,9,2006.708,monthly mean,5.94
+2006,10,2006.792,monthly mean,5.97
+2006,11,2006.875,monthly mean,6.0
+2006,12,2006.958,monthly mean,6.03
+2007,1,2007.042,monthly mean,6.06
+2007,2,2007.125,monthly mean,6.09
+2007,3,2007.208,monthly mean,6.12
+2007,4,2007.292,monthly mean,6.14
+2007,5,2007.375,monthly mean,6.15
+2007,6,2007.458,monthly mean,6.16
+2007,7,2007.542,monthly mean,6.17
+2007,8,2007.625,monthly mean,6.19
+2007,9,2007.708,monthly mean,6.22
+2007,10,2007.792,monthly mean,6.26
+2007,11,2007.875,monthly mean,6.29
+2007,12,2007.958,monthly mean,6.31
+2008,1,2008.042,monthly mean,6.34
+2008,2,2008.125,monthly mean,6.37
+2008,3,2008.208,monthly mean,6.39
+2008,4,2008.292,monthly mean,6.41
+2008,5,2008.375,monthly mean,6.44
+2008,6,2008.458,monthly mean,6.45
+2008,7,2008.542,monthly mean,6.46
+2008,8,2008.625,monthly mean,6.48
+2008,9,2008.708,monthly mean,6.51
+2008,10,2008.792,monthly mean,6.55
+2008,11,2008.875,monthly mean,6.59
+2008,12,2008.958,monthly mean,6.62
+2009,1,2009.042,monthly mean,6.64
+2009,2,2009.125,monthly mean,6.67
+2009,3,2009.208,monthly mean,6.69
+2009,4,2009.292,monthly mean,6.71
+2009,5,2009.375,monthly mean,6.72
+2009,6,2009.458,monthly mean,6.73
+2009,7,2009.542,monthly mean,6.75
+2009,8,2009.625,monthly mean,6.77
+2009,9,2009.708,monthly mean,6.8
+2009,10,2009.792,monthly mean,6.83
+2009,11,2009.875,monthly mean,6.86
+2009,12,2009.958,monthly mean,6.89
+2010,1,2010.042,monthly mean,6.92
+2010,2,2010.125,monthly mean,6.95
+2010,3,2010.208,monthly mean,6.98
+2010,4,2010.292,monthly mean,6.99
+2010,5,2010.375,monthly mean,7.01
+2010,6,2010.458,monthly mean,7.03
+2010,7,2010.542,monthly mean,7.05
+2010,8,2010.625,monthly mean,7.07
+2010,9,2010.708,monthly mean,7.08
+2010,10,2010.792,monthly mean,7.11
+2010,11,2010.875,monthly mean,7.13
+2010,12,2010.958,monthly mean,7.16
+2011,1,2011.042,monthly mean,7.18
+2011,2,2011.125,monthly mean,7.2
+2011,3,2011.208,monthly mean,7.23
+2011,4,2011.292,monthly mean,7.26
+2011,5,2011.375,monthly mean,7.28
+2011,6,2011.458,monthly mean,7.3
+2011,7,2011.542,monthly mean,7.3
+2011,8,2011.625,monthly mean,7.31
+2011,9,2011.708,monthly mean,7.33
+2011,10,2011.792,monthly mean,7.37
+2011,11,2011.875,monthly mean,7.41
+2011,12,2011.958,monthly mean,7.44
+2012,1,2012.042,monthly mean,7.47
+2012,2,2012.125,monthly mean,7.5
+2012,3,2012.208,monthly mean,7.53
+2012,4,2012.292,monthly mean,7.55
+2012,5,2012.375,monthly mean,7.57
+2012,6,2012.458,monthly mean,7.59
+2012,7,2012.542,monthly mean,7.6
+2012,8,2012.625,monthly mean,7.62
+2012,9,2012.708,monthly mean,7.65
+2012,10,2012.792,monthly mean,7.69
+2012,11,2012.875,monthly mean,7.73
+2012,12,2012.958,monthly mean,7.75
+2013,1,2013.042,monthly mean,7.78
+2013,2,2013.125,monthly mean,7.8
+2013,3,2013.208,monthly mean,7.83
+2013,4,2013.292,monthly mean,7.85
+2013,5,2013.375,monthly mean,7.88
+2013,6,2013.458,monthly mean,7.9
+2013,7,2013.542,monthly mean,7.92
+2013,8,2013.625,monthly mean,7.94
+2013,9,2013.708,monthly mean,7.97
+2013,10,2013.792,monthly mean,8.0
+2013,11,2013.875,monthly mean,8.04
+2013,12,2013.958,monthly mean,8.06
+2014,1,2014.042,monthly mean,8.09
+2014,2,2014.125,monthly mean,8.11
+2014,3,2014.208,monthly mean,8.14
+2014,4,2014.292,monthly mean,8.18
+2014,5,2014.375,monthly mean,8.21
+2014,6,2014.458,monthly mean,8.23
+2014,7,2014.542,monthly mean,8.26
+2014,8,2014.625,monthly mean,8.28
+2014,9,2014.708,monthly mean,8.31
+2014,10,2014.792,monthly mean,8.35
+2014,11,2014.875,monthly mean,8.39
+2014,12,2014.958,monthly mean,8.42
+2015,1,2015.042,monthly mean,8.44
+2015,2,2015.125,monthly mean,8.47
+2015,3,2015.208,monthly mean,8.5
+2015,4,2015.292,monthly mean,8.52
+2015,5,2015.375,monthly mean,8.54
+2015,6,2015.458,monthly mean,8.56
+2015,7,2015.542,monthly mean,8.58
+2015,8,2015.625,monthly mean,8.6
+2015,9,2015.708,monthly mean,8.63
+2015,10,2015.792,monthly mean,8.67
+2015,11,2015.875,monthly mean,8.71
+2015,12,2015.958,monthly mean,8.74
+2016,1,2016.042,monthly mean,8.77
+2016,2,2016.125,monthly mean,8.8
+2016,3,2016.208,monthly mean,8.83
+2016,4,2016.292,monthly mean,8.86
+2016,5,2016.375,monthly mean,8.89
+2016,6,2016.458,monthly mean,8.91
+2016,7,2016.542,monthly mean,8.91
+2016,8,2016.625,monthly mean,8.92
+2016,9,2016.708,monthly mean,8.94
+2016,10,2016.792,monthly mean,8.99
+2016,11,2016.875,monthly mean,9.03
+2016,12,2016.958,monthly mean,9.07
+2017,1,2017.042,monthly mean,9.1
+2017,2,2017.125,monthly mean,9.13
+2017,3,2017.208,monthly mean,9.17
+2017,4,2017.292,monthly mean,9.2
+2017,5,2017.375,monthly mean,9.23
+2017,6,2017.458,monthly mean,9.24
+2017,7,2017.542,monthly mean,9.26
+2017,8,2017.625,monthly mean,9.29
+2017,9,2017.708,monthly mean,9.32
+2017,10,2017.792,monthly mean,9.35
+2017,11,2017.875,monthly mean,9.39
+2017,12,2017.958,monthly mean,9.42
+2018,1,2018.042,monthly mean,9.45
+2018,2,2018.125,monthly mean,9.48
+2018,3,2018.208,monthly mean,9.51
+2018,4,2018.292,monthly mean,9.53
+2018,5,2018.375,monthly mean,9.55
+2018,6,2018.458,monthly mean,9.58
+2018,7,2018.542,monthly mean,9.61
+2018,8,2018.625,monthly mean,9.63
+2018,9,2018.708,monthly mean,9.66
+2018,10,2018.792,monthly mean,9.7
+2018,11,2018.875,monthly mean,9.75
+2018,12,2018.958,monthly mean,9.78
+2019,1,2019.042,monthly mean,9.8
+2019,2,2019.125,monthly mean,9.82
+2019,3,2019.208,monthly mean,9.85
+2019,4,2019.292,monthly mean,9.88
+2019,5,2019.375,monthly mean,9.9
+2019,6,2019.458,monthly mean,9.92
+2019,7,2019.542,monthly mean,9.96
+2019,8,2019.625,monthly mean,9.98
+2019,9,2019.708,monthly mean,10.0
+2019,10,2019.792,monthly mean,10.03
+2019,11,2019.875,monthly mean,10.06
+2019,12,2019.958,monthly mean,10.09
+2020,1,2020.042,monthly mean,10.12
+2020,2,2020.125,monthly mean,10.15
+2020,3,2020.208,monthly mean,10.18
+2020,4,2020.292,monthly mean,10.2
+2020,5,2020.375,monthly mean,10.23
+2020,6,2020.458,monthly mean,10.26
+2020,7,2020.542,monthly mean,10.28
+2020,8,2020.625,monthly mean,10.3
+2020,9,2020.708,monthly mean,10.33
+2020,10,2020.792,monthly mean,10.36
+1997,7,1997.542,mon. mean 1-sigma unc.,0.005
+1997,8,1997.625,mon. mean 1-sigma unc.,0.005
+1997,9,1997.708,mon. mean 1-sigma unc.,0.004
+1997,10,1997.792,mon. mean 1-sigma unc.,0.004
+1997,11,1997.875,mon. mean 1-sigma unc.,0.005
+1997,12,1997.958,mon. mean 1-sigma unc.,0.005
+1998,1,1998.042,mon. mean 1-sigma unc.,0.006
+1998,2,1998.125,mon. mean 1-sigma unc.,0.006
+1998,3,1998.208,mon. mean 1-sigma unc.,0.006
+1998,4,1998.292,mon. mean 1-sigma unc.,0.005
+1998,5,1998.375,mon. mean 1-sigma unc.,0.005
+1998,6,1998.458,mon. mean 1-sigma unc.,0.004
+1998,7,1998.542,mon. mean 1-sigma unc.,0.006
+1998,8,1998.625,mon. mean 1-sigma unc.,0.005
+1998,9,1998.708,mon. mean 1-sigma unc.,0.006
+1998,10,1998.792,mon. mean 1-sigma unc.,0.006999999999999999
+1998,11,1998.875,mon. mean 1-sigma unc.,0.006
+1998,12,1998.958,mon. mean 1-sigma unc.,0.005
+1999,1,1999.042,mon. mean 1-sigma unc.,0.006
+1999,2,1999.125,mon. mean 1-sigma unc.,0.006
+1999,3,1999.208,mon. mean 1-sigma unc.,0.004
+1999,4,1999.292,mon. mean 1-sigma unc.,0.004
+1999,5,1999.375,mon. mean 1-sigma unc.,0.005
+1999,6,1999.458,mon. mean 1-sigma unc.,0.006
+1999,7,1999.542,mon. mean 1-sigma unc.,0.006
+1999,8,1999.625,mon. mean 1-sigma unc.,0.005
+1999,9,1999.708,mon. mean 1-sigma unc.,0.005
+1999,10,1999.792,mon. mean 1-sigma unc.,0.006
+1999,11,1999.875,mon. mean 1-sigma unc.,0.008
+1999,12,1999.958,mon. mean 1-sigma unc.,0.009000000000000001
+2000,1,2000.042,mon. mean 1-sigma unc.,0.009000000000000001
+2000,2,2000.125,mon. mean 1-sigma unc.,0.006999999999999999
+2000,3,2000.208,mon. mean 1-sigma unc.,0.005
+2000,4,2000.292,mon. mean 1-sigma unc.,0.006
+2000,5,2000.375,mon. mean 1-sigma unc.,0.005
+2000,6,2000.458,mon. mean 1-sigma unc.,0.006
+2000,7,2000.542,mon. mean 1-sigma unc.,0.006
+2000,8,2000.625,mon. mean 1-sigma unc.,0.006
+2000,9,2000.708,mon. mean 1-sigma unc.,0.006
+2000,10,2000.792,mon. mean 1-sigma unc.,0.005
+2000,11,2000.875,mon. mean 1-sigma unc.,0.005
+2000,12,2000.958,mon. mean 1-sigma unc.,0.006
+2001,1,2001.042,mon. mean 1-sigma unc.,0.005
+2001,2,2001.125,mon. mean 1-sigma unc.,0.006
+2001,3,2001.208,mon. mean 1-sigma unc.,0.006999999999999999
+2001,4,2001.292,mon. mean 1-sigma unc.,0.006
+2001,5,2001.375,mon. mean 1-sigma unc.,0.006
+2001,6,2001.458,mon. mean 1-sigma unc.,0.006
+2001,7,2001.542,mon. mean 1-sigma unc.,0.006
+2001,8,2001.625,mon. mean 1-sigma unc.,0.006
+2001,9,2001.708,mon. mean 1-sigma unc.,0.006
+2001,10,2001.792,mon. mean 1-sigma unc.,0.004
+2001,11,2001.875,mon. mean 1-sigma unc.,0.006
+2001,12,2001.958,mon. mean 1-sigma unc.,0.008
+2002,1,2002.042,mon. mean 1-sigma unc.,0.006
+2002,2,2002.125,mon. mean 1-sigma unc.,0.005
+2002,3,2002.208,mon. mean 1-sigma unc.,0.005
+2002,4,2002.292,mon. mean 1-sigma unc.,0.004
+2002,5,2002.375,mon. mean 1-sigma unc.,0.004
+2002,6,2002.458,mon. mean 1-sigma unc.,0.004
+2002,7,2002.542,mon. mean 1-sigma unc.,0.005
+2002,8,2002.625,mon. mean 1-sigma unc.,0.004
+2002,9,2002.708,mon. mean 1-sigma unc.,0.004
+2002,10,2002.792,mon. mean 1-sigma unc.,0.006
+2002,11,2002.875,mon. mean 1-sigma unc.,0.006
+2002,12,2002.958,mon. mean 1-sigma unc.,0.005
+2003,1,2003.042,mon. mean 1-sigma unc.,0.005
+2003,2,2003.125,mon. mean 1-sigma unc.,0.005
+2003,3,2003.208,mon. mean 1-sigma unc.,0.005
+2003,4,2003.292,mon. mean 1-sigma unc.,0.004
+2003,5,2003.375,mon. mean 1-sigma unc.,0.004
+2003,6,2003.458,mon. mean 1-sigma unc.,0.005
+2003,7,2003.542,mon. mean 1-sigma unc.,0.006999999999999999
+2003,8,2003.625,mon. mean 1-sigma unc.,0.006
+2003,9,2003.708,mon. mean 1-sigma unc.,0.005
+2003,10,2003.792,mon. mean 1-sigma unc.,0.005
+2003,11,2003.875,mon. mean 1-sigma unc.,0.004
+2003,12,2003.958,mon. mean 1-sigma unc.,0.005
+2004,1,2004.042,mon. mean 1-sigma unc.,0.005
+2004,2,2004.125,mon. mean 1-sigma unc.,0.005
+2004,3,2004.208,mon. mean 1-sigma unc.,0.004
+2004,4,2004.292,mon. mean 1-sigma unc.,0.004
+2004,5,2004.375,mon. mean 1-sigma unc.,0.004
+2004,6,2004.458,mon. mean 1-sigma unc.,0.005
+2004,7,2004.542,mon. mean 1-sigma unc.,0.005
+2004,8,2004.625,mon. mean 1-sigma unc.,0.004
+2004,9,2004.708,mon. mean 1-sigma unc.,0.004
+2004,10,2004.792,mon. mean 1-sigma unc.,0.004
+2004,11,2004.875,mon. mean 1-sigma unc.,0.004
+2004,12,2004.958,mon. mean 1-sigma unc.,0.005
+2005,1,2005.042,mon. mean 1-sigma unc.,0.006
+2005,2,2005.125,mon. mean 1-sigma unc.,0.004
+2005,3,2005.208,mon. mean 1-sigma unc.,0.004
+2005,4,2005.292,mon. mean 1-sigma unc.,0.004
+2005,5,2005.375,mon. mean 1-sigma unc.,0.004
+2005,6,2005.458,mon. mean 1-sigma unc.,0.004
+2005,7,2005.542,mon. mean 1-sigma unc.,0.004
+2005,8,2005.625,mon. mean 1-sigma unc.,0.004
+2005,9,2005.708,mon. mean 1-sigma unc.,0.004
+2005,10,2005.792,mon. mean 1-sigma unc.,0.004
+2005,11,2005.875,mon. mean 1-sigma unc.,0.004
+2005,12,2005.958,mon. mean 1-sigma unc.,0.005
+2006,1,2006.042,mon. mean 1-sigma unc.,0.006
+2006,2,2006.125,mon. mean 1-sigma unc.,0.004
+2006,3,2006.208,mon. mean 1-sigma unc.,0.004
+2006,4,2006.292,mon. mean 1-sigma unc.,0.004
+2006,5,2006.375,mon. mean 1-sigma unc.,0.005
+2006,6,2006.458,mon. mean 1-sigma unc.,0.006
+2006,7,2006.542,mon. mean 1-sigma unc.,0.004
+2006,8,2006.625,mon. mean 1-sigma unc.,0.004
+2006,9,2006.708,mon. mean 1-sigma unc.,0.004
+2006,10,2006.792,mon. mean 1-sigma unc.,0.005
+2006,11,2006.875,mon. mean 1-sigma unc.,0.005
+2006,12,2006.958,mon. mean 1-sigma unc.,0.004
+2007,1,2007.042,mon. mean 1-sigma unc.,0.006
+2007,2,2007.125,mon. mean 1-sigma unc.,0.006999999999999999
+2007,3,2007.208,mon. mean 1-sigma unc.,0.004
+2007,4,2007.292,mon. mean 1-sigma unc.,0.004
+2007,5,2007.375,mon. mean 1-sigma unc.,0.005
+2007,6,2007.458,mon. mean 1-sigma unc.,0.005
+2007,7,2007.542,mon. mean 1-sigma unc.,0.005
+2007,8,2007.625,mon. mean 1-sigma unc.,0.006
+2007,9,2007.708,mon. mean 1-sigma unc.,0.005
+2007,10,2007.792,mon. mean 1-sigma unc.,0.005
+2007,11,2007.875,mon. mean 1-sigma unc.,0.005
+2007,12,2007.958,mon. mean 1-sigma unc.,0.005
+2008,1,2008.042,mon. mean 1-sigma unc.,0.006
+2008,2,2008.125,mon. mean 1-sigma unc.,0.006
+2008,3,2008.208,mon. mean 1-sigma unc.,0.006
+2008,4,2008.292,mon. mean 1-sigma unc.,0.006
+2008,5,2008.375,mon. mean 1-sigma unc.,0.005
+2008,6,2008.458,mon. mean 1-sigma unc.,0.005
+2008,7,2008.542,mon. mean 1-sigma unc.,0.006
+2008,8,2008.625,mon. mean 1-sigma unc.,0.006
+2008,9,2008.708,mon. mean 1-sigma unc.,0.005
+2008,10,2008.792,mon. mean 1-sigma unc.,0.004
+2008,11,2008.875,mon. mean 1-sigma unc.,0.005
+2008,12,2008.958,mon. mean 1-sigma unc.,0.006
+2009,1,2009.042,mon. mean 1-sigma unc.,0.006
+2009,2,2009.125,mon. mean 1-sigma unc.,0.005
+2009,3,2009.208,mon. mean 1-sigma unc.,0.004
+2009,4,2009.292,mon. mean 1-sigma unc.,0.005
+2009,5,2009.375,mon. mean 1-sigma unc.,0.006
+2009,6,2009.458,mon. mean 1-sigma unc.,0.005
+2009,7,2009.542,mon. mean 1-sigma unc.,0.006
+2009,8,2009.625,mon. mean 1-sigma unc.,0.006
+2009,9,2009.708,mon. mean 1-sigma unc.,0.006
+2009,10,2009.792,mon. mean 1-sigma unc.,0.006
+2009,11,2009.875,mon. mean 1-sigma unc.,0.005
+2009,12,2009.958,mon. mean 1-sigma unc.,0.005
+2010,1,2010.042,mon. mean 1-sigma unc.,0.005
+2010,2,2010.125,mon. mean 1-sigma unc.,0.006
+2010,3,2010.208,mon. mean 1-sigma unc.,0.006
+2010,4,2010.292,mon. mean 1-sigma unc.,0.006
+2010,5,2010.375,mon. mean 1-sigma unc.,0.006999999999999999
+2010,6,2010.458,mon. mean 1-sigma unc.,0.008
+2010,7,2010.542,mon. mean 1-sigma unc.,0.006999999999999999
+2010,8,2010.625,mon. mean 1-sigma unc.,0.004
+2010,9,2010.708,mon. mean 1-sigma unc.,0.004
+2010,10,2010.792,mon. mean 1-sigma unc.,0.006
+2010,11,2010.875,mon. mean 1-sigma unc.,0.005
+2010,12,2010.958,mon. mean 1-sigma unc.,0.006
+2011,1,2011.042,mon. mean 1-sigma unc.,0.006
+2011,2,2011.125,mon. mean 1-sigma unc.,0.005
+2011,3,2011.208,mon. mean 1-sigma unc.,0.005
+2011,4,2011.292,mon. mean 1-sigma unc.,0.005
+2011,5,2011.375,mon. mean 1-sigma unc.,0.005
+2011,6,2011.458,mon. mean 1-sigma unc.,0.006
+2011,7,2011.542,mon. mean 1-sigma unc.,0.006
+2011,8,2011.625,mon. mean 1-sigma unc.,0.005
+2011,9,2011.708,mon. mean 1-sigma unc.,0.006
+2011,10,2011.792,mon. mean 1-sigma unc.,0.006999999999999999
+2011,11,2011.875,mon. mean 1-sigma unc.,0.006999999999999999
+2011,12,2011.958,mon. mean 1-sigma unc.,0.006999999999999999
+2012,1,2012.042,mon. mean 1-sigma unc.,0.005
+2012,2,2012.125,mon. mean 1-sigma unc.,0.006
+2012,3,2012.208,mon. mean 1-sigma unc.,0.006
+2012,4,2012.292,mon. mean 1-sigma unc.,0.005
+2012,5,2012.375,mon. mean 1-sigma unc.,0.006
+2012,6,2012.458,mon. mean 1-sigma unc.,0.005
+2012,7,2012.542,mon. mean 1-sigma unc.,0.006
+2012,8,2012.625,mon. mean 1-sigma unc.,0.006
+2012,9,2012.708,mon. mean 1-sigma unc.,0.005
+2012,10,2012.792,mon. mean 1-sigma unc.,0.006
+2012,11,2012.875,mon. mean 1-sigma unc.,0.006999999999999999
+2012,12,2012.958,mon. mean 1-sigma unc.,0.006999999999999999
+2013,1,2013.042,mon. mean 1-sigma unc.,0.006999999999999999
+2013,2,2013.125,mon. mean 1-sigma unc.,0.005
+2013,3,2013.208,mon. mean 1-sigma unc.,0.005
+2013,4,2013.292,mon. mean 1-sigma unc.,0.005
+2013,5,2013.375,mon. mean 1-sigma unc.,0.006
+2013,6,2013.458,mon. mean 1-sigma unc.,0.006999999999999999
+2013,7,2013.542,mon. mean 1-sigma unc.,0.006999999999999999
+2013,8,2013.625,mon. mean 1-sigma unc.,0.006
+2013,9,2013.708,mon. mean 1-sigma unc.,0.006999999999999999
+2013,10,2013.792,mon. mean 1-sigma unc.,0.006
+2013,11,2013.875,mon. mean 1-sigma unc.,0.006
+2013,12,2013.958,mon. mean 1-sigma unc.,0.005
+2014,1,2014.042,mon. mean 1-sigma unc.,0.006
+2014,2,2014.125,mon. mean 1-sigma unc.,0.006999999999999999
+2014,3,2014.208,mon. mean 1-sigma unc.,0.006999999999999999
+2014,4,2014.292,mon. mean 1-sigma unc.,0.006
+2014,5,2014.375,mon. mean 1-sigma unc.,0.005
+2014,6,2014.458,mon. mean 1-sigma unc.,0.006
+2014,7,2014.542,mon. mean 1-sigma unc.,0.008
+2014,8,2014.625,mon. mean 1-sigma unc.,0.008
+2014,9,2014.708,mon. mean 1-sigma unc.,0.006
+2014,10,2014.792,mon. mean 1-sigma unc.,0.004
+2014,11,2014.875,mon. mean 1-sigma unc.,0.004
+2014,12,2014.958,mon. mean 1-sigma unc.,0.005
+2015,1,2015.042,mon. mean 1-sigma unc.,0.008
+2015,2,2015.125,mon. mean 1-sigma unc.,0.008
+2015,3,2015.208,mon. mean 1-sigma unc.,0.006
+2015,4,2015.292,mon. mean 1-sigma unc.,0.006
+2015,5,2015.375,mon. mean 1-sigma unc.,0.005
+2015,6,2015.458,mon. mean 1-sigma unc.,0.006
+2015,7,2015.542,mon. mean 1-sigma unc.,0.006
+2015,8,2015.625,mon. mean 1-sigma unc.,0.006
+2015,9,2015.708,mon. mean 1-sigma unc.,0.006
+2015,10,2015.792,mon. mean 1-sigma unc.,0.006
+2015,11,2015.875,mon. mean 1-sigma unc.,0.005
+2015,12,2015.958,mon. mean 1-sigma unc.,0.006
+2016,1,2016.042,mon. mean 1-sigma unc.,0.006999999999999999
+2016,2,2016.125,mon. mean 1-sigma unc.,0.006
+2016,3,2016.208,mon. mean 1-sigma unc.,0.006
+2016,4,2016.292,mon. mean 1-sigma unc.,0.005
+2016,5,2016.375,mon. mean 1-sigma unc.,0.006
+2016,6,2016.458,mon. mean 1-sigma unc.,0.006
+2016,7,2016.542,mon. mean 1-sigma unc.,0.006999999999999999
+2016,8,2016.625,mon. mean 1-sigma unc.,0.006999999999999999
+2016,9,2016.708,mon. mean 1-sigma unc.,0.005
+2016,10,2016.792,mon. mean 1-sigma unc.,0.005
+2016,11,2016.875,mon. mean 1-sigma unc.,0.004
+2016,12,2016.958,mon. mean 1-sigma unc.,0.006
+2017,1,2017.042,mon. mean 1-sigma unc.,0.006999999999999999
+2017,2,2017.125,mon. mean 1-sigma unc.,0.006999999999999999
+2017,3,2017.208,mon. mean 1-sigma unc.,0.006
+2017,4,2017.292,mon. mean 1-sigma unc.,0.005
+2017,5,2017.375,mon. mean 1-sigma unc.,0.006
+2017,6,2017.458,mon. mean 1-sigma unc.,0.006
+2017,7,2017.542,mon. mean 1-sigma unc.,0.006999999999999999
+2017,8,2017.625,mon. mean 1-sigma unc.,0.006999999999999999
+2017,9,2017.708,mon. mean 1-sigma unc.,0.006
+2017,10,2017.792,mon. mean 1-sigma unc.,0.006
+2017,11,2017.875,mon. mean 1-sigma unc.,0.006999999999999999
+2017,12,2017.958,mon. mean 1-sigma unc.,0.009000000000000001
+2018,1,2018.042,mon. mean 1-sigma unc.,0.01
+2018,2,2018.125,mon. mean 1-sigma unc.,0.01
+2018,3,2018.208,mon. mean 1-sigma unc.,0.009000000000000001
+2018,4,2018.292,mon. mean 1-sigma unc.,0.008
+2018,5,2018.375,mon. mean 1-sigma unc.,0.006999999999999999
+2018,6,2018.458,mon. mean 1-sigma unc.,0.006
+2018,7,2018.542,mon. mean 1-sigma unc.,0.006999999999999999
+2018,8,2018.625,mon. mean 1-sigma unc.,0.006999999999999999
+2018,9,2018.708,mon. mean 1-sigma unc.,0.005
+2018,10,2018.792,mon. mean 1-sigma unc.,0.006999999999999999
+2018,11,2018.875,mon. mean 1-sigma unc.,0.009000000000000001
+2018,12,2018.958,mon. mean 1-sigma unc.,0.009000000000000001
+2019,1,2019.042,mon. mean 1-sigma unc.,0.006
+2019,2,2019.125,mon. mean 1-sigma unc.,0.006
+2019,3,2019.208,mon. mean 1-sigma unc.,0.006
+2019,4,2019.292,mon. mean 1-sigma unc.,0.006
+2019,5,2019.375,mon. mean 1-sigma unc.,0.006
+2019,6,2019.458,mon. mean 1-sigma unc.,0.006
+2019,7,2019.542,mon. mean 1-sigma unc.,0.006
+2019,8,2019.625,mon. mean 1-sigma unc.,0.006999999999999999
+2019,9,2019.708,mon. mean 1-sigma unc.,0.006
+2019,10,2019.792,mon. mean 1-sigma unc.,0.006
+2019,11,2019.875,mon. mean 1-sigma unc.,0.008
+2019,12,2019.958,mon. mean 1-sigma unc.,0.008
+2020,1,2020.042,mon. mean 1-sigma unc.,0.006999999999999999
+2020,2,2020.125,mon. mean 1-sigma unc.,
+2020,3,2020.208,mon. mean 1-sigma unc.,
+2020,4,2020.292,mon. mean 1-sigma unc.,
+2020,5,2020.375,mon. mean 1-sigma unc.,
+2020,6,2020.458,mon. mean 1-sigma unc.,
+2020,7,2020.542,mon. mean 1-sigma unc.,
+2020,8,2020.625,mon. mean 1-sigma unc.,
+2020,9,2020.708,mon. mean 1-sigma unc.,
+2020,10,2020.792,mon. mean 1-sigma unc.,
+1997,7,1997.542,season-filtered fit,4.01
+1997,8,1997.625,season-filtered fit,4.03
+1997,9,1997.708,season-filtered fit,4.04
+1997,10,1997.792,season-filtered fit,4.06
+1997,11,1997.875,season-filtered fit,4.08
+1997,12,1997.958,season-filtered fit,4.09
+1998,1,1998.042,season-filtered fit,4.11
+1998,2,1998.125,season-filtered fit,4.13
+1998,3,1998.208,season-filtered fit,4.15
+1998,4,1998.292,season-filtered fit,4.17
+1998,5,1998.375,season-filtered fit,4.18
+1998,6,1998.458,season-filtered fit,4.2
+1998,7,1998.542,season-filtered fit,4.22
+1998,8,1998.625,season-filtered fit,4.24
+1998,9,1998.708,season-filtered fit,4.25
+1998,10,1998.792,season-filtered fit,4.27
+1998,11,1998.875,season-filtered fit,4.28
+1998,12,1998.958,season-filtered fit,4.3
+1999,1,1999.042,season-filtered fit,4.31
+1999,2,1999.125,season-filtered fit,4.33
+1999,3,1999.208,season-filtered fit,4.34
+1999,4,1999.292,season-filtered fit,4.35
+1999,5,1999.375,season-filtered fit,4.37
+1999,6,1999.458,season-filtered fit,4.38
+1999,7,1999.542,season-filtered fit,4.39
+1999,8,1999.625,season-filtered fit,4.41
+1999,9,1999.708,season-filtered fit,4.42
+1999,10,1999.792,season-filtered fit,4.44
+1999,11,1999.875,season-filtered fit,4.45
+1999,12,1999.958,season-filtered fit,4.47
+2000,1,2000.042,season-filtered fit,4.49
+2000,2,2000.125,season-filtered fit,4.51
+2000,3,2000.208,season-filtered fit,4.52
+2000,4,2000.292,season-filtered fit,4.54
+2000,5,2000.375,season-filtered fit,4.56
+2000,6,2000.458,season-filtered fit,4.57
+2000,7,2000.542,season-filtered fit,4.59
+2000,8,2000.625,season-filtered fit,4.61
+2000,9,2000.708,season-filtered fit,4.63
+2000,10,2000.792,season-filtered fit,4.64
+2000,11,2000.875,season-filtered fit,4.66
+2000,12,2000.958,season-filtered fit,4.68
+2001,1,2001.042,season-filtered fit,4.69
+2001,2,2001.125,season-filtered fit,4.71
+2001,3,2001.208,season-filtered fit,4.72
+2001,4,2001.292,season-filtered fit,4.74
+2001,5,2001.375,season-filtered fit,4.76
+2001,6,2001.458,season-filtered fit,4.77
+2001,7,2001.542,season-filtered fit,4.79
+2001,8,2001.625,season-filtered fit,4.8
+2001,9,2001.708,season-filtered fit,4.82
+2001,10,2001.792,season-filtered fit,4.84
+2001,11,2001.875,season-filtered fit,4.85
+2001,12,2001.958,season-filtered fit,4.87
+2002,1,2002.042,season-filtered fit,4.88
+2002,2,2002.125,season-filtered fit,4.9
+2002,3,2002.208,season-filtered fit,4.92
+2002,4,2002.292,season-filtered fit,4.93
+2002,5,2002.375,season-filtered fit,4.95
+2002,6,2002.458,season-filtered fit,4.97
+2002,7,2002.542,season-filtered fit,4.99
+2002,8,2002.625,season-filtered fit,5.01
+2002,9,2002.708,season-filtered fit,5.03
+2002,10,2002.792,season-filtered fit,5.05
+2002,11,2002.875,season-filtered fit,5.07
+2002,12,2002.958,season-filtered fit,5.09
+2003,1,2003.042,season-filtered fit,5.11
+2003,2,2003.125,season-filtered fit,5.13
+2003,3,2003.208,season-filtered fit,5.15
+2003,4,2003.292,season-filtered fit,5.17
+2003,5,2003.375,season-filtered fit,5.2
+2003,6,2003.458,season-filtered fit,5.22
+2003,7,2003.542,season-filtered fit,5.24
+2003,8,2003.625,season-filtered fit,5.26
+2003,9,2003.708,season-filtered fit,5.28
+2003,10,2003.792,season-filtered fit,5.3
+2003,11,2003.875,season-filtered fit,5.32
+2003,12,2003.958,season-filtered fit,5.34
+2004,1,2004.042,season-filtered fit,5.36
+2004,2,2004.125,season-filtered fit,5.38
+2004,3,2004.208,season-filtered fit,5.4
+2004,4,2004.292,season-filtered fit,5.41
+2004,5,2004.375,season-filtered fit,5.43
+2004,6,2004.458,season-filtered fit,5.45
+2004,7,2004.542,season-filtered fit,5.47
+2004,8,2004.625,season-filtered fit,5.48
+2004,9,2004.708,season-filtered fit,5.5
+2004,10,2004.792,season-filtered fit,5.52
+2004,11,2004.875,season-filtered fit,5.53
+2004,12,2004.958,season-filtered fit,5.55
+2005,1,2005.042,season-filtered fit,5.57
+2005,2,2005.125,season-filtered fit,5.59
+2005,3,2005.208,season-filtered fit,5.61
+2005,4,2005.292,season-filtered fit,5.62
+2005,5,2005.375,season-filtered fit,5.64
+2005,6,2005.458,season-filtered fit,5.66
+2005,7,2005.542,season-filtered fit,5.68
+2005,8,2005.625,season-filtered fit,5.7
+2005,9,2005.708,season-filtered fit,5.72
+2005,10,2005.792,season-filtered fit,5.74
+2005,11,2005.875,season-filtered fit,5.76
+2005,12,2005.958,season-filtered fit,5.78
+2006,1,2006.042,season-filtered fit,5.8
+2006,2,2006.125,season-filtered fit,5.82
+2006,3,2006.208,season-filtered fit,5.84
+2006,4,2006.292,season-filtered fit,5.86
+2006,5,2006.375,season-filtered fit,5.88
+2006,6,2006.458,season-filtered fit,5.9
+2006,7,2006.542,season-filtered fit,5.92
+2006,8,2006.625,season-filtered fit,5.94
+2006,9,2006.708,season-filtered fit,5.96
+2006,10,2006.792,season-filtered fit,5.99
+2006,11,2006.875,season-filtered fit,6.01
+2006,12,2006.958,season-filtered fit,6.03
+2007,1,2007.042,season-filtered fit,6.05
+2007,2,2007.125,season-filtered fit,6.07
+2007,3,2007.208,season-filtered fit,6.1
+2007,4,2007.292,season-filtered fit,6.12
+2007,5,2007.375,season-filtered fit,6.14
+2007,6,2007.458,season-filtered fit,6.16
+2007,7,2007.542,season-filtered fit,6.19
+2007,8,2007.625,season-filtered fit,6.21
+2007,9,2007.708,season-filtered fit,6.24
+2007,10,2007.792,season-filtered fit,6.26
+2007,11,2007.875,season-filtered fit,6.28
+2007,12,2007.958,season-filtered fit,6.31
+2008,1,2008.042,season-filtered fit,6.33
+2008,2,2008.125,season-filtered fit,6.36
+2008,3,2008.208,season-filtered fit,6.38
+2008,4,2008.292,season-filtered fit,6.4
+2008,5,2008.375,season-filtered fit,6.43
+2008,6,2008.458,season-filtered fit,6.45
+2008,7,2008.542,season-filtered fit,6.48
+2008,8,2008.625,season-filtered fit,6.5
+2008,9,2008.708,season-filtered fit,6.53
+2008,10,2008.792,season-filtered fit,6.55
+2008,11,2008.875,season-filtered fit,6.58
+2008,12,2008.958,season-filtered fit,6.6
+2009,1,2009.042,season-filtered fit,6.63
+2009,2,2009.125,season-filtered fit,6.65
+2009,3,2009.208,season-filtered fit,6.67
+2009,4,2009.292,season-filtered fit,6.7
+2009,5,2009.375,season-filtered fit,6.72
+2009,6,2009.458,season-filtered fit,6.74
+2009,7,2009.542,season-filtered fit,6.77
+2009,8,2009.625,season-filtered fit,6.79
+2009,9,2009.708,season-filtered fit,6.82
+2009,10,2009.792,season-filtered fit,6.84
+2009,11,2009.875,season-filtered fit,6.86
+2009,12,2009.958,season-filtered fit,6.89
+2010,1,2010.042,season-filtered fit,6.91
+2010,2,2010.125,season-filtered fit,6.94
+2010,3,2010.208,season-filtered fit,6.96
+2010,4,2010.292,season-filtered fit,6.98
+2010,5,2010.375,season-filtered fit,7.0
+2010,6,2010.458,season-filtered fit,7.03
+2010,7,2010.542,season-filtered fit,7.05
+2010,8,2010.625,season-filtered fit,7.07
+2010,9,2010.708,season-filtered fit,7.09
+2010,10,2010.792,season-filtered fit,7.12
+2010,11,2010.875,season-filtered fit,7.14
+2010,12,2010.958,season-filtered fit,7.16
+2011,1,2011.042,season-filtered fit,7.18
+2011,2,2011.125,season-filtered fit,7.2
+2011,3,2011.208,season-filtered fit,7.22
+2011,4,2011.292,season-filtered fit,7.24
+2011,5,2011.375,season-filtered fit,7.27
+2011,6,2011.458,season-filtered fit,7.29
+2011,7,2011.542,season-filtered fit,7.31
+2011,8,2011.625,season-filtered fit,7.34
+2011,9,2011.708,season-filtered fit,7.36
+2011,10,2011.792,season-filtered fit,7.39
+2011,11,2011.875,season-filtered fit,7.41
+2011,12,2011.958,season-filtered fit,7.44
+2012,1,2012.042,season-filtered fit,7.46
+2012,2,2012.125,season-filtered fit,7.49
+2012,3,2012.208,season-filtered fit,7.51
+2012,4,2012.292,season-filtered fit,7.54
+2012,5,2012.375,season-filtered fit,7.56
+2012,6,2012.458,season-filtered fit,7.59
+2012,7,2012.542,season-filtered fit,7.62
+2012,8,2012.625,season-filtered fit,7.64
+2012,9,2012.708,season-filtered fit,7.67
+2012,10,2012.792,season-filtered fit,7.69
+2012,11,2012.875,season-filtered fit,7.72
+2012,12,2012.958,season-filtered fit,7.75
+2013,1,2013.042,season-filtered fit,7.77
+2013,2,2013.125,season-filtered fit,7.8
+2013,3,2013.208,season-filtered fit,7.82
+2013,4,2013.292,season-filtered fit,7.85
+2013,5,2013.375,season-filtered fit,7.87
+2013,6,2013.458,season-filtered fit,7.9
+2013,7,2013.542,season-filtered fit,7.92
+2013,8,2013.625,season-filtered fit,7.95
+2013,9,2013.708,season-filtered fit,7.98
+2013,10,2013.792,season-filtered fit,8.01
+2013,11,2013.875,season-filtered fit,8.03
+2013,12,2013.958,season-filtered fit,8.06
+2014,1,2014.042,season-filtered fit,8.09
+2014,2,2014.125,season-filtered fit,8.12
+2014,3,2014.208,season-filtered fit,8.15
+2014,4,2014.292,season-filtered fit,8.18
+2014,5,2014.375,season-filtered fit,8.2
+2014,6,2014.458,season-filtered fit,8.23
+2014,7,2014.542,season-filtered fit,8.26
+2014,8,2014.625,season-filtered fit,8.29
+2014,9,2014.708,season-filtered fit,8.32
+2014,10,2014.792,season-filtered fit,8.35
+2014,11,2014.875,season-filtered fit,8.38
+2014,12,2014.958,season-filtered fit,8.41
+2015,1,2015.042,season-filtered fit,8.44
+2015,2,2015.125,season-filtered fit,8.46
+2015,3,2015.208,season-filtered fit,8.49
+2015,4,2015.292,season-filtered fit,8.52
+2015,5,2015.375,season-filtered fit,8.54
+2015,6,2015.458,season-filtered fit,8.57
+2015,7,2015.542,season-filtered fit,8.6
+2015,8,2015.625,season-filtered fit,8.62
+2015,9,2015.708,season-filtered fit,8.65
+2015,10,2015.792,season-filtered fit,8.68
+2015,11,2015.875,season-filtered fit,8.7
+2015,12,2015.958,season-filtered fit,8.73
+2016,1,2016.042,season-filtered fit,8.76
+2016,2,2016.125,season-filtered fit,8.79
+2016,3,2016.208,season-filtered fit,8.81
+2016,4,2016.292,season-filtered fit,8.84
+2016,5,2016.375,season-filtered fit,8.87
+2016,6,2016.458,season-filtered fit,8.9
+2016,7,2016.542,season-filtered fit,8.92
+2016,8,2016.625,season-filtered fit,8.95
+2016,9,2016.708,season-filtered fit,8.98
+2016,10,2016.792,season-filtered fit,9.01
+2016,11,2016.875,season-filtered fit,9.04
+2016,12,2016.958,season-filtered fit,9.07
+2017,1,2017.042,season-filtered fit,9.1
+2017,2,2017.125,season-filtered fit,9.12
+2017,3,2017.208,season-filtered fit,9.15
+2017,4,2017.292,season-filtered fit,9.18
+2017,5,2017.375,season-filtered fit,9.21
+2017,6,2017.458,season-filtered fit,9.24
+2017,7,2017.542,season-filtered fit,9.27
+2017,8,2017.625,season-filtered fit,9.3
+2017,9,2017.708,season-filtered fit,9.33
+2017,10,2017.792,season-filtered fit,9.36
+2017,11,2017.875,season-filtered fit,9.39
+2017,12,2017.958,season-filtered fit,9.41
+2018,1,2018.042,season-filtered fit,9.44
+2018,2,2018.125,season-filtered fit,9.47
+2018,3,2018.208,season-filtered fit,9.5
+2018,4,2018.292,season-filtered fit,9.53
+2018,5,2018.375,season-filtered fit,9.56
+2018,6,2018.458,season-filtered fit,9.59
+2018,7,2018.542,season-filtered fit,9.62
+2018,8,2018.625,season-filtered fit,9.65
+2018,9,2018.708,season-filtered fit,9.67
+2018,10,2018.792,season-filtered fit,9.7
+2018,11,2018.875,season-filtered fit,9.73
+2018,12,2018.958,season-filtered fit,9.76
+2019,1,2019.042,season-filtered fit,9.79
+2019,2,2019.125,season-filtered fit,9.82
+2019,3,2019.208,season-filtered fit,9.85
+2019,4,2019.292,season-filtered fit,9.87
+2019,5,2019.375,season-filtered fit,9.9
+2019,6,2019.458,season-filtered fit,9.93
+2019,7,2019.542,season-filtered fit,9.96
+2019,8,2019.625,season-filtered fit,9.98
+2019,9,2019.708,season-filtered fit,10.01
+2019,10,2019.792,season-filtered fit,10.04
+2019,11,2019.875,season-filtered fit,10.06
+2019,12,2019.958,season-filtered fit,10.09
+2020,1,2020.042,season-filtered fit,10.12
+2020,2,2020.125,season-filtered fit,10.14
+2020,3,2020.208,season-filtered fit,10.17
+2020,4,2020.292,season-filtered fit,10.2
+2020,5,2020.375,season-filtered fit,10.23
+2020,6,2020.458,season-filtered fit,10.26
+2020,7,2020.542,season-filtered fit,10.29
+2020,8,2020.625,season-filtered fit,10.32
+2020,9,2020.708,season-filtered fit,10.35
+2020,10,2020.792,season-filtered fit,10.38
+1997,7,1997.542,fit 1-sigma unc.,0.004
+1997,8,1997.625,fit 1-sigma unc.,0.004
+1997,9,1997.708,fit 1-sigma unc.,0.003
+1997,10,1997.792,fit 1-sigma unc.,0.003
+1997,11,1997.875,fit 1-sigma unc.,0.003
+1997,12,1997.958,fit 1-sigma unc.,0.003
+1998,1,1998.042,fit 1-sigma unc.,0.002
+1998,2,1998.125,fit 1-sigma unc.,0.002
+1998,3,1998.208,fit 1-sigma unc.,0.002
+1998,4,1998.292,fit 1-sigma unc.,0.002
+1998,5,1998.375,fit 1-sigma unc.,0.002
+1998,6,1998.458,fit 1-sigma unc.,0.003
+1998,7,1998.542,fit 1-sigma unc.,0.003
+1998,8,1998.625,fit 1-sigma unc.,0.003
+1998,9,1998.708,fit 1-sigma unc.,0.003
+1998,10,1998.792,fit 1-sigma unc.,0.003
+1998,11,1998.875,fit 1-sigma unc.,0.003
+1998,12,1998.958,fit 1-sigma unc.,0.003
+1999,1,1999.042,fit 1-sigma unc.,0.003
+1999,2,1999.125,fit 1-sigma unc.,0.003
+1999,3,1999.208,fit 1-sigma unc.,0.004
+1999,4,1999.292,fit 1-sigma unc.,0.004
+1999,5,1999.375,fit 1-sigma unc.,0.004
+1999,6,1999.458,fit 1-sigma unc.,0.004
+1999,7,1999.542,fit 1-sigma unc.,0.004
+1999,8,1999.625,fit 1-sigma unc.,0.004
+1999,9,1999.708,fit 1-sigma unc.,0.004
+1999,10,1999.792,fit 1-sigma unc.,0.004
+1999,11,1999.875,fit 1-sigma unc.,0.004
+1999,12,1999.958,fit 1-sigma unc.,0.004
+2000,1,2000.042,fit 1-sigma unc.,0.004
+2000,2,2000.125,fit 1-sigma unc.,0.004
+2000,3,2000.208,fit 1-sigma unc.,0.004
+2000,4,2000.292,fit 1-sigma unc.,0.004
+2000,5,2000.375,fit 1-sigma unc.,0.004
+2000,6,2000.458,fit 1-sigma unc.,0.004
+2000,7,2000.542,fit 1-sigma unc.,0.003
+2000,8,2000.625,fit 1-sigma unc.,0.003
+2000,9,2000.708,fit 1-sigma unc.,0.003
+2000,10,2000.792,fit 1-sigma unc.,0.003
+2000,11,2000.875,fit 1-sigma unc.,0.004
+2000,12,2000.958,fit 1-sigma unc.,0.004
+2001,1,2001.042,fit 1-sigma unc.,0.004
+2001,2,2001.125,fit 1-sigma unc.,0.004
+2001,3,2001.208,fit 1-sigma unc.,0.004
+2001,4,2001.292,fit 1-sigma unc.,0.004
+2001,5,2001.375,fit 1-sigma unc.,0.004
+2001,6,2001.458,fit 1-sigma unc.,0.004
+2001,7,2001.542,fit 1-sigma unc.,0.004
+2001,8,2001.625,fit 1-sigma unc.,0.004
+2001,9,2001.708,fit 1-sigma unc.,0.003
+2001,10,2001.792,fit 1-sigma unc.,0.003
+2001,11,2001.875,fit 1-sigma unc.,0.003
+2001,12,2001.958,fit 1-sigma unc.,0.003
+2002,1,2002.042,fit 1-sigma unc.,0.003
+2002,2,2002.125,fit 1-sigma unc.,0.003
+2002,3,2002.208,fit 1-sigma unc.,0.002
+2002,4,2002.292,fit 1-sigma unc.,0.002
+2002,5,2002.375,fit 1-sigma unc.,0.002
+2002,6,2002.458,fit 1-sigma unc.,0.002
+2002,7,2002.542,fit 1-sigma unc.,0.002
+2002,8,2002.625,fit 1-sigma unc.,0.002
+2002,9,2002.708,fit 1-sigma unc.,0.003
+2002,10,2002.792,fit 1-sigma unc.,0.003
+2002,11,2002.875,fit 1-sigma unc.,0.003
+2002,12,2002.958,fit 1-sigma unc.,0.003
+2003,1,2003.042,fit 1-sigma unc.,0.003
+2003,2,2003.125,fit 1-sigma unc.,0.003
+2003,3,2003.208,fit 1-sigma unc.,0.003
+2003,4,2003.292,fit 1-sigma unc.,0.002
+2003,5,2003.375,fit 1-sigma unc.,0.002
+2003,6,2003.458,fit 1-sigma unc.,0.002
+2003,7,2003.542,fit 1-sigma unc.,0.002
+2003,8,2003.625,fit 1-sigma unc.,0.002
+2003,9,2003.708,fit 1-sigma unc.,0.002
+2003,10,2003.792,fit 1-sigma unc.,0.003
+2003,11,2003.875,fit 1-sigma unc.,0.003
+2003,12,2003.958,fit 1-sigma unc.,0.003
+2004,1,2004.042,fit 1-sigma unc.,0.002
+2004,2,2004.125,fit 1-sigma unc.,0.002
+2004,3,2004.208,fit 1-sigma unc.,0.002
+2004,4,2004.292,fit 1-sigma unc.,0.002
+2004,5,2004.375,fit 1-sigma unc.,0.002
+2004,6,2004.458,fit 1-sigma unc.,0.002
+2004,7,2004.542,fit 1-sigma unc.,0.002
+2004,8,2004.625,fit 1-sigma unc.,0.002
+2004,9,2004.708,fit 1-sigma unc.,0.002
+2004,10,2004.792,fit 1-sigma unc.,0.002
+2004,11,2004.875,fit 1-sigma unc.,0.002
+2004,12,2004.958,fit 1-sigma unc.,0.002
+2005,1,2005.042,fit 1-sigma unc.,0.002
+2005,2,2005.125,fit 1-sigma unc.,0.002
+2005,3,2005.208,fit 1-sigma unc.,0.002
+2005,4,2005.292,fit 1-sigma unc.,0.002
+2005,5,2005.375,fit 1-sigma unc.,0.002
+2005,6,2005.458,fit 1-sigma unc.,0.002
+2005,7,2005.542,fit 1-sigma unc.,0.002
+2005,8,2005.625,fit 1-sigma unc.,0.002
+2005,9,2005.708,fit 1-sigma unc.,0.002
+2005,10,2005.792,fit 1-sigma unc.,0.002
+2005,11,2005.875,fit 1-sigma unc.,0.002
+2005,12,2005.958,fit 1-sigma unc.,0.002
+2006,1,2006.042,fit 1-sigma unc.,0.002
+2006,2,2006.125,fit 1-sigma unc.,0.002
+2006,3,2006.208,fit 1-sigma unc.,0.002
+2006,4,2006.292,fit 1-sigma unc.,0.002
+2006,5,2006.375,fit 1-sigma unc.,0.002
+2006,6,2006.458,fit 1-sigma unc.,0.002
+2006,7,2006.542,fit 1-sigma unc.,0.002
+2006,8,2006.625,fit 1-sigma unc.,0.002
+2006,9,2006.708,fit 1-sigma unc.,0.002
+2006,10,2006.792,fit 1-sigma unc.,0.002
+2006,11,2006.875,fit 1-sigma unc.,0.002
+2006,12,2006.958,fit 1-sigma unc.,0.002
+2007,1,2007.042,fit 1-sigma unc.,0.002
+2007,2,2007.125,fit 1-sigma unc.,0.002
+2007,3,2007.208,fit 1-sigma unc.,0.002
+2007,4,2007.292,fit 1-sigma unc.,0.002
+2007,5,2007.375,fit 1-sigma unc.,0.002
+2007,6,2007.458,fit 1-sigma unc.,0.002
+2007,7,2007.542,fit 1-sigma unc.,0.002
+2007,8,2007.625,fit 1-sigma unc.,0.002
+2007,9,2007.708,fit 1-sigma unc.,0.002
+2007,10,2007.792,fit 1-sigma unc.,0.002
+2007,11,2007.875,fit 1-sigma unc.,0.002
+2007,12,2007.958,fit 1-sigma unc.,0.002
+2008,1,2008.042,fit 1-sigma unc.,0.002
+2008,2,2008.125,fit 1-sigma unc.,0.002
+2008,3,2008.208,fit 1-sigma unc.,0.002
+2008,4,2008.292,fit 1-sigma unc.,0.002
+2008,5,2008.375,fit 1-sigma unc.,0.002
+2008,6,2008.458,fit 1-sigma unc.,0.002
+2008,7,2008.542,fit 1-sigma unc.,0.002
+2008,8,2008.625,fit 1-sigma unc.,0.002
+2008,9,2008.708,fit 1-sigma unc.,0.003
+2008,10,2008.792,fit 1-sigma unc.,0.003
+2008,11,2008.875,fit 1-sigma unc.,0.002
+2008,12,2008.958,fit 1-sigma unc.,0.002
+2009,1,2009.042,fit 1-sigma unc.,0.002
+2009,2,2009.125,fit 1-sigma unc.,0.003
+2009,3,2009.208,fit 1-sigma unc.,0.003
+2009,4,2009.292,fit 1-sigma unc.,0.003
+2009,5,2009.375,fit 1-sigma unc.,0.004
+2009,6,2009.458,fit 1-sigma unc.,0.004
+2009,7,2009.542,fit 1-sigma unc.,0.003
+2009,8,2009.625,fit 1-sigma unc.,0.003
+2009,9,2009.708,fit 1-sigma unc.,0.003
+2009,10,2009.792,fit 1-sigma unc.,0.003
+2009,11,2009.875,fit 1-sigma unc.,0.003
+2009,12,2009.958,fit 1-sigma unc.,0.003
+2010,1,2010.042,fit 1-sigma unc.,0.003
+2010,2,2010.125,fit 1-sigma unc.,0.003
+2010,3,2010.208,fit 1-sigma unc.,0.003
+2010,4,2010.292,fit 1-sigma unc.,0.003
+2010,5,2010.375,fit 1-sigma unc.,0.003
+2010,6,2010.458,fit 1-sigma unc.,0.003
+2010,7,2010.542,fit 1-sigma unc.,0.003
+2010,8,2010.625,fit 1-sigma unc.,0.003
+2010,9,2010.708,fit 1-sigma unc.,0.003
+2010,10,2010.792,fit 1-sigma unc.,0.003
+2010,11,2010.875,fit 1-sigma unc.,0.003
+2010,12,2010.958,fit 1-sigma unc.,0.003
+2011,1,2011.042,fit 1-sigma unc.,0.003
+2011,2,2011.125,fit 1-sigma unc.,0.003
+2011,3,2011.208,fit 1-sigma unc.,0.003
+2011,4,2011.292,fit 1-sigma unc.,0.003
+2011,5,2011.375,fit 1-sigma unc.,0.003
+2011,6,2011.458,fit 1-sigma unc.,0.004
+2011,7,2011.542,fit 1-sigma unc.,0.004
+2011,8,2011.625,fit 1-sigma unc.,0.004
+2011,9,2011.708,fit 1-sigma unc.,0.004
+2011,10,2011.792,fit 1-sigma unc.,0.004
+2011,11,2011.875,fit 1-sigma unc.,0.004
+2011,12,2011.958,fit 1-sigma unc.,0.004
+2012,1,2012.042,fit 1-sigma unc.,0.004
+2012,2,2012.125,fit 1-sigma unc.,0.004
+2012,3,2012.208,fit 1-sigma unc.,0.004
+2012,4,2012.292,fit 1-sigma unc.,0.004
+2012,5,2012.375,fit 1-sigma unc.,0.004
+2012,6,2012.458,fit 1-sigma unc.,0.004
+2012,7,2012.542,fit 1-sigma unc.,0.004
+2012,8,2012.625,fit 1-sigma unc.,0.004
+2012,9,2012.708,fit 1-sigma unc.,0.004
+2012,10,2012.792,fit 1-sigma unc.,0.004
+2012,11,2012.875,fit 1-sigma unc.,0.004
+2012,12,2012.958,fit 1-sigma unc.,0.004
+2013,1,2013.042,fit 1-sigma unc.,0.004
+2013,2,2013.125,fit 1-sigma unc.,0.004
+2013,3,2013.208,fit 1-sigma unc.,0.004
+2013,4,2013.292,fit 1-sigma unc.,0.004
+2013,5,2013.375,fit 1-sigma unc.,0.004
+2013,6,2013.458,fit 1-sigma unc.,0.004
+2013,7,2013.542,fit 1-sigma unc.,0.004
+2013,8,2013.625,fit 1-sigma unc.,0.004
+2013,9,2013.708,fit 1-sigma unc.,0.004
+2013,10,2013.792,fit 1-sigma unc.,0.004
+2013,11,2013.875,fit 1-sigma unc.,0.004
+2013,12,2013.958,fit 1-sigma unc.,0.004
+2014,1,2014.042,fit 1-sigma unc.,0.004
+2014,2,2014.125,fit 1-sigma unc.,0.004
+2014,3,2014.208,fit 1-sigma unc.,0.004
+2014,4,2014.292,fit 1-sigma unc.,0.004
+2014,5,2014.375,fit 1-sigma unc.,0.003
+2014,6,2014.458,fit 1-sigma unc.,0.003
+2014,7,2014.542,fit 1-sigma unc.,0.004
+2014,8,2014.625,fit 1-sigma unc.,0.004
+2014,9,2014.708,fit 1-sigma unc.,0.004
+2014,10,2014.792,fit 1-sigma unc.,0.004
+2014,11,2014.875,fit 1-sigma unc.,0.004
+2014,12,2014.958,fit 1-sigma unc.,0.004
+2015,1,2015.042,fit 1-sigma unc.,0.004
+2015,2,2015.125,fit 1-sigma unc.,0.004
+2015,3,2015.208,fit 1-sigma unc.,0.004
+2015,4,2015.292,fit 1-sigma unc.,0.004
+2015,5,2015.375,fit 1-sigma unc.,0.003
+2015,6,2015.458,fit 1-sigma unc.,0.003
+2015,7,2015.542,fit 1-sigma unc.,0.003
+2015,8,2015.625,fit 1-sigma unc.,0.003
+2015,9,2015.708,fit 1-sigma unc.,0.003
+2015,10,2015.792,fit 1-sigma unc.,0.003
+2015,11,2015.875,fit 1-sigma unc.,0.003
+2015,12,2015.958,fit 1-sigma unc.,0.003
+2016,1,2016.042,fit 1-sigma unc.,0.003
+2016,2,2016.125,fit 1-sigma unc.,0.003
+2016,3,2016.208,fit 1-sigma unc.,0.003
+2016,4,2016.292,fit 1-sigma unc.,0.003
+2016,5,2016.375,fit 1-sigma unc.,0.003
+2016,6,2016.458,fit 1-sigma unc.,0.003
+2016,7,2016.542,fit 1-sigma unc.,0.003
+2016,8,2016.625,fit 1-sigma unc.,0.004
+2016,9,2016.708,fit 1-sigma unc.,0.004
+2016,10,2016.792,fit 1-sigma unc.,0.004
+2016,11,2016.875,fit 1-sigma unc.,0.004
+2016,12,2016.958,fit 1-sigma unc.,0.004
+2017,1,2017.042,fit 1-sigma unc.,0.004
+2017,2,2017.125,fit 1-sigma unc.,0.004
+2017,3,2017.208,fit 1-sigma unc.,0.004
+2017,4,2017.292,fit 1-sigma unc.,0.004
+2017,5,2017.375,fit 1-sigma unc.,0.004
+2017,6,2017.458,fit 1-sigma unc.,0.004
+2017,7,2017.542,fit 1-sigma unc.,0.004
+2017,8,2017.625,fit 1-sigma unc.,0.004
+2017,9,2017.708,fit 1-sigma unc.,0.005
+2017,10,2017.792,fit 1-sigma unc.,0.005
+2017,11,2017.875,fit 1-sigma unc.,0.005
+2017,12,2017.958,fit 1-sigma unc.,0.005
+2018,1,2018.042,fit 1-sigma unc.,0.005
+2018,2,2018.125,fit 1-sigma unc.,0.006
+2018,3,2018.208,fit 1-sigma unc.,0.006
+2018,4,2018.292,fit 1-sigma unc.,0.006
+2018,5,2018.375,fit 1-sigma unc.,0.006
+2018,6,2018.458,fit 1-sigma unc.,0.005
+2018,7,2018.542,fit 1-sigma unc.,0.005
+2018,8,2018.625,fit 1-sigma unc.,0.005
+2018,9,2018.708,fit 1-sigma unc.,0.005
+2018,10,2018.792,fit 1-sigma unc.,0.005
+2018,11,2018.875,fit 1-sigma unc.,0.005
+2018,12,2018.958,fit 1-sigma unc.,0.004
+2019,1,2019.042,fit 1-sigma unc.,0.004
+2019,2,2019.125,fit 1-sigma unc.,0.004
+2019,3,2019.208,fit 1-sigma unc.,0.004
+2019,4,2019.292,fit 1-sigma unc.,0.004
+2019,5,2019.375,fit 1-sigma unc.,0.004
+2019,6,2019.458,fit 1-sigma unc.,0.004
+2019,7,2019.542,fit 1-sigma unc.,0.004
+2019,8,2019.625,fit 1-sigma unc.,0.004
+2019,9,2019.708,fit 1-sigma unc.,0.004
+2019,10,2019.792,fit 1-sigma unc.,0.004
+2019,11,2019.875,fit 1-sigma unc.,0.004
+2019,12,2019.958,fit 1-sigma unc.,0.004
+2020,1,2020.042,fit 1-sigma unc.,0.004
+2020,2,2020.125,fit 1-sigma unc.,
+2020,3,2020.208,fit 1-sigma unc.,
+2020,4,2020.292,fit 1-sigma unc.,
+2020,5,2020.375,fit 1-sigma unc.,
+2020,6,2020.458,fit 1-sigma unc.,
+2020,7,2020.542,fit 1-sigma unc.,
+2020,8,2020.625,fit 1-sigma unc.,
+2020,9,2020.708,fit 1-sigma unc.,
+2020,10,2020.792,fit 1-sigma unc.,
