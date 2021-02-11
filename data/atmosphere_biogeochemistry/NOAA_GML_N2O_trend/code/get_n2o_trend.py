@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
 #
 #################
-# This script takes as input the NOAA GML CH4 data in .txt format,
+# This script takes as input the NOAA GML N2O data in .txt format,
 # stripped of the explanatory text,
 # and returns a csv file with the processed time series.
 # Data is provided in ppb (parts per billion).
 #
-# Last updated: Jan 2021
+# Last updated: Feb 2021
 # Author: Ignacio Lopez-Gomez
 # 
 #################
 import pandas as pd
 
-raw_data_ = pd.read_csv('../source/monthly_global_ch4_data_clean.txt', delim_whitespace=True)
+raw_data_ = pd.read_csv('../source/monthly_global_n2o_data_clean.txt', delim_whitespace=True)
 proc_data_ = raw_data_.rename(columns = {'decimal' : 'date (decimal)',
                             'average':'monthly mean',
                             'average_unc': 'mon. mean 1-sigma unc.',
@@ -29,4 +29,4 @@ data_tidy["Concentration (ppb)"] = data_tidy["Concentration (ppb)"].astype(float
 data_tidy["Concentration (ppb)"] = data_tidy["Concentration (ppb)"].where(data_tidy["Concentration (ppb)"] > 0)
 
 # # Save to file, stripped of index
-data_tidy.to_csv(r'../processed/monthly_global_ch4_data_processed.csv', index = False)
+data_tidy.to_csv(r'../processed/monthly_global_n2o_data_processed.csv', index = False)
