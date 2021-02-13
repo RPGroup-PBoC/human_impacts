@@ -21,9 +21,11 @@ for subs_ in substance_categories:
 
     subs_tidy = raw_data_.melt(id_vars=raw_data_.columns[:2], 
                                     var_name="Year", 
-                                    value_name="Consumption (ODP tonnes)")
+                                    value_name="Consumption (10^6 ODP kg)")
     # Fold negative values to zero
-    subs_tidy.loc[subs_tidy["Consumption (ODP tonnes)"] < 0.0, "Consumption (ODP tonnes)"] = 0.0
+    subs_tidy.loc[subs_tidy["Consumption (10^6 ODP kg)"] < 0.0, "Consumption (10^6 ODP kg)"] = 0.0
+    # From tonnes to millions of kg
+    subs_tidy["Consumption (10^6 ODP kg)"] = subs_tidy["Consumption (10^6 ODP kg)"]/1000.0
     # Clean up
     subs_tidy = subs_tidy[subs_tidy["Year"] != "Baseline"]
 
@@ -36,7 +38,8 @@ total = pd.DataFrame()
 total["Year"] = years
 total["Substance category"] = "All substances"
 total["Region"] = "World"
-total["Consumption (ODP tonnes)"] = np.array([round(np.nansum( (all_subs[ all_subs["Year"] == year_])["Consumption (ODP tonnes)"] ), 0) for year_ in years])
+total["Consumption (10^6 ODP kg)"] = np.array([round(np.nansum( 
+    (all_subs[ all_subs["Year"] == year_])["Consumption (10^6 ODP kg)"] )) for year_ in years])
 
 all_subs = pd.concat([all_subs, total], axis=0, ignore_index=True)
 # # # Save to file, stripped of index
