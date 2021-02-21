@@ -1,0 +1,49 @@
+year,Reported group,Number
+1951,Vertebrates,5
+1957,Vertebrates,9
+1963,Vertebrates,12
+1969,Vertebrates,18
+1975,Vertebrates,25
+1981,Vertebrates,32
+1987,Vertebrates,39
+1993,Vertebrates,50
+1999,Vertebrates,57
+2005,Vertebrates,75
+2011,Vertebrates,115
+2017,Vertebrates,151
+1951,Invertebrates,7
+1957,Invertebrates,26
+1963,Invertebrates,56
+1969,Invertebrates,106
+1975,Invertebrates,165
+1981,Invertebrates,217
+1987,Invertebrates,263
+1993,Invertebrates,320
+1999,Invertebrates,412
+2005,Invertebrates,520
+2011,Invertebrates,598
+2017,Invertebrates,658
+1951,Primary producers,4
+1957,Primary producers,7
+1963,Primary producers,11
+1969,Primary producers,20
+1975,Primary producers,32
+1981,Primary producers,48
+1987,Primary producers,68
+1993,Primary producers,102
+1999,Primary producers,143
+2005,Primary producers,189
+2011,Primary producers,214
+2017,Primary producers,230
+1951,All species,16
+1957,All species,42
+1963,All species,79
+1969,All species,144
+1975,All species,222
+1981,All species,297
+1987,All species,370
+1993,All species,472
+1999,All species,612
+2005,All species,784
+2011,All species,927
+2017,All species,1039
