@@ -12,21 +12,27 @@ The Emissions Database for Global Atmospheric Research (EDGAR) provides independ
 
   - Crippa, M., Guizzardi, D., Muntean, M., Schaaf, E., Dentener, F., van Aardenne, J. A., Monni, S., Doering, U., Olivier, J. G. J., Pagliari, V., and Janssens-Maenhout, G.: Gridded emissions of air pollutants for the period 1970–2012 within EDGAR v4.3.2, Earth Syst. Sci. Data, 10, 1987–2013, [10.5194/essd-10-1987-2018](https://doi.org/10.5194/essd-10-1987-2018), 2018.
 
+  - Users of the data are obliged to acknowledge the source of the data with a reference to the EDGARv5.0 air pollutant website (https://edgar.jrc.ec.europa.eu/overview.php?v=50_AP) to Crippa et al. (2019) and to the DOI (https://data.europa.eu/doi/10.2904/JRC_DATASET_EDGAR).
+
 ## Files
 * `v50_PM2.5_1970_2015.xls`: original data source for PM2.5 emissions.
 * `v50_PM10_1970_2015.xls`: original data source for PM10 emissions. 
 * `v50_NMVOC_1970_2015.xls`: original data source for Non-methane volatile organic compound (NMVOC) emissions. 
 * `v50_BC_1970_2015.xls`: original data source for black carbon emissions. 
 * `v50_SO2_1970_2015.xls`: original data source for SO<sub>2</sub> emissions.
+* `v50_NOx_1970_2015.xls`: original data source for NO<sub>x</sub> emissions.
 
 * `PM2.5_emissions_processed.csv`: Processed national data for PM2.5 emissions.
 * `PM10_emissions_processed.csv`: Processed national data for PM10 emissions. 
 * `NMVOC_emissions_processed.csv`: Processed national data for Non-methane volatile organic compound (NMVOC) emissions. 
-* `BC_emissions_processed.csv`: Processed national data for black carbon emissions. 
+* `BC_emissions_processed.csv`: Processed national data for black carbon emissions.
 * `SO2_emissions_processed.csv`: Processed national data for SO<sub>2</sub> emissions.
+* `NOx_emissions_processed.csv`: Processed national data for NO<sub>x</sub> emissions.
 
 ## Notes
 
 EDGARv5.0 provides emissions not only for the greenhouse gases per sector and country but also for the air pollutants: - Ozone precursor gases: Carbon Monoxide (CO), Nitrogen Oxides (NOx), Non-Methane Volatile Organic Compounds (NMVOC) and Methane (CH<sub>4</sub>). - Acidifying gases: Ammonia (NH3), Nitrogen oxides (NO<sub>x</sub>) and Sulfur Dioxide (SO<sub>2</sub>). - Primary particulates: Fine Particulate Matter (PM10 and PM2.5 and Carbonaceous speciation (BC, OC).
 
 Emissions from large scale biomass burning with Savannah burning, forest fires, and sources and sinks from land-use, land-use change and forestry (LULUCF) are excluded.
+
+Uncertainties are not provided for the latest iteration of EDGAR (v5.0), but they are reported for EDGAR v4.3.2 in Tables S4 of Crippa et al. (2018) at the national level. Since information about the error correlation is not given for different regions, we assume the average error to be that of non-Annex I national entities. This is likely an upper bound of the uncertainty. Uncertainties reported are the for assumed lognormal distributions.

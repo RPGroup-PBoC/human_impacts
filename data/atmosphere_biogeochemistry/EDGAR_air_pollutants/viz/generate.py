@@ -5,7 +5,8 @@ import altair as alt
 import anthro.io
 
 # Generate plots for air pollutant emissions from EDGARv5.0 data
-sources = ['PM2.5', 'PM10', 'NMVOC', 'BC', 'SO2']
+sources = ['PM2.5', 'PM10', 'NMVOC', 'BC', 'SO2', 'NOx']
+# Read uncertainties from Crippa et al. (2018)
 unc_data = pd.read_csv('../processed/uncertainty_emissions_crippa2018.csv')
 
 for source_ in sources:
@@ -14,13 +15,13 @@ for source_ in sources:
     agg_data = pd.DataFrame()
     agg_data['year'] = (data[data['World Region']=='World'])['year']
     agg_data['emissions'] = (data[data['World Region']=='World'])['Emissions (Gg)']
-    #Construct uncertainty from fractional uncertainty based on Crippa et al (2018), EDGARv4.3.2
-    agg_data['std'] = ((unc_data[unc_data['Pollutant'].str.contains(source_)])['Fractional uncertainty, 1 std']
-            ).to_numpy()*agg_data['emissions']
-    agg_data['lower bound'] = agg_data['emissions'] - agg_data['std']
-    # Minimum of zero emissions
-    agg_data.loc[agg_data['lower bound']<0,'lower bound'] = 0
-    agg_data['upper bound'] = agg_data['emissions'] + agg_data['std']
+    # Construct uncertainty from fractional uncertainty based on Crippa et al (2018), EDGARv4.3.2
+    # Since the emissions distribution is lognormal, the uncertainty bands are
+    # given by [base/(1+sigma), base*(1+sigma)].
+    agg_data['relative std'] = ((unc_data[unc_data['Pollutant'].str.contains(source_)])['Fractional uncertainty, 1 std']
+            ).to_numpy()
+    agg_data['lower bound'] = np.divide( agg_data['emissions'], 1 + agg_data['relative std'] )
+    agg_data['upper bound'] = np.multiply( agg_data['emissions'], 1 + agg_data['relative std'] )
 
     chart = alt.Chart(agg_data).encode(
                 x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
