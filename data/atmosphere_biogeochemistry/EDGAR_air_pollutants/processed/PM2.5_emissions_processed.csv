@@ -223,7 +223,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1970,0.002275947
 Non-Annex_I,Oceania,WSM,Samoa,1970,0.21823171600000002
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1970,834.0861143999999
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1970,10.80316074
-N/A,World,N/A,World,1970,21710.186406392
+N/A,World,N/A,World,1970,21710.2
 Annex_I,Canada,CAN,Canada,1971,246.245527
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1971,0.008937628000000001
 Annex_I,USA,USA,United States,1971,1846.969691
@@ -448,7 +448,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1971,0.002279927
 Non-Annex_I,Oceania,WSM,Samoa,1971,0.21839988800000001
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1971,834.0861143999999
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1971,10.80316074
-N/A,World,N/A,World,1971,21190.067992136
+N/A,World,N/A,World,1971,21190.1
 Annex_I,Canada,CAN,Canada,1972,247.07869080000003
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1972,0.008356265
 Annex_I,USA,USA,United States,1972,1898.309286
@@ -673,7 +673,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1972,0.00228002
 Non-Annex_I,Oceania,WSM,Samoa,1972,0.232464985
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1972,874.4237439
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1972,11.4376582
-N/A,World,N/A,World,1972,21456.587325551
+N/A,World,N/A,World,1972,21456.6
 Annex_I,Canada,CAN,Canada,1973,255.23797709999997
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1973,0.008803532
 Annex_I,USA,USA,United States,1973,1972.524134
@@ -898,7 +898,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1973,0.0022800629999999997
 Non-Annex_I,Oceania,WSM,Samoa,1973,0.24894029
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1973,924.171831
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1973,11.947608
-N/A,World,N/A,World,1973,22012.720802073
+N/A,World,N/A,World,1973,22012.7
 Annex_I,Canada,CAN,Canada,1974,250.6091423
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1974,0.008729968000000001
 Annex_I,USA,USA,United States,1974,1940.070187
@@ -1123,7 +1123,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1974,0.002280069
 Non-Annex_I,Oceania,WSM,Samoa,1974,0.272316634
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1974,862.7803964999999
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1974,11.47100076
-N/A,World,N/A,World,1974,22231.61632636
+N/A,World,N/A,World,1974,22231.6
 Annex_I,Canada,CAN,Canada,1975,224.2283174
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1975,0.008802599
 Annex_I,USA,USA,United States,1975,1905.853325
@@ -1348,7 +1348,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1975,0.0022802020000000003
 Non-Annex_I,Oceania,WSM,Samoa,1975,0.264895471
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1975,804.5599804
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1975,11.09737345
-N/A,World,N/A,World,1975,22718.465375685002
+N/A,World,N/A,World,1975,22718.5
 Annex_I,Canada,CAN,Canada,1976,235.35678470000002
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1976,0.008679709
 Annex_I,USA,USA,United States,1976,1949.947984
@@ -1573,7 +1573,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1976,0.002281642
 Non-Annex_I,Oceania,WSM,Samoa,1976,0.25111193
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1976,830.3597984
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1976,11.12563248
-N/A,World,N/A,World,1976,23163.569253096
+N/A,World,N/A,World,1976,23163.6
 Annex_I,Canada,CAN,Canada,1977,240.06390130000003
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1977,0.008533197
 Annex_I,USA,USA,United States,1977,2041.877882
@@ -1798,7 +1798,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1977,0.002285391
 Non-Annex_I,Oceania,WSM,Samoa,1977,0.244359042
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1977,829.8940727
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1977,12.13089715
-N/A,World,N/A,World,1977,23854.054415348997
+N/A,World,N/A,World,1977,23854.1
 Annex_I,Canada,CAN,Canada,1978,250.3636296
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1978,0.009198778000000001
 Annex_I,USA,USA,United States,1978,2034.33751
@@ -2023,7 +2023,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1978,0.002350462
 Non-Annex_I,Oceania,WSM,Samoa,1978,0.23605233399999997
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1978,836.4789802
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1978,12.57453198
-N/A,World,N/A,World,1978,24581.631214743
+N/A,World,N/A,World,1978,24581.6
 Annex_I,Canada,CAN,Canada,1979,256.770196
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1979,0.008782377
 Annex_I,USA,USA,United States,1979,2112.942156
@@ -2248,7 +2248,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1979,0.00236896
 Non-Annex_I,Oceania,WSM,Samoa,1979,0.230085994
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1979,862.4157339
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1979,13.00580269
-N/A,World,N/A,World,1979,25116.950402226
+N/A,World,N/A,World,1979,25117.0
 Annex_I,Canada,CAN,Canada,1980,272.3661722
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1980,0.009381261
 Annex_I,USA,USA,United States,1980,2048.894937
@@ -2473,7 +2473,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1980,0.002420508
 Non-Annex_I,Oceania,WSM,Samoa,1980,0.22193185899999998
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1980,843.3311053
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1980,12.90078131
-N/A,World,N/A,World,1980,25275.07614819
+N/A,World,N/A,World,1980,25275.1
 Annex_I,Canada,CAN,Canada,1981,268.4368647
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1981,0.009404382
 Annex_I,USA,USA,United States,1981,2144.432691
@@ -2698,7 +2698,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1981,0.002425516
 Non-Annex_I,Oceania,WSM,Samoa,1981,0.21664171
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1981,784.8102071000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1981,12.88732106
-N/A,World,N/A,World,1981,25497.388883816
+N/A,World,N/A,World,1981,25497.4
 Annex_I,Canada,CAN,Canada,1982,255.6128556
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1982,0.009099849
 Annex_I,USA,USA,United States,1982,2042.9108760000001
@@ -2923,7 +2923,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1982,0.002430455
 Non-Annex_I,Oceania,WSM,Samoa,1982,0.226869757
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1982,707.6330138999999
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1982,13.32572198
-N/A,World,N/A,World,1982,25601.121652677
+N/A,World,N/A,World,1982,25601.1
 Annex_I,Canada,CAN,Canada,1983,264.9246637
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1983,0.009228597
 Annex_I,USA,USA,United States,1983,2061.036697
@@ -3148,7 +3148,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1983,0.00245211
 Non-Annex_I,Oceania,WSM,Samoa,1983,0.218076231
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1983,661.8452179999999
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1983,13.4542104
-N/A,World,N/A,World,1983,26053.31124164
+N/A,World,N/A,World,1983,26053.3
 Annex_I,Canada,CAN,Canada,1984,270.6931227
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1984,0.009176202
 Annex_I,USA,USA,United States,1984,2216.177097
@@ -3373,7 +3373,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1984,0.002493735
 Non-Annex_I,Oceania,WSM,Samoa,1984,0.210715173
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1984,670.8112991
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1984,13.94280947
-N/A,World,N/A,World,1984,26957.508182251
+N/A,World,N/A,World,1984,26957.5
 Annex_I,Canada,CAN,Canada,1985,275.821876
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1985,0.009517096999999999
 Annex_I,USA,USA,United States,1985,2244.8535309999997
@@ -3598,7 +3598,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1985,0.00253369
 Non-Annex_I,Oceania,WSM,Samoa,1985,0.218843877
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1985,724.5926422
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1985,14.35343116
-N/A,World,N/A,World,1985,27512.479953736998
+N/A,World,N/A,World,1985,27512.5
 Annex_I,Canada,CAN,Canada,1986,280.1378779
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1986,0.009661157
 Annex_I,USA,USA,United States,1986,1278.181649
@@ -3823,7 +3823,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1986,0.002570318
 Non-Annex_I,Oceania,WSM,Samoa,1986,0.20888342899999998
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1986,769.9330505
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1986,15.75749672
-N/A,World,N/A,World,1986,26954.526924160004
+N/A,World,N/A,World,1986,26954.5
 Annex_I,Canada,CAN,Canada,1987,286.4095035
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1987,0.014952466000000001
 Annex_I,USA,USA,United States,1987,1279.7421550000001
@@ -4048,7 +4048,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1987,0.002606941
 Non-Annex_I,Oceania,WSM,Samoa,1987,0.20427085600000003
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1987,761.7050471
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1987,16.64449218
-N/A,World,N/A,World,1987,27516.170147365
+N/A,World,N/A,World,1987,27516.2
 Annex_I,Canada,CAN,Canada,1988,292.5026901
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1988,0.015348434
 Annex_I,USA,USA,United States,1988,1297.7719550000002
@@ -4273,7 +4273,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1988,0.00264356
 Non-Annex_I,Oceania,WSM,Samoa,1988,0.200993153
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1988,797.7444956
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1988,17.60340337
-N/A,World,N/A,World,1988,28249.261869422
+N/A,World,N/A,World,1988,28249.3
 Annex_I,Canada,CAN,Canada,1989,292.3765329
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1989,0.018368439
 Annex_I,USA,USA,United States,1989,1294.867561
@@ -4498,7 +4498,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1989,0.00264356
 Non-Annex_I,Oceania,WSM,Samoa,1989,0.18421176399999997
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1989,797.2370525
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1989,18.50968871
-N/A,World,N/A,World,1989,28644.611511498
+N/A,World,N/A,World,1989,28644.6
 Annex_I,Canada,CAN,Canada,1990,318.67265489999994
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1990,0.02134585
 Annex_I,USA,USA,United States,1990,1712.8120219999998
@@ -4723,7 +4723,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1990,0.00285809
 Non-Annex_I,Oceania,WSM,Samoa,1990,0.18603191100000002
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1990,879.6904641000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1990,16.52578793
-N/A,World,N/A,World,1990,29232.300070479003
+N/A,World,N/A,World,1990,29232.3
 Annex_I,Canada,CAN,Canada,1991,319.1851767
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1991,0.017322093
 Annex_I,USA,USA,United States,1991,1708.6505120000002
@@ -4948,7 +4948,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1991,0.002712333
 Non-Annex_I,Oceania,WSM,Samoa,1991,0.18698358699999998
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1991,913.9533612
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1991,16.05774969
-N/A,World,N/A,World,1991,29412.11633456
+N/A,World,N/A,World,1991,29412.1
 Annex_I,Canada,CAN,Canada,1992,317.7137971
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1992,0.017035033999999998
 Annex_I,USA,USA,United States,1992,1717.461468
@@ -5173,7 +5173,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1992,0.002748138
 Non-Annex_I,Oceania,WSM,Samoa,1992,0.182515858
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1992,981.4677009
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1992,16.58826404
-N/A,World,N/A,World,1992,29186.42720903
+N/A,World,N/A,World,1992,29186.4
 Annex_I,Canada,CAN,Canada,1993,307.7715202
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1993,0.014975355
 Annex_I,USA,USA,United States,1993,1551.0622939999998
@@ -5398,7 +5398,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1993,0.002782055
 Non-Annex_I,Oceania,WSM,Samoa,1993,0.186346293
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1993,951.1955134
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1993,16.90830544
-N/A,World,N/A,World,1993,29069.097227304996
+N/A,World,N/A,World,1993,29069.1
 Annex_I,Canada,CAN,Canada,1994,325.0810852
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1994,0.014630245
 Annex_I,USA,USA,United States,1994,1564.249485
@@ -5623,7 +5623,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1994,0.002780385
 Non-Annex_I,Oceania,WSM,Samoa,1994,0.176826393
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1994,981.3920979000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1994,17.8268888
-N/A,World,N/A,World,1994,29033.67340379
+N/A,World,N/A,World,1994,29033.7
 Annex_I,Canada,CAN,Canada,1995,328.6850297
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1995,0.009141155
 Annex_I,USA,USA,United States,1995,1527.1596029999998
@@ -5848,7 +5848,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1995,0.001514975
 Non-Annex_I,Oceania,WSM,Samoa,1995,0.24720387300000002
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1995,1013.446751
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1995,18.52973357
-N/A,World,N/A,World,1995,29552.199554035997
+N/A,World,N/A,World,1995,29552.2
 Annex_I,Canada,CAN,Canada,1996,322.5118693
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1996,0.009210983
 Annex_I,USA,USA,United States,1996,1549.881789
@@ -6073,7 +6073,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1996,0.001518553
 Non-Annex_I,Oceania,WSM,Samoa,1996,0.281696562
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1996,1036.13821
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1996,19.27108982
-N/A,World,N/A,World,1996,29505.436234373003
+N/A,World,N/A,World,1996,29505.4
 Annex_I,Canada,CAN,Canada,1997,320.42571760000004
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1997,0.008252023
 Annex_I,USA,USA,United States,1997,1533.149026
@@ -6298,7 +6298,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1997,0.0015172439999999998
 Non-Annex_I,Oceania,WSM,Samoa,1997,0.280015818
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1997,1060.920918
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1997,20.2978944
-N/A,World,N/A,World,1997,29488.200061872994
+N/A,World,N/A,World,1997,29488.2
 Annex_I,Canada,CAN,Canada,1998,331.630857
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1998,0.009734421
 Annex_I,USA,USA,United States,1998,1535.616065
@@ -6523,7 +6523,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1998,0.001520824
 Non-Annex_I,Oceania,WSM,Samoa,1998,0.28015798199999997
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1998,1093.057183
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1998,21.009454
-N/A,World,N/A,World,1998,29413.758914305
+N/A,World,N/A,World,1998,29413.8
 Annex_I,Canada,CAN,Canada,1999,337.9667672
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,1999,0.009875739
 Annex_I,USA,USA,United States,1999,1624.776163
@@ -6748,7 +6748,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,1999,0.001523789
 Non-Annex_I,Oceania,WSM,Samoa,1999,0.2796832
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,1999,1149.116754
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,1999,21.86772294
-N/A,World,N/A,World,1999,29220.342790487004
+N/A,World,N/A,World,1999,29220.3
 Annex_I,Canada,CAN,Canada,2000,283.2935129
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2000,0.010850916
 Annex_I,USA,USA,United States,2000,1650.9618070000001
@@ -6973,7 +6973,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2000,0.001527396
 Non-Annex_I,Oceania,WSM,Samoa,2000,0.293515718
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2000,1178.1954130000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2000,22.70842178
-N/A,World,N/A,World,2000,29290.287358651996
+N/A,World,N/A,World,2000,29290.3
 Annex_I,Canada,CAN,Canada,2001,264.1698811
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2001,0.010669932
 Annex_I,USA,USA,United States,2001,1547.034971
@@ -7198,7 +7198,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2001,0.001526054
 Non-Annex_I,Oceania,WSM,Samoa,2001,0.293953429
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2001,1120.572457
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2001,22.21019665
-N/A,World,N/A,World,2001,28938.230858042996
+N/A,World,N/A,World,2001,28938.2
 Annex_I,Canada,CAN,Canada,2002,269.0029626
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2002,0.010606735
 Annex_I,USA,USA,United States,2002,1455.7241119999999
@@ -7423,7 +7423,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2002,0.001529669
 Non-Annex_I,Oceania,WSM,Samoa,2002,0.294279554
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2002,1162.3717060000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2002,23.5425427
-N/A,World,N/A,World,2002,29111.479771120998
+N/A,World,N/A,World,2002,29111.5
 Annex_I,Canada,CAN,Canada,2003,268.4237165
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2003,0.010276442
 Annex_I,USA,USA,United States,2003,1545.905772
@@ -7648,7 +7648,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2003,0.001538509
 Non-Annex_I,Oceania,WSM,Samoa,2003,0.294440811
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2003,1186.2360130000002
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2003,23.48104684
-N/A,World,N/A,World,2003,30182.924546397
+N/A,World,N/A,World,2003,30182.9
 Annex_I,Canada,CAN,Canada,2004,281.41430360000004
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2004,0.011022111000000001
 Annex_I,USA,USA,United States,2004,1581.502348
@@ -7873,7 +7873,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2004,0.001536617
 Non-Annex_I,Oceania,WSM,Samoa,2004,0.299008066
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2004,1302.088041
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2004,25.34339512
-N/A,World,N/A,World,2004,31322.311917531002
+N/A,World,N/A,World,2004,31322.3
 Annex_I,Canada,CAN,Canada,2005,277.092075
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2005,0.00956803
 Annex_I,USA,USA,United States,2005,1612.18593
@@ -8098,7 +8098,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2005,0.0015353220000000002
 Non-Annex_I,Oceania,WSM,Samoa,2005,0.29889192600000003
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2005,1350.354955
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2005,26.98039294
-N/A,World,N/A,World,2005,32357.257892517002
+N/A,World,N/A,World,2005,32357.3
 Annex_I,Canada,CAN,Canada,2006,266.035145
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2006,0.009532740999999999
 Annex_I,USA,USA,United States,2006,1585.884118
@@ -8323,7 +8323,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2006,0.001556163
 Non-Annex_I,Oceania,WSM,Samoa,2006,0.29497405600000004
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2006,1436.8982330000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2006,27.93599755
-N/A,World,N/A,World,2006,33289.803758602
+N/A,World,N/A,World,2006,33289.8
 Annex_I,Canada,CAN,Canada,2007,265.6226139
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2007,0.009469337
 Annex_I,USA,USA,United States,2007,1585.892568
@@ -8548,7 +8548,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2007,0.001587824
 Non-Annex_I,Oceania,WSM,Samoa,2007,0.277118625
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2007,1521.7560349999999
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2007,28.76811242
-N/A,World,N/A,World,2007,34400.898878679
+N/A,World,N/A,World,2007,34400.9
 Annex_I,Canada,CAN,Canada,2008,254.38314590000002
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2008,0.008637242
 Annex_I,USA,USA,United States,2008,1528.105466
@@ -8773,7 +8773,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2008,0.001566317
 Non-Annex_I,Oceania,WSM,Samoa,2008,0.276841305
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2008,1526.4307390000001
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2008,29.11866979
-N/A,World,N/A,World,2008,35067.380006021005
+N/A,World,N/A,World,2008,35067.4
 Annex_I,Canada,CAN,Canada,2009,236.7800878
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2009,0.009336385
 Annex_I,USA,USA,United States,2009,1402.062699
@@ -8998,7 +8998,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2009,0.001545909
 Non-Annex_I,Oceania,WSM,Samoa,2009,0.267554215
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2009,1453.371347
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2009,27.76494211
-N/A,World,N/A,World,2009,35401.880515036
+N/A,World,N/A,World,2009,35401.9
 Annex_I,Canada,CAN,Canada,2010,235.96909159999998
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2010,0.00943595
 Annex_I,USA,USA,United States,2010,1505.420551
@@ -9223,7 +9223,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2010,0.0015334539999999999
 Non-Annex_I,Oceania,WSM,Samoa,2010,0.274686201
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2010,1564.620251
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2010,29.20644103
-N/A,World,N/A,World,2010,36480.811683022
+N/A,World,N/A,World,2010,36480.8
 Annex_I,Canada,CAN,Canada,2011,232.5533933
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2011,0.009788359
 Annex_I,USA,USA,United States,2011,1481.75758
@@ -9448,7 +9448,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2011,0.001520986
 Non-Annex_I,Oceania,WSM,Samoa,2011,0.28014185399999997
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2011,1575.513994
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2011,30.20399116
-N/A,World,N/A,World,2011,37254.36016992
+N/A,World,N/A,World,2011,37254.4
 Annex_I,Canada,CAN,Canada,2012,232.50027020000002
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2012,0.012746532
 Annex_I,USA,USA,United States,2012,1499.403511
@@ -9673,7 +9673,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2012,0.001475661
 Non-Annex_I,Oceania,WSM,Samoa,2012,0.287467935
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2012,1425.896991
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2012,30.63504337
-N/A,World,N/A,World,2012,37637.383317285
+N/A,World,N/A,World,2012,37637.4
 Annex_I,Canada,CAN,Canada,2013,238.2820307
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2013,0.01174253
 Annex_I,USA,USA,United States,2013,1530.719634
@@ -9898,7 +9898,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2013,0.0015374120000000002
 Non-Annex_I,Oceania,WSM,Samoa,2013,0.281807831
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2013,1440.709007
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2013,31.28140792
-N/A,World,N/A,World,2013,38120.107911251005
+N/A,World,N/A,World,2013,38120.1
 Annex_I,Canada,CAN,Canada,2014,224.6377465
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2014,0.013724782
 Annex_I,USA,USA,United States,2014,1559.503551
@@ -10123,7 +10123,7 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2014,0.00152046
 Non-Annex_I,Oceania,WSM,Samoa,2014,0.293159587
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2014,1483.738847
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2014,32.19455827
-N/A,World,N/A,World,2014,38430.992285299995
+N/A,World,N/A,World,2014,38431.0
 Annex_I,Canada,CAN,Canada,2015,221.4247833
 Non-Annex_I,USA,SPM,Saint Pierre and Miquelon,2015,0.013651129
 Annex_I,USA,USA,United States,2015,1457.0599650000001
@@ -10348,4 +10348,4 @@ Non-Annex_I,Oceania,WLF,Wallis and Futuna,2015,0.0015172920000000002
 Non-Annex_I,Oceania,WSM,Samoa,2015,0.297331872
 Int. Shipping,Int. Shipping,SEA,Int. Shipping,2015,1556.591783
 Int. Aviation,Int. Aviation,AIR,Int. Aviation,2015,33.80308415
-N/A,World,N/A,World,2015,38222.757006887005
+N/A,World,N/A,World,2015,38222.8

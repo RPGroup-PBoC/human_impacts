@@ -18,7 +18,7 @@ for source_ in sources:
     raw_data_ = pd.read_csv('../source/v50_'+str(source_)+'_1970_2015_totals.csv', delim_whitespace=False)
     # Delete empty columns
     raw_data_ = raw_data_[raw_data_.columns[:-2]]
-    raw_data_.loc['World']= raw_data_.sum(numeric_only=True, axis=0)
+    raw_data_.loc['World']= np.round(raw_data_.sum(numeric_only=True, axis=0), 1)
     raw_data_.loc['World', 'IPCC-Annex'] = 'N/A'
     raw_data_.loc['World', 'World Region'] = 'World'
     raw_data_.loc['World', 'ISO_A3'] = 'N/A'
@@ -45,8 +45,8 @@ years_appendix = np.array([1970, 1980, 1990, 2000, 2001, 2002, 2003, 2004,
     2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012])
 unc_list_so2 = np.array([0.561, 0.547, 0.532, 0.511, 0.513, 0.514, 0.508, 0.502, 
         0.497, 0.494, 0.491, 0.487, 0.486, 0.483, 0.479, 0.477])
-unc_list_nmvoc = np.array([1.292, 1.265, 1.265, 1.275, 1.278, 1.278, 1.288, 131, 132,
-        132.6, 133.6, 133.8, 133, 133.8, 134.1, 133.9])
+unc_list_nmvoc = np.array([1.292, 1.265, 1.265, 1.275, 1.278, 1.278, 1.288, 1.31, 1.32,
+        1.326, 1.336, 1.338, 1.33, 1.338, 1.341, 1.339])
 unc_list_pm10 = np.array([1.418, 1.345, 1.262, 1.198, 1.219, 1.222, 1.200, 1.169,
         1.152, 1.135, 1.111, 1.102, 1.098, 1.081, 1.061, 1.043])
 unc_list_pm25 = np.array([1.275, 0.937, 0.675, 0.62, 0.624, 0.639, 0.637, 0.626,
