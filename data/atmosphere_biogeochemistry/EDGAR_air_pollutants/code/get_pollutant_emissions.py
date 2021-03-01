@@ -13,7 +13,7 @@
 import pandas as pd
 import numpy as np
 
-sources = ['PM2.5', 'PM10', 'NMVOC', 'BC', 'SO2']
+sources = ['PM2.5', 'PM10', 'NMVOC', 'BC', 'SO2', 'NOx']
 for source_ in sources:
     raw_data_ = pd.read_csv('../source/v50_'+str(source_)+'_1970_2015_totals.csv', delim_whitespace=False)
     # Delete empty columns
@@ -32,12 +32,14 @@ for source_ in sources:
     data_tidy.to_csv(r'../processed/'+str(source_)+'_emissions_processed.csv', index = False)
 
 #######
-# Save uncertainty data from EDGARv4.32 to csv, Table S4 from Crippa et al (2018)
-# Uncertainty corresponds to 1-sigma for countries in the non-Annex I group,
+# Save uncertainty data from EDGARv4.32 to csv, Table S4 from Crippa et al (2018).
+#
+# Uncertainty corresponds to lognormal 1-sigma for countries in the non-Annex I group,
 # which is a high bound for developed countries (conservative estimate).
-# FRACTIONAL uncertainties for 1970, 1980, 1990 and yearly from 2000 to 2012.
+# FRACTIONAL uncertainties for 1970, 1980, 1990 and yearly from 2000 to 2012 are given.
 # No data available yet for 2013-2015, so uncertainty for those years is 
-# extrapolated as equal to the uncertainty for 2012.
+# extrapolated as equal to the uncertainty for 2012. Since the distribution is lognormal,
+# the uncertainty bands are given by [base/(1+sigma), base*(1+sigma)].
 #######
 years_appendix = np.array([1970, 1980, 1990, 2000, 2001, 2002, 2003, 2004,
     2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012])
@@ -51,6 +53,8 @@ unc_list_pm25 = np.array([1.275, 0.937, 0.675, 0.62, 0.624, 0.639, 0.637, 0.626,
         0.629, 0.624, 0.603, 0.596, 0.607, 0.58, 0.567, 0.565])
 unc_list_bc = np.array([1.287, 1.212, 1.103, 1.044, 1.057, 1.067, 1.05, 1.016, 1.009,
         1, 0.978, 0.974, 0.971, 0.953, 0.937, 0.92])
+unc_list_nox = np.array([0.831, 0.775, 0.787, 0.765, 0.764, 0.752, 0.736, 0.72, 0.708,
+        0.689, 0.682, 0.673, 0.668, 0.672, 0.683, 0.694])
 
 unc_df = pd.DataFrame()
 unc_df['years'] = np.linspace(1970, 2015, 46).astype(int)
@@ -59,6 +63,7 @@ unc_df['NMVOC'] = np.round(np.interp(unc_df['years'], years_appendix, unc_list_n
 unc_df['PM10'] = np.round(np.interp(unc_df['years'], years_appendix, unc_list_pm10), 3)
 unc_df['PM2.5'] = np.round(np.interp(unc_df['years'], years_appendix, unc_list_pm25), 3)
 unc_df['BC'] = np.round(np.interp(unc_df['years'], years_appendix, unc_list_bc), 3)
+unc_df['NOx'] = np.round(np.interp(unc_df['years'], years_appendix, unc_list_nox), 3)
 
 unc_tidy = unc_df.melt(id_vars=unc_df.columns[0], 
                                     var_name="Pollutant", 
