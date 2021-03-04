@@ -1,0 +1,424 @@
+year,Reported value,Specific humidity anomaly (g/kg)
+1973,anomaly,-0.06912
+1974,anomaly,-0.23812
+1975,anomaly,-0.22192
+1976,anomaly,-0.26952
+1977,anomaly,-0.06215
+1978,anomaly,-0.14841
+1979,anomaly,-0.08629
+1980,anomaly,-0.06274
+1981,anomaly,-0.03908
+1982,anomaly,-0.16164
+1983,anomaly,-0.05629
+1984,anomaly,-0.20025
+1985,anomaly,-0.21696
+1986,anomaly,-0.19769
+1987,anomaly,-0.03917
+1988,anomaly,0.02295
+1989,anomaly,-0.11063
+1990,anomaly,0.03283
+1991,anomaly,-0.00044
+1992,anomaly,-0.11750
+1993,anomaly,-0.09731
+1994,anomaly,-0.04301
+1995,anomaly,0.05457
+1996,anomaly,-0.01255
+1997,anomaly,0.06431
+1998,anomaly,0.29898
+1999,anomaly,0.04836
+2000,anomaly,0.03948
+2001,anomaly,0.07392
+2002,anomaly,0.06549
+2003,anomaly,0.10626
+2004,anomaly,0.05678
+2005,anomaly,0.09250
+2006,anomaly,0.08649
+2007,anomaly,0.08956
+2008,anomaly,0.00233
+2009,anomaly,0.04995
+2010,anomaly,0.19371
+2011,anomaly,0.03512
+2012,anomaly,0.03242
+2013,anomaly,0.04909
+2014,anomaly,0.07247
+2015,anomaly,0.17056
+2016,anomaly,0.29126
+2017,anomaly,0.18697
+2018,anomaly,0.14670
+2019,anomaly,0.20225
+1973,low. bound within gridbox sampling uncertainty,-0.07365
+1974,low. bound within gridbox sampling uncertainty,-0.24261
+1975,low. bound within gridbox sampling uncertainty,-0.22635
+1976,low. bound within gridbox sampling uncertainty,-0.27394
+1977,low. bound within gridbox sampling uncertainty,-0.06649
+1978,low. bound within gridbox sampling uncertainty,-0.15273
+1979,low. bound within gridbox sampling uncertainty,-0.09057
+1980,low. bound within gridbox sampling uncertainty,-0.06705
+1981,low. bound within gridbox sampling uncertainty,-0.04343
+1982,low. bound within gridbox sampling uncertainty,-0.16598
+1983,low. bound within gridbox sampling uncertainty,-0.06058
+1984,low. bound within gridbox sampling uncertainty,-0.20454
+1985,low. bound within gridbox sampling uncertainty,-0.22131
+1986,low. bound within gridbox sampling uncertainty,-0.20201
+1987,low. bound within gridbox sampling uncertainty,-0.04344
+1988,low. bound within gridbox sampling uncertainty,0.01863
+1989,low. bound within gridbox sampling uncertainty,-0.11500
+1990,low. bound within gridbox sampling uncertainty,0.02842
+1991,low. bound within gridbox sampling uncertainty,-0.00497
+1992,low. bound within gridbox sampling uncertainty,-0.12197
+1993,low. bound within gridbox sampling uncertainty,-0.10173
+1994,low. bound within gridbox sampling uncertainty,-0.04748
+1995,low. bound within gridbox sampling uncertainty,0.05012
+1996,low. bound within gridbox sampling uncertainty,-0.01701
+1997,low. bound within gridbox sampling uncertainty,0.05980
+1998,low. bound within gridbox sampling uncertainty,0.29434
+1999,low. bound within gridbox sampling uncertainty,0.04374
+2000,low. bound within gridbox sampling uncertainty,0.03470
+2001,low. bound within gridbox sampling uncertainty,0.06914
+2002,low. bound within gridbox sampling uncertainty,0.06067
+2003,low. bound within gridbox sampling uncertainty,0.10133
+2004,low. bound within gridbox sampling uncertainty,0.05177
+2005,low. bound within gridbox sampling uncertainty,0.08751
+2006,low. bound within gridbox sampling uncertainty,0.08143
+2007,low. bound within gridbox sampling uncertainty,0.08446
+2008,low. bound within gridbox sampling uncertainty,-0.00266
+2009,low. bound within gridbox sampling uncertainty,0.04482
+2010,low. bound within gridbox sampling uncertainty,0.18859
+2011,low. bound within gridbox sampling uncertainty,0.02984
+2012,low. bound within gridbox sampling uncertainty,0.02717
+2013,low. bound within gridbox sampling uncertainty,0.04359
+2014,low. bound within gridbox sampling uncertainty,0.06683
+2015,low. bound within gridbox sampling uncertainty,0.16446
+2016,low. bound within gridbox sampling uncertainty,0.28564
+2017,low. bound within gridbox sampling uncertainty,0.18135
+2018,low. bound within gridbox sampling uncertainty,0.14103
+2019,low. bound within gridbox sampling uncertainty,0.19667
+1973,upp.bound within gridbox sampling uncertainty,-0.06459
+1974,upp.bound within gridbox sampling uncertainty,-0.23363
+1975,upp.bound within gridbox sampling uncertainty,-0.21749
+1976,upp.bound within gridbox sampling uncertainty,-0.26510
+1977,upp.bound within gridbox sampling uncertainty,-0.05782
+1978,upp.bound within gridbox sampling uncertainty,-0.14409
+1979,upp.bound within gridbox sampling uncertainty,-0.08201
+1980,upp.bound within gridbox sampling uncertainty,-0.05844
+1981,upp.bound within gridbox sampling uncertainty,-0.03473
+1982,upp.bound within gridbox sampling uncertainty,-0.15731
+1983,upp.bound within gridbox sampling uncertainty,-0.05199
+1984,upp.bound within gridbox sampling uncertainty,-0.19595
+1985,upp.bound within gridbox sampling uncertainty,-0.21260
+1986,upp.bound within gridbox sampling uncertainty,-0.19337
+1987,upp.bound within gridbox sampling uncertainty,-0.03490
+1988,upp.bound within gridbox sampling uncertainty,0.02727
+1989,upp.bound within gridbox sampling uncertainty,-0.10626
+1990,upp.bound within gridbox sampling uncertainty,0.03724
+1991,upp.bound within gridbox sampling uncertainty,0.00409
+1992,upp.bound within gridbox sampling uncertainty,-0.11304
+1993,upp.bound within gridbox sampling uncertainty,-0.09289
+1994,upp.bound within gridbox sampling uncertainty,-0.03854
+1995,upp.bound within gridbox sampling uncertainty,0.05902
+1996,upp.bound within gridbox sampling uncertainty,-0.00809
+1997,upp.bound within gridbox sampling uncertainty,0.06882
+1998,upp.bound within gridbox sampling uncertainty,0.30361
+1999,upp.bound within gridbox sampling uncertainty,0.05297
+2000,upp.bound within gridbox sampling uncertainty,0.04426
+2001,upp.bound within gridbox sampling uncertainty,0.07870
+2002,upp.bound within gridbox sampling uncertainty,0.07031
+2003,upp.bound within gridbox sampling uncertainty,0.11119
+2004,upp.bound within gridbox sampling uncertainty,0.06180
+2005,upp.bound within gridbox sampling uncertainty,0.09750
+2006,upp.bound within gridbox sampling uncertainty,0.09155
+2007,upp.bound within gridbox sampling uncertainty,0.09465
+2008,upp.bound within gridbox sampling uncertainty,0.00731
+2009,upp.bound within gridbox sampling uncertainty,0.05507
+2010,upp.bound within gridbox sampling uncertainty,0.19883
+2011,upp.bound within gridbox sampling uncertainty,0.04039
+2012,upp.bound within gridbox sampling uncertainty,0.03768
+2013,upp.bound within gridbox sampling uncertainty,0.05459
+2014,upp.bound within gridbox sampling uncertainty,0.07812
+2015,upp.bound within gridbox sampling uncertainty,0.17665
+2016,upp.bound within gridbox sampling uncertainty,0.29688
+2017,upp.bound within gridbox sampling uncertainty,0.19259
+2018,upp.bound within gridbox sampling uncertainty,0.15236
+2019,upp.bound within gridbox sampling uncertainty,0.20782
+1973,low. bound regional gridbox coverage uncertainty,-0.15664
+1974,low. bound regional gridbox coverage uncertainty,-0.32257
+1975,low. bound regional gridbox coverage uncertainty,-0.30388
+1976,low. bound regional gridbox coverage uncertainty,-0.35147
+1977,low. bound regional gridbox coverage uncertainty,-0.14193
+1978,low. bound regional gridbox coverage uncertainty,-0.22828
+1979,low. bound regional gridbox coverage uncertainty,-0.16610
+1980,low. bound regional gridbox coverage uncertainty,-0.14218
+1981,low. bound regional gridbox coverage uncertainty,-0.11976
+1982,low. bound regional gridbox coverage uncertainty,-0.24371
+1983,low. bound regional gridbox coverage uncertainty,-0.13712
+1984,low. bound regional gridbox coverage uncertainty,-0.27948
+1985,low. bound regional gridbox coverage uncertainty,-0.29822
+1986,low. bound regional gridbox coverage uncertainty,-0.27649
+1987,low. bound regional gridbox coverage uncertainty,-0.11580
+1988,low. bound regional gridbox coverage uncertainty,-0.05496
+1989,low. bound regional gridbox coverage uncertainty,-0.19091
+1990,low. bound regional gridbox coverage uncertainty,-0.04622
+1991,low. bound regional gridbox coverage uncertainty,-0.08355
+1992,low. bound regional gridbox coverage uncertainty,-0.19984
+1993,low. bound regional gridbox coverage uncertainty,-0.17832
+1994,low. bound regional gridbox coverage uncertainty,-0.12541
+1995,low. bound regional gridbox coverage uncertainty,-0.02942
+1996,low. bound regional gridbox coverage uncertainty,-0.09576
+1997,low. bound regional gridbox coverage uncertainty,-0.01835
+1998,low. bound regional gridbox coverage uncertainty,0.21136
+1999,low. bound regional gridbox coverage uncertainty,-0.04058
+2000,low. bound regional gridbox coverage uncertainty,-0.04830
+2001,low. bound regional gridbox coverage uncertainty,-0.01529
+2002,low. bound regional gridbox coverage uncertainty,-0.02540
+2003,low. bound regional gridbox coverage uncertainty,0.01284
+2004,low. bound regional gridbox coverage uncertainty,-0.03800
+2005,low. bound regional gridbox coverage uncertainty,0.00140
+2006,low. bound regional gridbox coverage uncertainty,-0.00552
+2007,low. bound regional gridbox coverage uncertainty,-0.00294
+2008,low. bound regional gridbox coverage uncertainty,-0.08801
+2009,low. bound regional gridbox coverage uncertainty,-0.04382
+2010,low. bound regional gridbox coverage uncertainty,0.10240
+2011,low. bound regional gridbox coverage uncertainty,-0.05789
+2012,low. bound regional gridbox coverage uncertainty,-0.06107
+2013,low. bound regional gridbox coverage uncertainty,-0.04343
+2014,low. bound regional gridbox coverage uncertainty,-0.01820
+2015,low. bound regional gridbox coverage uncertainty,0.08157
+2016,low. bound regional gridbox coverage uncertainty,0.19834
+2017,low. bound regional gridbox coverage uncertainty,0.09676
+2018,low. bound regional gridbox coverage uncertainty,0.05277
+2019,low. bound regional gridbox coverage uncertainty,0.11113
+1973,upp. bound regional gridbox coverage uncertainty,0.01840
+1974,upp. bound regional gridbox coverage uncertainty,-0.15367
+1975,upp. bound regional gridbox coverage uncertainty,-0.13996
+1976,upp. bound regional gridbox coverage uncertainty,-0.18757
+1977,upp. bound regional gridbox coverage uncertainty,0.01763
+1978,upp. bound regional gridbox coverage uncertainty,-0.06854
+1979,upp. bound regional gridbox coverage uncertainty,-0.00648
+1980,upp. bound regional gridbox coverage uncertainty,0.01669
+1981,upp. bound regional gridbox coverage uncertainty,0.04160
+1982,upp. bound regional gridbox coverage uncertainty,-0.07958
+1983,upp. bound regional gridbox coverage uncertainty,0.02455
+1984,upp. bound regional gridbox coverage uncertainty,-0.12101
+1985,upp. bound regional gridbox coverage uncertainty,-0.13569
+1986,upp. bound regional gridbox coverage uncertainty,-0.11888
+1987,upp. bound regional gridbox coverage uncertainty,0.03747
+1988,upp. bound regional gridbox coverage uncertainty,0.10086
+1989,upp. bound regional gridbox coverage uncertainty,-0.03036
+1990,upp. bound regional gridbox coverage uncertainty,0.11189
+1991,upp. bound regional gridbox coverage uncertainty,0.08267
+1992,upp. bound regional gridbox coverage uncertainty,-0.03516
+1993,upp. bound regional gridbox coverage uncertainty,-0.01630
+1994,upp. bound regional gridbox coverage uncertainty,0.03939
+1995,upp. bound regional gridbox coverage uncertainty,0.13855
+1996,upp. bound regional gridbox coverage uncertainty,0.07066
+1997,upp. bound regional gridbox coverage uncertainty,0.14697
+1998,upp. bound regional gridbox coverage uncertainty,0.38659
+1999,upp. bound regional gridbox coverage uncertainty,0.13729
+2000,upp. bound regional gridbox coverage uncertainty,0.12726
+2001,upp. bound regional gridbox coverage uncertainty,0.16313
+2002,upp. bound regional gridbox coverage uncertainty,0.15637
+2003,upp. bound regional gridbox coverage uncertainty,0.19968
+2004,upp. bound regional gridbox coverage uncertainty,0.15157
+2005,upp. bound regional gridbox coverage uncertainty,0.18360
+2006,upp. bound regional gridbox coverage uncertainty,0.17850
+2007,upp. bound regional gridbox coverage uncertainty,0.18206
+2008,upp. bound regional gridbox coverage uncertainty,0.09266
+2009,upp. bound regional gridbox coverage uncertainty,0.14371
+2010,upp. bound regional gridbox coverage uncertainty,0.28502
+2011,upp. bound regional gridbox coverage uncertainty,0.12812
+2012,upp. bound regional gridbox coverage uncertainty,0.12592
+2013,upp. bound regional gridbox coverage uncertainty,0.14161
+2014,upp. bound regional gridbox coverage uncertainty,0.16315
+2015,upp. bound regional gridbox coverage uncertainty,0.25955
+2016,upp. bound regional gridbox coverage uncertainty,0.38418
+2017,upp. bound regional gridbox coverage uncertainty,0.27718
+2018,upp. bound regional gridbox coverage uncertainty,0.24062
+2019,upp. bound regional gridbox coverage uncertainty,0.29336
+1973,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.09933
+1974,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.26730
+1975,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.24962
+1976,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.29587
+1977,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.08874
+1978,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.17606
+1979,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.11261
+1980,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.09227
+1981,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.06762
+1982,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.18629
+1983,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.08080
+1984,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.22441
+1985,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.23784
+1986,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.21782
+1987,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.05963
+1988,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.00301
+1989,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.13086
+1990,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.01416
+1991,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.01791
+1992,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.13432
+1993,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.11393
+1994,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.05878
+1995,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.03900
+1996,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.02910
+1997,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.04612
+1998,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.28153
+1999,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.03148
+2000,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.02237
+2001,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.05540
+2002,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.04689
+2003,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.08867
+2004,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.04003
+2005,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.07409
+2006,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.06861
+2007,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.07130
+2008,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.01738
+2009,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.03243
+2010,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.17651
+2011,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.01812
+2012,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.01543
+2013,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.03216
+2014,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.05587
+2015,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.13429
+2016,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.25677
+2017,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.15255
+2018,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.11268
+2019,"low. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.16777
+1973,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.03891
+1974,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.20893
+1975,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.19422
+1976,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.24317
+1977,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.03556
+1978,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.12076
+1979,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.05997
+1980,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.03322
+1981,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.01053
+1982,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.13699
+1983,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.03177
+1984,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.17608
+1985,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.19608
+1986,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.17756
+1987,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.01871
+1988,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.04290
+1989,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.09040
+1990,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.05150
+1991,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.01703
+1992,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.10069
+1993,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.08068
+1994,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",-0.02724
+1995,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.07014
+1996,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.00400
+1997,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.08250
+1998,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.31642
+1999,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.06523
+2000,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.05658
+2001,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.09244
+2002,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.08408
+2003,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.12385
+2004,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.07353
+2005,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.11091
+2006,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.10437
+2007,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.10781
+2008,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.02204
+2009,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.06746
+2010,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.21091
+2011,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.05212
+2012,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.04942
+2013,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.06602
+2014,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.08908
+2015,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.20682
+2016,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.32576
+2017,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.22139
+2018,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.18071
+2019,"upp. bound station uncertainty (climatology, measurement and homogeneity adjustment)",0.23672
+1973,low. bound combined uncertainty,-0.16182
+1974,low. bound combined uncertainty,-0.32758
+1975,low. bound combined uncertainty,-0.30854
+1976,low. bound combined uncertainty,-0.35572
+1977,low. bound combined uncertainty,-0.14636
+1978,low. bound combined uncertainty,-0.23304
+1979,low. bound combined uncertainty,-0.17043
+1980,low. bound combined uncertainty,-0.14760
+1981,low. bound combined uncertainty,-0.12477
+1982,low. bound combined uncertainty,-0.24744
+1983,low. bound combined uncertainty,-0.14087
+1984,low. bound combined uncertainty,-0.28320
+1985,low. bound combined uncertainty,-0.30098
+1986,low. bound combined uncertainty,-0.27914
+1987,low. bound combined uncertainty,-0.11860
+1988,low. bound combined uncertainty,-0.05759
+1989,low. bound combined uncertainty,-0.19353
+1990,low. bound combined uncertainty,-0.04852
+1991,low. bound combined uncertainty,-0.08549
+1992,low. bound combined uncertainty,-0.20166
+1993,low. bound combined uncertainty,-0.18012
+1994,low. bound combined uncertainty,-0.12703
+1995,low. bound combined uncertainty,-0.03097
+1996,low. bound combined uncertainty,-0.09750
+1997,low. bound combined uncertainty,-0.02045
+1998,low. bound combined uncertainty,0.20952
+1999,low. bound combined uncertainty,-0.04228
+2000,low. bound combined uncertainty,-0.05008
+2001,low. bound combined uncertainty,-0.01732
+2002,low. bound combined uncertainty,-0.02740
+2003,low. bound combined uncertainty,0.01107
+2004,low. bound combined uncertainty,-0.03960
+2005,low. bound combined uncertainty,-0.00057
+2006,low. bound combined uncertainty,-0.00738
+2007,low. bound combined uncertainty,-0.00487
+2008,low. bound combined uncertainty,-0.09027
+2009,low. bound combined uncertainty,-0.04558
+2010,low. bound combined uncertainty,0.10065
+2011,low. bound combined uncertainty,-0.05958
+2012,low. bound combined uncertainty,-0.06275
+2013,low. bound combined uncertainty,-0.04513
+2014,low. bound combined uncertainty,-0.01988
+2015,low. bound combined uncertainty,0.07427
+2016,low. bound combined uncertainty,0.19199
+2017,low. bound combined uncertainty,0.09025
+2018,low. bound combined uncertainty,0.04664
+2019,low. bound combined uncertainty,0.10467
+1973,upp. bound combined uncertainty,0.02358
+1974,upp. bound combined uncertainty,-0.14866
+1975,upp. bound combined uncertainty,-0.13529
+1976,upp. bound combined uncertainty,-0.18332
+1977,upp. bound combined uncertainty,0.02205
+1978,upp. bound combined uncertainty,-0.06378
+1979,upp. bound combined uncertainty,-0.00215
+1980,upp. bound combined uncertainty,0.02211
+1981,upp. bound combined uncertainty,0.04661
+1982,upp. bound combined uncertainty,-0.07585
+1983,upp. bound combined uncertainty,0.02829
+1984,upp. bound combined uncertainty,-0.11730
+1985,upp. bound combined uncertainty,-0.13294
+1986,upp. bound combined uncertainty,-0.11624
+1987,upp. bound combined uncertainty,0.04027
+1988,upp. bound combined uncertainty,0.10349
+1989,upp. bound combined uncertainty,-0.02773
+1990,upp. bound combined uncertainty,0.11418
+1991,upp. bound combined uncertainty,0.08461
+1992,upp. bound combined uncertainty,-0.03335
+1993,upp. bound combined uncertainty,-0.01449
+1994,upp. bound combined uncertainty,0.04100
+1995,upp. bound combined uncertainty,0.14010
+1996,upp. bound combined uncertainty,0.07241
+1997,upp. bound combined uncertainty,0.14907
+1998,upp. bound combined uncertainty,0.38843
+1999,upp. bound combined uncertainty,0.13899
+2000,upp. bound combined uncertainty,0.12903
+2001,upp. bound combined uncertainty,0.16516
+2002,upp. bound combined uncertainty,0.15838
+2003,upp. bound combined uncertainty,0.20145
+2004,upp. bound combined uncertainty,0.15316
+2005,upp. bound combined uncertainty,0.18557
+2006,upp. bound combined uncertainty,0.18036
+2007,upp. bound combined uncertainty,0.18398
+2008,upp. bound combined uncertainty,0.09492
+2009,upp. bound combined uncertainty,0.14547
+2010,upp. bound combined uncertainty,0.28677
+2011,upp. bound combined uncertainty,0.12981
+2012,upp. bound combined uncertainty,0.12760
+2013,upp. bound combined uncertainty,0.14330
+2014,upp. bound combined uncertainty,0.16483
+2015,upp. bound combined uncertainty,0.26685
+2016,upp. bound combined uncertainty,0.39053
+2017,upp. bound combined uncertainty,0.28369
+2018,upp. bound combined uncertainty,0.24675
+2019,upp. bound combined uncertainty,0.29982
