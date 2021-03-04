@@ -37,4 +37,4 @@ data_tidy = proc_data_clean.melt(id_vars=proc_data_clean.columns[0],
                                 var_name="Reported value",
                                 value_name="Specific humidity anomaly (g/kg)")
 
-data_tidy.to_csv(r'../processed/HadISDH_specific_humidity_trend.csv', index = False)
+data_tidy.to_csv(r'../processed/HadISDH_specific_humidity_1973-2019.csv', index = False)

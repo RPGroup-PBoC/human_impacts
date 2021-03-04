@@ -5,7 +5,7 @@ import altair as alt
 import anthro.io
 
 # Load the HadISDH specific humidity data
-data = pd.read_csv('../processed/HadISDH_specific_humidity_trend.csv')
+data = pd.read_csv('../processed/HadISDH_specific_humidity_1973-2019.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data[data['Reported value']=='anomaly']['year'], format='%Y')
 proc_data['global mean'] = data[data['Reported value']=='anomaly']['Specific humidity anomaly (g/kg)']

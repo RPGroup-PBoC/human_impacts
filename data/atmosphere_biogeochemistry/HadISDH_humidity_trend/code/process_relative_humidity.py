@@ -35,6 +35,6 @@ proc_data_clean['year'] = pd.to_numeric(proc_data_clean['year']).astype(int)
 
 data_tidy = proc_data_clean.melt(id_vars=proc_data_clean.columns[0],
                                 var_name="Reported value",
-                                value_name="Relative humidity anomaly (%)")
+                                value_name="Relative humidity anomaly (%rh)")
 
-data_tidy.to_csv(r'../processed/HadISDH_relative_humidity_trend.csv', index = False)
+data_tidy.to_csv(r'../processed/HadISDH_relative_humidity_1973-2019.csv', index = False)
