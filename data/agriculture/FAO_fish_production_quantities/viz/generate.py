@@ -55,3 +55,29 @@ p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(l, p)
 layer.save(f'overfished_fish_stocks.json')
 # %%
+
+# Load the FishStatJ data for total produced fish mass by species
+data = pd.read_csv('../processed/FAO_FishStatJ_total_mass_species.csv')
+data['year'] = pd.to_datetime(data['year'], format='%Y')
+# Select major capture species to plot
+main_species = ["Anchoveta(=Peruvian anchovy)", "Alaska pollock(=Walleye poll.)", "Skipjack tuna", 
+            "Gazami crab", "Akiami paste shrimp", "Antarctic krill", "Jumbo flying squid",
+            "Atlantic herring"]
+capture_data = data[data['source'] == 'captured']
+capture_data["produced mass (Mt)"] = capture_data["produced mass (tonnes)"] / 1e6
+i = 0
+for specie, d in capture_data.groupby(['species']):
+  if specie in main_species:
+    chart = alt.Chart(d).encode(
+              x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+              y=alt.Y(field='produced mass (Mt)', type='quantitative', title='Captured mass [Mt]'),
+              tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                       alt.Tooltip(field='produced mass (Mt)', type='nominal', title='Captured mass [Mt]')]
+    ).properties(width="container", height=300)
+    l = chart.mark_line(color='dodgerblue')
+    p = chart.mark_point(color='dodgerblue', filled=True)
+    i += 1
+    layer = alt.layer(l, p)
+    specie_name = specie.replace(" ", "_")
+    layer.save(f'{specie_name}_captured_mass.json')
+# %%
