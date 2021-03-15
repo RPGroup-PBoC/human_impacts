@@ -18,7 +18,7 @@ proc_data['upper bound'] = proc_data['Greenland mass (Gt)']+data['Greenland Mass
 # Generate a plot for ice sheet mass change
 chart = alt.Chart(proc_data).encode(
             x=alt.X(field='yyyy-mm-dd', type='temporal', timeUnit='yearmonthdate', title='year', axis = alt.Axis(format='%Y')),
-            y=alt.Y(field='Greenland mass (Gt)', type='quantitative', title='Greenland mass [Gt]', scale=alt.Scale(domain=[-6000, 0])),
+            y=alt.Y(field='Greenland mass (Gt)', type='quantitative', title='Greenland mass [Gt]', scale=alt.Scale(domain=[-6000, 1000])),
             tooltip=[alt.Tooltip(field='yyyy-mm-dd', type='temporal', title='date', format='%Y-%b-%d'),
                      alt.Tooltip(field='Greenland mass (Gt)', type='quantitative', title='mass change (Gt)')]
             ).properties(width='container', height=300)
