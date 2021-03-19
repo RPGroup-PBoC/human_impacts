@@ -30,7 +30,7 @@ chart = alt.Chart(perc_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y(field='cultured percentage', type='quantitative', title='Fraction of fish harvest from aquaculture [%]'),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field='cultured percentage', type='nominal', title='Fish harvest from aquaculture [Mt]')]
+                     alt.Tooltip(field='cultured percentage', type='nominal', title='Harvest from aquaculture [%]')]
 ).properties(width="container", height=300)
 l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
@@ -66,7 +66,7 @@ main_species = ["Anchoveta(=Peruvian anchovy)", "Alaska pollock(=Walleye poll.)"
             "Atlantic herring"]
 capture_data = data[data['source'] == 'captured']
 capture_data["produced mass (Mt)"] = capture_data["produced mass (tonnes)"] / 1e6
-i = 0
+
 for specie, d in capture_data.groupby(['species']):
   if specie in main_species:
     chart = alt.Chart(d).encode(
@@ -77,7 +77,6 @@ for specie, d in capture_data.groupby(['species']):
     ).properties(width="container", height=300)
     l = chart.mark_line(color='dodgerblue')
     p = chart.mark_point(color='dodgerblue', filled=True)
-    i += 1
     layer = alt.layer(l, p)
     specie_name = specie.replace(" ", "_")
     layer.save(f'{specie_name}_captured_mass.json')
@@ -87,7 +86,7 @@ main_species = ["Nile tilapia", "Grass carp(=White amur)", "Silver carp", "Atlan
                 "Whiteleg shrimp", "Japanese carpet shell"]
 culture_data = data[data['source'] == 'cultured']
 culture_data["produced mass (Mt)"] = culture_data["produced mass (tonnes)"] / 1e6
-i = 0
+
 for specie, d in culture_data.groupby(['species']):
   if specie in main_species:
     chart = alt.Chart(d).encode(
@@ -98,8 +97,25 @@ for specie, d in culture_data.groupby(['species']):
     ).properties(width="container", height=300)
     l = chart.mark_line(color='dodgerblue')
     p = chart.mark_point(color='dodgerblue', filled=True)
-    i += 1
     layer = alt.layer(l, p)
     specie_name = specie.replace(" ", "_")
     layer.save(f'{specie_name}_cultured_mass.json')
 # %%
+
+# Percentage of Atlantic salmon harvest coming from aquaculture
+num_data = culture_data[culture_data['species'] == "Atlantic salmon"]
+den_data = capture_data[capture_data['species'] == "Atlantic salmon"]
+num_data['cultured percentage'] = 100*num_data[['produced mass (Mt)']].div(
+    den_data['produced mass (Mt)'].to_numpy()[14:] +
+    num_data['produced mass (Mt)'].to_numpy(), axis=0).copy()
+chart = alt.Chart(num_data).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y(field='cultured percentage', type='quantitative', title='Atlantic salmon harvest from aquaculture [%]'),
+            tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                     alt.Tooltip(field='cultured percentage', type='nominal', title='Harvest from aquaculture [%]')]
+).properties(width="container", height=300)
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
+
+layer = alt.layer(l, p)
+layer.save(f'aquaculture_atlantic_salmon_percentage.json')
