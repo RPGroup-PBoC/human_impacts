@@ -1,0 +1,31 @@
+Parameter,Units,Measure type,Product,Value
+Caloric conversion efficiency,%,mean,Beef,2.9
+Caloric conversion efficiency,%,mean,Dairy,17
+Caloric conversion efficiency,%,mean,Eggs,17
+Caloric conversion efficiency,%,mean,Pork,9
+Caloric conversion efficiency,%,mean,Poultry,13
+Caloric conversion efficiency,%,std,Beef,0.7
+Caloric conversion efficiency,%,std,Dairy,4
+Caloric conversion efficiency,%,std,Eggs,9
+Caloric conversion efficiency,%,std,Pork,4
+Caloric conversion efficiency,%,std,Poultry,4
+Feed intake per edible weight,kg/kg EW,mean,Beef,36
+Feed intake per edible weight,kg/kg EW,mean,Dairy,
+Feed intake per edible weight,kg/kg EW,mean,Eggs,
+Feed intake per edible weight,kg/kg EW,mean,Pork,6
+Feed intake per edible weight,kg/kg EW,mean,Poultry,4.2
+Feed intake per edible weight,kg/kg EW,std,Beef,13
+Feed intake per edible weight,kg/kg EW,std,Dairy,
+Feed intake per edible weight,kg/kg EW,std,Eggs,
+Feed intake per edible weight,kg/kg EW,std,Pork,2.5
+Feed intake per edible weight,kg/kg EW,std,Poultry,0.8
+Protein conversion efficiency,%,mean,Beef,2.5
+Protein conversion efficiency,%,mean,Dairy,14
+Protein conversion efficiency,%,mean,Eggs,31
+Protein conversion efficiency,%,mean,Pork,9
+Protein conversion efficiency,%,mean,Poultry,21
+Protein conversion efficiency,%,std,Beef,0.6
+Protein conversion efficiency,%,std,Dairy,4
+Protein conversion efficiency,%,std,Eggs,16
+Protein conversion efficiency,%,std,Pork,4.5
+Protein conversion efficiency,%,std,Poultry,7
