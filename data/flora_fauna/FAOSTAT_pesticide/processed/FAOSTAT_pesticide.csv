@@ -1,0 +1,146 @@
+,item,year,tonnes
+0,Pesticides (total),1990,2299979
+1,Pesticides (total),1991,2276625
+2,Pesticides (total),1992,2338351
+3,Pesticides (total),1993,2401835
+4,Pesticides (total),1994,2563986
+5,Pesticides (total),1995,2708908
+6,Pesticides (total),1996,2815341
+7,Pesticides (total),1997,2939158
+8,Pesticides (total),1998,2998154
+9,Pesticides (total),1999,3114330
+10,Pesticides (total),2000,3089827
+11,Pesticides (total),2001,3058275
+12,Pesticides (total),2002,3096007
+13,Pesticides (total),2003,3193092
+14,Pesticides (total),2004,3376067
+15,Pesticides (total),2005,3449778
+16,Pesticides (total),2006,3498719
+17,Pesticides (total),2007,3788295
+18,Pesticides (total),2008,3835826
+19,Pesticides (total),2009,3753717
+20,Pesticides (total),2010,4010862
+21,Pesticides (total),2011,4100877
+22,Pesticides (total),2012,4143104
+23,Pesticides (total),2013,4097069
+24,Pesticides (total),2014,4160211
+25,Pesticides (total),2015,4113513
+26,Pesticides (total),2016,4132820
+27,Pesticides (total),2017,4151332
+28,Pesticides (total),2018,4122334
+29,Insecticides,1990,395073
+30,Insecticides,1991,387248
+31,Insecticides,1992,375101
+32,Insecticides,1993,368930
+33,Insecticides,1994,377166
+34,Insecticides,1995,395121
+35,Insecticides,1996,406713
+36,Insecticides,1997,399693
+37,Insecticides,1998,369270
+38,Insecticides,1999,378477
+39,Insecticides,2000,378459
+40,Insecticides,2001,351856
+41,Insecticides,2002,357689
+42,Insecticides,2003,357353
+43,Insecticides,2004,403081
+44,Insecticides,2005,391513
+45,Insecticides,2006,360216
+46,Insecticides,2007,400139
+47,Insecticides,2008,370833
+48,Insecticides,2009,365780
+49,Insecticides,2010,401669
+50,Insecticides,2011,371727
+51,Insecticides,2012,355554
+52,Insecticides,2013,371391
+53,Insecticides,2014,380777
+54,Insecticides,2015,380219
+55,Insecticides,2016,394453
+56,Insecticides,2017,398169
+57,Insecticides,2018,400266
+58,Herbicides,1990,590301
+59,Herbicides,1991,590994
+60,Herbicides,1992,615104
+61,Herbicides,1993,617947
+62,Herbicides,1994,652842
+63,Herbicides,1995,656090
+64,Herbicides,1996,707978
+65,Herbicides,1997,725794
+66,Herbicides,1998,734998
+67,Herbicides,1999,737318
+68,Herbicides,2000,751665
+69,Herbicides,2001,801211
+70,Herbicides,2002,792696
+71,Herbicides,2003,866075
+72,Herbicides,2004,904723
+73,Herbicides,2005,926297
+74,Herbicides,2006,947864
+75,Herbicides,2007,1076734
+76,Herbicides,2008,1115293
+77,Herbicides,2009,1036911
+78,Herbicides,2010,1175749
+79,Herbicides,2011,1224585
+80,Herbicides,2012,1290409
+81,Herbicides,2013,1231858
+82,Herbicides,2014,1238959
+83,Herbicides,2015,1218932
+84,Herbicides,2016,1250923
+85,Herbicides,2017,1249693
+86,Herbicides,2018,1216330
+87,Fungicides and Bactericides,1990,393564
+88,Fungicides and Bactericides,1991,387210
+89,Fungicides and Bactericides,1992,395569
+90,Fungicides and Bactericides,1993,420170
+91,Fungicides and Bactericides,1994,400226
+92,Fungicides and Bactericides,1995,403784
+93,Fungicides and Bactericides,1996,402410
+94,Fungicides and Bactericides,1997,435961
+95,Fungicides and Bactericides,1998,451610
+96,Fungicides and Bactericides,1999,441425
+97,Fungicides and Bactericides,2000,437932
+98,Fungicides and Bactericides,2001,414225
+99,Fungicides and Bactericides,2002,417154
+100,Fungicides and Bactericides,2003,419716
+101,Fungicides and Bactericides,2004,454437
+102,Fungicides and Bactericides,2005,451567
+103,Fungicides and Bactericides,2006,430292
+104,Fungicides and Bactericides,2007,463652
+105,Fungicides and Bactericides,2008,471283
+106,Fungicides and Bactericides,2009,452483
+107,Fungicides and Bactericides,2010,484717
+108,Fungicides and Bactericides,2011,497768
+109,Fungicides and Bactericides,2012,473732
+110,Fungicides and Bactericides,2013,481144
+111,Fungicides and Bactericides,2014,529184
+112,Fungicides and Bactericides,2015,522203
+113,Fungicides and Bactericides,2016,528429
+114,Fungicides and Bactericides,2017,529815
+115,Fungicides and Bactericides,2018,530095
+116,Rodenticides,1990,14933
+117,Rodenticides,1991,14905
+118,Rodenticides,1992,14963
+119,Rodenticides,1993,15253
+120,Rodenticides,1994,15508
+121,Rodenticides,1995,15595
+122,Rodenticides,1996,15897
+123,Rodenticides,1997,15834
+124,Rodenticides,1998,15828
+125,Rodenticides,1999,15791
+126,Rodenticides,2000,15636
+127,Rodenticides,2001,15807
+128,Rodenticides,2002,16309
+129,Rodenticides,2003,15537
+130,Rodenticides,2004,15190
+131,Rodenticides,2005,13838
+132,Rodenticides,2006,16268
+133,Rodenticides,2007,16663
+134,Rodenticides,2008,9579
+135,Rodenticides,2009,3030
+136,Rodenticides,2010,3324
+137,Rodenticides,2011,3500
+138,Rodenticides,2012,3102
+139,Rodenticides,2013,3126
+140,Rodenticides,2014,3273
+141,Rodenticides,2015,3293
+142,Rodenticides,2016,3141
+143,Rodenticides,2017,3399
+144,Rodenticides,2018,4333
