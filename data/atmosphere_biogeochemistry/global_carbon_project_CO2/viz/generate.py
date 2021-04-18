@@ -249,3 +249,33 @@ l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
 layer = alt.layer(bands, l, p)
 layer.save('anthro_CO2_emissions.json')
+
+# Generate a plot for CO2 flux number: Anthropogenic emissions / natural sinks
+data_number = pd.read_csv('../processed/co2_flux_number_dimensioness.csv')
+data_number['Year'] = pd.to_datetime(data_number['Year'], format='%Y')
+agg_data = pd.DataFrame()
+agg_data['year'] = data_number[(data_number['Reported value']=='mean')]['Year']
+agg_data['co2 flux number'] = data_number[(data_number['Reported value']=='mean')]['Value']
+
+agg_data['std'] = (data_number[(data_number['Reported value']=='standard deviation')]['Value']).to_numpy()
+agg_data['lower bound'] = agg_data['co2 flux number'] - agg_data['std'] # 68% confidence interval
+agg_data['upper bound'] = agg_data['co2 flux number'] + agg_data['std'] # 68% confidence interval
+
+chart = alt.Chart(agg_data).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y(field=r'co2 flux number', type='quantitative', title=r'Anthropogenic emissions / natural sinks'),
+            tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
+                     alt.Tooltip(field=r'Anthropogenic emissions / natural sinks', type='nominal', title=r'Anthropogenic emissions / natural sinks')]
+            ).properties(width='container', height=300)
+
+# Add uncertainty bands
+bands = chart.mark_area(color='dodgerblue', fillOpacity=0.4).encode(
+            x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
+            y=alt.Y('lower bound:Q', scale=alt.Scale(zero=False)),
+            y2='upper bound:Q'
+        ).properties(width='container', height=300)
+
+l = chart.mark_line(color='dodgerblue')
+p = chart.mark_point(color='dodgerblue', filled=True)
+layer = alt.layer(bands, l, p)
+layer.save('CO2_flux_number.json')
