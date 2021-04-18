@@ -7,7 +7,7 @@
 # historical global emissions and sinks since 1959.
 # Data is provided in Tg C /year and Tg CO2 /year.
 #
-# Last updated: Jan 2021
+# Last updated: Apr 2021
 # Author: Ignacio Lopez-Gomez
 # 
 #################
@@ -59,4 +59,41 @@ data_tidy = data_tidy.melt(id_vars=data_tidy.columns[:4],
                                 value_name="Value")
 data_tidy["Value"] = round(data_tidy["Value"], 2)
 # Write to file
-data_tidy.to_csv(r'global_carbon_budget_processed.csv', index = False)
+data_tidy.to_csv(r'../processed/global_carbon_budget_processed.csv', index = False)
+
+### CO2 flux number : Ratio between anthropogenic sources and net natural sinks
+# Mean value
+df_anthro = data_tidy[(data_tidy["Sink/source type"] == 'anthropogenic emissions') &
+            (data_tidy["Reported value"] == 'mean') &
+            (data_tidy["Units"] == 'Pg C yr-1')].copy(deep=True)
+
+df_nat = data_tidy[(data_tidy["Sink/source type"] == 'natural sink') &
+            (data_tidy["Reported value"] == 'mean') &
+            (data_tidy["Units"] == 'Pg C yr-1')].copy(deep=True)
+
+# Standard deviation
+df_anthro_unc = data_tidy[(data_tidy["Sink/source type"] == 'anthropogenic emissions') &
+            (data_tidy["Reported value"] == 'standard deviation') &
+            (data_tidy["Units"] == 'Pg C yr-1')].copy(deep=True)
+
+df_nat_unc = data_tidy[(data_tidy["Sink/source type"] == 'natural sink') &
+            (data_tidy["Reported value"] == 'standard deviation') &
+            (data_tidy["Units"] == 'Pg C yr-1')].copy(deep=True)
+# Drop unnecessary columns
+df_anthro = df_anthro.drop(columns=["Flux into atmosphere", "Sink/source type", "Units"])
+df_anthro_unc = df_anthro_unc.drop(columns=["Flux into atmosphere", "Sink/source type", "Units"])
+df_nat = df_nat.drop(columns=["Flux into atmosphere", "Sink/source type", "Units"])
+df_nat_unc = df_nat_unc.drop(columns=["Flux into atmosphere", "Sink/source type", "Units"])
+
+# Error propagation, assuming possibly correlated small errors. Standard approach following
+# An Introduction to Error Analysis, John R. Taylor, Ch. 3.
+df_anthro_unc['Value'] = (df_anthro_unc.loc[:, 'Value'].to_numpy()/df_anthro.loc[:, 'Value'].to_numpy() +
+                        df_nat_unc.loc[:, 'Value'].to_numpy()/df_nat.loc[:, 'Value'].to_numpy() 
+                        ) * (
+                        df_anthro.loc[:, 'Value'].to_numpy()/df_nat.loc[:, 'Value'].to_numpy() )
+
+df_anthro['Value'] = df_anthro.loc[:, 'Value']/df_nat.loc[:, 'Value'].to_numpy()
+
+data_ratio=df_anthro.append(df_anthro_unc)
+data_ratio["Value"] = round(data_ratio["Value"], 2)
+data_ratio.to_csv(r'../processed/co2_flux_number_dimensioness.csv', index = False)
