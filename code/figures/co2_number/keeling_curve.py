@@ -12,7 +12,7 @@ font_list = font_manager.createFontList(font_files)
 font_manager.fontManager.ttflist.extend(font_list)
 
 # Load the ice core data (0CE - 1960)
-ice_data = pd.read_csv('../../../data/atmosphere_biogeochemistry/ice_cores/law2006_by_year_formatted.csv')
+ice_data = pd.read_csv('../../../data/atmosphere_biogeochemistry/ice_cores/processed/law2006_by_year_clean.csv')
 ice_data = ice_data[ice_data['year_CE'] < 1958]
 
 # Load the mauna loa data (since 1958)

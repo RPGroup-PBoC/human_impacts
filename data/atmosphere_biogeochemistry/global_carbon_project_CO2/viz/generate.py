@@ -265,7 +265,7 @@ chart = alt.Chart(agg_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
             y=alt.Y(field=r'co2 flux number', type='quantitative', title=r'Anthropogenic emissions / natural sinks'),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field=r'Anthropogenic emissions / natural sinks', type='nominal', title=r'Anthropogenic emissions / natural sinks')]
+                     alt.Tooltip(field=r'co2 flux number', type='nominal', title=r'Anthropogenic emissions / natural sinks')]
             ).properties(width='container', height=300)
 
 # Add uncertainty bands
