@@ -1,0 +1,15 @@
+Continent,Land type,Annual net change (10^3 km2/yr),Lower ((10^3 km2/yr),Upper (10^3 km2/yr)
+Africa,Tree canopy,-1.9,-7.6,3.6
+Asia,Tree canopy,37.5,28.0,45.3
+Europe,Tree canopy,28.3,20.4,32.8
+North America,Tree canopy,15.6,3.5,24.2
+South America,Tree canopy,-14.1,-20.5,-7.4
+Oceania,Tree canopy,0.1,-1.4,1.7
+Global,Tree canopy,66.0,27.3,100.5
+Africa,Short vegetation,14.8,6.5,23.2
+Asia,Short vegetation,-22.9,-34.5,-9.6
+Europe,Short vegetation,-22.0,-27.3,-14.7
+North America,Short vegetation,-12.7,-4.1,-2.2
+South America,Short vegetation,14.8,8.1,21.0
+Oceania,Short vegetation,-4.4,-12.1,3.4
+Global,Short vegetation,-26.0,-64.8,15.2

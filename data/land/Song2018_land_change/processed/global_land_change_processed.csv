@@ -1,0 +1,43 @@
+Continent,Land type,Measure,Value (10^3 km2/yr)
+Africa,Tree canopy,Annual net change (10^3 km2/yr),-1.9
+Asia,Tree canopy,Annual net change (10^3 km2/yr),37.5
+Europe,Tree canopy,Annual net change (10^3 km2/yr),28.3
+North America,Tree canopy,Annual net change (10^3 km2/yr),15.6
+South America,Tree canopy,Annual net change (10^3 km2/yr),-14.1
+Oceania,Tree canopy,Annual net change (10^3 km2/yr),0.1
+Global,Tree canopy,Annual net change (10^3 km2/yr),66.0
+Africa,Short vegetation,Annual net change (10^3 km2/yr),14.8
+Asia,Short vegetation,Annual net change (10^3 km2/yr),-22.9
+Europe,Short vegetation,Annual net change (10^3 km2/yr),-22.0
+North America,Short vegetation,Annual net change (10^3 km2/yr),-12.7
+South America,Short vegetation,Annual net change (10^3 km2/yr),14.8
+Oceania,Short vegetation,Annual net change (10^3 km2/yr),-4.4
+Global,Short vegetation,Annual net change (10^3 km2/yr),-26.0
+Africa,Tree canopy,Lower ((10^3 km2/yr),-7.6
+Asia,Tree canopy,Lower ((10^3 km2/yr),28.0
+Europe,Tree canopy,Lower ((10^3 km2/yr),20.4
+North America,Tree canopy,Lower ((10^3 km2/yr),3.5
+South America,Tree canopy,Lower ((10^3 km2/yr),-20.5
+Oceania,Tree canopy,Lower ((10^3 km2/yr),-1.4
+Global,Tree canopy,Lower ((10^3 km2/yr),27.3
+Africa,Short vegetation,Lower ((10^3 km2/yr),6.5
+Asia,Short vegetation,Lower ((10^3 km2/yr),-34.5
+Europe,Short vegetation,Lower ((10^3 km2/yr),-27.3
+North America,Short vegetation,Lower ((10^3 km2/yr),-4.1
+South America,Short vegetation,Lower ((10^3 km2/yr),8.1
+Oceania,Short vegetation,Lower ((10^3 km2/yr),-12.1
+Global,Short vegetation,Lower ((10^3 km2/yr),-64.8
+Africa,Tree canopy,Upper (10^3 km2/yr),3.6
+Asia,Tree canopy,Upper (10^3 km2/yr),45.3
+Europe,Tree canopy,Upper (10^3 km2/yr),32.8
+North America,Tree canopy,Upper (10^3 km2/yr),24.2
+South America,Tree canopy,Upper (10^3 km2/yr),-7.4
+Oceania,Tree canopy,Upper (10^3 km2/yr),1.7
+Global,Tree canopy,Upper (10^3 km2/yr),100.5
+Africa,Short vegetation,Upper (10^3 km2/yr),23.2
+Asia,Short vegetation,Upper (10^3 km2/yr),-9.6
+Europe,Short vegetation,Upper (10^3 km2/yr),-14.7
+North America,Short vegetation,Upper (10^3 km2/yr),-2.2
+South America,Short vegetation,Upper (10^3 km2/yr),21.0
+Oceania,Short vegetation,Upper (10^3 km2/yr),3.4
+Global,Short vegetation,Upper (10^3 km2/yr),15.2
