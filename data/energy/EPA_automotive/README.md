@@ -6,7 +6,7 @@ This entry includes automotive trends for vehicles delivered for sale in the U.S
 
 ## Key Numbers
 
-Average fuel economy of all road vehicles (2020): 25.69 MPG
+Average fuel economy of all light-duty road vehicles (2020): ≈ 25.69 MPG
 
 ## Source Information
 * **Source Website**:  United States Environmental Protection Agency (EPA)
