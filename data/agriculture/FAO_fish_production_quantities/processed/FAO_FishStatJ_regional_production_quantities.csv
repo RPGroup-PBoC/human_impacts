@@ -1,0 +1,829 @@
+Region,year,source,produced mass (tonnes)
+Africa,1950,captured,1055287.0
+Africa,1950,cultured,2393.0
+Africa,1951,captured,1231421.0
+Africa,1951,cultured,2574.0
+Africa,1952,captured,1458766.0
+Africa,1952,cultured,3242.0
+Africa,1953,captured,1569847.0
+Africa,1953,cultured,3689.0
+Africa,1954,captured,1611554.0
+Africa,1954,cultured,4201.0
+Africa,1955,captured,1670018.0
+Africa,1955,cultured,4766.0
+Africa,1956,captured,1786893.0
+Africa,1956,cultured,5018.0
+Africa,1957,captured,1919093.0
+Africa,1957,cultured,5626.0
+Africa,1958,captured,1929193.0
+Africa,1958,cultured,6322.0
+Africa,1959,captured,1998878.0
+Africa,1959,cultured,6774.0
+Africa,1960,captured,2134272.0
+Africa,1960,cultured,6985.0
+Africa,1961,captured,2327835.0
+Africa,1961,cultured,7783.0
+Africa,1962,captured,2493839.0
+Africa,1962,cultured,7921.0
+Africa,1963,captured,2640529.0
+Africa,1963,cultured,8927.0
+Africa,1964,captured,2955121.0
+Africa,1964,cultured,10160.0
+Africa,1965,captured,3013813.0
+Africa,1965,cultured,9503.0
+Africa,1966,captured,3267626.0
+Africa,1966,cultured,9362.0
+Africa,1967,captured,3581645.0
+Africa,1967,cultured,9245.0
+Africa,1968,captured,4034206.0
+Africa,1968,cultured,9387.0
+Africa,1969,captured,4004994.0
+Africa,1969,cultured,9874.0
+Africa,1970,captured,3506755.0
+Africa,1970,cultured,10271.0
+Africa,1971,captured,3593093.0
+Africa,1971,cultured,11470.0
+Africa,1972,captured,3954738.0
+Africa,1972,cultured,12738.0
+Africa,1973,captured,4191415.0
+Africa,1973,cultured,14014.0
+Africa,1974,captured,4164115.0
+Africa,1974,cultured,14165.0
+Africa,1975,captured,3917038.0
+Africa,1975,cultured,14410.0
+Africa,1976,captured,3684997.0
+Africa,1976,cultured,16723.0
+Africa,1977,captured,3646719.0
+Africa,1977,cultured,19102.0
+Africa,1978,captured,3670272.0
+Africa,1978,cultured,21446.0
+Africa,1979,captured,3594168.0
+Africa,1979,cultured,23768.0
+Africa,1980,captured,3520169.0
+Africa,1980,cultured,26202.0
+Africa,1981,captured,3669834.0
+Africa,1981,cultured,28596.0
+Africa,1982,captured,3650687.0
+Africa,1982,cultured,32194.0
+Africa,1983,captured,3960495.0
+Africa,1983,cultured,33878.0
+Africa,1984,captured,3837595.0
+Africa,1984,cultured,36762.0
+Africa,1985,captured,3952615.0
+Africa,1985,cultured,53251.0
+Africa,1986,captured,4322035.0
+Africa,1986,cultured,55179.0
+Africa,1987,captured,5059558.0
+Africa,1987,cultured,57476.0
+Africa,1988,captured,5115244.0
+Africa,1988,cultured,69547.0
+Africa,1989,captured,4708136.0
+Africa,1989,cultured,94369.0
+Africa,1990,captured,4876481.0
+Africa,1990,cultured,80081.0
+Africa,1991,captured,4604148.0
+Africa,1991,cultured,89757.0
+Africa,1992,captured,5420948.0
+Africa,1992,cultured,96286.0
+Africa,1993,captured,5417814.0
+Africa,1993,cultured,85511.0
+Africa,1994,captured,5364609.0
+Africa,1994,cultured,91066.0
+Africa,1995,captured,5693272.0
+Africa,1995,cultured,108632.0
+Africa,1996,captured,5433778.0
+Africa,1996,cultured,131739.0
+Africa,1997,captured,5809469.0
+Africa,1997,cultured,135767.0
+Africa,1998,captured,5948110.0
+Africa,1998,cultured,183484.0
+Africa,1999,captured,6158744.0
+Africa,1999,cultured,275200.0
+Africa,2000,captured,6473747.0
+Africa,2000,cultured,396552.0
+Africa,2001,captured,6830867.0
+Africa,2001,cultured,401949.0
+Africa,2002,captured,6700447.0
+Africa,2002,cultured,448354.0
+Africa,2003,captured,6998917.0
+Africa,2003,cultured,514498.0
+Africa,2004,captured,7225077.0
+Africa,2004,cultured,554394.0
+Africa,2005,captured,7277388.0
+Africa,2005,cultured,641846.15
+Africa,2006,captured,6743629.0
+Africa,2006,cultured,750094.7
+Africa,2007,captured,6897215.0
+Africa,2007,cultured,815649.7
+Africa,2008,captured,7021860.0
+Africa,2008,cultured,937511.76
+Africa,2009,captured,7211375.0
+Africa,2009,cultured,984066.23
+Africa,2010,captured,7489270.0
+Africa,2010,cultured,1280782.11
+Africa,2011,captured,7562960.0
+Africa,2011,cultured,1390582.33
+Africa,2012,captured,8273467.0
+Africa,2012,cultured,1487164.62
+Africa,2013,captured,8213095.0
+Africa,2013,cultured,1617526.79
+Africa,2014,captured,8482805.0
+Africa,2014,cultured,1714480.2100000002
+Africa,2015,captured,8634008.0
+Africa,2015,cultured,1774693.3199999996
+Africa,2016,captured,9123766.98
+Africa,2016,cultured,1972983.64
+Africa,2017,captured,9796133.02
+Africa,2017,cultured,2066637.99
+Africa,2018,captured,9832978.25
+Africa,2018,cultured,2192658.8800000004
+North America,1950,captured,3620978.0
+North America,1950,cultured,64583.0
+North America,1951,captured,3402965.0
+North America,1951,cultured,71156.0
+North America,1952,captured,3328323.0
+North America,1952,cultured,81394.0
+North America,1953,captured,3380461.0
+North America,1953,cultured,82988.0
+North America,1954,captured,3685012.0
+North America,1954,cultured,90212.0
+North America,1955,captured,3635147.0
+North America,1955,cultured,102381.0
+North America,1956,captured,4013071.0
+North America,1956,cultured,101641.0
+North America,1957,captured,3684150.0
+North America,1957,cultured,98601.0
+North America,1958,captured,3675969.0
+North America,1958,cultured,93299.0
+North America,1959,captured,4012790.0
+North America,1959,cultured,106129.0
+North America,1960,captured,3818200.0
+North America,1960,cultured,107496.0
+North America,1961,captured,4090853.0
+North America,1961,cultured,105651.0
+North America,1962,captured,4218968.0
+North America,1962,cultured,113181.0
+North America,1963,captured,4097460.0
+North America,1963,cultured,126032.0
+North America,1964,captured,3988584.0
+North America,1964,cultured,127194.0
+North America,1965,captured,4168078.0
+North America,1965,cultured,135900.0
+North America,1966,captured,4140156.0
+North America,1966,cultured,117594.0
+North America,1967,captured,4024341.0
+North America,1967,cultured,130744.0
+North America,1968,captured,4315692.0
+North America,1968,cultured,134739.0
+North America,1969,captured,4224963.0
+North America,1969,cultured,120543.0
+North America,1970,captured,4653589.0
+North America,1970,cultured,173162.0
+North America,1971,captured,4747708.0
+North America,1971,cultured,170603.0
+North America,1972,captured,4534039.0
+North America,1972,cultured,179470.0
+North America,1973,captured,4654162.0
+North America,1973,cultured,178317.0
+North America,1974,captured,4506889.0
+North America,1974,cultured,174260.0
+North America,1975,captured,4557633.0
+North America,1975,cultured,226481.0
+North America,1976,captured,5055372.0
+North America,1976,cultured,191669.0
+North America,1977,captured,5241053.0
+North America,1977,cultured,182536.0
+North America,1978,captured,6035443.0
+North America,1978,cultured,169481.0
+North America,1979,captured,6342719.0
+North America,1979,cultured,151383.0
+North America,1980,captured,6759761.0
+North America,1980,cultured,183179.0
+North America,1981,captured,7215909.0
+North America,1981,cultured,248839.0
+North America,1982,captured,7205919.0
+North America,1982,cultured,282836.0
+North America,1983,captured,7128130.0
+North America,1983,cultured,292512.0
+North America,1984,captured,7608014.0
+North America,1984,cultured,351870.0
+North America,1985,captured,8037474.0
+North America,1985,cultured,353932.0
+North America,1986,captured,8281865.0
+North America,1986,cultured,410813.0
+North America,1987,captured,9235117.0
+North America,1987,cultured,431668.0
+North America,1988,captured,9230913.0
+North America,1988,cultured,416592.0
+North America,1989,captured,9164014.0
+North America,1989,cultured,439073.0
+North America,1990,captured,9187052.0
+North America,1990,cultured,400567.0
+North America,1991,captured,8600922.0
+North America,1991,cultured,459741.0
+North America,1992,captured,8213973.0
+North America,1992,cultured,515186.0
+North America,1993,captured,8322450.0
+North America,1993,cultured,536839.0
+North America,1994,captured,8321481.0
+North America,1994,cultured,529134.0
+North America,1995,captured,7922506.0
+North America,1995,cultured,559445.0
+North America,1996,captured,7918848.0
+North America,1996,cultured,567519.0
+North America,1997,captured,8110389.0
+North America,1997,cultured,633510.0
+North America,1998,captured,7628980.0
+North America,1998,cultured,654515.0
+North America,1999,captured,7719276.0
+North America,1999,cultured,718812.0
+North America,2000,captured,7787944.0
+North America,2000,cultured,712927.0
+North America,2001,captured,8191978.0
+North America,2001,cultured,785462.0
+North America,2002,captured,8316803.0
+North America,2002,cultured,839723.0
+North America,2003,captured,8154586.0
+North America,2003,cultured,905539.0
+North America,2004,captured,8212519.0
+North America,2004,cultured,976923.5
+North America,2005,captured,8223592.0
+North America,2005,cultured,944876.86
+North America,2006,captured,8349826.0
+North America,2006,cultured,1005121.3
+North America,2007,captured,8390628.0
+North America,2007,cultured,987479.4600000001
+North America,2008,captured,8073587.0
+North America,2008,cultured,985934.48
+North America,2009,captured,7887011.0
+North America,2009,cultured,942843.05
+North America,2010,captured,7914258.0
+North America,2010,cultured,935066.39
+North America,2011,captured,8717270.0
+North America,2011,cultured,865575.25
+North America,2012,captured,8282632.0
+North America,2012,cultured,918556.3400000001
+North America,2013,captured,8445880.0
+North America,2013,cultured,890081.7200000001
+North America,2014,captured,8357462.0
+North America,2014,cultured,950734.2
+North America,2015,captured,8280744.0
+North America,2015,cultured,1006129.7999999999
+North America,2016,captured,8179234.0
+North America,2016,cultured,1037737.86
+North America,2017,captured,8493844.0
+North America,2017,cultured,1066560.2199999997
+North America,2018,captured,8261557.0
+North America,2018,cultured,1104270.6399999997
+South America,1950,captured,479460.0
+South America,1950,cultured,40.0
+South America,1951,captured,532460.0
+South America,1951,cultured,40.0
+South America,1952,captured,572460.0
+South America,1952,cultured,40.0
+South America,1953,captured,561830.0
+South America,1953,cultured,50.0
+South America,1954,captured,631830.0
+South America,1954,cultured,50.0
+South America,1955,captured,784160.0
+South America,1955,cultured,50.0
+South America,1956,captured,858250.0
+South America,1956,cultured,60.0
+South America,1957,captured,1114970.0
+South America,1957,cultured,70.0
+South America,1958,captured,1569375.0
+South America,1958,cultured,70.0
+South America,1959,captured,2878674.0
+South America,1959,cultured,70.0
+South America,1960,captured,4373652.0
+South America,1960,cultured,80.0
+South America,1961,captured,6205245.0
+South America,1961,cultured,80.0
+South America,1962,captured,8205979.0
+South America,1962,cultured,91.0
+South America,1963,captured,8260507.0
+South America,1963,cultured,102.0
+South America,1964,captured,10963610.0
+South America,1964,cultured,114.0
+South America,1965,captured,8930487.0
+South America,1965,cultured,125.0
+South America,1966,captured,10967701.0
+South America,1966,cultured,235.0
+South America,1967,captured,12017943.0
+South America,1967,cultured,154.0
+South America,1968,captured,12819698.0
+South America,1968,cultured,204.0
+South America,1969,captured,11194575.0
+South America,1969,cultured,266.0
+South America,1970,captured,14764848.0
+South America,1970,cultured,329.0
+South America,1971,captured,13136384.0
+South America,1971,cultured,388.0
+South America,1972,captured,6731367.0
+South America,1972,cultured,679.0
+South America,1973,captured,4468374.0
+South America,1973,cultured,1163.0
+South America,1974,captured,6677938.0
+South America,1974,cultured,1878.0
+South America,1975,captured,5775348.0
+South America,1975,cultured,2715.0
+South America,1976,captured,7215443.0
+South America,1976,cultured,3645.0
+South America,1977,captured,5662594.0
+South America,1977,cultured,5497.0
+South America,1978,captured,7633653.0
+South America,1978,cultured,6645.0
+South America,1979,captured,8615560.0
+South America,1979,cultured,8431.0
+South America,1980,captured,7772282.0
+South America,1980,cultured,15671.0
+South America,1981,captured,8272497.0
+South America,1981,cultured,21371.0
+South America,1982,captured,9513959.0
+South America,1982,cultured,34808.0
+South America,1983,captured,7648405.0
+South America,1983,cultured,48777.0
+South America,1984,captured,10450653.0
+South America,1984,cultured,51760.0
+South America,1985,captured,11880487.0
+South America,1985,cultured,54111.0
+South America,1986,captured,14074412.0
+South America,1986,cultured,64555.0
+South America,1987,captured,11975564.0
+South America,1987,cultured,94683.0
+South America,1988,captured,14482329.0
+South America,1988,cultured,109964.0
+South America,1989,captured,15777620.0
+South America,1989,cultured,116822.0
+South America,1990,captured,14114982.0
+South America,1990,cultured,147814.0
+South America,1991,captured,15130886.0
+South America,1991,cultured,199044.0
+South America,1992,captured,16224051.0
+South America,1992,cultured,247416.0
+South America,1993,captured,17589271.0
+South America,1993,cultured,237661.0
+South America,1994,captured,22468567.0
+South America,1994,cultured,275365.0
+South America,1995,captured,19534663.0
+South America,1995,cultured,360117.0
+South America,1996,captured,19687922.0
+South America,1996,cultured,451614.0
+South America,1997,captured,17146017.0
+South America,1997,cultured,557290.0
+South America,1998,captured,10644557.0
+South America,1998,cultured,607347.0
+South America,1999,captured,16467582.0
+South America,1999,cultured,616538.0
+South America,2000,captured,17935349.0
+South America,2000,cultured,710456.0
+South America,2001,captured,14933463.0
+South America,2001,cultured,914349.0
+South America,2002,captured,15962663.0
+South America,2002,cultured,961443.0
+South America,2003,captured,12671418.0
+South America,2003,cultured,1030240.0
+South America,2004,captured,17562240.0
+South America,2004,cultured,1165785.0
+South America,2005,captured,16707032.0
+South America,2005,cultured,1231938.0
+South America,2006,captured,14340816.0
+South America,2006,cultured,1363387.5
+South America,2007,captured,13962158.0
+South America,2007,cultured,1372597.6
+South America,2008,captured,13933311.0
+South America,2008,cultured,1483863.0
+South America,2009,captured,13230095.0
+South America,2009,cultured,1523309.4799999997
+South America,2010,captured,9557086.0
+South America,2010,cultured,1579554.5700000003
+South America,2011,captured,13921415.0
+South America,2011,cultured,1909261.8200000003
+South America,2012,captured,10064757.0
+South America,2012,cultured,2071987.0099999998
+South America,2013,captured,10304408.0
+South America,2013,cultured,2096353.89
+South America,2014,captured,8559043.0
+South America,2014,cultured,2398045.1
+South America,2015,captured,9323935.0
+South America,2015,cultured,2268564.96
+South America,2016,captured,8060096.0
+South America,2016,cultured,2325386.97
+South America,2017,captured,8861805.99
+South America,2017,cultured,2534354.7
+South America,2018,captured,12057673.49
+South America,2018,cultured,2694917.4899999998
+Asia,1950,captured,6177158.0
+Asia,1950,cultured,309754.0
+Asia,1951,captured,7439240.0
+Asia,1951,cultured,409188.0
+Asia,1952,captured,8833387.0
+Asia,1952,cultured,508797.0
+Asia,1953,captured,9006210.0
+Asia,1953,cultured,610253.0
+Asia,1954,captured,9772164.0
+Asia,1954,cultured,741199.0
+Asia,1955,captured,10544809.0
+Asia,1955,cultured,824207.0
+Asia,1956,captured,11135714.0
+Asia,1956,cultured,833225.0
+Asia,1957,captured,11687634.0
+Asia,1957,cultured,1163969.0
+Asia,1958,captured,11717198.0
+Asia,1958,cultured,1141340.0
+Asia,1959,captured,12137686.0
+Asia,1959,cultured,1227814.0
+Asia,1960,captured,12921897.0
+Asia,1960,cultured,1201872.0
+Asia,1961,captured,13833872.0
+Asia,1961,cultured,1045779.0
+Asia,1962,captured,14345656.0
+Asia,1962,cultured,1053355.0
+Asia,1963,captured,14595672.0
+Asia,1963,cultured,1211218.0
+Asia,1964,captured,15003926.0
+Asia,1964,cultured,1264139.0
+Asia,1965,captured,15959528.0
+Asia,1965,cultured,1410906.0
+Asia,1966,captured,16585647.0
+Asia,1966,cultured,1503880.0
+Asia,1967,captured,17753304.0
+Asia,1967,cultured,1541731.0
+Asia,1968,captured,19324921.0
+Asia,1968,cultured,1627700.0
+Asia,1969,captured,19713900.0
+Asia,1969,cultured,1705522.0
+Asia,1970,captured,20649092.0
+Asia,1970,cultured,1799161.0
+Asia,1971,captured,22021302.0
+Asia,1971,cultured,1976202.0
+Asia,1972,captured,23305505.0
+Asia,1972,cultured,2066204.0
+Asia,1973,captured,24506885.0
+Asia,1973,cultured,2185435.0
+Asia,1974,captured,25125880.0
+Asia,1974,cultured,2327649.0
+Asia,1975,captured,25124625.0
+Asia,1975,cultured,2556695.0
+Asia,1976,captured,25737399.0
+Asia,1976,cultured,2722438.0
+Asia,1977,captured,26750470.0
+Asia,1977,cultured,3038789.0
+Asia,1978,captured,27085043.0
+Asia,1978,cultured,3091269.0
+Asia,1979,captured,26570640.0
+Asia,1979,cultured,3251437.0
+Asia,1980,captured,27011765.0
+Asia,1980,cultured,3552552.0
+Asia,1981,captured,28117139.0
+Asia,1981,cultured,3918913.0
+Asia,1982,captured,28785851.0
+Asia,1982,cultured,4204915.0
+Asia,1983,captured,30033362.0
+Asia,1983,cultured,4685326.0
+Asia,1984,captured,31452423.0
+Asia,1984,cultured,5284886.0
+Asia,1985,captured,31323286.0
+Asia,1985,cultured,6230581.0
+Asia,1986,captured,33586789.0
+Asia,1986,cultured,7233889.0
+Asia,1987,captured,34540709.0
+Asia,1987,cultured,8527207.0
+Asia,1988,captured,35361521.0
+Asia,1988,cultured,9622532.0
+Asia,1989,captured,35746207.0
+Asia,1989,cultured,10149152.0
+Asia,1990,captured,35420877.0
+Asia,1990,cultured,10812010.0
+Asia,1991,captured,35061320.0
+Asia,1991,cultured,11476628.0
+Asia,1992,captured,36167394.0
+Asia,1992,cultured,13108533.0
+Asia,1993,captured,37485928.0
+Asia,1993,cultured,15510136.0
+Asia,1994,captured,38920230.0
+Asia,1994,cultured,18398134.0
+Asia,1995,captured,40397793.0
+Asia,1995,cultured,21677514.0
+Asia,1996,captured,42035568.0
+Asia,1996,cultured,23619041.0
+Asia,1997,captured,42735667.0
+Asia,1997,cultured,24148244.0
+Asia,1998,captured,42935115.0
+Asia,1998,cultured,24922666.0
+Asia,1999,captured,43636415.0
+Asia,1999,cultured,26924044.0
+Asia,2000,captured,43567010.0
+Asia,2000,cultured,28422489.0
+Asia,2001,captured,43283431.0
+Asia,2001,cultured,30300492.0
+Asia,2002,captured,43161663.0
+Asia,2002,cultured,32360778.0
+Asia,2003,captured,44106500.0
+Asia,2003,cultured,34170955.0
+Asia,2004,captured,44001425.0
+Asia,2004,cultured,36894690.6
+Asia,2005,captured,44568839.0
+Asia,2005,cultured,39188378.97
+Asia,2006,captured,45600679.0
+Asia,2006,cultured,41779946.0
+Asia,2007,captured,46069793.0
+Asia,2007,cultured,44222632.4
+Asia,2008,captured,45799920.0
+Asia,2008,cultured,47001305.31
+Asia,2009,captured,45758117.0
+Asia,2009,cultured,49005817.68
+Asia,2010,captured,46721815.0
+Asia,2010,cultured,51232884.09
+Asia,2011,captured,46535328.0
+Asia,2011,cultured,52777871.61
+Asia,2012,captured,47364726.0
+Asia,2012,cultured,55987913.260000005
+Asia,2013,captured,47786977.0
+Asia,2013,cultured,59437215.43
+Asia,2014,captured,49630583.0
+Asia,2014,cultured,62348301.14
+Asia,2015,captured,49594253.0
+Asia,2015,cultured,64597252.080000006
+Asia,2016,captured,48853674.0
+Asia,2016,cultured,68011731.35
+Asia,2017,captured,49438372.7
+Asia,2017,cultured,70650043.48
+Asia,2018,captured,49584460.32
+Asia,2018,cultured,72819507.32
+Europe,1950,captured,7227323.0
+Europe,1950,cultured,215851.0
+Europe,1951,captured,8407806.0
+Europe,1951,cultured,232216.0
+Europe,1952,captured,8611521.0
+Europe,1952,cultured,212847.0
+Europe,1953,captured,8696318.0
+Europe,1953,cultured,247962.0
+Europe,1954,captured,9459175.0
+Europe,1954,cultured,237638.0
+Europe,1955,captured,9894875.0
+Europe,1955,cultured,267952.0
+Europe,1956,captured,10424267.0
+Europe,1956,cultured,250102.0
+Europe,1957,captured,9924257.0
+Europe,1957,cultured,271606.0
+Europe,1958,captured,10003183.0
+Europe,1958,cultured,256921.0
+Europe,1959,captured,10244427.0
+Europe,1959,cultured,287979.0
+Europe,1960,captured,10419057.0
+Europe,1960,cultured,315734.0
+Europe,1961,captured,10995063.0
+Europe,1961,cultured,339740.0
+Europe,1962,captured,11514250.0
+Europe,1962,cultured,378414.0
+Europe,1963,captured,12229015.0
+Europe,1963,cultured,390168.0
+Europe,1964,captured,13493734.0
+Europe,1964,cultured,420026.0
+Europe,1965,captured,15292096.0
+Europe,1965,cultured,435347.0
+Europe,1966,captured,16240626.0
+Europe,1966,cultured,420742.0
+Europe,1967,captured,17145746.0
+Europe,1967,cultured,430834.0
+Europe,1968,captured,17317809.0
+Europe,1968,cultured,477145.0
+Europe,1969,captured,17273013.0
+Europe,1969,cultured,489884.0
+Europe,1970,captured,18665544.0
+Europe,1970,cultured,549462.0
+Europe,1971,captured,18739170.0
+Europe,1971,cultured,542114.0
+Europe,1972,captured,19514371.0
+Europe,1972,cultured,653553.0
+Europe,1973,captured,20695014.0
+Europe,1973,cultured,660472.0
+Europe,1974,captured,21273521.0
+Europe,1974,cultured,693569.0
+Europe,1975,captured,21880217.0
+Europe,1975,cultured,771676.0
+Europe,1976,captured,22983536.0
+Europe,1976,cultured,749189.0
+Europe,1977,captured,21907943.0
+Europe,1977,cultured,829053.0
+Europe,1978,captured,20857367.0
+Europe,1978,cultured,870502.0
+Europe,1979,captured,20667655.0
+Europe,1979,cultured,864169.0
+Europe,1980,captured,21258211.0
+Europe,1980,cultured,886343.0
+Europe,1981,captured,21364949.0
+Europe,1981,cultured,980493.0
+Europe,1982,captured,21283999.0
+Europe,1982,cultured,1068145.0
+Europe,1983,captured,21586326.0
+Europe,1983,cultured,1109305.0
+Europe,1984,captured,22544545.0
+Europe,1984,cultured,1168211.0
+Europe,1985,captured,22283407.0
+Europe,1985,cultured,1277363.0
+Europe,1986,captured,22655634.0
+Europe,1986,cultured,1339591.0
+Europe,1987,captured,22636286.0
+Europe,1987,cultured,1391747.0
+Europe,1988,captured,22679684.0
+Europe,1988,cultured,1387770.0
+Europe,1989,captured,21940600.0
+Europe,1989,cultured,1443833.0
+Europe,1990,captured,19966630.0
+Europe,1990,cultured,1566208.0
+Europe,1991,captured,19131230.0
+Europe,1991,cultured,1407357.0
+Europe,1992,captured,17906775.0
+Europe,1992,cultured,1345902.0
+Europe,1993,captured,16488956.0
+Europe,1993,cultured,1353739.0
+Europe,1994,captured,15810388.0
+Europe,1994,cultured,1471131.0
+Europe,1995,captured,17187859.0
+Europe,1995,cultured,1578503.0
+Europe,1996,captured,17485147.0
+Europe,1996,cultured,1665103.0
+Europe,1997,captured,17904715.0
+Europe,1997,cultured,1736183.0
+Europe,1998,captured,17086054.0
+Europe,1998,cultured,1912691.0
+Europe,1999,captured,16089100.0
+Europe,1999,cultured,2064203.0
+Europe,2000,captured,16178743.0
+Europe,2000,cultured,2046975.0
+Europe,2001,captured,15945585.0
+Europe,2001,cultured,2088577.0
+Europe,2002,captured,15248556.0
+Europe,2002,cultured,2039890.76
+Europe,2003,captured,14587363.0
+Europe,2003,cultured,2158238.1
+Europe,2004,captured,13913668.0
+Europe,2004,cultured,2168568.2
+Europe,2005,captured,13847447.0
+Europe,2005,cultured,2130350.0
+Europe,2006,captured,13456656.0
+Europe,2006,cultured,2192896.05
+Europe,2007,captured,13440086.0
+Europe,2007,cultured,2366768.8
+Europe,2008,captured,13071313.0
+Europe,2008,cultured,2326564.6799999997
+Europe,2009,captured,13368814.0
+Europe,2009,cultured,2517033.77
+Europe,2010,captured,13876866.0
+Europe,2010,cultured,2522881.0
+Europe,2011,captured,13370914.0
+Europe,2011,cultured,2646398.0100000002
+Europe,2012,captured,13125316.0
+Europe,2012,cultured,2828666.92
+Europe,2013,captured,13505980.0
+Europe,2013,cultured,2730315.43
+Europe,2014,captured,13758142.0
+Europe,2014,cultured,2904052.94
+Europe,2015,captured,14144645.0
+Europe,2015,cultured,2943161.849999999
+Europe,2016,captured,13712050.0
+Europe,2016,cultured,2947388.88
+Europe,2017,captured,14844107.0
+Europe,2017,cultured,3013949.29
+Europe,2018,captured,15027058.0
+Europe,2018,cultured,3075211.2000000007
+Oceania,1950,captured,75830.0
+Oceania,1950,cultured,4000.0
+Oceania,1951,captured,80030.0
+Oceania,1951,cultured,4100.0
+Oceania,1952,captured,89794.0
+Oceania,1952,cultured,4400.0
+Oceania,1953,captured,100539.0
+Oceania,1953,cultured,4900.0
+Oceania,1954,captured,102954.0
+Oceania,1954,cultured,6000.0
+Oceania,1955,captured,105152.0
+Oceania,1955,cultured,6300.0
+Oceania,1956,captured,104104.0
+Oceania,1956,cultured,6500.0
+Oceania,1957,captured,110004.0
+Oceania,1957,cultured,7100.0
+Oceania,1958,captured,111062.0
+Oceania,1958,cultured,7700.0
+Oceania,1959,captured,119226.0
+Oceania,1959,cultured,8600.0
+Oceania,1960,captured,134474.0
+Oceania,1960,cultured,8500.0
+Oceania,1961,captured,135062.0
+Oceania,1961,cultured,7500.0
+Oceania,1962,captured,142501.0
+Oceania,1962,cultured,8400.0
+Oceania,1963,captured,150745.0
+Oceania,1963,cultured,7800.0
+Oceania,1964,captured,145955.0
+Oceania,1964,cultured,7700.0
+Oceania,1965,captured,158953.0
+Oceania,1965,cultured,9000.0
+Oceania,1966,captured,179512.0
+Oceania,1966,cultured,9100.0
+Oceania,1967,captured,188684.0
+Oceania,1967,cultured,9100.0
+Oceania,1968,captured,200094.0
+Oceania,1968,cultured,9300.0
+Oceania,1969,captured,180334.0
+Oceania,1969,cultured,8800.0
+Oceania,1970,captured,204160.0
+Oceania,1970,cultured,8421.0
+Oceania,1971,captured,234441.0
+Oceania,1971,cultured,11700.0
+Oceania,1972,captured,234210.0
+Oceania,1972,cultured,13300.0
+Oceania,1973,captured,264458.0
+Oceania,1973,cultured,11900.0
+Oceania,1974,captured,297355.0
+Oceania,1974,cultured,13022.0
+Oceania,1975,captured,246114.0
+Oceania,1975,cultured,11275.0
+Oceania,1976,captured,277521.0
+Oceania,1976,cultured,13099.0
+Oceania,1977,captured,284581.0
+Oceania,1977,cultured,12532.0
+Oceania,1978,captured,335838.0
+Oceania,1978,cultured,12077.0
+Oceania,1979,captured,357826.0
+Oceania,1979,cultured,11490.0
+Oceania,1980,captured,411402.0
+Oceania,1980,cultured,12224.0
+Oceania,1981,captured,448824.0
+Oceania,1981,cultured,12200.0
+Oceania,1982,captured,440868.0
+Oceania,1982,cultured,15432.0
+Oceania,1983,captured,480404.0
+Oceania,1983,cultured,18836.0
+Oceania,1984,captured,498763.0
+Oceania,1984,cultured,19897.0
+Oceania,1985,captured,495465.0
+Oceania,1985,cultured,21603.0
+Oceania,1986,captured,552252.0
+Oceania,1986,cultured,26338.0
+Oceania,1987,captured,611967.0
+Oceania,1987,cultured,29374.0
+Oceania,1988,captured,653546.0
+Oceania,1988,cultured,41369.0
+Oceania,1989,captured,667977.0
+Oceania,1989,cultured,41426.0
+Oceania,1990,captured,749991.0
+Oceania,1990,cultured,42005.0
+Oceania,1991,captured,831832.0
+Oceania,1991,cultured,64131.0
+Oceania,1992,captured,909660.0
+Oceania,1992,cultured,69182.0
+Oceania,1993,captured,868615.0
+Oceania,1993,cultured,72114.0
+Oceania,1994,captured,878495.0
+Oceania,1994,cultured,71686.0
+Oceania,1995,captured,1014994.0
+Oceania,1995,cultured,94243.0
+Oceania,1996,captured,859075.0
+Oceania,1996,cultured,101773.0
+Oceania,1997,captured,1090716.0
+Oceania,1997,cultured,105251.0
+Oceania,1998,captured,1176708.0
+Oceania,1998,cultured,120680.0
+Oceania,1999,captured,1159036.0
+Oceania,1999,cultured,124918.0
+Oceania,2000,captured,1088546.0
+Oceania,2000,cultured,121487.0
+Oceania,2001,captured,1119433.0
+Oceania,2001,cultured,115610.4
+Oceania,2002,captured,1182390.0
+Oceania,2002,cultured,128096.0
+Oceania,2003,captured,1279367.0
+Oceania,2003,cultured,125927.0
+Oceania,2004,captured,1466480.0
+Oceania,2004,cultured,139435.0
+Oceania,2005,captured,1502105.0
+Oceania,2005,cultured,151476.0
+Oceania,2006,captured,1367527.0
+Oceania,2006,cultured,160770.8
+Oceania,2007,captured,1388765.0
+Oceania,2007,cultured,170953.2
+Oceania,2008,captured,1237020.0
+Oceania,2008,cultured,175045.94999999998
+Oceania,2009,captured,1233544.0
+Oceania,2009,cultured,178923.04000000004
+Oceania,2010,captured,1224643.0
+Oceania,2010,cultured,187798.71999999994
+Oceania,2011,captured,1191311.0
+Oceania,2011,cultured,194074.64999999997
+Oceania,2012,captured,1282051.0
+Oceania,2012,cultured,182972.69
+Oceania,2013,captured,1215650.0
+Oceania,2013,cultured,177304.64
+Oceania,2014,captured,1344430.0
+Oceania,2014,cultured,187433.57
+Oceania,2015,captured,1383832.0
+Oceania,2015,cultured,178542.95000000004
+Oceania,2016,captured,1442911.0
+Oceania,2016,cultured,205350.38
+Oceania,2017,captured,1424272.0
+Oceania,2017,cultured,210127.82
+Oceania,2018,captured,1411994.0
+Oceania,2018,cultured,205285.73
