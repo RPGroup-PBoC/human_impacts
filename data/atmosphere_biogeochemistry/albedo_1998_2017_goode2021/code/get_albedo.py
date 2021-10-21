@@ -13,15 +13,15 @@ import copy
 import numpy as np
 import pandas as pd
 
-raw_data_ = pd.read_csv('../source/Earthshine.txt',
-    delim_whitespace=True, skipinitialspace=True)
+raw_data_ = pd.read_csv('../source/Earthshine_annual_mean.csv',
+    delim_whitespace=False, skipinitialspace=True)
 upper_unc_band = pd.read_csv('../source/Earthshine_upper_uncertainty_band.csv',
     delim_whitespace=False, skipinitialspace=True)
 lower_unc_band = pd.read_csv('../source/Earthshine_lower_uncertainty_band.csv',
     delim_whitespace=False, skipinitialspace=True)
 
 proc_data = copy.deepcopy(raw_data_.round(3))
-
+proc_data["Date"] = np.round(proc_data["Date"], 0)
 proc_data["Upper error margin"] = np.round(np.interp(proc_data["Date"],
     upper_unc_band["Date"], upper_unc_band["Albedo_anomaly_upper"]), 3)
 proc_data["Lower error margin"] = np.round(np.interp(proc_data["Date"],
