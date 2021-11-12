@@ -36,6 +36,12 @@ for source_ in sources:
 #
 # Uncertainty corresponds to lognormal 1-sigma for countries in the non-Annex I group,
 # which is a high bound for developed countries (conservative estimate).
+# Methology is characterized in Section 3.3 of Crippa et al (2018):
+#
+# "Based on the assumption of lognormal distribution of the calculated uncertainties
+# (Bond et al., 2004), we evaluated the upper and lower range of emission estimates by
+# multiplying and dividing the EDGAR v4.3.2 base emissions by (1+σx,c), respectively."
+#
 # FRACTIONAL uncertainties for 1970, 1980, 1990 and yearly from 2000 to 2012 are given.
 # No data available yet for 2013-2015, so uncertainty for those years is 
 # extrapolated as equal to the uncertainty for 2012. Since the distribution is lognormal,
