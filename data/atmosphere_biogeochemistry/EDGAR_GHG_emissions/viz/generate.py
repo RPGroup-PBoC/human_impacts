@@ -5,7 +5,7 @@ import altair as alt
 import anthro.io
 
 # Generate plots for greenhouse gas emissions from EDGARv6.0 data
-sources = ['CH4']
+sources = ['CH4', 'N2O']
 # Read uncertainties from Janssens-Maenhout et al (2019)
 unc_data = pd.read_csv('../processed/uncertainty_emissions_Janssens_Maenhout.csv')
 
@@ -14,6 +14,7 @@ for source_ in sources:
     data['year'] = pd.to_datetime(data['Year'].astype(str), format='%Y', errors='coerce')
     agg_data = pd.DataFrame()
     agg_data['year'] = (data[data['C_group_IM24_sh']=='World'])['year']
+    # Convert from Gg to Tg
     agg_data['emissions'] = np.round( (data[data['C_group_IM24_sh']=='World'])['Emissions (Gg)']/1000.0, 1)
     # Construct uncertainty from relative uncertainty based on Janssens-Maenhout et al (2019), EDGARv4.3.2
     # Rthe uncertainty bands are given by [base*(1-2_sigma), base*(1+2_sigma)].
