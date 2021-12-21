@@ -1,13 +1,12 @@
 #%%
-import numpy as np 
 import pandas as pd 
 import altair as alt 
-
 
 # Load the production data. 
 data = pd.read_csv('../processed/FAOSTAT_livestock_and_product.csv')
 data['year'] = pd.to_datetime(data['year'], format='%Y')
 
+#%%
 # Generate JSON vis for subcategories
 for g, d in data.groupby('subcategory'):
     chart= alt.Chart(d).encode(
@@ -67,5 +66,40 @@ for g, d in data.groupby('subcategory'):
     p = chart.mark_point(filled=True, color='dodgerblue')
     figure = alt.layer(l, p)
     figure.save(f"{'_'.join(g.lower().split(' '))}_yield.json")
+
+# %%
+for g, d in data.groupby('subcategory'):
+    chart= alt.Chart(d).encode(
+                        x=alt.X(field="year", type="temporal", timeUnit='year',
+                                title="year"),
+                        y=alt.Y(field="producing_population_Mhd", 
+                                type="quantitative",
+                                title="producing population [millions]"),
+                       tooltip=[alt.Tooltip("year", type='temporal', timeUnit="year", title="year", format='%Y'),
+                                alt.Tooltip("producing_population_Mhd", type='quantitative', format="0.1f", title="population [Mhd]")]
+                      ).properties(width="container", 
+                                    height=300
+                      ).mark_line(color='dodgerblue')
+    l = chart.mark_line(color='dodgerblue')
+    p = chart.mark_point(filled=True, color='dodgerblue')
+    figure = alt.layer(l, p)
+    figure.save(f"{'_'.join(g.lower().split(' '))}_producing_pop.json")
+# %%
+for g, d in data.groupby('category'):
+    chart= alt.Chart(d).encode(
+                        x=alt.X(field="year", type="temporal", timeUnit='year',
+                                title="year"),
+                        y=alt.Y(field="producing_population_Mhd", 
+                                type="quantitative",
+                                title="producing population [millions]"),
+                       tooltip=[alt.Tooltip("year", type='temporal', timeUnit="year", title="year", format='%Y'),
+                                alt.Tooltip("producing_population_Mhd", type='quantitative', format="0.1f", title="population [Mhd]")]
+                      ).properties(width="container", 
+                                    height=300
+                      ).mark_line(color='dodgerblue')
+    l = chart.mark_line(color='dodgerblue')
+    p = chart.mark_point(filled=True, color='dodgerblue')
+    figure = alt.layer(l, p)
+    figure.save(f"{'_'.join(g.lower().split(' '))}_producing_pop.json")
 
 # %%
