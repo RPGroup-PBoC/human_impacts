@@ -6,7 +6,7 @@
 # and returns a csv file with the processed time series.
 # Data is provided in ppm (parts per million).
 #
-# Last updated: Dec 2020
+# Last updated: Jan 2022
 # Author: Ignacio Lopez-Gomez
 # 
 #################
@@ -51,4 +51,4 @@ data_tidy = proc_data_.melt(id_vars=proc_data_.columns[:3],
                                 var_name="Reported value", 
                                 value_name="Concentration (ppm)")
 # # # Save to file, stripped of index
-data_tidy.to_csv(r'monthly_co2_data_processed.csv', index = False)
+data_tidy.to_csv(r'../processed/monthly_co2_data_processed.csv', index = False)
