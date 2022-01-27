@@ -17,7 +17,7 @@ agg_data['upper bound'] = agg_data['concentration'] + 1.96*agg_data['total error
 chart = alt.Chart(agg_data).encode(
             x=alt.X(field='date', type='temporal', timeUnit='yearmonth', title='date'),
             y=alt.Y(field=r'concentration', type='quantitative', title=r'[CH4] (ppb)',
-                scale=alt.Scale(domain=[1600, 1900])),
+                scale=alt.Scale(domain=[1600, 1950])),
             tooltip=[alt.Tooltip(field='date', type='temporal', title='date', format='%Y, %m'),
                      alt.Tooltip(field=r'concentration', type='nominal', title=r'concentration')]
             ).properties(width='container', height=300)
