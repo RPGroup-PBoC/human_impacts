@@ -1,0 +1,933 @@
+ISO3,country,wastewater_type,nitrogen_input_kg
+ABW,aruba,direct,565
+ABW,aruba,septic,2270
+ABW,aruba,sewer,60500
+ABW,aruba,total,63300
+AFG,afghanistan,direct,8710000
+AFG,afghanistan,septic,555000
+AFG,afghanistan,sewer,711000
+AFG,afghanistan,total,9970000
+AGO,angola,direct,3180000
+AGO,angola,septic,1060000
+AGO,angola,sewer,3220000
+AGO,angola,total,7470000
+AIA,anguilla,direct,777
+AIA,anguilla,septic,2440
+AIA,anguilla,sewer,3010
+AIA,anguilla,total,6220
+ALA,aland islands,direct,2620
+ALA,aland islands,septic,135
+ALA,aland islands,sewer,37500
+ALA,aland islands,total,41200
+ALB,albania,direct,156000
+ALB,albania,septic,21000
+ALB,albania,sewer,4730000
+ALB,albania,total,4910000
+AND,andorra,direct,5710
+AND,andorra,septic,108000
+AND,andorra,sewer,107000
+AND,andorra,total,123000
+ARE,united arab emirates,direct,472000
+ARE,united arab emirates,septic,117000
+ARE,united arab emirates,sewer,398000
+ARE,united arab emirates,total,987000
+ARG,argentina,direct,5700000
+ARG,argentina,septic,1680000
+ARG,argentina,sewer,32800000
+ARG,argentina,total,40200000
+ASM,american samoa,direct,5700000
+ASM,american samoa,septic,2030
+ASM,american samoa,sewer,11700
+ASM,american samoa,total,17200
+ATG,antigua and barbuda,direct,4870
+ATG,antigua and barbuda,septic,3800
+ATG,antigua and barbuda,sewer,38300
+ATG,antigua and barbuda,total,46900
+AUS,australia,direct,683000
+AUS,australia,septic,522000
+AUS,australia,sewer,1880000
+AUS,australia,total,3080000
+AUT,austria,direct,529000
+AUT,austria,septic,241000
+AUT,austria,sewer,12500000
+AUT,austria,total,13300000
+BDI,burundi,direct,2950000
+BDI,burundi,septic,153000
+BDI,burundi,sewer,350000
+BDI,burundi,total,3460000
+BEL,belgium,direct,390000
+BEL,belgium,septic,129000
+BEL,belgium,sewer,520000
+BEL,belgium,total,1040000
+BEN,benin,direct,4700000
+BEN,benin,septic,64200
+BEN,benin,sewer,224000
+BEN,benin,total,4990000
+BES,caribbean netherlands,direct,5230
+BES,caribbean netherlands,septic,1010
+BES,caribbean netherlands,sewer,4290
+BES,caribbean netherlands,total,10500
+BFA,burkina faso,direct,12800000
+BFA,burkina faso,septic,111000
+BFA,burkina faso,sewer,495000
+BFA,burkina faso,total,13400000
+BGD,bangladesh,direct,83800000
+BGD,bangladesh,septic,5240000
+BGD,bangladesh,sewer,17100000
+BGD,bangladesh,total,106000000
+BGR,bulgaria,direct,3240000
+BGR,bulgaria,septic,412000
+BGR,bulgaria,sewer,5860000
+BGR,bulgaria,total,9510000
+BHR,bahrain,direct,34500
+BHR,bahrain,septic,11500
+BHR,bahrain,sewer,62500
+BHR,bahrain,total,109000
+BIH,bosnia and herzegovina,direct,342000
+BIH,bosnia and herzegovina,septic,416000
+BIH,bosnia and herzegovina,sewer,3530000
+BIH,bosnia and herzegovina,total,4290000
+BLM,saint barthelemy,direct,1750
+BLM,saint barthelemy,septic,1110
+BLM,saint barthelemy,sewer,2230
+BLM,saint barthelemy,total,5080
+BLR,belarus,direct,767000
+BLR,belarus,septic,123000
+BLR,belarus,sewer,11700000
+BLR,belarus,total,12600000
+BLZ,belize,direct,83300
+BLZ,belize,septic,50700
+BLZ,belize,sewer,64000
+BLZ,belize,total,198000
+BMU,bermuda,direct,38500
+BMU,bermuda,septic,1490
+BMU,bermuda,sewer,10000
+BMU,bermuda,total,50100
+BOL,bolivia,direct,2750000
+BOL,bolivia,septic,182000
+BOL,bolivia,sewer,4800000
+BOL,bolivia,total,7730000
+BRA,brazil,direct,64000000
+BRA,brazil,septic,7470000
+BRA,brazil,sewer,171000000
+BRA,brazil,total,244000000
+BRB,barbados,direct,189000
+BRB,barbados,septic,3090
+BRB,barbados,sewer,12200
+BRB,barbados,total,204000
+BRN,brunei,direct,37000
+BRN,brunei,septic,93700
+BRN,brunei,sewer,47200
+BRN,brunei,total,178000
+BTN,bhutan,direct,445000
+BTN,bhutan,septic,102000
+BTN,bhutan,sewer,42300
+BTN,bhutan,total,589000
+BWA,botswana,direct,1140000
+BWA,botswana,septic,11500
+BWA,botswana,sewer,32900
+BWA,botswana,total,1180000
+CAF,central african republic,direct,1680000
+CAF,central african republic,septic,4460
+CAF,central african republic,sewer,25800
+CAF,central african republic,total,1710000
+CAN,canada,direct,2110000
+CAN,canada,septic,910000
+CAN,canada,sewer,27800000
+CAN,canada,total,30800000
+CCK,keeling islands,direct,68.3
+CCK,keeling islands,septic,14
+CCK,keeling islands,sewer,2.88
+CCK,keeling islands,total,85.2
+CHE,switzerland,direct,554000
+CHE,switzerland,septic,48800
+CHE,switzerland,sewer,11400000
+CHE,switzerland,total,12100000
+CHL,chile,direct,1180000
+CHL,chile,septic,516000
+CHL,chile,sewer,20100000
+CHL,chile,total,21800000
+CHN,china,direct,543000000
+CHN,china,septic,14300000
+CHN,china,sewer,1340000000
+CHN,china,total,1890000000
+CIV,cote d’ivorie,direct,8140000
+CIV,cote d’ivorie,septic,402000
+CIV,cote d’ivorie,sewer,1700000
+CIV,cote d’ivorie,total,10200000
+CMR,cameroon,direct,15100000
+CMR,cameroon,septic,656000
+CMR,cameroon,sewer,224000
+CMR,cameroon,total,15900000
+COD,congo kinshasa,direct,30700000
+COD,congo kinshasa,septic,616000
+COD,congo kinshasa,sewer,634000
+COD,congo kinshasa,total,31900000
+COG,congo brazzaville,direct,1980000
+COG,congo brazzaville,septic,72100
+COG,congo brazzaville,sewer,58900
+COG,congo brazzaville,total,2110000
+COK,cook Islands,direct,4280
+COK,cook Islands,septic,3030
+COK,cook Islands,sewer,264
+COK,cook Islands,total,7570
+COL,colombia,direct,3020000
+COL,colombia,septic,1120000
+COL,colombia,sewer,38700000
+COL,colombia,total,42900000
+COM,comoros,direct,750000
+COM,comoros,septic,14600
+COM,comoros,sewer,54400
+COM,comoros,total,819000
+CPV,cape verde,direct,22000
+CPV,cape verde,septic,10000
+CPV,cape verde,sewer,1290000
+CPV,cape verde,total,2760000
+CRI,costa rica,direct,297000
+CRI,costa rica,septic,1170000
+CRI,costa rica,sewer,1290000
+CRI,costa rica,total,2760000
+CUB,cuba,direct,2700000
+CUB,cuba,septic,542000
+CUB,cuba,sewer,7850000
+CUB,cuba,total,11100000
+CUW,curucao,direct,683
+CUW,curucao,septic,3700
+CUW,curucao,sewer,79900
+CUW,curucao,total,84300
+CXR,christmas island,direct,457
+CXR,christmas island,septic,93.7
+CXR,christmas island,sewer,71.6
+CXR,christmas island,total,622
+CYM,cayman Islands,direct,9030
+CYM,cayman Islands,septic,10000
+CYM,cayman Islands,sewer,18900
+CYM,cayman Islands,total,38000
+CYP,cyprus,direct,21000
+CYP,cyprus,septic,55900
+CYP,cyprus,sewer,519000
+CYP,cyprus,total,596000
+CZE,czech republic,direct,547000
+CZE,czech republic,septic,365000
+CZE,czech republic,sewer,11800000
+CZE,czech republic,total,12700000
+DEU,germany,direct,2800000
+DEU,germany,septic,904000
+DEU,germany,sewer,103000000
+DEU,germany,total,106000000
+DJI,djibouti,direct,365000
+DJI,djibouti,septic,12700
+DJI,djibouti,sewer,47900
+DJI,djibouti,total,426000
+DMA,dominican republic,direct,34500
+DMA,dominican republic,septic,11500
+DMA,dominican republic,sewer,19600
+DMA,dominican republic,total,65600
+DZA,algeria,direct,2050000
+DZA,algeria,septic,356000
+DZA,algeria,sewer,6620000
+DZA,algeria,total,8310000
+ECU,ecuador,direct,1160000
+ECU,ecuador,septic,538000
+ECU,ecuador,sewer,6620000
+ECU,ecuador,total,8310000
+EGY,egypt,direct,2930000
+EGY,egypt,septic,1800000
+EGY,egypt,sewer,125000000
+EGY,egypt,total,130000000
+ERI,eritrea,direct,1950000
+ERI,eritrea,septic,47800
+ERI,eritrea,sewer,214000
+ERI,eritrea,total,2210000
+ESH,western sahara,direct,57000
+ESH,western sahara,septic,11100
+ESH,western sahara,sewer,235000
+ESH,western sahara,total,303000
+ESP,spain,direct,1460000
+ESP,spain,septic,103000
+ESP,spain,sewer,52700000
+ESP,spain,total,54200000
+EST,estonia,direct,197000
+EST,estonia,septic,13000
+EST,estonia,sewer,1760000
+EST,estonia,total,1970000
+ETH,ethiopia,direct,21200000
+ETH,ethiopia,septic,386000
+ETH,ethiopia,sewer,1230000
+ETH,ethiopia,total,22800000
+FIN,finland,direct,2570000
+FIN,finland,septic,13300
+FIN,finland,sewer,6180000
+FIN,finland,total,876000
+FJI,fiji,direct,779000
+FJI,fiji,septic,26300
+FJI,fiji,sewer,93100
+FJI,fiji,total,898000
+FLK,falkland islands,direct,6.29
+FLK,falkland islands,septic,18.9
+FLK,falkland islands,sewer,3180
+FLK,falkland islands,total,3200
+FRA,france,direct,2160000
+FRA,france,septic,2570000
+FRA,france,sewer,6620000
+FRA,france,total,11400000
+FRO,faroe islands,direct,4570
+FRO,faroe islands,septic,7460
+FRO,faroe islands,sewer,29600
+FRO,faroe islands,total,41600
+FSM,micronesia,direct,16500
+FSM,micronesia,septic,5070
+FSM,micronesia,sewer,14600
+FSM,micronesia,total,36100
+GAB,gabon,direct,1470000
+GAB,gabon,septic,30700
+GAB,gabon,sewer,611000
+GAB,gabon,total,2110000
+GBR,united kingdom,direct,1610000
+GBR,united kingdom,septic,431000
+GBR,united kingdom,sewer,66100000
+GBR,united kingdom,total,68200000
+GEO,georgia,direct,1100000
+GEO,georgia,septic,8920
+GEO,georgia,sewer,1030000
+GEO,georgia,total,2140000
+GGY,guernsey,direct,2540
+GGY,guernsey,septic,270
+GGY,guernsey,sewer,96700
+GGY,guernsey,total,99500
+GHA,ghana,direct,12200000
+GHA,ghana,septic,634000
+GHA,ghana,sewer,1270000
+GHA,ghana,total,14100000
+GIB,gibraltar,direct,2230
+GIB,gibraltar,septic,1510
+GIB,gibraltar,sewer,57300
+GIB,gibraltar,total,61000
+GIN,guinea,direct,7380000
+GIN,guinea,septic,270000
+GIN,guinea,sewer,334000
+GIN,guinea,total,7990000
+GLP,guadeloupe,direct,67100
+GLP,guadeloupe,septic,42500
+GLP,guadeloupe,sewer,99300
+GLP,guadeloupe,total,209000
+GMB,gambia,direct,614000
+GMB,gambia,septic,30700
+GMB,gambia,sewer,63000
+GMB,gambia,total,708000
+GNB,guinea-bissau,direct,425000
+GNB,guinea-bissau,septic,18000
+GNB,guinea-bissau,sewer,49000
+GNB,guinea-bissau,total,492000
+GNQ,equatorial guinea,direct,1410000
+GNQ,equatorial guinea,septic,21400
+GNQ,equatorial guinea,sewer,144000
+GNQ,equatorial guinea,total,1580000
+GRC,greece,direct,409000
+GRC,greece,septic,707000
+GRC,greece,sewer,13000000
+GRC,greece,total,14200000
+GRD,grenada,direct,32500
+GRD,grenada,septic,11100
+GRD,grenada,sewer,28800
+GRD,grenada,total,72400
+GRL,greenland,direct,2040
+GRL,greenland,septic,1170
+GRL,greenland,sewer,2490
+GRL,greenland,total,5700
+GTM,guatemala,direct,6040000
+GTM,guatemala,septic,376000
+GTM,guatemala,sewer,9250000
+GTM,guatemala,total,15700000
+GUF,french guiana,direct,69500
+GUF,french guiana,septic,31000
+GUF,french guiana,sewer,58000
+GUF,french guiana,total,158000
+GUM,guam,direct,9420
+GUM,guam,septic,13000
+GUM,guam,sewer,29200
+GUM,guam,total,51600
+GUY,guyana,direct,197000
+GUY,guyana,septic,129000
+GUY,guyana,sewer,50600
+GUY,guyana,total,377000
+HKG,hong kong sar china,direct,1270000
+HKG,hong kong sar china,septic,91000
+HKG,hong kong sar china,sewer,12900000
+HKG,hong kong sar china,total,14300000
+HND,honduras,direct,2840000
+HND,honduras,septic,396000
+HND,honduras,sewer,3110000
+HND,honduras,total,6340000
+HRV,croatia,direct,290000
+HRV,croatia,septic,331000
+HRV,croatia,sewer,3150000
+HRV,croatia,total,3770000
+HTI,haiti,direct,6230000
+HTI,haiti,septic,270000
+HTI,haiti,sewer,95900
+HTI,haiti,total,6600000
+HUN,hungary,direct,2240000
+HUN,hungary,septic,295000
+HUN,hungary,sewer,8570000
+HUN,hungary,total,11100000
+IDN,indonesia,direct,45900000
+IDN,indonesia,septic,40700000
+IDN,indonesia,sewer,24400000
+IDN,indonesia,total,111000000
+IMN,isle of man,direct,14300
+IMN,isle of man,septic,1730
+IMN,isle of man,sewer,126000
+IMN,isle of man,total,142000
+IND,india,direct,324000000
+IND,india,septic,69200000
+IND,india,sewer,266000000
+IND,india,total,659000000
+IRL,ireland,direct,647000
+IRL,ireland,septic,450000
+IRL,ireland,sewer,4320000
+IRL,ireland,total,5420000
+IRN,iran,direct,15200000
+IRN,iran,septic,55800
+IRN,iran,sewer,6650000
+IRN,iran,total,21900000
+IRQ,iraq,direct,4810000
+IRQ,iraq,septic,2550000
+IRQ,iraq,sewer,10500000
+IRQ,iraq,total,17900000
+ISL,iceland,direct,15400
+ISL,iceland,septic,7200
+ISL,iceland,sewer,19700
+ISL,iceland,total,42300
+ISR,israel,direct,201000
+ISR,israel,septic,26700
+ISR,israel,sewer,14200000
+ISR,israel,total,14400000
+ITA,italy,direct,5930000
+ITA,italy,septic,4110000
+ITA,italy,sewer,91100000
+ITA,italy,total,101000000
+JAM,jamaica,direct,1170000
+JAM,jamaica,septic,150000
+JAM,jamaica,sewer,951000
+JAM,jamaica,total,2270000
+JEY,jersey,direct,5190
+JEY,jersey,septic,468
+JEY,jersey,sewer,148000
+JEY,jersey,total,154000
+JOR,jordan,direct,5510
+JOR,jordan,septic,11700
+JOR,jordan,sewer,110000
+JOR,jordan,total,127000
+JPN,japan,direct,14300000
+JPN,japan,septic,7830000
+JPN,japan,sewer,14800000
+JPN,japan,total,36900000
+KAZ,kazakhstan,direct,2540000
+KAZ,kazakhstan,septic,80400
+KAZ,kazakhstan,sewer,3540000
+KAZ,kazakhstan,total,6160000
+KEN,kenya,direct,20500000
+KEN,kenya,septic,306000
+KEN,kenya,sewer,4430000
+KEN,kenya,total,25200000
+KHM,cambodia,direct,3690000
+KHM,cambodia,septic,1220000
+KHM,cambodia,sewer,3800000
+KHM,cambodia,total,8720000
+KIR,kiribati,direct,54900
+KIR,kiribati,septic,5370
+KIR,kiribati,sewer,13700
+KIR,kiribati,total,74000
+KNA,saint kitts & nevis,direct,13200
+KNA,saint kitts & nevis,septic,2830
+KNA,saint kitts & nevis,sewer,5380
+KNA,saint kitts & nevis,total,21500
+KOR,south korea,direct,3180000
+KOR,south korea,septic,131000
+KOR,south korea,sewer,277000
+KOR,south korea,total,3590000
+KWT,kuwait,direct,105000
+KWT,kuwait,septic,83600
+KWT,kuwait,sewer,4280000
+KWT,kuwait,total,4470000
+LAO,laos,direct,7410000
+LAO,laos,septic,307000
+LAO,laos,sewer,107000
+LAO,laos,total,7830000
+LBN,lebanon,direct,1070000
+LBN,lebanon,septic,10300
+LBN,lebanon,sewer,42400
+LBN,lebanon,total,1130000
+LBR,liberia,direct,2220000
+LBR,liberia,septic,98100
+LBR,liberia,sewer,37400
+LBR,liberia,total,2360000
+LBY,libya,direct,1220000
+LBY,libya,septic,81000
+LBY,libya,sewer,272000
+LBY,libya,total,82500
+LCA,saint lucia,direct,25300
+LCA,saint lucia,septic,36900
+LCA,saint lucia,sewer,20300
+LCA,saint lucia,total,82500
+LIE,liechtenstein,direct,2880
+LIE,liechtenstein,septic,220
+LIE,liechtenstein,sewer,18900
+LIE,liechtenstein,total,22000
+LKA,sri lanka,direct,14500000
+LKA,sri lanka,septic,122000
+LKA,sri lanka,sewer,1260000
+LKA,sri lanka,total,15900000
+LSO,lesotho,direct,14500000
+LSO,lesotho,septic,122000
+LSO,lesotho,sewer,1260000
+LSO,lesotho,total,17200000
+LTU,lithuania,direct,389000
+LTU,lithuania,septic,44200
+LTU,lithuania,sewer,5010000
+LTU,lithuania,total,5440000
+LUX,luxembourg,direct,33100
+LUX,luxembourg,septic,14200
+LUX,luxembourg,sewer,913000
+LUX,luxembourg,total,960000
+LVA,latvia,direct,228000
+LVA,latvia,septic,12200
+LVA,latvia,sewer,2410000
+LVA,latvia,total,2650000
+MAC,macao sar china,direct,44500
+MAC,macao sar china,septic,1350
+MAC,macao sar china,sewer,648000
+MAC,macao sar china,total,694000
+MAF,french saint martin,direct,2410
+MAF,french saint martin,septic,1240
+MAF,french saint martin,sewer,10100
+MAF,french saint martin,total,13700
+MAR,morocco,direct,6470000
+MAR,morocco,septic,1710000
+MAR,morocco,sewer,31600000
+MAR,morocco,total,39700000
+MCO,monaco,direct,1180
+MCO,monaco,septic,536
+MCO,monaco,sewer,68600
+MCO,monaco,total,70300
+MDA,moldova,direct,2060000
+MDA,moldova,septic,72100
+MDA,moldova,sewer,1890000
+MDA,moldova,total,4030000
+MDG,madagascar,direct,16200000
+MDG,madagascar,septic,293000
+MDG,madagascar,sewer,276000
+MDG,madagascar,total,16700000
+MDV,maldives,direct,29200
+MDV,maldives,septic,24900
+MDV,maldives,sewer,89000
+MDV,maldives,total,143000
+MEX,mexico,direct,11800000
+MEX,mexico,septic,4330000
+MEX,mexico,sewer,120000000
+MEX,mexico,total,137000000
+MHL,marshall islands,direct,13100
+MHL,marshall islands,septic,4720
+MHL,marshall islands,sewer,11000
+MHL,marshall islands,total,28800
+MKD,north macedonia,direct,325000
+MKD,north macedonia,septic,49500
+MKD,north macedonia,sewer,2010000
+MKD,north macedonia,total,2390000
+MLI,mali,direct,16300000
+MLI,mali,septic,169000
+MLI,mali,sewer,546000
+MLI,mali,total,17000000
+MLT,malta,direct,10700
+MLT,malta,septic,1040
+MLT,malta,sewer,684000
+MLT,malta,total,696000
+MMR,myanmar,direct,59300000
+MMR,myanmar,septic,2260000
+MMR,myanmar,sewer,743000
+MMR,myanmar,total,62300000
+MNE,montenegro,direct,53400
+MNE,montenegro,septic,98800
+MNE,montenegro,sewer,369000
+MNE,montenegro,total,521000
+MNG,mongolia,direct,2222000
+MNG,mongolia,septic,5880
+MNG,mongolia,sewer,647000
+MNG,mongolia,total,2870000
+MNP,northern mariana islands,direct,1970
+MNP,northern mariana islands,septic,3790
+MNP,northern mariana islands,sewer,14900
+MNP,northern mariana islands,total,20600
+MOZ,mozambique,direct,9450000
+MOZ,mozambique,septic,265000
+MOZ,mozambique,sewer,461000
+MOZ,mozambique,total,10200000
+MRT,maruitania,direct,2910000
+MRT,maruitania,septic,158000
+MRT,maruitania,sewer,188000
+MRT,maruitania,total,3250000
+MSR,montserrat,direct,163
+MSR,montserrat,septic,42.7
+MSR,montserrat,sewer,2080
+MSR,montserrat,total,2280
+MTQ,martinique,direct,19000
+MTQ,martinique,septic,49900
+MTQ,martinique,sewer,113000
+MTQ,martinique,total,181000
+MUS,mauritius,direct,64800
+MUS,mauritius,septic,1180
+MUS,mauritius,sewer,693000
+MUS,mauritius,total,759000
+MWI,malawi,direct,10200000
+MWI,malawi,septic,73900
+MWI,malawi,sewer,378000
+MWI,malawi,total,10700000
+MYS,malaysia,direct,1270000
+MYS,malaysia,septic,1990000
+MYS,malaysia,sewer,3840000
+MYS,malaysia,total,7100000
+MYT,mayotte,direct,104000
+MYT,mayotte,septic,15500
+MYT,mayotte,sewer,28600
+MYT,mayotte,total,148000
+NAM,namibia,direct,434000
+NAM,namibia,septic,4290
+NAM,namibia,sewer,443000
+NAM,namibia,total,881000
+NCL,new caledonia,direct,145000
+NCL,new caledonia,septic,11700
+NCL,new caledonia,sewer,42400
+NCL,new caledonia,total,199000
+NER,niger,direct,16100000
+NER,niger,septic,260000
+NER,niger,sewer,463000
+NER,niger,total,16800000
+NFK,norfolk island,direct,16100000
+NFK,norfolk island,septic,260000
+NFK,norfolk island,sewer,463000
+NFK,norfolk island,total,16800000
+NGA,nigeria,direct,68600000
+NGA,nigeria,septic,4870000
+NGA,nigeria,sewer,18600000
+NGA,nigeria,total,92100000
+NIC,nicaragua,direct,3590000
+NIC,nicaragua,septic,176000
+NIC,nicaragua,sewer,2140000
+NIC,nicaragua,total,5910000
+NIU,niue,direct,23.3
+NIU,niue,septic,22.8
+NIU,niue,sewer,760
+NIU,niue,total,806
+NLD,netherlands,direct,327000
+NLD,netherlands,septic,37700
+NLD,netherlands,sewer,17400000
+NLD,netherlands,total,17800000
+NOR,norway,direct,331000
+NOR,norway,septic,234000
+NOR,norway,sewer,532000
+NOR,norway,total,1100000
+NPL,nepal,direct,13700000
+NPL,nepal,septic,3370000
+NPL,nepal,sewer,3540000
+NPL,nepal,total,20600000
+NRU,nauru,direct,8670
+NRU,nauru,septic,1060
+NRU,nauru,sewer,2460
+NRU,nauru,total,12200
+NZL,new zealand,direct,383000
+NZL,new zealand,septic,163000
+NZL,new zealand,sewer,372000
+NZL,new zealand,total,918000
+OMN,oman,direct,365000
+OMN,oman,septic,921000
+OMN,oman,sewer,568000
+OMN,oman,total,1850000
+PAK,pakistan,direct,39500000
+PAK,pakistan,septic,5950000
+PAK,pakistan,sewer,81100000
+PAK,pakistan,total,127000000
+PAN,panama,direct,1300000
+PAN,panama,septic,328000
+PAN,panama,sewer,1710000
+PAN,panama,total,3340000
+PCN,pitcairn islands,direct,27.9
+PCN,pitcairn islands,septic,18.8
+PCN,pitcairn islands,sewer,1.81
+PCN,pitcairn islands,total,48.5
+PER,peru,direct,8300000
+PER,peru,septic,499000
+PER,peru,sewer,23000000
+PER,peru,total,31800000
+PHL,philippines,direct,18500000
+PHL,philippines,septic,15600000
+PHL,philippines,sewer,4000000
+PHL,philippines,total,38000000
+PLW,palau,direct,372
+PLW,palau,septic,2180
+PLW,palau,sewer,8690
+PLW,palau,total,11200
+PNG,papua new guinea,direct,6230000
+PNG,papua new guinea,septic,424000
+PNG,papua new guinea,sewer,1530000
+PNG,papua new guinea,total,8180000
+POL,poland,direct,2910000
+POL,poland,septic,2080000
+POL,poland,sewer,6130000
+POL,poland,total,11100000
+PRI,puerto rico,direct,257000
+PRI,puerto rico,septic,400000
+PRI,puerto rico,sewer,862000
+PRI,puerto rico,total,1520000
+PRK,north korea,direct,12900000
+PRK,north korea,septic,483000
+PRK,north korea,sewer,13400000
+PRK,north korea,total,26800000
+PRT,portugal,direct,795000
+PRT,portugal,septic,598000
+PRT,portugal,sewer,10600000
+PRT,portugal,total,12000000
+PRY,paraguay,direct,1290000
+PRY,paraguay,septic,483000
+PRY,paraguay,sewer,13400000
+PRY,paraguay,total,26800000
+PSE,palestinian territories,direct,164000
+PSE,palestinian territories,septic,132000
+PSE,palestinian territories,sewer,2990000
+PSE,palestinian territories,total,3280000
+PYF,french polynesia,direct,39200
+PYF,french polynesia,septic,44500
+PYF,french polynesia,sewer,115000
+PYF,french polynesia,total,199000
+QAT,qatar,direct,50300
+QAT,qatar,septic,41100
+QAT,qatar,sewer,200000
+QAT,qatar,total,291000
+REU,reunion,direct,5090
+REU,reunion,septic,9710
+REU,reunion,sewer,141000
+REU,reunion,total,156000
+ROU,romania,direct,158000
+ROU,romania,septic,118000
+ROU,romania,sewer,343000
+ROU,romania,total,16300000
+RUS,russia,direct,19000000
+RUS,russia,septic,506000
+RUS,russia,sewer,73700000
+RUS,russia,total,93300000
+RWA,rwanda,direct,5060000
+RWA,rwanda,septic,25300
+RWA,rwanda,sewer,417000
+RWA,rwanda,total,5500000
+SAU,saudi arabia,direct,440000
+SAU,saudi arabia,septic,1360000
+SAU,saudi arabia,sewer,4500000
+SAU,saudi arabia,total,6300000
+SDN,sudan,direct,22400000
+SDN,sudan,septic,680000
+SDN,sudan,sewer,875000
+SDN,sudan,total,23900000
+SEN,senegal,direct,3820000
+SEN,senegal,septic,580000
+SEN,senegal,sewer,1850000
+SEN,senegal,total,6250000
+SGP,singapore,direct,230000
+SGP,singapore,septic,948000
+SGP,singapore,sewer,8720000
+SGP,singapore,total,9890000
+SHN,saint helena,direct,13.7
+SHN,saint helena,septic,43.5
+SHN,saint helena,sewer,752
+SHN,saint helena,total,810
+SJM,svalbard and jan mayen,direct,523
+SJM,svalbard and jan mayen,septic,64
+SJM,svalbard and jan mayen,sewer,3370
+SJM,svalbard and jan mayen,total,3960
+SLB,soloman islands,direct,398000
+SLB,soloman islands,septic,10500
+SLB,soloman islands,sewer,26200
+SLB,soloman islands,total,435000
+SLE,sierra leone,direct,6180000
+SLE,sierra leone,septic,74100
+SLE,sierra leone,sewer,58700
+SLE,sierra leone,total,6310000
+SLV,el salvador,direct,2860000
+SLV,el salvador,septic,232000
+SLV,el salvador,sewer,3050000
+SLV,el salvador,total,6130000
+SMR,san marino,direct,1060
+SMR,san marino,septic,1090
+SMR,san marino,sewer,7240
+SMR,san marino,total,9390
+SOM,somalia,direct,5750000
+SOM,somalia,septic,80200
+SOM,somalia,sewer,1350000
+SOM,somalia,total,7170000
+SPM,sain pierre and miquelon,direct,54.5
+SPM,sain pierre and miquelon,septic,142
+SPM,sain pierre and miquelon,sewer,7760
+SPM,sain pierre and miquelon,total,7950
+SRB,serbia,direct,473000
+SRB,serbia,septic,549000
+SRB,serbia,sewer,5250000
+SRB,serbia,total,6270000
+SSD,south sudan,direct,8200000
+SSD,south sudan,septic,257000
+SSD,south sudan,sewer,127000
+SSD,south sudan,total,8580000
+STP,sao tome and principe,direct,126000
+STP,sao tome and principe,septic,900
+STP,sao tome and principe,sewer,16800
+STP,sao tome and principe,total,144000
+SUR,suriname,direct,85300
+SUR,suriname,septic,88700
+SUR,suriname,sewer,10700
+SUR,suriname,total,185000
+SVK,slovakia,direct,435000
+SVK,slovakia,septic,379000
+SVK,slovakia,sewer,4090000
+SVK,slovakia,total,4900000
+SVN,slovenia,direct,472000
+SVN,slovenia,septic,234000
+SVN,slovenia,sewer,481000
+SVN,slovenia,total,1190000
+SWE,sweden,direct,433000
+SWE,sweden,septic,370000
+SWE,sweden,sewer,12900000
+SWE,sweden,total,13700000
+SWZ,eswatini,direct,911000
+SWZ,eswatini,septic,11300
+SWZ,eswatini,sewer,154000
+SWZ,eswatini,total,1080000
+ SXM,sint maarten,direct,14200
+ SXM,sint maarten,septic,2950
+ SXM,sint maarten,sewer,9980
+ SXM,sint maarten,total,27100
+SYC,seychelles,direct,1260
+SYC,seychelles,septic,6890
+SYC,seychelles,sewer,36900
+SYC,seychelles,total,45100
+SYR,syria,direct,2160000
+SYR,syria,septic,6890
+SYR,syria,sewer,36900
+SYR,syria,total,45100
+TCA,turks and caicos islands,direct,3330
+TCA,turks and caicos islands,septic,1390
+TCA,turks and caicos islands,sewer,12800
+TCA,turks and caicos islands,total,17500
+TCD,chad,direct,772000
+TCD,chad,septic,0.00587
+TCD,chad,sewer,24300
+TCD,chad,total,802000
+TGO,togo,direct,2450000
+TGO,togo,septic,163000
+TGO,togo,sewer,71300
+TGO,togo,total,2690000
+THA,thailand,direct,2830000
+THA,thailand,septic,9510000
+THA,thailand,sewer,5350000
+THA,thailand,total,17700000
+TKL,tokelau,direct,205
+TKL,tokelau,septic,138
+TKL,tokelau,sewer,6.49
+TKL,tokelau,total,349
+TLS,timor-leste,direct,760000
+TLS,timor-leste,septic,42200
+TLS,timor-leste,sewer,120000
+TLS,timor-leste,total,868000
+TON,tonga,direct,6300
+TON,tonga,septic,6180
+TON,tonga,sewer,1200
+TON,tonga,total,13700
+TTO,trinidad and tobago,direct,118000
+TTO,trinidad and tobago,septic,219000
+TTO,trinidad and tobago,sewer,551000
+TTO,trinidad and tobago,total,888000
+TUN,tunisia,direct,1280000
+TUN,tunisia,septic,349000
+TUN,tunisia,sewer,9730000
+TUN,tunisia,total,11400000
+TUR,turkey,direct,5420000
+TUR,turkey,septic,2420000
+TUR,turkey,sewer,99900000
+TUR,turkey,total,108000000
+TUV,tuvalu,direct,9510000
+TUV,tuvalu,septic,124
+TUV,tuvalu,sewer,1500
+TUV,tuvalu,total,2580
+TWN,taiwan,direct,9800000
+TWN,taiwan,septic,257000
+TWN,taiwan,sewer,23300000
+TWN,taiwan,total,33300000
+TZA,tanzania,direct,19100000
+TZA,tanzania,septic,456000
+TZA,tanzania,sewer,781000
+TZA,tanzania,total,20300000
+UGA,uganda,direct,11800000
+UGA,uganda,septic,134000
+UGA,uganda,sewer,616000
+UGA,uganda,total,12600000
+UKR,ukraine,direct,24800000
+UKR,ukraine,septic,158000
+UKR,ukraine,sewer,30200000
+UKR,ukraine,total,55200000
+URY,uruguay,direct,115000
+URY,uruguay,septic,164000
+URY,uruguay,sewer,2520000
+URY,uruguay,total,2800000
+USA,united states,direct,8800000
+USA,united states,septic,14900000
+USA,united states,sewer,334000000
+USA,united states,total,358000000
+VAT,vatican city,direct,1280
+VAT,vatican city,septic,451
+VAT,vatican city,sewer,65800
+VAT,vatican city,total,67500
+VCT,saint vincent and grenadines,direct,36900
+VCT,saint vincent and grenadines,septic,18900
+VCT,saint vincent and grenadines,sewer,41200
+VCT,saint vincent and grenadines,total,97100
+VEN,venezuela,direct,1680000
+VEN,venezuela,septic,331000
+VEN,venezuela,sewer,1010000
+VEN,venezuela,total,3010000
+VGB,british virgin islands,direct,1520
+VGB,british virgin islands,septic,3910
+VGB,british virgin islands,sewer,11500
+VGB,british virgin islands,total,16900
+VIR,us virgin islands,direct,2310
+VIR,us virgin islands,septic,8660
+VIR,us virgin islands,sewer,39200
+VIR,us virgin islands,total,50100
+VNM,vietnam,direct,15300000
+VNM,vietnam,septic,10600
+VNM,vietnam,sewer,29200
+VNM,vietnam,total,193000
+VUT,vanuatu,direct,15300000
+VUT,vanuatu,septic,16700
+VUT,vanuatu,sewer,2210000
+VUT,vanuatu,total,34200000
+WLF,wallis and futuna,direct,237
+WLF,wallis and futuna,septic,160
+WLF,wallis and futuna,sewer,176
+WLF,wallis and futuna,total,572
+WSM,samoa,direct,10400
+WSM,samoa,septic,15500
+WSM,samoa,sewer,2290
+WSM,samoa,total,28200
+YEM,yemen,direct,3030000
+YEM,yemen,septic,566000
+YEM,yemen,sewer,9770000
+YEM,yemen,total,13400000
+ZAF,south africa,direct,14800000
+ZAF,south africa,septic,219000
+ZAF,south africa,sewer,42500000
+ZAF,south africa,total,57500000
+ZMB,zambia,direct,6480000
+ZMB,zambia,septic,138000
+ZMB,zambia,sewer,2240000
+ZMB,zambia,total,8860000
+ZWE,zimbabwe,direct,4850000
+ZWE,zimbabwe,septic,124000
+ZWE,zimbabwe,sewer,5650000
+ZWE,zimbabwe,total,10600000
