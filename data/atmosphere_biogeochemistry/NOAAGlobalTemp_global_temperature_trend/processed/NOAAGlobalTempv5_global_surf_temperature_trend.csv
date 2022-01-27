@@ -1,153 +1,154 @@
 year,Reported value,Temperature anomaly (K)
-1880,global mean,0.078
-1881,global mean,0.114
-1882,global mean,0.101
-1883,global mean,0.018
-1884,global mean,-0.068
-1885,global mean,-0.056
-1886,global mean,-0.048
+1880,global mean,0.08
+1881,global mean,0.116
+1882,global mean,0.1
+1883,global mean,0.014
+1884,global mean,-0.072
+1885,global mean,-0.058
+1886,global mean,-0.049
 1887,global mean,-0.092
-1888,global mean,0.057
-1889,global mean,0.098
-1890,global mean,-0.158
-1891,global mean,-0.066
-1892,global mean,-0.117
-1893,global mean,-0.134
-1894,global mean,-0.117
-1895,global mean,-0.052
-1896,global mean,0.098
-1897,global mean,0.091
-1898,global mean,-0.078
-1899,global mean,0.038
-1900,global mean,0.12
-1901,global mean,0.041
-1902,global mean,-0.059
-1903,global mean,-0.177
-1904,global mean,-0.261
-1905,global mean,-0.086
-1906,global mean,-0.012
-1907,global mean,-0.186
-1908,global mean,-0.236
-1909,global mean,-0.246
-1910,global mean,-0.208
-1911,global mean,-0.246
-1912,global mean,-0.142
-1913,global mean,-0.123
-1914,global mean,0.058
-1915,global mean,0.104
-1916,global mean,-0.125
-1917,global mean,-0.197
-1918,global mean,-0.103
-1919,global mean,-0.049
-1920,global mean,-0.032
-1921,global mean,0.038
-1922,global mean,-0.044
-1923,global mean,-0.05
-1924,global mean,-0.043
-1925,global mean,0.02
-1926,global mean,0.125
-1927,global mean,0.027
-1928,global mean,0.018
-1929,global mean,-0.128
-1930,global mean,0.089
-1931,global mean,0.136
-1932,global mean,0.069
-1933,global mean,-0.06
-1934,global mean,0.088
-1935,global mean,0.043
-1936,global mean,0.082
-1937,global mean,0.188
-1938,global mean,0.18
-1939,global mean,0.207
-1940,global mean,0.356
-1941,global mean,0.471
-1942,global mean,0.308
-1943,global mean,0.306
-1944,global mean,0.479
-1945,global mean,0.377
-1946,global mean,0.189
-1947,global mean,0.165
-1948,global mean,0.147
-1949,global mean,0.127
-1950,global mean,0.047
-1951,global mean,0.201
-1952,global mean,0.245
-1953,global mean,0.33
-1954,global mean,0.102
-1955,global mean,0.072
-1956,global mean,0.018
-1957,global mean,0.272
-1958,global mean,0.326
-1959,global mean,0.282
-1960,global mean,0.251
-1961,global mean,0.296
-1962,global mean,0.307
-1963,global mean,0.32
-1964,global mean,0.059
-1965,global mean,0.13
-1966,global mean,0.191
-1967,global mean,0.199
-1968,global mean,0.174
-1969,global mean,0.307
-1970,global mean,0.258
-1971,global mean,0.134
-1972,global mean,0.236
-1973,global mean,0.393
-1974,global mean,0.137
-1975,global mean,0.213
-1976,global mean,0.132
-1977,global mean,0.412
-1978,global mean,0.317
-1979,global mean,0.427
-1980,global mean,0.48
-1981,global mean,0.522
-1982,global mean,0.391
-1983,global mean,0.559
-1984,global mean,0.367
-1985,global mean,0.357
-1986,global mean,0.435
-1987,global mean,0.583
-1988,global mean,0.592
-1989,global mean,0.493
-1990,global mean,0.648
-1991,global mean,0.589
-1992,global mean,0.437
-1993,global mean,0.482
-1994,global mean,0.544
-1995,global mean,0.668
-1996,global mean,0.523
-1997,global mean,0.714
-1998,global mean,0.851
-1999,global mean,0.639
-2000,global mean,0.624
-2001,global mean,0.769
-2002,global mean,0.821
-2003,global mean,0.84
-2004,global mean,0.783
-2005,global mean,0.868
-2006,global mean,0.836
-2007,global mean,0.819
-2008,global mean,0.743
-2009,global mean,0.844
-2010,global mean,0.925
-2011,global mean,0.776
-2012,global mean,0.838
-2013,global mean,0.875
-2014,global mean,0.942
-2015,global mean,1.129
-2016,global mean,1.196
-2017,global mean,1.109
-2018,global mean,1.026
-2019,global mean,1.149
-2020,global mean,1.201
+1888,global mean,0.06
+1889,global mean,0.105
+1890,global mean,-0.15
+1891,global mean,-0.061
+1892,global mean,-0.111
+1893,global mean,-0.138
+1894,global mean,-0.123
+1895,global mean,-0.054
+1896,global mean,0.096
+1897,global mean,0.093
+1898,global mean,-0.082
+1899,global mean,0.034
+1900,global mean,0.117
+1901,global mean,0.038
+1902,global mean,-0.067
+1903,global mean,-0.184
+1904,global mean,-0.263
+1905,global mean,-0.085
+1906,global mean,-0.019
+1907,global mean,-0.194
+1908,global mean,-0.24
+1909,global mean,-0.252
+1910,global mean,-0.213
+1911,global mean,-0.254
+1912,global mean,-0.148
+1913,global mean,-0.131
+1914,global mean,0.048
+1915,global mean,0.095
+1916,global mean,-0.136
+1917,global mean,-0.209
+1918,global mean,-0.117
+1919,global mean,-0.064
+1920,global mean,-0.045
+1921,global mean,0.025
+1922,global mean,-0.06
+1923,global mean,-0.064
+1924,global mean,-0.053
+1925,global mean,0.011
+1926,global mean,0.116
+1927,global mean,0.017
+1928,global mean,0.007
+1929,global mean,-0.138
+1930,global mean,0.08
+1931,global mean,0.128
+1932,global mean,0.061
+1933,global mean,-0.069
+1934,global mean,0.08
+1935,global mean,0.033
+1936,global mean,0.072
+1937,global mean,0.18
+1938,global mean,0.169
+1939,global mean,0.199
+1940,global mean,0.347
+1941,global mean,0.461
+1942,global mean,0.299
+1943,global mean,0.296
+1944,global mean,0.467
+1945,global mean,0.367
+1946,global mean,0.18
+1947,global mean,0.155
+1948,global mean,0.138
+1949,global mean,0.116
+1950,global mean,0.037
+1951,global mean,0.19
+1952,global mean,0.233
+1953,global mean,0.319
+1954,global mean,0.091
+1955,global mean,0.061
+1956,global mean,0.007
+1957,global mean,0.261
+1958,global mean,0.314
+1959,global mean,0.27
+1960,global mean,0.239
+1961,global mean,0.285
+1962,global mean,0.296
+1963,global mean,0.309
+1964,global mean,0.049
+1965,global mean,0.121
+1966,global mean,0.18
+1967,global mean,0.189
+1968,global mean,0.163
+1969,global mean,0.297
+1970,global mean,0.248
+1971,global mean,0.124
+1972,global mean,0.227
+1973,global mean,0.384
+1974,global mean,0.129
+1975,global mean,0.205
+1976,global mean,0.123
+1977,global mean,0.403
+1978,global mean,0.308
+1979,global mean,0.419
+1980,global mean,0.472
+1981,global mean,0.515
+1982,global mean,0.384
+1983,global mean,0.55
+1984,global mean,0.358
+1985,global mean,0.348
+1986,global mean,0.427
+1987,global mean,0.575
+1988,global mean,0.585
+1989,global mean,0.486
+1990,global mean,0.639
+1991,global mean,0.581
+1992,global mean,0.428
+1993,global mean,0.473
+1994,global mean,0.535
+1995,global mean,0.66
+1996,global mean,0.515
+1997,global mean,0.705
+1998,global mean,0.842
+1999,global mean,0.631
+2000,global mean,0.615
+2001,global mean,0.759
+2002,global mean,0.811
+2003,global mean,0.829
+2004,global mean,0.772
+2005,global mean,0.857
+2006,global mean,0.825
+2007,global mean,0.808
+2008,global mean,0.732
+2009,global mean,0.833
+2010,global mean,0.911
+2011,global mean,0.763
+2012,global mean,0.824
+2013,global mean,0.863
+2014,global mean,0.93
+2015,global mean,1.118
+2016,global mean,1.184
+2017,global mean,1.098
+2018,global mean,1.014
+2019,global mean,1.138
+2020,global mean,1.168
+2021,global mean,1.033
 1880,total error std,0.096
 1881,total error std,0.096
 1882,total error std,0.096
 1883,total error std,0.096
 1884,total error std,0.096
-1885,total error std,0.096
-1886,total error std,0.096
-1887,total error std,0.096
+1885,total error std,0.095
+1886,total error std,0.095
+1887,total error std,0.095
 1888,total error std,0.095
 1889,total error std,0.092
 1890,total error std,0.092
@@ -168,7 +169,7 @@ year,Reported value,Temperature anomaly (K)
 1905,total error std,0.093
 1906,total error std,0.093
 1907,total error std,0.094
-1908,total error std,0.095
+1908,total error std,0.094
 1909,total error std,0.092
 1910,total error std,0.091
 1911,total error std,0.091
@@ -185,10 +186,10 @@ year,Reported value,Temperature anomaly (K)
 1922,total error std,0.096
 1923,total error std,0.101
 1924,total error std,0.102
-1925,total error std,0.106
+1925,total error std,0.105
 1926,total error std,0.105
 1927,total error std,0.106
-1928,total error std,0.108
+1928,total error std,0.107
 1929,total error std,0.109
 1930,total error std,0.109
 1931,total error std,0.109
@@ -250,7 +251,7 @@ year,Reported value,Temperature anomaly (K)
 1987,total error std,0.061
 1988,total error std,0.06
 1989,total error std,0.06
-1990,total error std,0.058
+1990,total error std,0.059
 1991,total error std,0.058
 1992,total error std,0.058
 1993,total error std,0.059
@@ -274,43 +275,44 @@ year,Reported value,Temperature anomaly (K)
 2011,total error std,0.076
 2012,total error std,0.076
 2013,total error std,0.078
-2014,total error std,0.078
-2015,total error std,0.078
-2016,total error std,0.078
-2017,total error std,0.078
-2018,total error std,0.078
-2019,total error std,0.078
-2020,total error std,0.084
+2014,total error std,0.077
+2015,total error std,0.077
+2016,total error std,0.077
+2017,total error std,0.077
+2018,total error std,0.077
+2019,total error std,0.077
+2020,total error std,0.077
+2021,total error std,0.077
 1880,total error 95% CI,0.188
-1881,total error 95% CI,0.189
-1882,total error 95% CI,0.189
+1881,total error 95% CI,0.188
+1882,total error 95% CI,0.188
 1883,total error 95% CI,0.188
-1884,total error 95% CI,0.188
-1885,total error 95% CI,0.188
-1886,total error 95% CI,0.188
-1887,total error 95% CI,0.188
-1888,total error 95% CI,0.186
+1884,total error 95% CI,0.187
+1885,total error 95% CI,0.187
+1886,total error 95% CI,0.187
+1887,total error 95% CI,0.187
+1888,total error 95% CI,0.185
 1889,total error 95% CI,0.18
-1890,total error 95% CI,0.181
+1890,total error 95% CI,0.18
 1891,total error 95% CI,0.181
 1892,total error 95% CI,0.181
 1893,total error 95% CI,0.18
 1894,total error 95% CI,0.18
 1895,total error 95% CI,0.179
 1896,total error 95% CI,0.179
-1897,total error 95% CI,0.181
+1897,total error 95% CI,0.18
 1898,total error 95% CI,0.18
 1899,total error 95% CI,0.181
 1900,total error 95% CI,0.181
 1901,total error 95% CI,0.181
 1902,total error 95% CI,0.181
-1903,total error 95% CI,0.183
+1903,total error 95% CI,0.184
 1904,total error 95% CI,0.184
 1905,total error 95% CI,0.182
 1906,total error 95% CI,0.182
 1907,total error 95% CI,0.185
 1908,total error 95% CI,0.185
-1909,total error 95% CI,0.181
+1909,total error 95% CI,0.18
 1910,total error 95% CI,0.179
 1911,total error 95% CI,0.177
 1912,total error 95% CI,0.176
@@ -321,9 +323,9 @@ year,Reported value,Temperature anomaly (K)
 1917,total error 95% CI,0.178
 1918,total error 95% CI,0.179
 1919,total error 95% CI,0.181
-1920,total error 95% CI,0.184
-1921,total error 95% CI,0.186
-1922,total error 95% CI,0.188
+1920,total error 95% CI,0.183
+1921,total error 95% CI,0.185
+1922,total error 95% CI,0.187
 1923,total error 95% CI,0.198
 1924,total error 95% CI,0.2
 1925,total error 95% CI,0.207
@@ -342,8 +344,8 @@ year,Reported value,Temperature anomaly (K)
 1938,total error 95% CI,0.191
 1939,total error 95% CI,0.185
 1940,total error 95% CI,0.188
-1941,total error 95% CI,0.192
-1942,total error 95% CI,0.195
+1941,total error 95% CI,0.191
+1942,total error 95% CI,0.194
 1943,total error 95% CI,0.194
 1944,total error 95% CI,0.184
 1945,total error 95% CI,0.18
@@ -351,8 +353,8 @@ year,Reported value,Temperature anomaly (K)
 1947,total error 95% CI,0.173
 1948,total error 95% CI,0.17
 1949,total error 95% CI,0.168
-1950,total error 95% CI,0.169
-1951,total error 95% CI,0.175
+1950,total error 95% CI,0.168
+1951,total error 95% CI,0.174
 1952,total error 95% CI,0.17
 1953,total error 95% CI,0.17
 1954,total error 95% CI,0.169
@@ -365,8 +367,8 @@ year,Reported value,Temperature anomaly (K)
 1961,total error 95% CI,0.145
 1962,total error 95% CI,0.141
 1963,total error 95% CI,0.138
-1964,total error 95% CI,0.143
-1965,total error 95% CI,0.139
+1964,total error 95% CI,0.144
+1965,total error 95% CI,0.14
 1966,total error 95% CI,0.13
 1967,total error 95% CI,0.125
 1968,total error 95% CI,0.122
@@ -406,37 +408,38 @@ year,Reported value,Temperature anomaly (K)
 2002,total error 95% CI,0.137
 2003,total error 95% CI,0.14
 2004,total error 95% CI,0.147
-2005,total error 95% CI,0.149
-2006,total error 95% CI,0.157
+2005,total error 95% CI,0.15
+2006,total error 95% CI,0.158
 2007,total error 95% CI,0.162
 2008,total error 95% CI,0.153
 2009,total error 95% CI,0.148
-2010,total error 95% CI,0.149
+2010,total error 95% CI,0.148
 2011,total error 95% CI,0.149
 2012,total error 95% CI,0.15
 2013,total error 95% CI,0.152
-2014,total error 95% CI,0.152
-2015,total error 95% CI,0.152
-2016,total error 95% CI,0.152
-2017,total error 95% CI,0.152
-2018,total error 95% CI,0.152
-2019,total error 95% CI,0.152
-2020,total error 95% CI,0.165
-1880,high-frequency error std,0.03
-1881,high-frequency error std,0.03
-1882,high-frequency error std,0.03
-1883,high-frequency error std,0.03
-1884,high-frequency error std,0.03
-1885,high-frequency error std,0.03
-1886,high-frequency error std,0.03
-1887,high-frequency error std,0.03
-1888,high-frequency error std,0.027
+2014,total error 95% CI,0.15
+2015,total error 95% CI,0.15
+2016,total error 95% CI,0.15
+2017,total error 95% CI,0.15
+2018,total error 95% CI,0.15
+2019,total error 95% CI,0.15
+2020,total error 95% CI,0.15
+2021,total error 95% CI,0.15
+1880,high-frequency error std,0.028
+1881,high-frequency error std,0.028
+1882,high-frequency error std,0.028
+1883,high-frequency error std,0.028
+1884,high-frequency error std,0.028
+1885,high-frequency error std,0.028
+1886,high-frequency error std,0.028
+1887,high-frequency error std,0.028
+1888,high-frequency error std,0.026
 1889,high-frequency error std,0.012
 1890,high-frequency error std,0.011
 1891,high-frequency error std,0.012
 1892,high-frequency error std,0.011
-1893,high-frequency error std,0.007
-1894,high-frequency error std,0.007
+1893,high-frequency error std,0.006
+1894,high-frequency error std,0.006
 1895,high-frequency error std,0.005
 1896,high-frequency error std,0.005
 1897,high-frequency error std,0.013
@@ -450,7 +453,7 @@ year,Reported value,Temperature anomaly (K)
 1905,high-frequency error std,0.01
 1906,high-frequency error std,0.007
 1907,high-frequency error std,0.017
-1908,high-frequency error std,0.021
+1908,high-frequency error std,0.02
 1909,high-frequency error std,0.008
 1910,high-frequency error std,0.007
 1911,high-frequency error std,0.007
@@ -460,54 +463,54 @@ year,Reported value,Temperature anomaly (K)
 1915,high-frequency error std,0.01
 1916,high-frequency error std,0.009
 1917,high-frequency error std,0.01
-1918,high-frequency error std,0.012
-1919,high-frequency error std,0.014
-1920,high-frequency error std,0.015
-1921,high-frequency error std,0.016
-1922,high-frequency error std,0.013
+1918,high-frequency error std,0.011
+1919,high-frequency error std,0.013
+1920,high-frequency error std,0.014
+1921,high-frequency error std,0.015
+1922,high-frequency error std,0.012
 1923,high-frequency error std,0.029
 1924,high-frequency error std,0.027
-1925,high-frequency error std,0.033
+1925,high-frequency error std,0.032
 1926,high-frequency error std,0.026
 1927,high-frequency error std,0.026
-1928,high-frequency error std,0.026
+1928,high-frequency error std,0.025
 1929,high-frequency error std,0.027
 1930,high-frequency error std,0.023
 1931,high-frequency error std,0.022
 1932,high-frequency error std,0.02
 1933,high-frequency error std,0.009
 1934,high-frequency error std,0.005
-1935,high-frequency error std,0.009
+1935,high-frequency error std,0.01
 1936,high-frequency error std,0.011
-1937,high-frequency error std,0.011
+1937,high-frequency error std,0.012
 1938,high-frequency error std,0.015
 1939,high-frequency error std,0.005
-1940,high-frequency error std,0.02
-1941,high-frequency error std,0.026
-1942,high-frequency error std,0.033
+1940,high-frequency error std,0.019
+1941,high-frequency error std,0.025
+1942,high-frequency error std,0.032
 1943,high-frequency error std,0.032
 1944,high-frequency error std,0.018
 1945,high-frequency error std,0.013
-1946,high-frequency error std,0.013
+1946,high-frequency error std,0.012
 1947,high-frequency error std,0.005
 1948,high-frequency error std,0.005
 1949,high-frequency error std,0.005
-1950,high-frequency error std,0.013
-1951,high-frequency error std,0.026
-1952,high-frequency error std,0.011
-1953,high-frequency error std,0.005
-1954,high-frequency error std,0.006
-1955,high-frequency error std,0.007
+1950,high-frequency error std,0.012
+1951,high-frequency error std,0.025
+1952,high-frequency error std,0.01
+1953,high-frequency error std,0.006
+1954,high-frequency error std,0.007
+1955,high-frequency error std,0.008
 1956,high-frequency error std,0.008
-1957,high-frequency error std,0.011
+1957,high-frequency error std,0.01
 1958,high-frequency error std,0.009
-1959,high-frequency error std,0.01
+1959,high-frequency error std,0.009
 1960,high-frequency error std,0.009
 1961,high-frequency error std,0.005
 1962,high-frequency error std,0.005
 1963,high-frequency error std,0.005
 1964,high-frequency error std,0.025
-1965,high-frequency error std,0.023
+1965,high-frequency error std,0.024
 1966,high-frequency error std,0.01
 1967,high-frequency error std,0.008
 1968,high-frequency error std,0.008
@@ -526,8 +529,8 @@ year,Reported value,Temperature anomaly (K)
 1981,high-frequency error std,0.005
 1982,high-frequency error std,0.005
 1983,high-frequency error std,0.005
-1984,high-frequency error std,0.021
-1985,high-frequency error std,0.013
+1984,high-frequency error std,0.02
+1985,high-frequency error std,0.012
 1986,high-frequency error std,0.014
 1987,high-frequency error std,0.014
 1988,high-frequency error std,0.011
@@ -540,7 +543,7 @@ year,Reported value,Temperature anomaly (K)
 1995,high-frequency error std,0.005
 1996,high-frequency error std,0.008
 1997,high-frequency error std,0.008
-1998,high-frequency error std,0.017
+1998,high-frequency error std,0.018
 1999,high-frequency error std,0.021
 2000,high-frequency error std,0.021
 2001,high-frequency error std,0.017
@@ -551,18 +554,19 @@ year,Reported value,Temperature anomaly (K)
 2006,high-frequency error std,0.034
 2007,high-frequency error std,0.037
 2008,high-frequency error std,0.023
-2009,high-frequency error std,0.006
+2009,high-frequency error std,0.005
 2010,high-frequency error std,0.007
 2011,high-frequency error std,0.01
 2012,high-frequency error std,0.01
 2013,high-frequency error std,0.017
-2014,high-frequency error std,0.017
-2015,high-frequency error std,0.017
-2016,high-frequency error std,0.017
-2017,high-frequency error std,0.017
-2018,high-frequency error std,0.017
-2019,high-frequency error std,0.017
-2020,high-frequency error std,0.017
+2014,high-frequency error std,0.012
+2015,high-frequency error std,0.012
+2016,high-frequency error std,0.012
+2017,high-frequency error std,0.012
+2018,high-frequency error std,0.012
+2019,high-frequency error std,0.012
+2020,high-frequency error std,0.012
+2021,high-frequency error std,0.012
 1880,low-frequency error std,0.029
 1881,low-frequency error std,0.03
 1882,low-frequency error std,0.03
@@ -704,6 +708,7 @@ year,Reported value,Temperature anomaly (K)
 2018,low-frequency error std,0.001
 2019,low-frequency error std,0.001
 2020,low-frequency error std,0.001
+2021,low-frequency error std,0.001
 1880,bias error std,0.087
 1881,bias error std,0.087
 1882,bias error std,0.086
@@ -845,3 +850,4 @@ year,Reported value,Temperature anomaly (K)
 2018,bias error std,0.076
 2019,bias error std,0.076
 2020,bias error std,0.076
+2021,bias error std,0.076
