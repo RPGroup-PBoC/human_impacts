@@ -22,7 +22,7 @@
 # Columns 11 and 12 are the lower and upper bounds of the 95% confidence interval of
 #   the combined effects of all the uncertainties described in the HadCRUT4 error model (measurement and sampling, bias and coverage uncertainties).
 #
-# Last updated: Jan 2021
+# Last updated: Jan 2022
 # Author: Ignacio Lopez-Gomez
 # 
 #################
