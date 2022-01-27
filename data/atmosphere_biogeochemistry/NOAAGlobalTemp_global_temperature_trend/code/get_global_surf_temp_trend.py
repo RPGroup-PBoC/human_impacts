@@ -26,14 +26,14 @@
 #
 # NOTE: anomalies are based on the climatology from 1971 to 2000
 #
-# Last updated: Jan 2021
+# Last updated: Jan 2022
 # Author: Ignacio Lopez-Gomez
 # 
 #################
 import pandas as pd
 import numpy as np
 
-raw_data_ = pd.read_csv('../source/aravg.ann.land_ocean.90S.90N.v5.0.0.202011.asc.txt',
+raw_data_ = pd.read_csv('../source/aravg.ann.land_ocean.90S.90N.v5.0.0.202112.asc.txt',
     delim_whitespace=True, names=['year', 'global mean',
                                   'total error variance',
                                   'high-frequency error variance',
