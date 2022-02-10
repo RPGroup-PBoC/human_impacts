@@ -5,7 +5,7 @@ import altair as alt
 import anthro.io
 
 # Load the IFASTAT nitrogen data.
-data = pd.read_csv('../processed/IFA_ammonia_production_2009-2020.csv')
+data = pd.read_csv('../processed/IFA_ammonia_production_2008-2020.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data['year'], format='%Y')
 proc_data['production (kg)'] = data['value']
