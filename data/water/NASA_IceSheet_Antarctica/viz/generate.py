@@ -6,7 +6,7 @@ import altair as alt
 import anthro.io
 
 # Load the ice sheet data.
-data = pd.read_csv('../processed/NASA_antarctica_anomaly_042002-102020.csv')
+data = pd.read_csv('../processed/NASA_antarctica_anomaly_200204-202112.csv')
 proc_data = pd.DataFrame()
 # Convert year.decimal format to Gregorian format
 for index, row in data.iterrows():
