@@ -5,7 +5,7 @@ import altair as alt
 import anthro.io
 
 # Load the USGS steel data.
-data = pd.read_csv('../processed/WorldSteelAssoc_steel_production_1950-2019.csv')
+data = pd.read_csv('../processed/WorldSteelAssoc_steel_production_1950-2020.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data['year'], format='%Y')
 proc_data['production (kg)'] = data['value']
