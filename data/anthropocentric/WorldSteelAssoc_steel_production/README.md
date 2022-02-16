@@ -10,7 +10,7 @@ Global steel production (2020): 1878 Mt
 
 ## Source Information
 * **Source Website**: Global Data: World Steel in Figures 2021, Regional Data: Steel Data Viewer – Total Production of Crude Steel & Steel Statistical Yearbook Concise Version 2019
-* **URL**: Global Data: Page 7 of World Steel in Figures: https://www.worldsteel.org/en/dam/jcr:f7982217-cfde-4fdc-8ba0-795ed807f513/World%2520Steel%2520in%2520Figures%25202020i.pdf, Regional Data: https://www.worldsteel.org/steel-by-topic/statistics/steel-data-viewer/P1_crude_steel_total/CHN/IND for most values and https://www.worldsteel.org/en/dam/jcr:7aa2a95d-448d-4c56-b62b-b2457f067cd9/SSY19%2520concise%2520version.pdf for 2009-2018 production in the Democratic Republic of the Congo, Mauritania, Mongolia, and Uganda.
+* **URL**: Global Data: Page 7 of World Steel in Figures: https://worldsteel.org/publications/bookshop/world-steel-in-figures-2021/, Regional Data: https://www.worldsteel.org/steel-by-topic/statistics/steel-data-viewer/P1_crude_steel_total/CHN/IND for most values and https://www.worldsteel.org/en/dam/jcr:7aa2a95d-448d-4c56-b62b-b2457f067cd9/SSY19%2520concise%2520version.pdf for 2009-2018 production in the Democratic Republic of the Congo, Mauritania, Mongolia, and Uganda.
 * **Original License**: The website's statistics FAQ notes: "Information on this site may be used by you as long as the source of the information is acknowledged at each instance of use. For example, in the caption of a graph or as a footnote in a presentation slide. Please use either of the following terms of acknowledgement:
 
 Source: World Steel Association
