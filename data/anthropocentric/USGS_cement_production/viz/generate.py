@@ -8,15 +8,14 @@ import anthro.io
 data = pd.read_csv('../processed/USGS_cement_production_1994-2021.csv')
 proc_data = pd.DataFrame()
 proc_data['year'] = pd.to_datetime(data['year'], format='%Y')
-proc_data['production (kg)'] = data['value']
-proc_data['label'] = anthro.io.numeric_formatter(data['value'].values * 1E3, unit='kg')
+proc_data['production'] = data['value']
 
 # Generate a plot for global steel production.
 chart = alt.Chart(proc_data).encode(
             x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-            y=alt.Y(field='production (kg)', type='quantitative', title='Mass of cement [kg]', scale=alt.Scale(domain=[1000000000000, 5000000000000])),
+            y=alt.Y(field='production', type='quantitative', title='Cement production (Mt)', scale=alt.Scale(zero=False)),
             tooltip=[alt.Tooltip(field='year', type='temporal', title='year', format='%Y'),
-                     alt.Tooltip(field='label', type='nominal', title='production mass')]
+                     alt.Tooltip(field='production', type='nominal', title='Production (Mt)')]
             ).properties(width='container', height=300)
 
 l = chart.mark_line(color='dodgerblue')
