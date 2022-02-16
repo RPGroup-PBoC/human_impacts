@@ -6,7 +6,7 @@ This entry gives the global production of crude steel every five years from 1950
 This entry also gives regional production of crude steel from 2000-2018.
 
 ## Key Numbers
-Global steel production (2020): 1878 Mt
+Global steel production (2020): 1.878 &times; 10<sup>12</sup> kg / yr
 
 ## Source Information
 * **Source Website**: Global Data: World Steel in Figures 2021, Regional Data: Steel Data Viewer – Total Production of Crude Steel & Steel Statistical Yearbook Concise Version 2019
