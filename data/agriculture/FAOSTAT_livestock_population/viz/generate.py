@@ -9,7 +9,7 @@ data['year'] = pd.to_datetime(data['year'], format='%Y')
 total = data[data['animal']!='beehives'].groupby(['year'])['population_Mhd'].sum().reset_index()
 
 # Restrict it to just cattle, chicken, sheep, and pigs
-data = data[data['animal'].isin(['cattle', 'swine', 'chickens', 'sheep', 'goats'])]
+data = data[data['animal'].isin(['cattle', 'pigs', 'chickens', 'sheep', 'goats'])]
 
 # Format the population to billions insted of millions. 
 data['population_Bhd'] = data['population_Mhd'] * 1E-3
