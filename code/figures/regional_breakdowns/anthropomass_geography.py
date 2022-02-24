@@ -11,9 +11,10 @@ positions = {k.lower():v for k, v in positions.items()}
 # Load the cement data
 CONVERSION = 7 # mass of concrete is around 7 times the mass of cement (Monteiro et al 2017).
 cement = pd.read_csv('../../../data/anthropocentric/USGS_cement_production/processed/USGS_cement_by_region.csv')
+
 # Ensure there's only one value per region
 cement = cement.groupby(['year', 'region', 'fao_locality']).sum().reset_index()
-#%%
+
 # load the population data
 pop = pd.read_csv('../../../data/anthropocentric/FAOSTAT_world_population/processed/FAOSTAT_world_population_by_country.csv')
 
@@ -27,13 +28,13 @@ for g, d in cement.groupby(['fao_locality', 'year']):
 cement = pd.concat(dfs, sort=False) 
 
 # Compute the cement per capita and average over the 5 years. 
-cement['concrete_kg'] = cement['value'] * 1E6 * CONVERSION
-cement['per_capita'] = (cement['concrete_kg'].values)/ cement['population'].values
+cement['concrete_t'] = cement['value'] * 1E3 * CONVERSION
 cement = cement[cement['year']==2017]
 cement.loc[cement['region']=='central america', 'region'] = 'north america'
 cement.loc[cement['region']=='northern america', 'region'] = 'north america'
-cement.loc[cement['region']=='asia', 'region'] = 'Asia'
+# cement.loc[cement['region']=='asia', 'region'] = 'asia'
 cement = cement.groupby('region').sum().reset_index()
+cement['per_capita'] = cement['concrete_t']/ cement['population']
 
 # Add colors and positional informatio
 cement['color'] = [regions[k] for k in cement['region'].values]
@@ -49,7 +50,7 @@ plt.savefig('../../../figures/regional_breakdowns/concrete_regional_donut.svg')
 
 fig, ax = plt.subplots(1, 1, figsize=(1.5, 0.75))
 ax.set_xticks([])
-ax.set_yticks([50, 100, 150, 200])
+# ax.set_yticks([50, 100, 150, 200])
 ax.yaxis.set_tick_params(labelsize=6)
 for g, d in cement.groupby(['pos', 'color']):
     ax.plot(int(g[0]), float(d['per_capita'].values[0]) / 1E3, 'o', ms=3, color=g[1])

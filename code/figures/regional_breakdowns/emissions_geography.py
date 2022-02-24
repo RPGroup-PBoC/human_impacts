@@ -31,9 +31,8 @@ pop.rename(columns={'region':'Region', 'year':'Period'}, inplace=True)
 # Tidy the annotation of the regions
 co2.loc[co2['Region']=='Europe and Russia', 'Region'] = 'Europe'
 ch4.loc[ch4['Region']=='Europe and Russia', 'Region'] = 'Europe'
-# co2.loc[co2['Region']=='North America', 'Region'] = 'Northern America'
-# ch4.loc[ch4['Region']=='North America', 'Region'] = 'Northern America'
 ch4.rename(columns={'Emissions (Tg CH4 yr-1)': 'Emissions'}, inplace=True)
+
 # Add color and positional information
 co2['color'] = [regions[k] for k in co2['Region'].values]
 ch4['color'] = [regions[k] for k in ch4['Region'].values]
