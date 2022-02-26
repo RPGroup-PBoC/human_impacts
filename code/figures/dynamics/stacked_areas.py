@@ -12,6 +12,8 @@ pop_data = pd.read_csv('../../../data/anthropocentric/FAOSTAT_world_population/p
 pop_data['pop_bil'] = pop_data['population'] / 1E9
 total_pop = pop_data.groupby(['year'])['pop_bil'].sum().reset_index()
 min_pop, max_pop = total_pop['pop_bil'].min(), total_pop['pop_bil'].max()
+
+#%%
 fig, ax =  plt.subplots(1, 1, figsize=(2, 2))
 
 # Format the eaxes
@@ -62,9 +64,8 @@ plt.savefig('../../../figures/database_paper/anthropomass_stack.svg', bbox_inche
 livestock = pd.read_csv('../../../data/agriculture/FAOSTAT_livestock_population/processed/FAOSTAT_livestock_population.csv')
 livestock['category'] = 'other'
 livestock.loc[livestock['animal']=='cattle', 'category'] = 'cattle'
-livestock.loc[livestock['animal']=='chicken', 'category'] = 'chicken'
-livestock.loc[livestock['animal']=='swine', 'category'] = 'swine'
-
+livestock.loc[livestock['animal']=='chickens', 'category'] = 'chicken'
+livestock.loc[livestock['animal']=='pigs', 'category'] = 'swine'
 livestock = livestock.groupby(['year', 'category'])['population_Mhd'].sum().reset_index()
 
 # Merge on population
