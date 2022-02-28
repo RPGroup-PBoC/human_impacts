@@ -2,20 +2,20 @@
 # NOAA Sea Ice Index, Version 3
 
 ## Description
-The Sea Ice Index provides satellite data for sea ice cover described as sea ice extent (the area containing > 15% ice) and area (calculated by multiplying the percentage of sea ice in each pixel by pixel area) in the northern and southern hemispheres from 1979-present. NOAA recommends using monthly data to look at long-term trends in sea ice cover.
+The Sea Ice Index provides satellite data for sea ice cover described as sea ice extent (calculated by taking the integral sum of the areas within grid cells with > 15% ice concentration) and area (calculated by multiplying the percentage of sea ice in each grid cell with > 15% ice concentration by the area of the grid cell and taking the integral sum of these products) in the northern and southern hemispheres from 1979-2021. NOAA recommends using monthly data to look at long-term trends in sea ice cover.
 
 ## Key Numbers
-Annualized rate of change of Northern Hemisphere sea ice cover in March (March corresponds to the maximum yearly extent, 1979-2022): extent: -3.98 x 10<sup>10</sup> m<sup>2</sup> / yr, area: -4.2 x 10<sup>9</sup> m<sup>2</sup> / yr
+Annualized rate of change of annual Northern Hemisphere sea ice cover (1979-2021):
+* extent: -5.41 x 10<sup>10</sup> m<sup>2</sup> / yr
+* area: -2.45 x 10<sup>10</sup> m<sup>2</sup> / yr
 
-Annualized rate of change of Northern Hemisphere sea ice cover in September (September corresponds to the minimum yearly extent, 1979-2022): extent: -8.13 x 10<sup>10</sup> m<sup>2</sup> / yr, area: -4.82 x 10<sup>10</sup> m<sup>2</sup> / yr
+Annualized rate of change of Northern Hemisphere sea ice cover in March (March corresponds to the month of maximum average cover, 1979-2021):
+* extent: -3.98 x 10<sup>10</sup> m<sup>2</sup> / yr
+* area: -0.42 x 10<sup>10</sup> m<sup>2</sup> / yr
 
-Annualized rate of change of annual Northern Hemisphere sea ice cover (1979-2022): extent: -5.41 x 10<sup>10</sup> m<sup>2</sup> / yr, area: -2.45 x 10<sup>10</sup> m<sup>2</sup> / yr
-
-Annualized rate of change of Southern Hemisphere sea ice cover in March (March corresponds to the maximum yearly extent, 1979-2022): extent:  x 10<sup>10</sup> m<sup>2</sup> / yr, area:  x 10<sup>9</sup> m<sup>2</sup> / yr
-
-Annualized rate of change of Southern Hemisphere sea ice cover in September (September corresponds to the minimum yearly extent, 1979-2022): extent:  x 10<sup>10</sup> m<sup>2</sup> / yr, area:  x 10<sup>10</sup> m<sup>2</sup> / yr
-
-Annualized rate of change of Southern Hemisphere sea ice cover (1979-2022): extent:  x 10<sup>10</sup> m<sup>2</sup> / yr, area:  x 10<sup>10</sup> m<sup>2</sup> / yr
+Annualized rate of change of Northern Hemisphere sea ice cover in September (September corresponds to the minimum average cover, 1979-2021):
+* extent: -8.13 x 10<sup>10</sup> m<sup>2</sup> / yr
+* area: -4.82 x 10<sup>10</sup> m<sup>2</sup> / yr
 
 ## Source Information
 * **Source Website**: National Snow & Ice Data Center (NSIDC)
@@ -27,7 +27,7 @@ Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, and A. K. Windnagel. 2017, upd
 ## Notes
 The monthly extent and area data were processed from the source file Sea_Ice_Index_Monthly_Data_by_Year_G02135_v3.0.xlsx by converting the data to tidy format and removing partial years 1978 and the current year. This results in individual csv files containing monthly and yearly sea ice area and extent averages for both the Northern and Southern Hemispheres. Annualized rates of change were derived from these data via linear regression for the monthly and yearly ice extent/area averages. This results in individual csv files containing annualized rates of change for Northern and Southern Hemisphere sea ice area and extent.
 
-The trend in Antarctic sea ice is not included in the key numbers as the long term trend is not clear per the IPCC Special Report on the Ocean and Cryosphere in a Changing Climate, Chapter 3: "It is very likely that Antarctic sea ice cover exhibits no significant trend over the period of satellite observations
+The trends in Antarctic sea ice are not included in the dataset or key numbers as the long term trends are not clear per the IPCC Special Report on the Ocean and Cryosphere in a Changing Climate, Chapter 3: "It is very likely that Antarctic sea ice cover exhibits no significant trend over the period of satellite observations
 (1979–2018). While the drivers of historical decadal variability are known with medium confidence, there is currently limited evidence and low agreement concerning causes of the strong recent decrease (2016–2018), and low confidence in the ability of current-generation climate models to reproduce and explain the observations."
 
 More information about the dataset: https://nsidc.org/data/seaice_index/faq
