@@ -16,7 +16,7 @@ selection = alt.selection_single(
     fields=['Year'], nearest=True, on='mouseover', empty='none', clear='mouseout'
 )
 
-lines = base.mark_line(point=True).encode(alt.Y(field='Area', type = 'quantitative', title ='sea ice area (sq. km)'), color=alt.Color('Month:N', scale=alt.Scale(range=['rebeccapurple', 'dodgerblue', 'tomato'])))
+lines = base.mark_line(point=True).encode(alt.Y(field='Area', type = 'quantitative', title ='sea ice area (sq. km)'), color=alt.Color('Month:N', title = 'time period', scale=alt.Scale(range=['rebeccapurple', 'dodgerblue', 'tomato'])))
 points = lines.mark_point().transform_filter(selection)
 
 rule = base.transform_pivot(
@@ -41,7 +41,7 @@ selection = alt.selection_single(
     fields=['Year'], nearest=True, on='mouseover', empty='none', clear='mouseout'
 )
 
-lines = base.mark_line(point=True).encode(alt.Y(field='Extent', type = 'quantitative', title ='sea ice extent (sq. km)'), color=alt.Color('Month:N', scale=alt.Scale(range=['rebeccapurple', 'dodgerblue', 'tomato'])))
+lines = base.mark_line(point=True).encode(alt.Y(field='Extent', type = 'quantitative', title ='sea ice extent (sq. km)'), color=alt.Color('Month:N', title = 'time period', scale=alt.Scale(range=['rebeccapurple', 'dodgerblue', 'tomato'])))
 points = lines.mark_point().transform_filter(selection)
 
 rule = base.transform_pivot(
