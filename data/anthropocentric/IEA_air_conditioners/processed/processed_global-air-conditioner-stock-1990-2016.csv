@@ -1,0 +1,298 @@
+year,Region,A/C units (million)
+1990,United States,227.02
+1991,United States,224.22
+1992,United States,230.77
+1993,United States,237.33
+1994,United States,244.6
+1995,United States,251.28
+1996,United States,258.77
+1997,United States,266.75
+1998,United States,276.48
+1999,United States,283.1
+2000,United States,291.31
+2001,United States,299.09
+2002,United States,307.35
+2003,United States,314.21
+2004,United States,322.48
+2005,United States,328.44
+2006,United States,336.38
+2007,United States,340.37
+2008,United States,345.62
+2009,United States,345.92
+2010,United States,349.03
+2011,United States,353.28
+2012,United States,357.83
+2013,United States,355.65
+2014,United States,359.64
+2015,United States,367.76
+2016,United States,373.59
+1990,China,78.55
+1991,China,80.99
+1992,China,86.98
+1993,China,90.2
+1994,China,97.76
+1995,China,102.23
+1996,China,111.16
+1997,China,117.25
+1998,China,124.17
+1999,China,130.97
+2000,China,138.14
+2001,China,149.38
+2002,China,159.64
+2003,China,172.9
+2004,China,183.38
+2005,China,200.24
+2006,China,223.32
+2007,China,252.47
+2008,China,274.79
+2009,China,308.58
+2010,China,342.92
+2011,China,378.51
+2012,China,419.33
+2013,China,457.03
+2014,China,492.13
+2015,China,531.23
+2016,China,569.38
+1990,Japan and Korea,106.53
+1991,Japan and Korea,114.06
+1992,Japan and Korea,118.35
+1993,Japan and Korea,122.8
+1994,Japan and Korea,126.95
+1995,Japan and Korea,131.95
+1996,Japan and Korea,135.7
+1997,Japan and Korea,140.08
+1998,Japan and Korea,142.34
+1999,Japan and Korea,146.22
+2000,Japan and Korea,150.02
+2001,Japan and Korea,151.09
+2002,Japan and Korea,155.75
+2003,Japan and Korea,159.41
+2004,Japan and Korea,164.15
+2005,Japan and Korea,169.43
+2006,Japan and Korea,174.55
+2007,Japan and Korea,179.06
+2008,Japan and Korea,182.63
+2009,Japan and Korea,183.94
+2010,Japan and Korea,189.87
+2011,Japan and Korea,194.68
+2012,Japan and Korea,198.26
+2013,Japan and Korea,202.11
+2014,Japan and Korea,203.19
+2015,Japan and Korea,204.91
+2016,Japan and Korea,206.96
+1990,European Union,43.77
+1991,European Union,44.33
+1992,European Union,45.92
+1993,European Union,46.84
+1994,European Union,47.93
+1995,European Union,49.28
+1996,European Union,51.08
+1997,European Union,53.57
+1998,European Union,56.36
+1999,European Union,59.15
+2000,European Union,64.76
+2001,European Union,68.3
+2002,European Union,71.21
+2003,European Union,74.2
+2004,European Union,77.02
+2005,European Union,79.21
+2006,European Union,81.34
+2007,European Union,83.43
+2008,European Union,86.19
+2009,European Union,88.11
+2010,European Union,88.22
+2011,European Union,88.46
+2012,European Union,88.11
+2013,European Union,88.88
+2014,European Union,90.48
+2015,European Union,93.3
+2016,European Union,96.52
+1990,India,2.47
+1991,India,2.76
+1992,India,3.14
+1993,India,3.59
+1994,India,4.09
+1995,India,4.72
+1996,India,5.41
+1997,India,6.2
+1998,India,7.07
+1999,India,8.13
+2000,India,8.48
+2001,India,8.85
+2002,India,9.26
+2003,India,9.66
+2004,India,10.14
+2005,India,10.73
+2006,India,11.39
+2007,India,12.17
+2008,India,13.08
+2009,India,14.25
+2010,India,15.48
+2011,India,16.67
+2012,India,18.05
+2013,India,19.5
+2014,India,21.52
+2015,India,23.74
+2016,India,26.56
+1990,Indonesia,1.86
+1991,Indonesia,1.97
+1992,Indonesia,2.08
+1993,Indonesia,2.27
+1994,Indonesia,2.44
+1995,Indonesia,2.68
+1996,Indonesia,2.95
+1997,Indonesia,3.13
+1998,Indonesia,2.98
+1999,Indonesia,3.05
+2000,Indonesia,2.82
+2001,Indonesia,2.93
+2002,Indonesia,3.21
+2003,Indonesia,3.6
+2004,Indonesia,3.79
+2005,Indonesia,4.03
+2006,Indonesia,4.3
+2007,Indonesia,4.82
+2008,Indonesia,5.2
+2009,Indonesia,5.6
+2010,Indonesia,6.06
+2011,Indonesia,6.67
+2012,Indonesia,7.67
+2013,Indonesia,8.74
+2014,Indonesia,9.8
+2015,Indonesia,10.91
+2016,Indonesia,12.14
+1990,Mexico,4.6
+1991,Mexico,5.19
+1992,Mexico,5.47
+1993,Mexico,5.26
+1994,Mexico,5.32
+1995,Mexico,5.11
+1996,Mexico,5.11
+1997,Mexico,5.44
+1998,Mexico,6.22
+1999,Mexico,6.7
+2000,Mexico,8.12
+2001,Mexico,8.24
+2002,Mexico,8.31
+2003,Mexico,8.44
+2004,Mexico,8.79
+2005,Mexico,9.4
+2006,Mexico,9.99
+2007,Mexico,10.52
+2008,Mexico,11.11
+2009,Mexico,11.12
+2010,Mexico,11.31
+2011,Mexico,11.78
+2012,Mexico,12.56
+2013,Mexico,13.63
+2014,Mexico,14.3
+2015,Mexico,15.12
+2016,Mexico,15.84
+1990,Brazil,7.24
+1991,Brazil,7.73
+1992,Brazil,7.83
+1993,Brazil,8.46
+1994,Brazil,9.4
+1995,Brazil,10.53
+1996,Brazil,11.04
+1997,Brazil,11.79
+1998,Brazil,12.13
+1999,Brazil,12.28
+2000,Brazil,12.86
+2001,Brazil,12.84
+2002,Brazil,13.06
+2003,Brazil,13.31
+2004,Brazil,14.07
+2005,Brazil,14.86
+2006,Brazil,16.04
+2007,Brazil,18.16
+2008,Brazil,19.97
+2009,Brazil,21.94
+2010,Brazil,25.11
+2011,Brazil,27.25
+2012,Brazil,29.34
+2013,Brazil,31.12
+2014,Brazil,31.34
+2015,Brazil,29.79
+2016,Brazil,27.4
+1990,Middle East,12.1
+1991,Middle East,13.38
+1992,Middle East,14.49
+1993,Middle East,15.11
+1994,Middle East,15.24
+1995,Middle East,15.64
+1996,Middle East,16.14
+1997,Middle East,16.91
+1998,Middle East,19.01
+1999,Middle East,18.02
+2000,Middle East,18.0
+2001,Middle East,19.0
+2002,Middle East,19.19
+2003,Middle East,20.72
+2004,Middle East,23.48
+2005,Middle East,24.01
+2006,Middle East,26.38
+2007,Middle East,29.97
+2008,Middle East,33.54
+2009,Middle East,40.03
+2010,Middle East,42.09
+2011,Middle East,41.05
+2012,Middle East,42.41
+2013,Middle East,43.6
+2014,Middle East,44.62
+2015,Middle East,45.54
+2016,Middle East,47.03
+1990,Rest of world,91.55
+1991,Rest of world,94.24
+1992,Rest of world,96.36
+1993,Rest of world,99.9
+1994,Rest of world,102.03
+1995,Rest of world,104.28
+1996,Rest of world,107.13
+1997,Rest of world,111.13
+1998,Rest of world,113.53
+1999,Rest of world,115.57
+2000,Rest of world,121.28
+2001,Rest of world,124.77
+2002,Rest of world,128.46
+2003,Rest of world,135.08
+2004,Rest of world,144.15
+2005,Rest of world,152.37
+2006,Rest of world,161.48
+2007,Rest of world,174.33
+2008,Rest of world,183.06
+2009,Rest of world,189.35
+2010,Rest of world,198.96
+2011,Rest of world,207.71
+2012,Rest of world,218.41
+2013,Rest of world,228.4
+2014,Rest of world,235.3
+2015,Rest of world,241.15
+2016,Rest of world,246.3
+1990,World,575.69
+1991,World,588.87
+1992,World,611.39
+1993,World,631.76
+1994,World,655.76
+1995,World,677.7
+1996,World,704.49
+1997,World,732.25
+1998,World,760.29
+1999,World,783.19
+2000,World,815.79
+2001,World,844.49
+2002,World,875.44
+2003,World,911.53
+2004,World,951.45
+2005,World,992.72
+2006,World,1045.17
+2007,World,1105.3
+2008,World,1155.19
+2009,World,1208.84
+2010,World,1269.05
+2011,World,1326.06
+2012,World,1391.97
+2013,World,1448.66
+2014,World,1502.32
+2015,World,1563.45
+2016,World,1621.72
