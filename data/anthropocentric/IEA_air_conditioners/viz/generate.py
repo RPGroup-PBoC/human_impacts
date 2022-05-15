@@ -10,7 +10,7 @@ data['date'] = pd.to_datetime(data['year'], format='%Y')
 agg_data = pd.DataFrame()
 agg_data['date'] = (data[data['Region']=='World'])['date']
 # In billion units
-agg_data['units'] = (data[data['Region']=='World'])['A/C units (million)']/1000.0
+agg_data['units'] = round((data[data['Region']=='World'])['A/C units (million)']/1000.0, 3)
 #%%
 
 chart = alt.Chart(agg_data).encode(
