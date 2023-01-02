@@ -1,1 +1,541 @@
-{"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": {"type": "line", "color": "dodgerblue"}, "encoding": {"tooltip": [{"type": "temporal", "field": "year", "format": "%Y", "title": "year"}, {"type": "nominal", "field": "consumption"}], "x": {"type": "temporal", "field": "year", "timeUnit": "year", "title": "year"}, "y": {"type": "quantitative", "field": "consumption_GW", "title": "power consumption [GW]"}}, "height": 300, "width": "container"}, {"mark": {"type": "point", "color": "dodgerblue", "filled": true}, "encoding": {"tooltip": [{"type": "temporal", "field": "year", "format": "%Y", "title": "year"}, {"type": "nominal", "field": "consumption"}], "x": {"type": "temporal", "field": "year", "timeUnit": "year", "title": "year"}, "y": {"type": "quantitative", "field": "consumption_GW", "title": "power consumption [GW]"}}, "height": 300, "width": "container"}], "data": {"name": "data-5a33ad65421b7fb693ca8755165bef05"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-5a33ad65421b7fb693ca8755165bef05": [{"Unnamed: 0": 0, "year": "1965-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 145.98, "consumption_TW": 4.628705827, "consumption_GW": 4628.705827, "consumption": "4.62 TW"}, {"Unnamed: 0": 1, "year": "1966-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 153.69, "consumption_TW": 4.872594739, "consumption_GW": 4872.594739, "consumption": "4.87 TW"}, {"Unnamed: 0": 2, "year": "1967-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 159.57999999999996, "consumption_TW": 5.059336915, "consumption_GW": 5059.336915, "consumption": "5.05 TW"}, {"Unnamed: 0": 3, "year": "1968-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 169.27, "consumption_TW": 5.367004877, "consumption_GW": 5367.004877, "consumption": "5.36 TW"}, {"Unnamed: 0": 4, "year": "1969-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 180.76, "consumption_TW": 5.730896239, "consumption_GW": 5730.896239, "consumption": "5.73 TW"}, {"Unnamed: 0": 5, "year": "1970-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 192.17, "consumption_TW": 6.092999061, "consumption_GW": 6092.999061, "consumption": "6.09 TW"}, {"Unnamed: 0": 6, "year": "1971-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 199.67, "consumption_TW": 6.330586642, "consumption_GW": 6330.586642, "consumption": "6.33 TW"}, {"Unnamed: 0": 7, "year": "1972-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 210.22, "consumption_TW": 6.665094504, "consumption_GW": 6665.094504, "consumption": "6.66 TW"}, {"Unnamed: 0": 8, "year": "1973-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 222.45, "consumption_TW": 7.052836343999998, "consumption_GW": 7052.8363439999985, "consumption": "7.05 TW"}, {"Unnamed: 0": 9, "year": "1974-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 221.8, "consumption_TW": 7.032294740999999, "consumption_GW": 7032.294741, "consumption": "7.03 TW"}, {"Unnamed: 0": 10, "year": "1975-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 221.88, "consumption_TW": 7.03495472, "consumption_GW": 7034.95472, "consumption": "7.03 TW"}, {"Unnamed: 0": 11, "year": "1976-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 234.27, "consumption_TW": 7.427507814, "consumption_GW": 7427.5078140000005, "consumption": "7.42 TW"}, {"Unnamed: 0": 12, "year": "1977-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 241.98, "consumption_TW": 7.672145419, "consumption_GW": 7672.1454189999995, "consumption": "7.67 TW"}, {"Unnamed: 0": 13, "year": "1978-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 249.04, "consumption_TW": 7.896153762000001, "consumption_GW": 7896.153762000001, "consumption": "7.89 TW"}, {"Unnamed: 0": 14, "year": "1979-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 257.43, "consumption_TW": 8.161917669, "consumption_GW": 8161.9176689999995, "consumption": "8.16 TW"}, {"Unnamed: 0": 15, "year": "1980-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 254.43, "consumption_TW": 8.066647377, "consumption_GW": 8066.647377, "consumption": "8.06 TW"}, {"Unnamed: 0": 16, "year": "1981-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 251.43, "consumption_TW": 7.971664436999999, "consumption_GW": 7971.664436999999, "consumption": "7.97 TW"}, {"Unnamed: 0": 17, "year": "1982-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 248.58000000000004, "consumption_TW": 7.881545501000001, "consumption_GW": 7881.5455010000005, "consumption": "7.88 TW"}, {"Unnamed: 0": 18, "year": "1983-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 250.98, "consumption_TW": 7.957495926, "consumption_GW": 7957.495926, "consumption": "7.95 TW"}, {"Unnamed: 0": 19, "year": "1984-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 261.51, "consumption_TW": 8.291165344, "consumption_GW": 8291.165344, "consumption": "8.29 TW"}, {"Unnamed: 0": 20, "year": "1985-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 266.53, "consumption_TW": 8.450550706, "consumption_GW": 8450.550706, "consumption": "8.45 TW"}, {"Unnamed: 0": 21, "year": "1986-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 271.72, "consumption_TW": 8.615186167000001, "consumption_GW": 8615.186167000002, "consumption": "8.61 TW"}, {"Unnamed: 0": 22, "year": "1987-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 280.77, "consumption_TW": 8.901875155, "consumption_GW": 8901.875155000002, "consumption": "8.90 TW"}, {"Unnamed: 0": 23, "year": "1988-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 290.72, "consumption_TW": 9.217470367999999, "consumption_GW": 9217.470367999998, "consumption": "9.21 TW"}, {"Unnamed: 0": 24, "year": "1989-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 296.5800000000001, "consumption_TW": 9.403351865, "consumption_GW": 9403.351864999999, "consumption": "9.40 TW"}, {"Unnamed: 0": 25, "year": "1990-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 299.0499999999999, "consumption_TW": 9.481702902, "consumption_GW": 9481.702902, "consumption": "9.48 TW"}, {"Unnamed: 0": 26, "year": "1991-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 299.91, "consumption_TW": 9.50906752, "consumption_GW": 9509.06752, "consumption": "9.50 TW"}, {"Unnamed: 0": 27, "year": "1992-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 302.26, "consumption_TW": 9.583381399, "consumption_GW": 9583.381399, "consumption": "9.58 TW"}, {"Unnamed: 0": 28, "year": "1993-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 302.56, "consumption_TW": 9.592782355, "consumption_GW": 9592.782355000001, "consumption": "9.59 TW"}, {"Unnamed: 0": 29, "year": "1994-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 306.37, "consumption_TW": 9.713585368, "consumption_GW": 9713.585368, "consumption": "9.71 TW"}, {"Unnamed: 0": 30, "year": "1995-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 311.43, "consumption_TW": 9.874038977, "consumption_GW": 9874.038977, "consumption": "9.87 TW"}, {"Unnamed: 0": 31, "year": "1996-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 320.82000000000005, "consumption_TW": 10.17177265, "consumption_GW": 10171.772649999999, "consumption": "10. TW"}, {"Unnamed: 0": 32, "year": "1997-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 323.91, "consumption_TW": 10.269744811, "consumption_GW": 10269.744811, "consumption": "10. TW"}, {"Unnamed: 0": 33, "year": "1998-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 325.52, "consumption_TW": 10.320820844, "consumption_GW": 10320.820844, "consumption": "10. TW"}, {"Unnamed: 0": 34, "year": "1999-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 331.09, "consumption_TW": 10.497436099, "consumption_GW": 10497.436099, "consumption": "10. TW"}, {"Unnamed: 0": 35, "year": "2000-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 339.5300000000001, "consumption_TW": 10.765108926, "consumption_GW": 10765.108926, "consumption": "10. TW"}, {"Unnamed: 0": 36, "year": "2001-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 343.66, "consumption_TW": 10.896052953, "consumption_GW": 10896.052953, "consumption": "10. TW"}, {"Unnamed: 0": 37, "year": "2002-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 351.49, "consumption_TW": 11.144325201, "consumption_GW": 11144.325201, "consumption": "11. TW"}, {"Unnamed: 0": 38, "year": "2003-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 366.69, "consumption_TW": 11.626145797999998, "consumption_GW": 11626.145797999998, "consumption": "11. TW"}, {"Unnamed: 0": 39, "year": "2004-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 383.96, "consumption_TW": 12.173745352000001, "consumption_GW": 12173.745352000002, "consumption": "12. TW"}, {"Unnamed: 0": 40, "year": "2005-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 397.65, "consumption_TW": 12.607860378, "consumption_GW": 12607.860378, "consumption": "12. TW"}, {"Unnamed: 0": 41, "year": "2006-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 409.00000000000006, "consumption_TW": 12.967883329000001, "consumption_GW": 12967.883329, "consumption": "12. TW"}, {"Unnamed: 0": 42, "year": "2007-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 423.02, "consumption_TW": 13.412082378, "consumption_GW": 13412.082378, "consumption": "13. TW"}, {"Unnamed: 0": 43, "year": "2008-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 426.1, "consumption_TW": 13.509743673, "consumption_GW": 13509.743672999999, "consumption": "13. TW"}, {"Unnamed: 0": 44, "year": "2009-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 418.36, "consumption_TW": 13.264650095, "consumption_GW": 13264.650095, "consumption": "13. TW"}, {"Unnamed: 0": 45, "year": "2010-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 438.08, "consumption_TW": 13.889909306, "consumption_GW": 13889.909306, "consumption": "13. TW"}, {"Unnamed: 0": 46, "year": "2011-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 449.78, "consumption_TW": 14.260628127999999, "consumption_GW": 14260.628127999998, "consumption": "14. TW"}, {"Unnamed: 0": 47, "year": "2012-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 455.62, "consumption_TW": 14.445884051000002, "consumption_GW": 14445.884051000003, "consumption": "14. TW"}, {"Unnamed: 0": 48, "year": "2013-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 462.42, "consumption_TW": 14.661155689000001, "consumption_GW": 14661.155689000001, "consumption": "14. TW"}, {"Unnamed: 0": 49, "year": "2014-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 464.27, "consumption_TW": 14.719852680999999, "consumption_GW": 14719.852680999998, "consumption": "14. TW"}, {"Unnamed: 0": 50, "year": "2015-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 466.26, "consumption_TW": 14.783075403, "consumption_GW": 14783.075402999999, "consumption": "14. TW"}, {"Unnamed: 0": 51, "year": "2016-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 470.53, "consumption_TW": 14.918852767999999, "consumption_GW": 14918.852767999999, "consumption": "14. TW"}, {"Unnamed: 0": 52, "year": "2017-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 477.04000000000013, "consumption_TW": 15.125086621, "consumption_GW": 15125.086620999999, "consumption": "15. TW"}, {"Unnamed: 0": 53, "year": "2018-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 488.9, "consumption_TW": 15.501130735, "consumption_GW": 15501.130735, "consumption": "15. TW"}, {"Unnamed: 0": 54, "year": "2019-01-01T00:00:00", "type": "Fossil Fuels", "consumption_EJ_yr": 492.34, "consumption_TW": 15.610063138, "consumption_GW": 15610.063138, "consumption": "15. TW"}]}}
+{
+    "config": {
+        "view": {
+            "continuousWidth": 400,
+            "continuousHeight": 300
+        }
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "line",
+                "color": "dodgerblue"
+            },
+            "encoding": {
+                "tooltip": [
+                    {
+                        "field": "year",
+                        "format": "%Y",
+                        "title": "year",
+                        "type": "temporal"
+                    },
+                    {
+                        "field": "consumption",
+                        "type": "nominal"
+                    }
+                ],
+                "x": {
+                    "field": "year",
+                    "timeUnit": "year",
+                    "title": "year",
+                    "type": "temporal"
+                },
+                "y": {
+                    "field": "consumption_GW",
+                    "title": "power consumption [GW]",
+                    "type": "quantitative"
+                }
+            },
+            "height": 300,
+            "width": "container"
+        },
+        {
+            "mark": {
+                "type": "point",
+                "color": "dodgerblue",
+                "filled": true
+            },
+            "encoding": {
+                "tooltip": [
+                    {
+                        "field": "year",
+                        "format": "%Y",
+                        "title": "year",
+                        "type": "temporal"
+                    },
+                    {
+                        "field": "consumption",
+                        "type": "nominal"
+                    }
+                ],
+                "x": {
+                    "field": "year",
+                    "timeUnit": "year",
+                    "title": "year",
+                    "type": "temporal"
+                },
+                "y": {
+                    "field": "consumption_GW",
+                    "title": "power consumption [GW]",
+                    "type": "quantitative"
+                }
+            },
+            "height": 300,
+            "width": "container"
+        }
+    ],
+    "data": {
+        "name": "data-6eff2f96df6103852c17206a59879cbe"
+    },
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
+    "datasets": {
+        "data-6eff2f96df6103852c17206a59879cbe": [
+            {
+                "year": "1965-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 145.55,
+                "consumption_TW": 4.614774889029803,
+                "consumption_GW": 4614.7748890298035,
+                "consumption": "4.6 TW"
+            },
+            {
+                "year": "1966-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 153.13,
+                "consumption_TW": 4.8551046290424855,
+                "consumption_GW": 4855.104629042486,
+                "consumption": "4.8 TW"
+            },
+            {
+                "year": "1967-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 159.01,
+                "consumption_TW": 5.041534559289791,
+                "consumption_GW": 5041.534559289791,
+                "consumption": "5.0 TW"
+            },
+            {
+                "year": "1968-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 168.6,
+                "consumption_TW": 5.345592897907419,
+                "consumption_GW": 5345.59289790742,
+                "consumption": "5.3 TW"
+            },
+            {
+                "year": "1969-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 179.95,
+                "consumption_TW": 5.705453392517438,
+                "consumption_GW": 5705.453392517438,
+                "consumption": "5.7 TW"
+            },
+            {
+                "year": "1970-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 191.44,
+                "consumption_TW": 6.0697526949904885,
+                "consumption_GW": 6069.752694990489,
+                "consumption": "6.07 TW"
+            },
+            {
+                "year": "1971-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 198.92,
+                "consumption_TW": 6.306911857958149,
+                "consumption_GW": 6306.911857958149,
+                "consumption": "6.3 TW"
+            },
+            {
+                "year": "1972-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 209.27,
+                "consumption_TW": 6.635066582117945,
+                "consumption_GW": 6635.0665821179455,
+                "consumption": "6.6 TW"
+            },
+            {
+                "year": "1973-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 221.69,
+                "consumption_TW": 7.028852251109702,
+                "consumption_GW": 7028.852251109702,
+                "consumption": "7.0 TW"
+            },
+            {
+                "year": "1974-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 221.12,
+                "consumption_TW": 7.010779961953076,
+                "consumption_GW": 7010.779961953076,
+                "consumption": "7.0 TW"
+            },
+            {
+                "year": "1975-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 221.05,
+                "consumption_TW": 7.00856055802156,
+                "consumption_GW": 7008.56055802156,
+                "consumption": "7.0 TW"
+            },
+            {
+                "year": "1976-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 233.26,
+                "consumption_TW": 7.39568801521877,
+                "consumption_GW": 7395.6880152187705,
+                "consumption": "7.3 TW"
+            },
+            {
+                "year": "1977-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 240.95,
+                "consumption_TW": 7.639505389980976,
+                "consumption_GW": 7639.505389980976,
+                "consumption": "7.64 TW"
+            },
+            {
+                "year": "1978-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 249.35,
+                "consumption_TW": 7.905833861762842,
+                "consumption_GW": 7905.8338617628415,
+                "consumption": "7.9 TW"
+            },
+            {
+                "year": "1979-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 257.56,
+                "consumption_TW": 8.166138237159164,
+                "consumption_GW": 8166.1382371591635,
+                "consumption": "8.1 TW"
+            },
+            {
+                "year": "1980-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 254.19,
+                "consumption_TW": 8.059289790741914,
+                "consumption_GW": 8059.289790741915,
+                "consumption": "8.0 TW"
+            },
+            {
+                "year": "1981-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 251.28,
+                "consumption_TW": 7.967025998731769,
+                "consumption_GW": 7967.025998731769,
+                "consumption": "7.9 TW"
+            },
+            {
+                "year": "1982-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 248.55,
+                "consumption_TW": 7.880469245402663,
+                "consumption_GW": 7880.469245402664,
+                "consumption": "7.88 TW"
+            },
+            {
+                "year": "1983-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 250.88,
+                "consumption_TW": 7.95434369055168,
+                "consumption_GW": 7954.343690551679,
+                "consumption": "7.9 TW"
+            },
+            {
+                "year": "1984-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 261.3,
+                "consumption_TW": 8.284717818642992,
+                "consumption_GW": 8284.717818642992,
+                "consumption": "8.2 TW"
+            },
+            {
+                "year": "1985-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 266.08,
+                "consumption_TW": 8.436271401395054,
+                "consumption_GW": 8436.271401395054,
+                "consumption": "8.4 TW"
+            },
+            {
+                "year": "1986-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 271.37,
+                "consumption_TW": 8.603994927076728,
+                "consumption_GW": 8603.994927076728,
+                "consumption": "8.6 TW"
+            },
+            {
+                "year": "1987-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 280.39,
+                "consumption_TW": 8.88998097653773,
+                "consumption_GW": 8889.98097653773,
+                "consumption": "8.89 TW"
+            },
+            {
+                "year": "1988-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 290.19000000000005,
+                "consumption_TW": 9.200697526949908,
+                "consumption_GW": 9200.697526949907,
+                "consumption": "9.2 TW"
+            },
+            {
+                "year": "1989-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 296.06,
+                "consumption_TW": 9.386810399492708,
+                "consumption_GW": 9386.810399492708,
+                "consumption": "9.3 TW"
+            },
+            {
+                "year": "1990-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 298.78,
+                "consumption_TW": 9.473050095117312,
+                "consumption_GW": 9473.050095117313,
+                "consumption": "9.4 TW"
+            },
+            {
+                "year": "1991-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 299.66,
+                "consumption_TW": 9.500951173113506,
+                "consumption_GW": 9500.951173113506,
+                "consumption": "9.5 TW"
+            },
+            {
+                "year": "1992-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 301.58,
+                "consumption_TW": 9.561826252377934,
+                "consumption_GW": 9561.826252377934,
+                "consumption": "9.5 TW"
+            },
+            {
+                "year": "1993-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 302.09,
+                "consumption_TW": 9.577996195307549,
+                "consumption_GW": 9577.996195307549,
+                "consumption": "9.5 TW"
+            },
+            {
+                "year": "1994-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 305.89,
+                "consumption_TW": 9.69847812301839,
+                "consumption_GW": 9698.47812301839,
+                "consumption": "9.6 TW"
+            },
+            {
+                "year": "1995-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 311.44,
+                "consumption_TW": 9.874445149017122,
+                "consumption_GW": 9874.445149017121,
+                "consumption": "9.8 TW"
+            },
+            {
+                "year": "1996-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 320.6,
+                "consumption_TW": 10.164870006341152,
+                "consumption_GW": 10164.870006341152,
+                "consumption": "10. TW"
+            },
+            {
+                "year": "1997-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 323.93,
+                "consumption_TW": 10.270450221940392,
+                "consumption_GW": 10270.450221940391,
+                "consumption": "10. TW"
+            },
+            {
+                "year": "1998-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 325.6,
+                "consumption_TW": 10.323398858592263,
+                "consumption_GW": 10323.398858592263,
+                "consumption": "10. TW"
+            },
+            {
+                "year": "1999-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 330.92,
+                "consumption_TW": 10.492073557387442,
+                "consumption_GW": 10492.073557387443,
+                "consumption": "10. TW"
+            },
+            {
+                "year": "2000-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 339.49,
+                "consumption_TW": 10.763792010145847,
+                "consumption_GW": 10763.792010145848,
+                "consumption": "10. TW"
+            },
+            {
+                "year": "2001-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 343.56,
+                "consumption_TW": 10.89283449587825,
+                "consumption_GW": 10892.834495878249,
+                "consumption": "10. TW"
+            },
+            {
+                "year": "2002-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 351.34000000000003,
+                "consumption_TW": 11.13950538998098,
+                "consumption_GW": 11139.50538998098,
+                "consumption": "11. TW"
+            },
+            {
+                "year": "2003-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 366.52,
+                "consumption_TW": 11.620798985415346,
+                "consumption_GW": 11620.798985415346,
+                "consumption": "11. TW"
+            },
+            {
+                "year": "2004-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 383.99,
+                "consumption_TW": 12.174698795180722,
+                "consumption_GW": 12174.698795180722,
+                "consumption": "12. TW"
+            },
+            {
+                "year": "2005-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 397.01,
+                "consumption_TW": 12.587507926442612,
+                "consumption_GW": 12587.507926442611,
+                "consumption": "12. TW"
+            },
+            {
+                "year": "2006-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 408.25,
+                "consumption_TW": 12.943880786303108,
+                "consumption_GW": 12943.880786303109,
+                "consumption": "12. TW"
+            },
+            {
+                "year": "2007-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 422.29,
+                "consumption_TW": 13.389029803424224,
+                "consumption_GW": 13389.029803424224,
+                "consumption": "13. TW"
+            },
+            {
+                "year": "2008-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 425.28,
+                "consumption_TW": 13.483830057070389,
+                "consumption_GW": 13483.830057070389,
+                "consumption": "13. TW"
+            },
+            {
+                "year": "2009-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 417.41,
+                "consumption_TW": 13.234305643627138,
+                "consumption_GW": 13234.305643627138,
+                "consumption": "13. TW"
+            },
+            {
+                "year": "2010-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 437.33,
+                "consumption_TW": 13.86588459099556,
+                "consumption_GW": 13865.88459099556,
+                "consumption": "13. TW"
+            },
+            {
+                "year": "2011-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 448.79,
+                "consumption_TW": 14.229232720355103,
+                "consumption_GW": 14229.232720355103,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2012-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 455.0,
+                "consumption_TW": 14.426125554850984,
+                "consumption_GW": 14426.125554850983,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2013-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 461.13,
+                "consumption_TW": 14.620481927710845,
+                "consumption_GW": 14620.481927710845,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2014-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 464.18,
+                "consumption_TW": 14.71718452758402,
+                "consumption_GW": 14717.18452758402,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2015-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 466.64,
+                "consumption_TW": 14.795180722891564,
+                "consumption_GW": 14795.180722891564,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2016-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 470.97,
+                "consumption_TW": 14.932466708941028,
+                "consumption_GW": 14932.466708941029,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2017-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 478.08,
+                "consumption_TW": 15.157894736842104,
+                "consumption_GW": 15157.894736842105,
+                "consumption": "15. TW"
+            },
+            {
+                "year": "2018-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 489.32,
+                "consumption_TW": 15.5142675967026,
+                "consumption_GW": 15514.2675967026,
+                "consumption": "15. TW"
+            },
+            {
+                "year": "2019-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 490.08,
+                "consumption_TW": 15.538363982244768,
+                "consumption_GW": 15538.363982244768,
+                "consumption": "15. TW"
+            },
+            {
+                "year": "2020-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 463.68,
+                "consumption_TW": 14.701331642358909,
+                "consumption_GW": 14701.33164235891,
+                "consumption": "14. TW"
+            },
+            {
+                "year": "2021-01-01T00:00:00",
+                "type": "fossil fuels",
+                "consumption_EJ_yr": 489.66,
+                "consumption_TW": 15.525047558655674,
+                "consumption_GW": 15525.047558655673,
+                "consumption": "15. TW"
+            }
+        ]
+    }
+}

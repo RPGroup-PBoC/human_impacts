@@ -3,27 +3,12 @@
 
 ## Description 
 This dataset contains data of the primary energy used per country (or
-continental region) in units of Exajoules from years 1965 - 2019. Units of
+continental region) in units of Exajoules from years 1965 - 2021. Units of
 Exajoules were converted to units of TW.
 
 ## Key Numbers
 
-* Global power usage (2019) ≈ 19 TW
-
-
-Top 10 (2019)
-| Country | Power Usage (TW) |
-|:--:|:--:|
-| China | ≈ 4.5 | 
-| USA | ≈ 3 | 
-| India | ≈ 1| 
-| Russian Federation | ≈1 | 
-| Japan | ≈ 0.6 |
-| Canada | ≈ 0.5 | 
-| Germany | ≈0.4 |
-| Brazil | ≈ 0.4 |
-| South Korea | ≈0.4 |
-| Iran | ≈0.4 |
+* Global power usage (2021) ≈ 19 TW
 
 ## Source Information
 
@@ -47,5 +32,3 @@ Processed data file was manipulated manually into a long-form tidy format where
 each row corresponds to a single measurement of energy use for a given country
 and year. Data was reported in units of Exajoules. This was converted to TW by
 using ≈3.154x10^7 seconds per year. 
-
-![](media/figure_file_name.png) 
