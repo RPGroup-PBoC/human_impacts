@@ -1,8 +1,11 @@
-# The Great Human Experiment by the Numbers
+# Anthroponumbers.org [![DOI][zenodo-img]][zenodo-latest-url]
+
+[zenodo-img]: https://zenodo.org/badge/DOI/10.5281/zenodo.4453276.svg
+[zenodo-latest-url]: https://doi.org/10.5281/zenodo.4453276
 
 Welcome! This repository collects and annotates data sets pertaining to the
 impacts humans have on the earth writ large and serves as the central data source for
-the [Human Impacts Database]().  The repository is
+[Anthroponumbers.org](http://www.anthroponumbers.org/catalog/), the Human Impacts Database. The repository is
 open to the public, though please contact [Griffin](http://mailto:gchure@caltech.edu) if
 you are interested in becoming a contributing member to the effort. You do not need special
 permissions to clone or fork this repository or to submit pull requests. As this is a living, breathing
