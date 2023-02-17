@@ -61,7 +61,7 @@ l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
 
 layer = alt.layer(l, p)
-layer.save('crop_fraction.json')
+layer.save('./crop_fraction.json')
 # %%
 
 # %%
