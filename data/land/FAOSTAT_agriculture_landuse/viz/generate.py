@@ -52,7 +52,7 @@ chart = alt.Chart(data).encode(
     x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
     y=alt.Y(field='fraction_pct', type='quantitative',
             title='crop area [% of total agricultural land]',
-            scale=alt.Scale(domain=[60, 80])),
+            scale=alt.Scale(domain=[0, 50])),
     tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
              alt.Tooltip(field='fraction_pct', type='quantitative',
                          format='0.0f', title='fraction [%]'),
