@@ -1,553 +1,577 @@
-﻿Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,227794.136,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,232327.811,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,237096.507,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,242092.424,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,247310.594,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,252748.903,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,258408.188,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,264292.198,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,270407.018,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,276760.707,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,283361.209,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,290214.489,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,297322.68,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,304683.413,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,312291.934,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,320147.257,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,328256.522,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,336630.998,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,345280.027,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,354214.422,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,363447.518,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,372983.108,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,382837.384,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,393044.091,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,403645.795,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,414674.688,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,426144.378,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,438054.733,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,450403.808,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,463183.536,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,476386.273,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,490003.891,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,504034.199,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,518479.753,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,533345.172,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,548626.148,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,564327.26,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,580424.361,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,596849,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,613512.11,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,630349.639,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,647343.997,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,664512.055,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,681869.283,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,699445.343,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,717270.078,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,735361.115,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,753737.61,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,772437.113,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,791504.166,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,810984.226,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,830902.585,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,851298.405,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,872248.381,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,893842.821,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,916154.288,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,939210.02,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,963021.802,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,987623.496,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,1013045.754,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,1039304.033,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,1066409.7,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,1094343.067,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,1123045.081,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,1152433.627,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,1182438.784,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,1213040.521,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,1244222.267,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5100,Africa,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,1275920.972,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,172602.624,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,175016.59,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,177778.5,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,180813.199,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,184051.525,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,187430.408,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,190892.786,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,194387.685,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,197870.2,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,201301.498,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,204649.165,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,207887.183,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,210996.177,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,213963.479,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,216782.887,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,219454.181,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,221966.41,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,224327.3,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,226580.615,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,228786.668,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,230991.858,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,233213.524,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,235449.571,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,237703.033,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,239970.867,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,242251.508,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,244552.738,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,246882.325,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,249237.766,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,251613.702,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,254007.123,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,256418.908,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,258853.997,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,261318.323,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,263819.459,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,266363.451,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,268958.52,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,271606.616,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,274300.348,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,277028.172,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,279785.259,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,282552.418,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,285339.704,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,288205.122,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,291227.258,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,294453.542,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,297918.807,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,301582.347,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,305324.062,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,308977.74,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,312426.773,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,315615.973,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,318585.955,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,321432.409,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,324299.279,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,327287.151,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,330425.331,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,333668.5,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,336952.716,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,340182.402,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,343287.419,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,346251.164,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,349093.38,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,351824.039,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,354464.237,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,357031.048,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,359524.647,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,361942.268,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5203,Northern America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,364295.996,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,37975.514,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,39045.323,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,40166.173,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,41340.987,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,42571.698,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,43859.267,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,45203.628,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,46603.664,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,48057.457,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,49562.575,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,51116.534,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,52717.985,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,54367,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,56065.647,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,57817.052,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,59622.915,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,61481.893,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,63391.162,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,65348.985,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,67353.056,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,69400.453,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,71490.339,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,73618.746,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,75775.811,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,77949.027,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,80129.069,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,82310.227,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,84492.595,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,86679.746,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,88878.306,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,91092.382,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,93322.66,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,95565.104,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,97813.444,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,100059.294,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,102296.688,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,104521.747,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,106736.046,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,108945.635,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,111159.566,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,113383.693,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,115620.581,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,117865.993,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,120111.018,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,122343.212,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,124553.738,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,126742.36,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,128912.722,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,131065.087,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,133200.686,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,135322.35,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,137426.168,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,139516.826,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,141616.538,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,143754.557,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,145950.548,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,148213.041,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,150532.54,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,152888.002,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,155248.747,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,157591.319,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,159908.358,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,162202.692,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,164473.282,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,166721.888,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,168949.191,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,171152.187,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,173326.771,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5204,Central America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,175471.787,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,17079.9,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,17381.561,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,17706.563,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,18046.163,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,18394.29,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,18747.75,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,19106.181,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,19472.069,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,19850.199,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,20246.863,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,20667.471,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,21114.096,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,21582.997,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,22063.996,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,22542.986,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,23009.86,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,23459.885,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,23895.943,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,24324.97,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,24757.603,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,25201.317,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,25658.357,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,26124.924,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,26595.092,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,27060.084,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,27513.709,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,27954.33,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,28384.521,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,28806.922,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,29226.116,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,29645.573,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,30065.11,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,30484.385,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,30906.729,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,31336.181,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,31775.121,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,32225.326,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,32684.9,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,33148.33,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,33607.986,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,34058.163,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,34496.466,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,34923.928,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,35342.142,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,35754.239,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,36162.215,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,36566.481,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,36965.468,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,37356.519,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,37736.167,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,38102.071,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,38453.505,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,38791.528,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,39117.896,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,39435.294,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,39745.829,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,40048.872,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,40344.297,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,40635.189,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,40925.481,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,41217.36,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,41514.63,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,41815.192,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,42108.683,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,42380.812,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,42622.296,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,42827.512,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,43002.434,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5206,Caribbean,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,43163.817,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,113765.206,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,116853.677,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,120043.209,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,123321.739,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,126681.738,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,130120.202,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,133638.907,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,137244.219,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,140946.104,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,144756.643,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,148685.693,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,152735.914,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,156898.854,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,161152.909,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,165468.563,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,169823.181,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,174212.418,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,178638.491,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,183094.354,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,187573.635,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,192073.935,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,196589.322,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,201125.777,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,205707.827,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,210369.132,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,215134.411,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,220007.81,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,224983.292,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,230061.551,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,235240.513,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,240515.25,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,245886.775,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,251346.38,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,256866.416,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,262410.946,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,267951.848,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,273476.269,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,278983.205,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,284470.905,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,289942.187,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,295398.205,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,300829.454,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,306228.619,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,311601.616,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,316958.269,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,322302.312,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,327635.144,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,332943.512,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,338199.103,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,343364.542,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,348411.883,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,353333.532,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,358133.209,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,362809.703,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,367365.317,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,371804.655,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,376122.787,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,380325.06,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,384439.482,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,388503.339,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,392543.709,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,396571.764,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,400581.583,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,404561.963,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,408493.769,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,412362.681,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,416164.856,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,419903.918,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5207,South America,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,423581.078,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,1379651.036,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,1410030.066,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,1438400.852,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,1465722.841,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,1492776.491,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,1520162.901,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,1548296.681,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,1577412.989,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,1607589.97,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,1638784.608,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,1670942.546,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,1704114.634,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,1738559.108,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,1774785.163,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,1813429.202,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,1854890.012,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,1899351.949,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,1946533.092,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,1995769.316,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,2046121.451,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,2096850.308,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,2147804.455,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,2199005.128,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,2250102.953,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,2300734.094,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,2350675.822,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,2399736.272,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,2448040.211,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,2496097.231,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,2544637.228,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,2594221.825,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,2644844.537,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,2696417.354,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,2749300.892,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,2803914.721,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,2860457.545,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,2919170.819,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,2979707.415,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,3040940.497,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,3101338.111,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,3159784.73,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,3215841.542,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,3337511.555,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,3390245.391,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,3441912.7,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,3493086.983,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,3543851.283,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,3594032.74,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,3643662.91,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,3692736.099,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,3741263.381,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,3789285.355,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,3836880.325,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,3884134.531,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,3931146.499,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,3977986.502,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,4024679.899,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,4071214.924,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,4117572.142,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,4163712.835,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,4209593.693,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,4255189.678,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,4300462.192,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,4345331.306,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,4389699.473,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,4433475.358,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,4476607.853,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,4519040.027,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5300,Asia,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,4560667.108,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,574586.868,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,580113.47,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,586127.205,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,592453.989,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,598961.172,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,605557.79,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,612196.649,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,618872.296,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,625614.196,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,632476.539,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,639505.485,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,646705.219,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,654007.82,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,661260.363,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,668261.065,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,674867.476,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,681012.058,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,686735.509,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,692136.969,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,697370.621,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,702549.401,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,707702.24,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,712794.567,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,717801.331,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,722677.21,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,727391.085,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,731945.689,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,736362.94,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,740654.435,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,744836.17,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,748922.992,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,752893.891,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,756750.471,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,760554.899,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,764389.595,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,768299.897,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,772315.309,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,776377.856,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,780336.383,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,783985.222,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,787172.682,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,789879.71,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,724390.017,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,725656.758,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,726529.42,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,726994.464,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,727020.268,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,726669.467,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,726141.823,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,725705.401,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,725558.036,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,725771.893,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,726312.045,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,727134.273,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,728149.83,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,729287.846,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,730546.822,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,731938.519,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,733416.501,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,734923.39,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,736412.989,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,737850.675,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,739225.19,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,740541.861,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,741818.291,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,743059.035,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,744268.827,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,745414.735,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5400,Europe,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,746419.44,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1950,1950,1000 persons,12975.865,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1951,1951,1000 persons,13265.763,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1952,1952,1000 persons,13542.553,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1953,1953,1000 persons,13817.618,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1954,1954,1000 persons,14099.233,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1955,1955,1000 persons,14392.715,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1956,1956,1000 persons,14700.262,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1957,1957,1000 persons,15020.97,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1958,1958,1000 persons,15351.561,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1959,1959,1000 persons,15686.752,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1960,1960,1000 persons,16021.645,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1961,1961,1000 persons,16353.987,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1962,1962,1000 persons,16686.159,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1963,1963,1000 persons,17026.039,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1964,1964,1000 persons,17384.649,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1965,1965,1000 persons,17768.715,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1966,1966,1000 persons,18181.495,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1967,1967,1000 persons,18617.467,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1968,1968,1000 persons,19063.891,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1969,1969,1000 persons,19503.171,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1970,1970,1000 persons,19922.256,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1971,1971,1000 persons,20318.272,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1972,1972,1000 persons,20694.148,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1973,1973,1000 persons,21050.1,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1974,1974,1000 persons,21387.963,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1975,1975,1000 persons,21710.314,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1976,1976,1000 persons,22015.42,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1977,1977,1000 persons,22305.443,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1978,1978,1000 persons,22592.042,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1979,1979,1000 persons,22890.529,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1980,1980,1000 persons,23212.096,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1981,1981,1000 persons,23560.99,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1982,1982,1000 persons,23934.652,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1983,1983,1000 persons,24328.848,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1984,1984,1000 persons,24736.253,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1985,1985,1000 persons,25151.042,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1986,1986,1000 persons,25572.662,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1987,1987,1000 persons,26001.748,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1988,1988,1000 persons,26434.91,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1989,1989,1000 persons,26868.204,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1990,1990,1000 persons,27298.69,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1991,1991,1000 persons,27725.276,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1992,1992,1000 persons,28147.938,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1993,1993,1000 persons,28566.216,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1994,1994,1000 persons,28979.986,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1995,1995,1000 persons,29389.647,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1996,1996,1000 persons,29796.493,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1997,1997,1000 persons,30201.922,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1998,1998,1000 persons,30607.325,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,1999,1999,1000 persons,31014.254,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2000,2000,1000 persons,31425.103,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2001,2001,1000 persons,31837.595,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2002,2002,1000 persons,32254.895,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2003,2003,1000 persons,32691.383,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2004,2004,1000 persons,33165.792,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2005,2005,1000 persons,33690.208,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2006,2006,1000 persons,34271.061,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2007,2007,1000 persons,34900.968,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2008,2008,1000 persons,35561.158,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2009,2009,1000 persons,36225.145,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2010,2010,1000 persons,36873.081,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2011,2011,1000 persons,37498.332,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2012,2012,1000 persons,38104.763,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2013,2013,1000 persons,38695.761,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2014,2014,1000 persons,39278.668,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2015,2015,1000 persons,39858.746,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2016,2016,1000 persons,40435.646,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2017,2017,1000 persons,41006.505,A,"Aggregate, may include official, semi-official, estimated or calculated data",
-OA,Annual population,5500,Oceania,511,Total Population - Both sexes,3010,Population - Est. & Proj.,2018,2018,1000 persons,41570.842,A,"Aggregate, may include official, semi-official, estimated or calculated data",
+area,year,Unit,Value
+Africa,1950,1000 persons,227549261.000
+Africa,1951,1000 persons,232483990.00
+Africa,1952,1000 persons,237586063.000
+Africa,1953,1000 persons,242837450.00
+Africa,1954,1000 persons,248244771.000
+Africa,1955,1000 persons,253847728.000
+Africa,1956,1000 persons,259631386.000
+Africa,1957,1000 persons,265515234.000
+Africa,1958,1000 persons,271429556.000
+Africa,1959,1000 persons,277648190.00
+Africa,1960,1000 persons,284287859.000
+Africa,1961,1000 persons,291177556.000
+Africa,1962,1000 persons,298334054.000
+Africa,1963,1000 persons,305755228.000
+Africa,1964,1000 persons,313465706.000
+Africa,1965,1000 persons,321446988.000
+Africa,1966,1000 persons,329658039.000
+Africa,1967,1000 persons,338159590.00
+Africa,1968,1000 persons,346980007.000
+Africa,1969,1000 persons,356070247.000
+Africa,1970,1000 persons,365450108.000
+Africa,1971,1000 persons,375085857.000
+Africa,1972,1000 persons,384930392.000
+Africa,1973,1000 persons,395212024.000
+Africa,1974,1000 persons,406068835.000
+Africa,1975,1000 persons,417556631.000
+Africa,1976,1000 persons,429572939.000
+Africa,1977,1000 persons,441701411.000
+Africa,1978,1000 persons,454462680.00
+Africa,1979,1000 persons,467975883.000
+Africa,1980,1000 persons,481542776.000
+Africa,1981,1000 persons,495655338.000
+Africa,1982,1000 persons,510540221.000
+Africa,1983,1000 persons,525335031.000
+Africa,1984,1000 persons,540182785.000
+Africa,1985,1000 persons,555652630.00
+Africa,1986,1000 persons,571646426.000
+Africa,1987,1000 persons,588079702.000
+Africa,1988,1000 persons,604511233.000
+Africa,1989,1000 persons,621167638.000
+Africa,1990,1000 persons,638157238.000
+Africa,1991,1000 persons,655040491.000
+Africa,1992,1000 persons,671931547.000
+Africa,1993,1000 persons,689139957.000
+Africa,1994,1000 persons,706488290.00
+Africa,1995,1000 persons,724331672.000
+Africa,1996,1000 persons,742764743.000
+Africa,1997,1000 persons,761224445.000
+Africa,1998,1000 persons,779908033.000
+Africa,1999,1000 persons,799099336.000
+Africa,2000,1000 persons,818952056.000
+Africa,2001,1000 persons,839463866.000
+Africa,2002,1000 persons,860611465.000
+Africa,2003,1000 persons,882349262.000
+Africa,2004,1000 persons,904781343.000
+Africa,2005,1000 persons,927898095.000
+Africa,2006,1000 persons,951740270.00
+Africa,2007,1000 persons,976461443.000
+Africa,2008,1000 persons,1001981286.000
+Africa,2009,1000 persons,1028200285.000
+Africa,2010,1000 persons,1055233393.000
+Africa,2011,1000 persons,1082675797.000
+Africa,2012,1000 persons,1110797233.000
+Africa,2013,1000 persons,1140180579.000
+Africa,2014,1000 persons,1170299019.000
+Africa,2015,1000 persons,1201107939.000
+Africa,2016,1000 persons,1232111607.000
+Africa,2017,1000 persons,1263333738.000
+Africa,2018,1000 persons,1295265048.000
+Africa,2019,1000 persons,1327701165.000
+Africa,2020,1000 persons,1360677233.000
+Africa,2021,1000 persons,1393676446.000
+Northern America,1950,1000 persons,162089353.000
+Northern America,1951,1000 persons,164749833.000
+Northern America,1952,1000 persons,167494178.000
+Northern America,1953,1000 persons,170420513.000
+Northern America,1954,1000 persons,173598022.000
+Northern America,1955,1000 persons,176940529.000
+Northern America,1956,1000 persons,180302051.000
+Northern America,1957,1000 persons,183672449.000
+Northern America,1958,1000 persons,187335605.000
+Northern America,1959,1000 persons,190926574.000
+Northern America,1960,1000 persons,194177009.000
+Northern America,1961,1000 persons,197442208.000
+Northern America,1962,1000 persons,200623683.000
+Northern America,1963,1000 persons,203706744.000
+Northern America,1964,1000 persons,206691981.000
+Northern America,1965,1000 persons,209482853.000
+Northern America,1966,1000 persons,211979519.000
+Northern America,1967,1000 persons,214286308.000
+Northern America,1968,1000 persons,216573635.000
+Northern America,1969,1000 persons,218993969.000
+Northern America,1970,1000 persons,221865907.000
+Northern America,1971,1000 persons,224901244.000
+Northern America,1972,1000 persons,227566326.000
+Northern America,1973,1000 persons,229923510.00
+Northern America,1974,1000 persons,232198018.000
+Northern America,1975,1000 persons,234519143.000
+Northern America,1976,1000 persons,236821064.000
+Northern America,1977,1000 persons,239261912.000
+Northern America,1978,1000 persons,241953381.000
+Northern America,1979,1000 persons,244791542.000
+Northern America,1980,1000 persons,247761305.000
+Northern America,1981,1000 persons,250580511.000
+Northern America,1982,1000 persons,253214700.0
+Northern America,1983,1000 persons,255863568.000
+Northern America,1984,1000 persons,258482370.00
+Northern America,1985,1000 persons,261105162.000
+Northern America,1986,1000 persons,263744844.000
+Northern America,1987,1000 persons,266406972.000
+Northern America,1988,1000 persons,269220718.000
+Northern America,1989,1000 persons,272317228.000
+Northern America,1990,1000 persons,275860329.000
+Northern America,1991,1000 persons,279695832.000
+Northern America,1992,1000 persons,283643365.000
+Northern America,1993,1000 persons,287568762.000
+Northern America,1994,1000 persons,291375997.000
+Northern America,1995,1000 persons,295071644.000
+Northern America,1996,1000 persons,298700406.000
+Northern America,1997,1000 persons,302400883.000
+Northern America,1998,1000 persons,306102899.000
+Northern America,1999,1000 persons,309704739.000
+Northern America,2000,1000 persons,313205696.000
+Northern America,2001,1000 persons,316597666.000
+Northern America,2002,1000 persons,319797595.000
+Northern America,2003,1000 persons,322854668.000
+Northern America,2004,1000 persons,325985319.000
+Northern America,2005,1000 persons,329184547.000
+Northern America,2006,1000 persons,332410934.000
+Northern America,2007,1000 persons,335731786.000
+Northern America,2008,1000 persons,339039346.000
+Northern America,2009,1000 persons,342231801.000
+Northern America,2010,1000 persons,345272107.000
+Northern America,2011,1000 persons,348326005.000
+Northern America,2012,1000 persons,351468985.000
+Northern America,2013,1000 persons,354564457.000
+Northern America,2014,1000 persons,357563869.000
+Northern America,2015,1000 persons,360464919.000
+Northern America,2016,1000 persons,363448679.000
+Northern America,2017,1000 persons,366470739.000
+Northern America,2018,1000 persons,369300737.000
+Northern America,2019,1000 persons,371967923.000
+Northern America,2020,1000 persons,373956671.000
+Northern America,2021,1000 persons,375278947.000
+Central America,1950,1000 persons,37649467.000
+Central America,1951,1000 persons,38651639.000
+Central America,1952,1000 persons,39670857.000
+Central America,1953,1000 persons,40727093.000
+Central America,1954,1000 persons,41827927.000
+Central America,1955,1000 persons,42981063.000
+Central America,1956,1000 persons,44184818.000
+Central America,1957,1000 persons,45441276.000
+Central America,1958,1000 persons,46735807.000
+Central America,1959,1000 persons,48103231.000
+Central America,1960,1000 persons,49578729.000
+Central America,1961,1000 persons,51153865.000
+Central America,1962,1000 persons,52811245.000
+Central America,1963,1000 persons,54531358.000
+Central America,1964,1000 persons,56316873.000
+Central America,1965,1000 persons,58167650.00
+Central America,1966,1000 persons,60067084.000
+Central America,1967,1000 persons,62009232.000
+Central America,1968,1000 persons,63996191.000
+Central America,1969,1000 persons,66019740.00
+Central America,1970,1000 persons,68081914.000
+Central America,1971,1000 persons,70184614.000
+Central America,1972,1000 persons,72328600.0
+Central America,1973,1000 persons,74523107.000
+Central America,1974,1000 persons,76761378.000
+Central America,1975,1000 persons,79036986.000
+Central America,1976,1000 persons,81324479.000
+Central America,1977,1000 persons,83671118.000
+Central America,1978,1000 persons,86090657.000
+Central America,1979,1000 persons,88500612.000
+Central America,1980,1000 persons,90799667.000
+Central America,1981,1000 persons,92875029.000
+Central America,1982,1000 persons,94850466.000
+Central America,1983,1000 persons,96881516.000
+Central America,1984,1000 persons,98930762.000
+Central America,1985,1000 persons,100963639.000
+Central America,1986,1000 persons,102972923.000
+Central America,1987,1000 persons,104970065.000
+Central America,1988,1000 persons,106998070.00
+Central America,1989,1000 persons,109043466.000
+Central America,1990,1000 persons,111244251.000
+Central America,1991,1000 persons,113594318.000
+Central America,1992,1000 persons,115960566.000
+Central America,1993,1000 persons,118341880.00
+Central America,1994,1000 persons,120729530.00
+Central America,1995,1000 persons,123108097.000
+Central America,1996,1000 persons,125442609.000
+Central America,1997,1000 persons,127755717.000
+Central America,1998,1000 persons,130050993.000
+Central America,1999,1000 persons,132326692.000
+Central America,2000,1000 persons,134569095.000
+Central America,2001,1000 persons,136784548.000
+Central America,2002,1000 persons,138996726.000
+Central America,2003,1000 persons,141185853.000
+Central America,2004,1000 persons,143371773.000
+Central America,2005,1000 persons,145534454.000
+Central America,2006,1000 persons,147644117.000
+Central America,2007,1000 persons,149744431.000
+Central America,2008,1000 persons,151824428.000
+Central America,2009,1000 persons,153884609.000
+Central America,2010,1000 persons,156064198.000
+Central America,2011,1000 persons,158384478.000
+Central America,2012,1000 persons,160696992.000
+Central America,2013,1000 persons,162936805.000
+Central America,2014,1000 persons,165101091.000
+Central America,2015,1000 persons,167187385.000
+Central America,2016,1000 persons,169249622.000
+Central America,2017,1000 persons,171256607.000
+Central America,2018,1000 persons,173093517.000
+Central America,2019,1000 persons,174800778.000
+Central America,2020,1000 persons,176343831.000
+Central America,2021,1000 persons,177661928.000
+Caribbean,1950,1000 persons,17165699.000
+Caribbean,1951,1000 persons,17519889.000
+Caribbean,1952,1000 persons,17875003.000
+Caribbean,1953,1000 persons,18233532.000
+Caribbean,1954,1000 persons,18598393.000
+Caribbean,1955,1000 persons,18969435.000
+Caribbean,1956,1000 persons,19346366.000
+Caribbean,1957,1000 persons,19730146.000
+Caribbean,1958,1000 persons,20123136.000
+Caribbean,1959,1000 persons,20526519.000
+Caribbean,1960,1000 persons,20951221.000
+Caribbean,1961,1000 persons,21395868.000
+Caribbean,1962,1000 persons,21846211.000
+Caribbean,1963,1000 persons,22299696.000
+Caribbean,1964,1000 persons,22758542.000
+Caribbean,1965,1000 persons,23219053.000
+Caribbean,1966,1000 persons,23677694.000
+Caribbean,1967,1000 persons,24135339.000
+Caribbean,1968,1000 persons,24588666.000
+Caribbean,1969,1000 persons,25038891.000
+Caribbean,1970,1000 persons,25496467.000
+Caribbean,1971,1000 persons,25963146.000
+Caribbean,1972,1000 persons,26424548.000
+Caribbean,1973,1000 persons,26874019.000
+Caribbean,1974,1000 persons,27313315.000
+Caribbean,1975,1000 persons,27743641.000
+Caribbean,1976,1000 persons,28163843.000
+Caribbean,1977,1000 persons,28572978.000
+Caribbean,1978,1000 persons,28971550.00
+Caribbean,1979,1000 persons,29361789.000
+Caribbean,1980,1000 persons,29743933.000
+Caribbean,1981,1000 persons,30132969.000
+Caribbean,1982,1000 persons,30550121.000
+Caribbean,1983,1000 persons,30989298.000
+Caribbean,1984,1000 persons,31434015.000
+Caribbean,1985,1000 persons,31879912.000
+Caribbean,1986,1000 persons,32326752.000
+Caribbean,1987,1000 persons,32776199.000
+Caribbean,1988,1000 persons,33233963.000
+Caribbean,1989,1000 persons,33700752.000
+Caribbean,1990,1000 persons,34174449.000
+Caribbean,1991,1000 persons,34643789.000
+Caribbean,1992,1000 persons,35098854.000
+Caribbean,1993,1000 persons,35539225.000
+Caribbean,1994,1000 persons,35963858.000
+Caribbean,1995,1000 persons,36377375.000
+Caribbean,1996,1000 persons,36782097.000
+Caribbean,1997,1000 persons,37177788.000
+Caribbean,1998,1000 persons,37565412.000
+Caribbean,1999,1000 persons,37944703.000
+Caribbean,2000,1000 persons,38308753.000
+Caribbean,2001,1000 persons,38652996.000
+Caribbean,2002,1000 persons,38985758.000
+Caribbean,2003,1000 persons,39310836.000
+Caribbean,2004,1000 persons,39623560.00
+Caribbean,2005,1000 persons,39927095.000
+Caribbean,2006,1000 persons,40232292.000
+Caribbean,2007,1000 persons,40536220.00
+Caribbean,2008,1000 persons,40836846.000
+Caribbean,2009,1000 persons,41142494.000
+Caribbean,2010,1000 persons,41404570.00
+Caribbean,2011,1000 persons,41660234.000
+Caribbean,2012,1000 persons,41954980.00
+Caribbean,2013,1000 persons,42238680.00
+Caribbean,2014,1000 persons,42504130.00
+Caribbean,2015,1000 persons,42754710.00
+Caribbean,2016,1000 persons,42989647.000
+Caribbean,2017,1000 persons,43209006.000
+Caribbean,2018,1000 persons,43469544.000
+Caribbean,2019,1000 persons,43727822.000
+Caribbean,2020,1000 persons,43962245.000
+Caribbean,2021,1000 persons,44182048.000
+South America,1950,1000 persons,113520678.000
+South America,1951,1000 persons,116611618.000
+South America,1952,1000 persons,119808263.000
+South America,1953,1000 persons,123095656.000
+South America,1954,1000 persons,126483839.000
+South America,1955,1000 persons,129985920.00
+South America,1956,1000 persons,133605446.000
+South America,1957,1000 persons,137348264.000
+South America,1958,1000 persons,141190490.00
+South America,1959,1000 persons,145148586.000
+South America,1960,1000 persons,149224210.00
+South America,1961,1000 persons,153377765.000
+South America,1962,1000 persons,157608915.000
+South America,1963,1000 persons,161919399.000
+South America,1964,1000 persons,166291419.000
+South America,1965,1000 persons,170706849.000
+South America,1966,1000 persons,175135392.000
+South America,1967,1000 persons,179568924.000
+South America,1968,1000 persons,184010946.000
+South America,1969,1000 persons,188469297.000
+South America,1970,1000 persons,192947156.000
+South America,1971,1000 persons,197461619.000
+South America,1972,1000 persons,202046138.000
+South America,1973,1000 persons,206713094.000
+South America,1974,1000 persons,211454529.000
+South America,1975,1000 persons,216251746.000
+South America,1976,1000 persons,221111720.00
+South America,1977,1000 persons,226098249.000
+South America,1978,1000 persons,231226758.000
+South America,1979,1000 persons,236454113.000
+South America,1980,1000 persons,241789006.000
+South America,1981,1000 persons,247206134.000
+South America,1982,1000 persons,252673356.000
+South America,1983,1000 persons,258200232.000
+South America,1984,1000 persons,263760543.000
+South America,1985,1000 persons,269320524.000
+South America,1986,1000 persons,274880125.000
+South America,1987,1000 persons,280447540.00
+South America,1988,1000 persons,286026496.000
+South America,1989,1000 persons,291601345.000
+South America,1990,1000 persons,297146415.000
+South America,1991,1000 persons,302601502.000
+South America,1992,1000 persons,307967446.000
+South America,1993,1000 persons,313302095.000
+South America,1994,1000 persons,318637008.000
+South America,1995,1000 persons,323946144.000
+South America,1996,1000 persons,329199280.00
+South America,1997,1000 persons,334414027.000
+South America,1998,1000 persons,339582998.000
+South America,1999,1000 persons,344665653.000
+South America,2000,1000 persons,349634282.000
+South America,2001,1000 persons,354475149.000
+South America,2002,1000 persons,359177000
+South America,2003,1000 persons,363705347.000
+South America,2004,1000 persons,368126785.000
+South America,2005,1000 persons,372502473.000
+South America,2006,1000 persons,376788333.000
+South America,2007,1000 persons,380965937.000
+South America,2008,1000 persons,385031352.000
+South America,2009,1000 persons,389045246.000
+South America,2010,1000 persons,393078250.00
+South America,2011,1000 persons,397135127.000
+South America,2012,1000 persons,401166824.000
+South America,2013,1000 persons,405147888.000
+South America,2014,1000 persons,409128833.000
+South America,2015,1000 persons,413134396.000
+South America,2016,1000 persons,417101738.000
+South America,2017,1000 persons,420982586.000
+South America,2018,1000 persons,424740675.000
+South America,2019,1000 persons,428318159.000
+South America,2020,1000 persons,431530043.000
+South America,2021,1000 persons,434254120.00
+Asia,1950,1000 persons,1353592419.000
+Asia,1951,1000 persons,1379532986.000
+Asia,1952,1000 persons,1408214437.000
+Asia,1953,1000 persons,1438892303.000
+Asia,1954,1000 persons,1470508395.000
+Asia,1955,1000 persons,1503895827.000
+Asia,1956,1000 persons,1537640452.000
+Asia,1957,1000 persons,1572903881.000
+Asia,1958,1000 persons,1608799284.000
+Asia,1959,1000 persons,1640084414.000
+Asia,1960,1000 persons,1665795881.000
+Asia,1961,1000 persons,1691043801.000
+Asia,1962,1000 persons,1725210613.000
+Asia,1963,1000 persons,1770123747.000
+Asia,1964,1000 persons,1817102720.00
+Asia,1965,1000 persons,1862643154.000
+Asia,1966,1000 persons,1907919054.000
+Asia,1967,1000 persons,1952947036.000
+Asia,1968,1000 persons,2000327458.000
+Asia,1969,1000 persons,2050105005.000
+Asia,1970,1000 persons,2100299473.000
+Asia,1971,1000 persons,2149856774.000
+Asia,1972,1000 persons,2199064117.000
+Asia,1973,1000 persons,2249111388.000
+Asia,1974,1000 persons,2298469585.000
+Asia,1975,1000 persons,2345879669.000
+Asia,1976,1000 persons,2392154429.000
+Asia,1977,1000 persons,2438287757.000
+Asia,1978,1000 persons,2484124521.000
+Asia,1979,1000 persons,2531218640.00
+Asia,1980,1000 persons,2580629613.000
+Asia,1981,1000 persons,2632066497.000
+Asia,1982,1000 persons,2685804855.000
+Asia,1983,1000 persons,2739977227.000
+Asia,1984,1000 persons,2794109101.000
+Asia,1985,1000 persons,2849608153.000
+Asia,1986,1000 persons,2906774891.000
+Asia,1987,1000 persons,2965751024.000
+Asia,1988,1000 persons,3024984317.000
+Asia,1989,1000 persons,3084208347.000
+Asia,1990,1000 persons,3143997531.000
+Asia,1991,1000 persons,3201472658.000
+Asia,1992,1000 persons,3325187721.000
+Asia,1993,1000 persons,3379061304.000
+Asia,1994,1000 persons,3432015230.00
+Asia,1995,1000 persons,3484178997.000
+Asia,1996,1000 persons,3535423903.000
+Asia,1997,1000 persons,3586095561.000
+Asia,1998,1000 persons,3636357351.000
+Asia,1999,1000 persons,3686164147.000
+Asia,2000,1000 persons,3736037841.000
+Asia,2001,1000 persons,3786179783.000
+Asia,2002,1000 persons,3835669462.000
+Asia,2003,1000 persons,3884310945.000
+Asia,2004,1000 persons,3932421014.000
+Asia,2005,1000 persons,3980365940.00
+Asia,2006,1000 persons,4028347032.000
+Asia,2007,1000 persons,4076071753.000
+Asia,2008,1000 persons,4123883051.000
+Asia,2009,1000 persons,4172450404.000
+Asia,2010,1000 persons,4221171013.000
+Asia,2011,1000 persons,4269623981.000
+Asia,2012,1000 persons,4318321902.000
+Asia,2013,1000 persons,4366453710.00
+Asia,2014,1000 persons,4413673350.00
+Asia,2015,1000 persons,4459437462.000
+Asia,2016,1000 persons,4504153487.000
+Asia,2017,1000 persons,4548303450.00
+Asia,2018,1000 persons,4590021498.000
+Asia,2019,1000 persons,4628967397.000
+Asia,2020,1000 persons,4664324072.000
+Asia,2021,1000 persons,4694576163.000
+Europe,1950,1000 persons,575177675.000
+Europe,1951,1000 persons,580670485.000
+Europe,1952,1000 persons,586398235.000
+Europe,1953,1000 persons,592550644.000
+Europe,1954,1000 persons,598899193.000
+Europe,1955,1000 persons,605311962.000
+Europe,1956,1000 persons,611812858.000
+Europe,1957,1000 persons,618435080.00
+Europe,1958,1000 persons,625332487.000
+Europe,1959,1000 persons,632348344.000
+Europe,1960,1000 persons,639359162.000
+Europe,1961,1000 persons,646566089.000
+Europe,1962,1000 persons,653695328.000
+Europe,1963,1000 persons,660543606.000
+Europe,1964,1000 persons,667336767.000
+Europe,1965,1000 persons,673836355.000
+Europe,1966,1000 persons,680004583.000
+Europe,1967,1000 persons,686021462.000
+Europe,1968,1000 persons,691676297.000
+Europe,1969,1000 persons,696937961.000
+Europe,1970,1000 persons,701769046.000
+Europe,1971,1000 persons,706687198.000
+Europe,1972,1000 persons,711960106.000
+Europe,1973,1000 persons,717041992.000
+Europe,1974,1000 persons,722038475.000
+Europe,1975,1000 persons,726911999.000
+Europe,1976,1000 persons,731537029.000
+Europe,1977,1000 persons,736089562.000
+Europe,1978,1000 persons,740472532.000
+Europe,1979,1000 persons,744657252.000
+Europe,1980,1000 persons,748821169.000
+Europe,1981,1000 persons,752842698.000
+Europe,1982,1000 persons,756705102.000
+Europe,1983,1000 persons,760626314.000
+Europe,1984,1000 persons,764579112.000
+Europe,1985,1000 persons,768496042.000
+Europe,1986,1000 persons,772648195.000
+Europe,1987,1000 persons,777093681.000
+Europe,1988,1000 persons,781450938.000
+Europe,1989,1000 persons,785379760.00
+Europe,1990,1000 persons,788851829.000
+Europe,1991,1000 persons,791983181.000
+Europe,1992,1000 persons,725259491.000
+Europe,1993,1000 persons,726441897.000
+Europe,1994,1000 persons,727063159.000
+Europe,1995,1000 persons,727300410.00
+Europe,1996,1000 persons,727453565.000
+Europe,1997,1000 persons,727566482.000
+Europe,1998,1000 persons,727445607.000
+Europe,1999,1000 persons,727100016.000
+Europe,2000,1000 persons,726968472.000
+Europe,2001,1000 persons,726878371.000
+Europe,2002,1000 persons,726939359.000
+Europe,2003,1000 persons,727424985.000
+Europe,2004,1000 persons,728163243.000
+Europe,2005,1000 persons,728950486.000
+Europe,2006,1000 persons,729857709.000
+Europe,2007,1000 persons,731393138.000
+Europe,2008,1000 persons,733256179.000
+Europe,2009,1000 persons,734902803.000
+Europe,2010,1000 persons,736276813.000
+Europe,2011,1000 persons,737589669.000
+Europe,2012,1000 persons,738907598.000
+Europe,2013,1000 persons,740013807.000
+Europe,2014,1000 persons,741014145.000
+Europe,2015,1000 persons,742107450.00
+Europe,2016,1000 persons,743318586.000
+Europe,2017,1000 persons,744449362.000
+Europe,2018,1000 persons,745359133.000
+Europe,2019,1000 persons,746189647.000
+Europe,2020,1000 persons,746225359.000
+Europe,2021,1000 persons,745173770.00
+Oceania,1950,1000 persons,12577614.000
+Oceania,1951,1000 persons,12909938.000
+Oceania,1952,1000 persons,13223870.00
+Oceania,1953,1000 persons,13521603.000
+Oceania,1954,1000 persons,13818797.000
+Oceania,1955,1000 persons,14139684.000
+Oceania,1956,1000 persons,14479259.000
+Oceania,1957,1000 persons,14820530.00
+Oceania,1958,1000 persons,15161740.00
+Oceania,1959,1000 persons,15506332.000
+Oceania,1960,1000 persons,15859369.000
+Oceania,1961,1000 persons,16213467.000
+Oceania,1962,1000 persons,16556691.000
+Oceania,1963,1000 persons,16899479.000
+Oceania,1964,1000 persons,17248331.000
+Oceania,1965,1000 persons,17609083.000
+Oceania,1966,1000 persons,17975668.000
+Oceania,1967,1000 persons,18320278.000
+Oceania,1968,1000 persons,18657607.000
+Oceania,1969,1000 persons,19020170.00
+Oceania,1970,1000 persons,19480270.00
+Oceania,1971,1000 persons,20022646.000
+Oceania,1972,1000 persons,20480651.000
+Oceania,1973,1000 persons,20852374.000
+Oceania,1974,1000 persons,21212949.000
+Oceania,1975,1000 persons,21537412.000
+Oceania,1976,1000 persons,21820381.000
+Oceania,1977,1000 persons,22089514.000
+Oceania,1978,1000 persons,22355638.000
+Oceania,1979,1000 persons,22623044.000
+Oceania,1980,1000 persons,22920240.00
+Oceania,1981,1000 persons,23268481.000
+Oceania,1982,1000 persons,23646051.000
+Oceania,1983,1000 persons,24011054.000
+Oceania,1984,1000 persons,24357389.000
+Oceania,1985,1000 persons,24704546.000
+Oceania,1986,1000 persons,25069187.000
+Oceania,1987,1000 persons,25459312.000
+Oceania,1988,1000 persons,25868246.000
+Oceania,1989,1000 persons,26285786.000
+Oceania,1990,1000 persons,26743822.000
+Oceania,1991,1000 persons,27214098.000
+Oceania,1992,1000 persons,27637106.000
+Oceania,1993,1000 persons,28038401.000
+Oceania,1994,1000 persons,28454918.000
+Oceania,1995,1000 persons,28905123.000
+Oceania,1996,1000 persons,29378687.000
+Oceania,1997,1000 persons,29846362.000
+Oceania,1998,1000 persons,30299186.000
+Oceania,1999,1000 persons,30753172.000
+Oceania,2000,1000 persons,31222778.000
+Oceania,2001,1000 persons,31714603.000
+Oceania,2002,1000 persons,32230004.000
+Oceania,2003,1000 persons,32756470.00
+Oceania,2004,1000 persons,33278445.000
+Oceania,2005,1000 persons,33813026.000
+Oceania,2006,1000 persons,34395530.00
+Oceania,2007,1000 persons,35043843.000
+Oceania,2008,1000 persons,35744785.000
+Oceania,2009,1000 persons,36448274.000
+Oceania,2010,1000 persons,37102764.000
+Oceania,2011,1000 persons,37730133.000
+Oceania,2012,1000 persons,38383409.000
+Oceania,2013,1000 persons,39057445.000
+Oceania,2014,1000 persons,39728972.000
+Oceania,2015,1000 persons,40403283.000
+Oceania,2016,1000 persons,41100875.000
+Oceania,2017,1000 persons,41816928.000
+Oceania,2018,1000 persons,42539678.000
+Oceania,2019,1000 persons,43278151.000
+Oceania,2020,1000 persons,43933426.000
+Oceania,2021,1000 persons,44491724.000
