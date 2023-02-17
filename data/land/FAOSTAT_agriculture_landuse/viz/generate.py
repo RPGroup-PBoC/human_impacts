@@ -50,7 +50,7 @@ data['fractional_crop_land'] *= 100
 
 chart = alt.Chart(data).encode(
     x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
-    y=alt.Y(field='fraction_pct', type='quantitative',
+    y=alt.Y(field='fractional_crop_land', type='quantitative',
             title='crop area [% of total agricultural land]',
             scale=alt.Scale(domain=[0, 50])),
     tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
