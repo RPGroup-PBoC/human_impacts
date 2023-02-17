@@ -45,8 +45,8 @@ layer.save('./crop_area.json')
 # Generate a plot of the fraction of agricultural land that is used for pasture
 data = pd.read_csv('../processed/FAOSTAT_relative_crop_area.csv')
 data['year'] = pd.to_datetime(data['year'], format='%Y')
-data.columns = ['year', 'fractional_crop_area']
-data['fractional_crop_area'] *= 100
+data.columns = ['year', 'fractional_crop_land']
+data['fractional_crop_land'] *= 100
 
 chart = alt.Chart(data).encode(
     x=alt.X(field='year', type='temporal', timeUnit='year', title='year'),
