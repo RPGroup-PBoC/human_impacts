@@ -55,8 +55,7 @@ chart = alt.Chart(data).encode(
             scale=alt.Scale(domain=[0, 50])),
     tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
              alt.Tooltip(field='fractional_crop_land', type='quantitative',
-                         format='0.0f', title='fraction [%]'),
-             alt.Tooltip(field='area_ha', type='nominal', title='area')]
+                         format='0.0f', title='fraction [%]')]
 ).properties(width='container', height=300)
 l = chart.mark_line(color='dodgerblue')
 p = chart.mark_point(color='dodgerblue', filled=True)
