@@ -54,7 +54,7 @@ chart = alt.Chart(data).encode(
             title='crop area [% of total agricultural land]',
             scale=alt.Scale(domain=[0, 50])),
     tooltip=[alt.Tooltip(field='year', type='temporal', format='%Y', title='year'),
-             alt.Tooltip(field='fraction_pct', type='quantitative',
+             alt.Tooltip(field='fractional_crop_land', type='quantitative',
                          format='0.0f', title='fraction [%]'),
              alt.Tooltip(field='area_ha', type='nominal', title='area')]
 ).properties(width='container', height=300)
